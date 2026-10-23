@@ -5,6 +5,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Nagpur Priority](https://img.shields.io/badge/Region-Nagpur%20%26%20Vidarbha-orange.svg)]()
 [![Solo Friendly](https://img.shields.io/badge/Eligibility-Solo%20(1%20Member)-brightgreen.svg)]()
+[![Live Web App](https://img.shields.io/badge/Web%20App-Live%20Online-brightgreen.svg?logo=googlechrome&logoColor=white)](https://pranavdeshmukhhh.github.io/HackRadar-AI/)
 
 An autonomous intelligence monitor and opportunity radar designed specifically for **developers, students, and hackathon competitors in Nagpur & Vidarbha**. 
 
@@ -12,9 +13,9 @@ It continuously scans **Unstop (Dare2Compete)**, **Devfolio**, **Devpost**, **Ha
 
 ---
 
-## 📌 Live Dashboard
-The monitor maintains a continuously updated live dashboard of all qualified opportunities:
-👉 **[View Active Hackathons Dashboard (HACKATHONS.md)](HACKATHONS.md)**
+## 🌐 Live Web App & Dashboard
+- 🚀 **Interactive Web Application:** 👉 **[https://pranavdeshmukhhh.github.io/HackRadar-AI/](https://pranavdeshmukhhh.github.io/HackRadar-AI/)** *(Instant search, Nagpur & Solo filters, countdown timers, and direct apply buttons)*
+- 📄 **Markdown Leaderboard:** 👉 **[View HACKATHONS.md](HACKATHONS.md)**
 
 ---
 

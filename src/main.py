@@ -147,6 +147,14 @@ def run_monitor_cycle(args, config: Dict[str, Any], seen_data: Dict[str, Any], s
         logger.info("Updating live repository dashboard HACKATHONS.md...")
         notif_mgr.update_dashboard(qualified_events)
 
+        logger.info("Generating interactive web app in docs/ for GitHub Pages...")
+        try:
+            from .web_generator import generate_web_dashboard
+            web_path = generate_web_dashboard(qualified_events, output_dir="docs")
+            logger.info(f"Interactive web dashboard generated at {web_path}")
+        except Exception as e:
+            logger.error(f"Error generating web dashboard: {e}", exc_info=True)
+
     logger.info("Hackathon monitoring cycle completed successfully.")
     return len(new_events)
 
@@ -176,6 +184,11 @@ def main() -> int:
         "--solo-only",
         action="store_true",
         help="Filter strictly for hackathons permitting solo participants (1 member)",
+    )
+    parser.add_argument(
+        "--once",
+        action="store_true",
+        help="Run exactly one cycle and exit immediately (default in CI/GitHub Actions)",
     )
     parser.add_argument(
         "--update-dashboard",
@@ -214,7 +227,8 @@ def main() -> int:
     seen_file = config.get("storage", {}).get("seen_file", "data/seen_hackathons.json")
     seen_data = load_seen_state(seen_file)
 
-    is_daemon = args.loop or config.get("scheduler", {}).get("enabled", False)
+    is_ci = bool(os.getenv("CI") or os.getenv("GITHUB_ACTIONS"))
+    is_daemon = (args.loop or config.get("scheduler", {}).get("enabled", False)) and not (args.once or is_ci)
     interval_minutes = args.interval or config.get("scheduler", {}).get("interval_minutes", 60)
 
     if not is_daemon:

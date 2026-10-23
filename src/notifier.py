@@ -179,8 +179,11 @@ class EmailNotifier:
     """Dispatches HTML email notifications via SMTP."""
 
     def __init__(self):
-        self.host = os.getenv("SMTP_HOST")
-        self.port = int(os.getenv("SMTP_PORT", 587))
+        port_raw = os.getenv("SMTP_PORT") or "587"
+        try:
+            self.port = int(str(port_raw).strip())
+        except (ValueError, TypeError):
+            self.port = 587
         self.user = os.getenv("SMTP_USER")
         self.password = os.getenv("SMTP_PASSWORD")
         self.receiver = os.getenv("ALERT_RECEIVER_EMAIL")

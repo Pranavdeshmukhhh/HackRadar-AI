@@ -58,7 +58,7 @@ jobs:
           SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
           ALERT_RECEIVER_EMAIL: ${{ secrets.ALERT_RECEIVER_EMAIL }}
         run: |
-          CMD="python -m src.main --update-dashboard"
+          CMD="python -m src.main --update-dashboard --once"
           if [ "${{ github.event.inputs.dry_run }}" = "true" ]; then
             CMD="$CMD --dry-run"
           fi
@@ -71,14 +71,14 @@ jobs:
           echo "Executing: $CMD"
           $CMD
 
-      - name: 💾 Commit & Push Live Dashboard & State
+      - name: 💾 Commit & Push Live Dashboard, State & Web App
         run: |
           git config --local user.name "github-actions[bot]"
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/seen_hackathons.json HACKATHONS.md
+          git add data/seen_hackathons.json HACKATHONS.md docs/
           if git diff --staged --quiet; then
-            echo "No dashboard or seen cache changes to commit."
+            echo "No dashboard, web app, or seen cache changes to commit."
           else
-            git commit -m "chore(monitor): auto-update hackathon dashboard and state [skip ci]"
+            git commit -m "chore(monitor): auto-update hackathon dashboard and web app [skip ci]"
             git push
           fi

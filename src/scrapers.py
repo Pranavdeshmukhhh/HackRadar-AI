@@ -7,6 +7,7 @@ High-throughput discovery with Crawl4AI browser crawling and native fallback.
 from __future__ import annotations
 
 import re
+import sys
 import socket
 import logging
 import time
@@ -18,15 +19,22 @@ from typing import List, Dict, Any, Optional
 from urllib.parse import urlsplit
 
 import requests
-import requests.packages.urllib3.util.connection as urllib3_cn
+try:
+    import urllib3.util.connection as urllib3_cn
+except ImportError:
+    import requests.packages.urllib3.util.connection as urllib3_cn
 
 from .models import HackathonEvent
 
 # Configure logging
 logger = logging.getLogger(__name__)
 
-# Force IPv4 socket resolution to prevent Windows/CloudFront IPv6 connection resets
-urllib3_cn.allowed_gai_family = lambda: socket.AF_INET
+# Force IPv4 socket resolution only on Windows to prevent dual-stack resets
+if sys.platform == "win32":
+    try:
+        urllib3_cn.allowed_gai_family = lambda: socket.AF_INET
+    except Exception:
+        pass
 
 DEFAULT_HEADERS = {
     "User-Agent": (

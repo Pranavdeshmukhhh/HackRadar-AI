@@ -7,9 +7,9 @@
 ### 📊 Quick Metrics
 | Total Qualified | 📍 Nagpur Local | 👤 Solo-Friendly | 🌐 Online/Virtual | ⭐ High Priority (60+ pts) |
 |:---:|:---:|:---:|:---:|:---:|
-| **208** | **4** | **193** | **153** | **137** |
+| **235** | **4** | **219** | **168** | **152** |
 
-*Last Updated:* **2026-10-23 11:33 AM IST** (`2026-10-23 06:03 UTC`)
+*Last Updated:* **2026-10-23 11:51 AM IST** (`2026-10-23 06:21 UTC`)
 
 ---
 
@@ -105,6 +105,7 @@
 | **`95`** | [Code Vista 4.0](https://unstop.com/hackathons/code-vista-40-gh-raisoni-college-of-engineering-and-management-pune-880662) | 📍 **Nagpur** | ✅ Solo | `2024-02-22T15:00:00+05:30` | Online Quiz, Hackathon | Unstop | [Register](https://unstop.com/hackathons/code-vista-40-gh-raisoni-college-of-engineering-and-management-pune-880662) |
 | **`70`** | [CodeBizz - Hackathon](https://unstop.com/hackathons/codebizz-hackathon-vnit-nagpur-874645) | 📍 **Nagpur** | 👥 Team | `2024-03-25T23:59:00+05:30` | Strategy, Case Study | Unstop | [Register](https://unstop.com/hackathons/codebizz-hackathon-vnit-nagpur-874645) |
 | **`85`** | [HackCelestial 3.0](https://unstop.com/hackathons/hackcelestial-30-pillai-university-navi-mumbai-1737808) | 🏢 offline | ✅ Solo | `2026-09-27T23:59:00+05:30` | Engineering Students, Und... | Unstop | [Register](https://unstop.com/hackathons/hackcelestial-30-pillai-university-navi-mumbai-1737808) |
+| **`75`** | [Webster 2020](https://webster2k20.devfolio.co) | 🌐 Online | ✅ Solo | `2020-10-09T18:30:00Z` | AI / Software | Devfolio | [Register](https://webster2k20.devfolio.co) |
 | **`75`** | [Ideathon](https://unstop.com/hackathons/ideathon-yhills-253975) | 🌐 Online | ✅ Solo | `2022-02-04T00:00:00+05:30` | Hackathon, Business | Unstop | [Register](https://unstop.com/hackathons/ideathon-yhills-253975) |
 | **`75`** | [CSI Hackathon 6.0](https://unstop.com/hackathons/csi-hackathon-60-university-of-petroleum-energy-studies-upes-dehradun-257850) | 🌐 Online | ✅ Solo | `2022-02-09T00:00:00+05:30` | Hackathon, Presentation | Unstop | [Register](https://unstop.com/hackathons/csi-hackathon-60-university-of-petroleum-energy-studies-upes-dehradun-257850) |
 | **`75`** | [Code with Globalshala 3.0](https://unstop.com/hackathons/code-with-globalshala-30-globalshala-266368) | 🌐 Online | ✅ Solo | `2022-03-12T00:00:00+05:30` | Marketing, Robotics | Unstop | [Register](https://unstop.com/hackathons/code-with-globalshala-30-globalshala-266368) |
@@ -140,14 +141,17 @@
 | **`75`** | [HackFiesta](https://unstop.com/hackathons/hackfiesta-codevita-live-628861) | 🌐 Online | ✅ Solo | `2023-04-02T00:00:00+05:30` | Hackathon, Coding Challenge | Unstop | [Register](https://unstop.com/hackathons/hackfiesta-codevita-live-628861) |
 | **`75`** | [Blackstone Shipping Hackathon](https://unstop.com/hackathons/blackstone-shipping-hackathon-blackstone-shipping-private-limited-645198) | 🌐 Online | ✅ Solo | `2023-04-14T00:00:00+05:30` | Designing, Entrepreneurship | Unstop | [Register](https://unstop.com/hackathons/blackstone-shipping-hackathon-blackstone-shipping-private-limited-645198) |
 | **`75`** | [EthereumZuri.ch](https://ethereumzurich.devfolio.co) | 🌐 Online | ✅ Solo | `2023-04-14T10:00:00+00:00` | AI / Software | Devfolio | [Register](https://ethereumzurich.devfolio.co) |
+| **`75`** | [DATATHON 1.O](https://datathon.devfolio.co) | 🌐 Online | ✅ Solo | `2023-05-09T18:30:00+00:00` | AI / Software | Devfolio | [Register](https://datathon.devfolio.co) |
 | **`75`** | [Code.AIthon](https://unstop.com/hackathons/codeaithon-codevita-live-674977) | 🌐 Online | ✅ Solo | `2023-06-01T21:29:35+05:30` | Hackathon, Coding Challenge | Unstop | [Register](https://unstop.com/hackathons/codeaithon-codevita-live-674977) |
 | **`75`** | [AFourathon 3.0 Hackathon](https://unstop.com/hackathons/30-hackathon-afour-technologies-private-limited-682170) | 🌐 Online | ✅ Solo | `2023-06-19T10:00:54+05:30` | College Festival, Hackathon | Unstop | [Register](https://unstop.com/hackathons/30-hackathon-afour-technologies-private-limited-682170) |
 | **`75`** | [Out Of Context: Website Development Hackathon](https://unstop.com/hackathons/out-of-context-website-development-hackathon-codevita-live-699525) | 🌐 Online | ✅ Solo | `2023-08-10T11:04:17+05:30` | Coding Challenge, All | Unstop | [Register](https://unstop.com/hackathons/out-of-context-website-development-hackathon-codevita-live-699525) |
 | **`75`** | [Codex Nexus- The Innovation Marathon](https://unstop.com/hackathons/codex-nexus-the-innovation-marathon-codevita-live-742316) | 🌐 Online | ✅ Solo | `2023-09-21T21:33:39+05:30` | Coding Challenge, All | Unstop | [Register](https://unstop.com/hackathons/codex-nexus-the-innovation-marathon-codevita-live-742316) |
 | **`75`** | [Quant Quest by AlgoBulls](https://unstop.com/hackathons/quant-quest-by-algobulls-iit-kanpur-800786) | 🌐 Online | ✅ Solo | `2023-11-09T23:59:00+05:30` | Finance, Case Study | Unstop | [Register](https://unstop.com/hackathons/quant-quest-by-algobulls-iit-kanpur-800786) |
+| **`75`** | [TechTreck-24](https://techtreck24.devfolio.co) | 🌐 Online | ✅ Solo | `2024-01-23T03:30:00+00:00` | AI / Software | Devfolio | [Register](https://techtreck24.devfolio.co) |
 | **`75`** | [AI/ML Hackathon on Road safety, NSS IIT Roorkee](https://unstop.com/hackathons/aiml-hackathon-on-road-safety-iit-roorkee-866933) | 🌐 Online | ✅ Solo | `2024-01-25T23:59:00+05:30` | Hackathon, Presentation | Unstop | [Register](https://unstop.com/hackathons/aiml-hackathon-on-road-safety-iit-roorkee-866933) |
 | **`75`** | [TriNIT Hackathon 3.0](https://unstop.com/hackathons/trinit-hackathon-30-nit-trichy-912319) | 🌐 Online | ✅ Solo | `2024-03-07T23:59:00+05:30` | Hackathon, Coding Challenge | Unstop | [Register](https://unstop.com/hackathons/trinit-hackathon-30-nit-trichy-912319) |
 | **`75`** | [Hack the Future: DApp Edition By Blockseblock](https://unstop.com/hackathons/hack-the-future-e-summit-2024-indian-institute-of-information-technology-design-and-manufacturing-iiitdm-kanc-929577) | 🌐 Online | ✅ Solo | `2024-03-21T00:00:00+05:30` | College Festival, Present... | Unstop | [Register](https://unstop.com/hackathons/hack-the-future-e-summit-2024-indian-institute-of-information-technology-design-and-manufacturing-iiitdm-kanc-929577) |
+| **`75`** | [Story Protocol v1.0 Buildathon](https://story-buildathon.devfolio.co) | 🌐 Online | ✅ Solo | `2024-05-09T07:00:00+00:00` | AI / Software | Devfolio | [Register](https://story-buildathon.devfolio.co) |
 | **`75`** | [Flipkart GRiD 6.0 - Software Development Track](https://unstop.com/hackathons/crp-flipkart-grid-60-software-development-track-flipkart-grid-60-flipkart-1024247) | 🌐 Online | ✅ Solo | `2024-08-10T01:00:19+05:30` | Hackathon, Coding Challenge | Unstop | [Register](https://unstop.com/hackathons/crp-flipkart-grid-60-software-development-track-flipkart-grid-60-flipkart-1024247) |
 | **`75`** | [Innovate X Hackathon](https://unstop.com/hackathons/innovate-x-hackathon-shyam-lal-college-university-of-delhi-1204380) | 🌐 Online | ✅ Solo | `2024-11-19T00:59:00+05:30` | Entrepreneurship, Hackathon | Unstop | [Register](https://unstop.com/hackathons/innovate-x-hackathon-shyam-lal-college-university-of-delhi-1204380) |
 | **`75`** | [GenAI Hackathon - Product Case Study Challenge (in collaboration with Reachifyme)](https://unstop.com/hackathons/crp-genai-hackathon-product-case-study-challenge-in-collaboration-with-reachifyme-product-space-1264642) | 🌐 Online | ✅ Solo | `2024-12-09T17:00:50+05:30` | Case Study, Hackathon | Unstop | [Register](https://unstop.com/hackathons/crp-genai-hackathon-product-case-study-challenge-in-collaboration-with-reachifyme-product-space-1264642) |
@@ -157,30 +161,45 @@
 | **`75`** | [AIVORA 2K26 ](https://unstop.com/hackathons/aivora-2k26-innovation-hacks-1767030) | 🌐 Online | ✅ Solo | `2026-10-07T11:47:00+05:30` | All | Unstop | [Register](https://unstop.com/hackathons/aivora-2k26-innovation-hacks-1767030) |
 | **`75`** | [Code Quest](https://unstop.com/hackathons/code-quest-guru-nanak-dev-university-regional-campus-gurdaspur-punjab-1769089) | 🌐 Online | ✅ Solo | `2026-10-16T11:59:55+05:30` | Engineering Students, Pos... | Unstop | [Register](https://unstop.com/hackathons/code-quest-guru-nanak-dev-university-regional-campus-gurdaspur-punjab-1769089) |
 | **`75`** | [Hack & Among Us](https://unstop.com/hackathons/hack-among-us-dr-akhilesh-das-gupta-institute-of-technology-and-management-adgitm-new-delhi-1770230) | 🏢 hybrid | ✅ Solo | `2026-10-20T23:59:00+05:30` | Engineering Students, Pos... | Unstop | [Register](https://unstop.com/hackathons/hack-among-us-dr-akhilesh-das-gupta-institute-of-technology-and-management-adgitm-new-delhi-1770230) |
+| **`60`** | [Teckathon](https://teckathon.devfolio.co) | 🏢 Terna Engineeri | ✅ Solo | `2020-03-16T04:30:00Z` | AI / Software | Devfolio | [Register](https://teckathon.devfolio.co) |
+| **`60`** | [Tezos India Fellowship 2.0](https://tif2.devfolio.co) | 🏢 TBA | ✅ Solo | `2021-08-02T14:30:00+00:00` | AI / Software | Devfolio | [Register](https://tif2.devfolio.co) |
 | **`60`** | [Game Jam ](https://unstop.com/hackathons/game-jam-tryst-indian-institute-of-technology-iit-delhi-281262) | 🏢 offline | ✅ Solo | `2022-04-13T00:00:00+05:30` | College Festival, Designing | Unstop | [Register](https://unstop.com/hackathons/game-jam-tryst-indian-institute-of-technology-iit-delhi-281262) |
 | **`60`** | [Tech Hackathon](https://unstop.com/hackathons/tech-hackathon-indian-institute-of-technology-iit-delhi-469170) | 🏢 offline | ✅ Solo | `2022-10-31T00:00:00+05:30` | Entrepreneurship, Hackathon | Unstop | [Register](https://unstop.com/hackathons/tech-hackathon-indian-institute-of-technology-iit-delhi-469170) |
 | **`60`** | [Brainathon](https://unstop.com/hackathons/brainathon-vellore-institute-of-technology-vit-ap-andhra-pradesh-536227) | 🏢 offline | ✅ Solo | `2022-12-09T00:00:00+05:30` | Case Study, Designing | Unstop | [Register](https://unstop.com/hackathons/brainathon-vellore-institute-of-technology-vit-ap-andhra-pradesh-536227) |
 | **`60`** | [12th IACC HACKATHON -2K23](https://unstop.com/hackathons/12th-iacc-hackathon-2k23-cmr-college-of-engineering-and-technology-cmrcet-hyderabad-583694) | 🏢 offline | ✅ Solo | `2023-01-18T00:00:00+05:30` | Conference, Hackathon | Unstop | [Register](https://unstop.com/hackathons/12th-iacc-hackathon-2k23-cmr-college-of-engineering-and-technology-cmrcet-hyderabad-583694) |
 | **`60`** | [LNMHacks 5.0](https://unstop.com/hackathons/lnmhacks-50-lnm-institute-of-information-technology-lnmiit-jaipur-588886) | 🏢 offline | ✅ Solo | `2023-01-25T00:00:00+05:30` | Awards, Designing | Unstop | [Register](https://unstop.com/hackathons/lnmhacks-50-lnm-institute-of-information-technology-lnmiit-jaipur-588886) |
 | **`60`** | [Cyberheist - Capture the Flag (CTF)](https://unstop.com/hackathons/cyberheist-capture-the-flag-ctf-siws-college-593666) | 🏢 offline | ✅ Solo | `2023-01-27T11:00:00+05:30` | Strategy, College Festival | Unstop | [Register](https://unstop.com/hackathons/cyberheist-capture-the-flag-ctf-siws-college-593666) |
+| **`60`** | [RapidHacks](https://rapidhacks.devfolio.co) | 🏢 TBA | ✅ Solo | `2023-02-18T06:30:00+00:00` | AI / Software | Devfolio | [Register](https://rapidhacks.devfolio.co) |
 | **`60`** | [Hackoona Matata](https://apoorv-hackathon.devfolio.co) | 🏢 TBA | ✅ Solo | `2023-04-06T05:30:00+00:00` | AI / Software | Devfolio | [Register](https://apoorv-hackathon.devfolio.co) |
 | **`60`** | [Code Odyssey 2.0](https://code-odyssey-2.devfolio.co) | 🏢 K. J. Somaiya I | ✅ Solo | `2023-04-08T03:30:00+00:00` | AI / Software | Devfolio | [Register](https://code-odyssey-2.devfolio.co) |
 | **`60`** | [Build Week](https://buildweek.devfolio.co) | 🏢 TBA | ✅ Solo | `2023-04-10T00:30:00+00:00` | AI / Software | Devfolio | [Register](https://buildweek.devfolio.co) |
 | **`60`** | [PASSWORD](https://unstop.com/hackathons/password-vit-chennai-682926) | 🏢 offline | ✅ Solo | `2023-06-05T00:00:00+05:30` | Treasure Hunt, Workshops | Unstop | [Register](https://unstop.com/hackathons/password-vit-chennai-682926) |
 | **`60`** | [Cyber-O-Day 2.0](https://unstop.com/hackathons/cyber-o-day-20-vit-chennai-783134) | 🏢 offline | ✅ Solo | `2023-10-05T00:00:00+05:30` | Hackathon, All | Unstop | [Register](https://unstop.com/hackathons/cyber-o-day-20-vit-chennai-783134) |
+| **`60`** | [HackWiz 2.0](https://hackwiz-1.devfolio.co) | 🏢 Delhi, India | ✅ Solo | `2023-10-21T04:30:00+00:00` | AI / Software | Devfolio | [Register](https://hackwiz-1.devfolio.co) |
+| **`60`** | [Royal Kingathon](https://royal-kingathon.devfolio.co) | 🏢 Agra, Uttar Pra | ✅ Solo | `2023-12-15T02:30:00+00:00` | AI / Software | Devfolio | [Register](https://royal-kingathon.devfolio.co) |
+| **`60`** | [WinterToWonder](https://wintertowonder.devfolio.co) | 🏢 Faridabad, Hary | ✅ Solo | `2023-12-15T05:30:00+00:00` | AI / Software | Devfolio | [Register](https://wintertowonder.devfolio.co) |
+| **`60`** | [Debate-a-thon](https://debateathon.devfolio.co) | 🏢 Mukesh Patel Sc | ✅ Solo | `2023-12-16T04:30:00+00:00` | AI / Software | Devfolio | [Register](https://debateathon.devfolio.co) |
+| **`60`** | [EXECUTE-3.0](https://execute3.devfolio.co) | 🏢 Delhi Technolog | ✅ Solo | `2024-01-23T16:30:00+00:00` | AI / Software | Devfolio | [Register](https://execute3.devfolio.co) |
 | **`60`** | [Password 2024](https://unstop.com/hackathons/password-2024-vit-chennai-872352) | 🏢 offline | ✅ Solo | `2024-01-28T23:59:00+05:30` | Hackathon, Workshops | Unstop | [Register](https://unstop.com/hackathons/password-2024-vit-chennai-872352) |
+| **`60`** | [INNOV8 2.0](https://innovate2.devfolio.co) | 🏢 Terna Engineeri | ✅ Solo | `2024-02-27T04:30:00+00:00` | AI / Software | Devfolio | [Register](https://innovate2.devfolio.co) |
 | **`60`** | [Webgators](https://unstop.com/hackathons/webgators-techmarathon24-dduc-du-new-delhi-910797) | 🏢 offline | ✅ Solo | `2024-03-02T00:00:00+05:30` | Hackathon, Coding Challenge | Unstop | [Register](https://unstop.com/hackathons/webgators-techmarathon24-dduc-du-new-delhi-910797) |
 | **`60`** | [Code Uncode](https://unstop.com/hackathons/code-uncode-kirori-mal-college-kmc-du-delhi-922945) | 🏢 offline | ✅ Solo | `2024-03-21T10:25:00+05:30` | Coding Challenge, Enginee... | Unstop | [Register](https://unstop.com/hackathons/code-uncode-kirori-mal-college-kmc-du-delhi-922945) |
 | **`60`** | [Data Bizz - Altair Data Science Competition](https://unstop.com/hackathons/data-bizz-a-data-science-competition-indian-institute-of-information-technology-design-and-manufacturing-iiit-922330) | 🏢 offline | ✅ Solo | `2024-04-15T00:00:00+05:30` | College Festival, Coding ... | Unstop | [Register](https://unstop.com/hackathons/data-bizz-a-data-science-competition-indian-institute-of-information-technology-design-and-manufacturing-iiit-922330) |
+| **`60`** | [HackwithDelhi](https://hackwithdelhi.devfolio.co) | 🏢 GL Bajaj Instit | ✅ Solo | `2024-05-20T02:30:00+00:00` | AI / Software | Devfolio | [Register](https://hackwithdelhi.devfolio.co) |
+| **`60`** | [MATRIX 2.0](https://matrix2.devfolio.co) | 🏢 Institute of In | ✅ Solo | `2024-09-20T05:30:00+00:00` | AI / Software | Devfolio | [Register](https://matrix2.devfolio.co) |
 | **`60`** | [Code Uncode](https://unstop.com/hackathons/code-uncode-kirori-mal-college-kmc-du-delhi-1437224) | 🏢 offline | ✅ Solo | `2025-03-24T19:15:29+05:30` | Coding Challenge, Enginee... | Unstop | [Register](https://unstop.com/hackathons/code-uncode-kirori-mal-college-kmc-du-delhi-1437224) |
+| **`60`** | [Hack-o-Octo 2.0](https://hackocto2.devfolio.co) | 🏢 Chandigarh Univ | ✅ Solo | `2025-03-29T04:30:00+00:00` | AI / Software | Devfolio | [Register](https://hackocto2.devfolio.co) |
 | **`60`** | [Swift-Hack](https://unstop.com/hackathons/swift-hack-rescon-40-bennett-university-bu-greater-noida-1467125) | 🏢 offline | ✅ Solo | `2025-04-24T23:59:23+05:30` | Entrepreneurship, Hackathon | Unstop | [Register](https://unstop.com/hackathons/swift-hack-rescon-40-bennett-university-bu-greater-noida-1467125) |
 | **`60`** | [GDG Solution Hacks](https://www.mlh.com/events/gdg-solution-hacks/prizes) | 🏢 Toronto, Canada | ✅ Solo | `2025-06-27T21:00:00Z` | Student Innovation, AI/ML | MLH | [Register](https://www.mlh.com/events/gdg-solution-hacks/prizes) |
 | **`60`** | [Innovate  X Hackathon](https://unstop.com/hackathons/innovate-x-hackathon-shyam-lal-college-university-of-delhi-1631069) | 🏢 offline | ✅ Solo | `2026-02-09T00:30:00+05:30` | Programming, All | Unstop | [Register](https://unstop.com/hackathons/innovate-x-hackathon-shyam-lal-college-university-of-delhi-1631069) |
-| **`60`** | [HackPrix Season 3](https://www.mlh.com/events/hackprix-season-3/prizes) | 🏢 Hyderabad, Tela | ✅ Solo | `2026-06-13T12:00:00Z` | Student Innovation, AI/ML | MLH | [Register](https://www.mlh.com/events/hackprix-season-3/prizes) |
 | **`60`** | [Server Crash - Who Killed the server?](https://unstop.com/hackathons/server-crash-who-killed-the-server-tech-fusion-26-vaish-college-of-engineering-rohtak-haryana-1769168) | 🏢 offline | ✅ Solo | `2026-10-22T00:00:00+05:30` | Engineering Students, Und... | Unstop | [Register](https://unstop.com/hackathons/server-crash-who-killed-the-server-tech-fusion-26-vaish-college-of-engineering-rohtak-haryana-1769168) |
 | **`60`** | [Designathon - CAD & PCB Hackathon](https://unstop.com/hackathons/designathon-cad-pcb-hackathon-karuyantra-carnival-2026-university-school-of-automation-robotics-delhi-1769998) | 🏢 offline | ✅ Solo | `2026-10-22T09:59:36+05:30` | Engineering Students, Pos... | Unstop | [Register](https://unstop.com/hackathons/designathon-cad-pcb-hackathon-karuyantra-carnival-2026-university-school-of-automation-robotics-delhi-1769998) |
+| **`50`** | [Hack-DCRUST](https://hackdcrust.devfolio.co) | 🌐 Online | ✅ Solo | `2020-07-06T09:30:00Z` | AI / Software | Devfolio | [Register](https://hackdcrust.devfolio.co) |
 | **`50`** | [Covix360](https://covix360.devfolio.co) | 🌐 Online | ✅ Solo | `2020-08-16T18:30:00Z` | AI / Software | Devfolio | [Register](https://covix360.devfolio.co) |
+| **`50`** | [Design Equipix](https://design-equipix.devfolio.co) | 🌐 Online | ✅ Solo | `2020-11-02T18:30:00Z` | AI / Software | Devfolio | [Register](https://design-equipix.devfolio.co) |
 | **`50`** | [OctaHacks 3.0](https://dsc-ciet-octahacks.devfolio.co) | 🌐 Online | ✅ Solo | `2020-11-20T11:30:00+00:00` | AI / Software | Devfolio | [Register](https://dsc-ciet-octahacks.devfolio.co) |
+| **`50`** | [The Python Week](https://thepythonweek.devfolio.co) | 🌐 Online | ✅ Solo | `2021-01-08T06:30:00Z` | AI / Software | Devfolio | [Register](https://thepythonweek.devfolio.co) |
+| **`50`** | [ApScript](https://apscript.devfolio.co) | 🌐 Online | ✅ Solo | `2021-02-05T18:30:00+00:00` | AI / Software | Devfolio | [Register](https://apscript.devfolio.co) |
 | **`50`** | [Code Creed 3.0 - A Coding Quiz](https://unstop.com/hackathons/code-creed-missioned-241137) | 🌐 Online | ✅ Solo | `2022-01-20T23:00:00+05:30` | Hackathon, Engineering | Unstop | [Register](https://unstop.com/hackathons/code-creed-missioned-241137) |
 | **`50`** | [Hack-For-Cause](https://unstop.com/hackathons/hack-for-cause-indian-institute-of-technology-iit-delhi-267240) | 🌐 Online | ✅ Solo | `2022-02-25T17:00:00+05:30` | Strategy, Business Plan | Unstop | [Register](https://unstop.com/hackathons/hack-for-cause-indian-institute-of-technology-iit-delhi-267240) |
 | **`50`** | [hackTU 3.0](https://hacktu-3.devfolio.co) | 🌐 Online | ✅ Solo | `2022-02-26T04:30:00+00:00` | AI / Software | Devfolio | [Register](https://hacktu-3.devfolio.co) |
@@ -193,8 +212,10 @@
 | **`50`** | [Code Fin 2.0- A Coding Quiz](https://unstop.com/hackathons/code-fin-20-a-coding-quiz-missioned-348292) | 🌐 Online | ✅ Solo | `2022-07-31T23:03:48+05:30` | Hackathon, Engineering | Unstop | [Register](https://unstop.com/hackathons/code-fin-20-a-coding-quiz-missioned-348292) |
 | **`50`** | [Coding Velocity](https://unstop.com/hackathons/coding-velocity-pnapaao-private-limited-465870) | 🌐 Online | ✅ Solo | `2022-10-30T17:00:00+05:30` | Hackathon, Coding Challenge | Unstop | [Register](https://unstop.com/hackathons/coding-velocity-pnapaao-private-limited-465870) |
 | **`50`** | [The Techie Pirates Ship](https://unstop.com/hackathons/the-techie-pirates-ship-roorkee-college-of-engineering-rce-538178) | 🌐 Online | ✅ Solo | `2022-12-12T00:00:00+05:30` | Online Quiz, College Fest... | Unstop | [Register](https://unstop.com/hackathons/the-techie-pirates-ship-roorkee-college-of-engineering-rce-538178) |
+| **`50`** | [Octahacks 5.0](https://octahacks.devfolio.co) | 🌐 Online | ✅ Solo | `2022-12-15T18:30:00+00:00` | AI / Software | Devfolio | [Register](https://octahacks.devfolio.co) |
 | **`50`** | [Mockup 2.0](https://unstop.com/hackathons/mockup-20-manipal-university-mu-jaipur-566041) | 🌐 Online | ✅ Solo | `2022-12-27T22:22:00+05:30` | Designing, Hackathon | Unstop | [Register](https://unstop.com/hackathons/mockup-20-manipal-university-mu-jaipur-566041) |
 | **`50`** | [Py.Hack ’22: Enhancing productivity, One program at a time](https://unstop.com/hackathons/pyhack-22-enhancing-productivity-one-program-at-a-time-cohesive-technologies-538338) | 🌐 Online | ✅ Solo | `2023-01-04T00:00:00+05:30` | Business Plan, Entreprene... | Unstop | [Register](https://unstop.com/hackathons/pyhack-22-enhancing-productivity-one-program-at-a-time-cohesive-technologies-538338) |
+| **`50`** | [HackOverflow](https://hackoverflow-6.devfolio.co) | 🌐 Online | ✅ Solo | `2023-01-07T04:30:00+00:00` | AI / Software | Devfolio | [Register](https://hackoverflow-6.devfolio.co) |
 | **`50`** | [APL Apollo Tubes - 1 Pixel Designathon](https://unstop.com/hackathons/designathon-1-pixel-1-pixel-design-conf-indraprastha-institute-of-information-technology-iiit-delhi-577906) | 🌐 Online | ✅ Solo | `2023-01-09T00:00:00+05:30` | Case Study, Designing | Unstop | [Register](https://unstop.com/hackathons/designathon-1-pixel-1-pixel-design-conf-indraprastha-institute-of-information-technology-iiit-delhi-577906) |
 | **`50`** | [Top Gear](https://unstop.com/hackathons/top-gear-indian-institute-of-technology-iit-indore-576403) | 🌐 Online | ✅ Solo | `2023-01-19T12:00:00+05:30` | Robotics, College Festival | Unstop | [Register](https://unstop.com/hackathons/top-gear-indian-institute-of-technology-iit-indore-576403) |
 | **`50`** | [OILY MLgo](https://unstop.com/hackathons/oily-mlgo-oilympics-indian-institute-of-technology-iit-ism-dhanbad-587188) | 🌐 Online | ✅ Solo | `2023-01-21T11:59:00+05:30` | Hackathon, Coding Challenge | Unstop | [Register](https://unstop.com/hackathons/oily-mlgo-oilympics-indian-institute-of-technology-iit-ism-dhanbad-587188) |
@@ -203,6 +224,7 @@
 | **`50`** | [ScaleUp](https://unstop.com/hackathons/scaleup-e-summit23-indian-institute-of-technology-iit-patna-585873) | 🌐 Online | ✅ Solo | `2023-02-03T06:30:00+05:30` | College Festival, Entrepr... | Unstop | [Register](https://unstop.com/hackathons/scaleup-e-summit23-indian-institute-of-technology-iit-patna-585873) |
 | **`50`** | [Coder's Infinity War (Online Treasure Hunt)](https://unstop.com/hackathons/coders-infinity-war-online-treasure-hunt-cepheus23-annual-technical-fest-of-iit-goa-indian-institute-of-techno-599849) | 🌐 Online | ✅ Solo | `2023-02-09T23:59:00+05:30` | Coding Challenge, Treasur... | Unstop | [Register](https://unstop.com/hackathons/coders-infinity-war-online-treasure-hunt-cepheus23-annual-technical-fest-of-iit-goa-indian-institute-of-techno-599849) |
 | **`50`** | [Founders of The Future'23](https://unstop.com/hackathons/founders-of-the-future23-kartexa-591647) | 🌐 Online | ✅ Solo | `2023-02-15T00:00:00+05:30` | Strategy, Designing | Unstop | [Register](https://unstop.com/hackathons/founders-of-the-future23-kartexa-591647) |
+| **`50`** | [HackOverflow 1.0](https://phcet.devfolio.co) | 🌐 Online | ✅ Solo | `2023-03-16T04:30:00+00:00` | AI / Software | Devfolio | [Register](https://phcet.devfolio.co) |
 | **`50`** | [Algo Unlock](https://unstop.com/hackathons/algo-unlock-zeitgeist-indian-institute-of-technology-iit-ropar-639332) | 🌐 Online | ✅ Solo | `2023-03-17T23:59:00+05:30` | Online Quiz, Strategy | Unstop | [Register](https://unstop.com/hackathons/algo-unlock-zeitgeist-indian-institute-of-technology-iit-ropar-639332) |
 | **`50`** | [Unleash Your Inner Coder](https://unstop.com/hackathons/unleash-your-inner-coder-kartexa-codewave-fest-kartexa-634975) | 🌐 Online | ✅ Solo | `2023-03-25T00:00:00+05:30` | College Festival, Coding ... | Unstop | [Register](https://unstop.com/hackathons/unleash-your-inner-coder-kartexa-codewave-fest-kartexa-634975) |
 | **`50`** | [The Ultimate Solution Challenge 2023](https://ultimate-solution-challenge-2023.devfolio.co) | 🌐 Online | ✅ Solo | `2023-03-30T11:30:00+00:00` | AI / Software | Devfolio | [Register](https://ultimate-solution-challenge-2023.devfolio.co) |
@@ -210,12 +232,17 @@
 | **`50`** | [Waffle Hacks](https://unstop.com/hackathons/waffle-hacks-belmont-data-collaborative-675134) | 🌐 Online | ✅ Solo | `2023-06-22T23:59:00+05:30` | Hackathon, All | Unstop | [Register](https://unstop.com/hackathons/waffle-hacks-belmont-data-collaborative-675134) |
 | **`50`** | [Winter Coding Contest 3.0](https://unstop.com/hackathons/winter-coding-contest-30-vallurupalli-nageswara-rao-vignana-jyothi-institute-of-engineering-and-technology-vn-773127) | 🌐 Online | ✅ Solo | `2023-10-02T23:59:00+05:30` | College Festival, Fellows... | Unstop | [Register](https://unstop.com/hackathons/winter-coding-contest-30-vallurupalli-nageswara-rao-vignana-jyothi-institute-of-engineering-and-technology-vn-773127) |
 | **`50`** | [Sociothon](https://unstop.com/hackathons/sociothon-iit-roorkee-798244) | 🌐 Online | ✅ Solo | `2023-10-24T23:59:00+05:30` | Strategy, Case Study | Unstop | [Register](https://unstop.com/hackathons/sociothon-iit-roorkee-798244) |
+| **`50`** | [Hack Sphere](https://hack-sphere.devfolio.co) | 🌐 Online | ✅ Solo | `2023-10-30T06:30:00+00:00` | AI / Software | Devfolio | [Register](https://hack-sphere.devfolio.co) |
+| **`50`** | [Datathon 2024](https://datathon-3.devfolio.co) | 🏢 K. J. Somaiya C | 👥 Team | `2024-02-03T04:30:00+00:00` | AI / Software | Devfolio | [Register](https://datathon-3.devfolio.co) |
 | **`50`** | [Solve To Decipher](https://unstop.com/hackathons/solve-to-decipher-e-summit-2024-iit-madras-887040) | 🌐 Online | ✅ Solo | `2024-02-12T23:59:00+05:30` | Entrepreneurship, Hackathon | Unstop | [Register](https://unstop.com/hackathons/solve-to-decipher-e-summit-2024-iit-madras-887040) |
 | **`50`** | [Solve The SDGs: The Future is made Today](https://unstop.com/hackathons/solve-the-sdgs-the-future-is-made-today-iit-madras-913890) | 🌐 Online | ✅ Solo | `2024-03-08T23:59:00+05:30` | Hackathon, All | Unstop | [Register](https://unstop.com/hackathons/solve-the-sdgs-the-future-is-made-today-iit-madras-913890) |
+| **`50`** | [Synapse](https://synapse.devfolio.co) | 🌐 Online | ✅ Solo | `2024-03-22T12:30:00+00:00` | AI / Software | Devfolio | [Register](https://synapse.devfolio.co) |
+| **`50`** | [Hackoverflow 7.0](https://hackoverflow07.devfolio.co) | 🌐 Online | ✅ Solo | `2024-04-08T04:30:00+00:00` | AI / Software | Devfolio | [Register](https://hackoverflow07.devfolio.co) |
 | **`50`** | [QuestCraft: Unleash Your Creativity](https://unstop.com/hackathons/questcraft-unleash-your-creativity-solace-odyssey-24-bennett-university-bu-greater-noida-943504) | 🌐 Online | ✅ Solo | `2024-04-23T23:59:00+05:30` | College Festival, Designing | Unstop | [Register](https://unstop.com/hackathons/questcraft-unleash-your-creativity-solace-odyssey-24-bennett-university-bu-greater-noida-943504) |
 | **`50`** | [Winter Coding Contest 4.0](https://unstop.com/hackathons/winter-coding-contest-40-vallurupalli-nageswara-rao-vignana-jyothi-institute-of-engineering-technology-telang-1168884) | 🌐 Online | ✅ Solo | `2024-10-18T23:00:00+05:30` | College Festival, Fellows... | Unstop | [Register](https://unstop.com/hackathons/winter-coding-contest-40-vallurupalli-nageswara-rao-vignana-jyothi-institute-of-engineering-technology-telang-1168884) |
 | **`50`** | [PM Hackathon - Product Case Study In Collaboration with Uber](https://unstop.com/hackathons/product-management-hackathon-product-space-1191511) | 🌐 Online | ✅ Solo | `2024-11-05T11:59:36+05:30` | Case Study, Hackathon | Unstop | [Register](https://unstop.com/hackathons/product-management-hackathon-product-space-1191511) |
 | **`50`** | [Best COO](https://unstop.com/hackathons/best-coo-cura25-nit-warangal-1394635) | 🌐 Online | ✅ Solo | `2025-02-15T00:00:00+05:30` | College Festival, All | Unstop | [Register](https://unstop.com/hackathons/best-coo-cura25-nit-warangal-1394635) |
+| **`50`** | [World Chain CTF](https://world-chain-ctf.devfolio.co) | 🌐 Online | ✅ Solo | `2025-02-28T07:00:00+00:00` | AI / Software | Devfolio | [Register](https://world-chain-ctf.devfolio.co) |
 | **`50`** | [Innerve X: India’s Largest Student Driven Hackathon](https://unstop.com/hackathons/innerve-x-indias-largest-student-driven-hackathon-army-institute-of-technology-ait-pune-1595880) | 🏢 offline | 👥 Team | `2025-12-29T12:58:59+05:30` | Hackathon, Panel Discussion | Unstop | [Register](https://unstop.com/hackathons/innerve-x-indias-largest-student-driven-hackathon-army-institute-of-technology-ait-pune-1595880) |
 | **`50`** | [Inspiron 5.0](https://unstop.com/hackathons/inspiron-50-computer-society-of-indiacsi-coep-tech-student-chapter-1630859) | 🏢 offline | 👥 Team | `2026-03-21T23:59:00+05:30` | Programming, Engineering ... | Unstop | [Register](https://unstop.com/hackathons/inspiron-50-computer-society-of-indiacsi-coep-tech-student-chapter-1630859) |
 | **`50`** | [Reporeboot'26](https://unstop.com/hackathons/reporeboot26-dhirubhai-ambani-institute-of-information-and-communication-technology-da-iict-gandhinagar-1771533) | 🌐 Online | ✅ Solo | `2026-10-19T14:16:19+05:30` | Engineering Students, Pos... | Unstop | [Register](https://unstop.com/hackathons/reporeboot26-dhirubhai-ambani-institute-of-information-and-communication-technology-da-iict-gandhinagar-1771533) |
@@ -1374,7 +1401,20 @@
 👉 **[Direct Link to Apply](https://unstop.com/hackathons/hackcelestial-30-pillai-university-navi-mumbai-1737808)**
 
 ---
-### 89. [Ideathon](https://unstop.com/hackathons/ideathon-yhills-253975)
+### 89. [Webster 2020](https://webster2k20.devfolio.co)
+- **Platform:** `Devfolio` | **Priority Score:** `75/100` | **Mode:** `Online`
+- **Venue / Location:** 🌐 Online / Virtual
+- **Participation:** 🟢 Solo Eligible (1 Member)
+- **Registration Deadline:** `2020-10-09T18:30:00Z`
+- **Prize Pool:** `Not disclosed`
+- **Tracks:** General / Open Innovation
+- **Organizer:** Devfolio Community
+- **Match Factors:** 🌐 **Accessible Online Mode** (+15 pts) • 👤 **Solo Eligible (1 Member)** (+35 pts) • 🤖 **AI & Software Tracks** (+25 pts) [AI, Artificial Intelligence, Machine Learning]
+
+👉 **[Direct Link to Apply](https://webster2k20.devfolio.co)**
+
+---
+### 90. [Ideathon](https://unstop.com/hackathons/ideathon-yhills-253975)
 - **Platform:** `Unstop` | **Priority Score:** `75/100` | **Mode:** `Online`
 - **Venue / Location:** 🌐 Online / Virtual
 - **Participation:** 🟢 Solo Eligible (1 Member)
@@ -1387,7 +1427,7 @@
 👉 **[Direct Link to Apply](https://unstop.com/hackathons/ideathon-yhills-253975)**
 
 ---
-### 90. [CSI Hackathon 6.0](https://unstop.com/hackathons/csi-hackathon-60-university-of-petroleum-energy-studies-upes-dehradun-257850)
+### 91. [CSI Hackathon 6.0](https://unstop.com/hackathons/csi-hackathon-60-university-of-petroleum-energy-studies-upes-dehradun-257850)
 - **Platform:** `Unstop` | **Priority Score:** `75/100` | **Mode:** `Online`
 - **Venue / Location:** 🌐 Online / Virtual
 - **Participation:** 🟢 Solo Eligible (1 Member)
@@ -1400,7 +1440,7 @@
 👉 **[Direct Link to Apply](https://unstop.com/hackathons/csi-hackathon-60-university-of-petroleum-energy-studies-upes-dehradun-257850)**
 
 ---
-### 91. [Code with Globalshala 3.0](https://unstop.com/hackathons/code-with-globalshala-30-globalshala-266368)
+### 92. [Code with Globalshala 3.0](https://unstop.com/hackathons/code-with-globalshala-30-globalshala-266368)
 - **Platform:** `Unstop` | **Priority Score:** `75/100` | **Mode:** `Online`
 - **Venue / Location:** 🌐 Online / Virtual
 - **Participation:** 🟢 Solo Eligible (1 Member)
@@ -1413,7 +1453,7 @@
 👉 **[Direct Link to Apply](https://unstop.com/hackathons/code-with-globalshala-30-globalshala-266368)**
 
 ---
-### 92. [Sociothon](https://unstop.com/hackathons/sociothon-national-social-summit22-indian-institute-of-technology-iit-roorkee-274253)
+### 93. [Sociothon](https://unstop.com/hackathons/sociothon-national-social-summit22-indian-institute-of-technology-iit-roorkee-274253)
 - **Platform:** `Unstop` | **Priority Score:** `75/100` | **Mode:** `Online`
 - **Venue / Location:** 🌐 Online / Virtual
 - **Participation:** 🟢 Solo Eligible (1 Member)
@@ -1426,7 +1466,7 @@
 👉 **[Direct Link to Apply](https://unstop.com/hackathons/sociothon-national-social-summit22-indian-institute-of-technology-iit-roorkee-274253)**
 
 ---
-### 93. [Data Challenge II](https://unstop.com/hackathons/data-challenge-ii-henry-harvin-education-328792)
+### 94. [Data Challenge II](https://unstop.com/hackathons/data-challenge-ii-henry-harvin-education-328792)
 - **Platform:** `Unstop` | **Priority Score:** `75/100` | **Mode:** `Online`
 - **Venue / Location:** 🌐 Online / Virtual
 - **Participation:** 🟢 Solo Eligible (1 Member)
@@ -1439,7 +1479,7 @@
 👉 **[Direct Link to Apply](https://unstop.com/hackathons/data-challenge-ii-henry-harvin-education-328792)**
 
 ---
-### 94. [Code with Globalshala 3.0](https://unstop.com/hackathons/code-with-globalshala-30-globalshala-362115)
+### 95. [Code with Globalshala 3.0](https://unstop.com/hackathons/code-with-globalshala-30-globalshala-362115)
 - **Platform:** `Unstop` | **Priority Score:** `75/100` | **Mode:** `Online`
 - **Venue / Location:** 🌐 Online / Virtual
 - **Participation:** 🟢 Solo Eligible (1 Member)
@@ -1452,7 +1492,7 @@
 👉 **[Direct Link to Apply](https://unstop.com/hackathons/code-with-globalshala-30-globalshala-362115)**
 
 ---
-### 95. [Out Of Context: Website Development Hackathon](https://unstop.com/hackathons/out-of-context-website-development-hackathon-codevita-live-377073)
+### 96. [Out Of Context: Website Development Hackathon](https://unstop.com/hackathons/out-of-context-website-development-hackathon-codevita-live-377073)
 - **Platform:** `Unstop` | **Priority Score:** `75/100` | **Mode:** `Online`
 - **Venue / Location:** 🌐 Online / Virtual
 - **Participation:** 🟢 Solo Eligible (1 Member)
@@ -1465,7 +1505,7 @@
 👉 **[Direct Link to Apply](https://unstop.com/hackathons/out-of-context-website-development-hackathon-codevita-live-377073)**
 
 ---
-### 96. [Hawk the Log: Retail Dataset Competition](https://unstop.com/hackathons/hawk-the-log-retail-dataset-competition-interface-2022-birla-institute-of-technology-science-bits-pilani-436615)
+### 97. [Hawk the Log: Retail Dataset Competition](https://unstop.com/hackathons/hawk-the-log-retail-dataset-competition-interface-2022-birla-institute-of-technology-science-bits-pilani-436615)
 - **Platform:** `Unstop` | **Priority Score:** `75/100` | **Mode:** `Online`
 - **Venue / Location:** 🌐 Online / Virtual
 - **Participation:** 🟢 Solo Eligible (1 Member)
@@ -1478,7 +1518,7 @@
 👉 **[Direct Link to Apply](https://unstop.com/hackathons/hawk-the-log-retail-dataset-competition-interface-2022-birla-institute-of-technology-science-bits-pilani-436615)**
 
 ---
-### 97. [Pickl.Ai's Datathon - 1](https://unstop.com/hackathons/picklais-datathon-1-pickl-424925)
+### 98. [Pickl.Ai's Datathon - 1](https://unstop.com/hackathons/picklais-datathon-1-pickl-424925)
 - **Platform:** `Unstop` | **Priority Score:** `75/100` | **Mode:** `Online`
 - **Venue / Location:** 🌐 Online / Virtual
 - **Participation:** 🟢 Solo Eligible (1 Member)
@@ -1491,7 +1531,7 @@
 👉 **[Direct Link to Apply](https://unstop.com/hackathons/picklais-datathon-1-pickl-424925)**
 
 ---
-### 98. [Creation of Telegram Bot in Python for Data Logging](https://unstop.com/hackathons/creation-of-telegram-bot-in-python-for-data-logging-edgein-448722)
+### 99. [Creation of Telegram Bot in Python for Data Logging](https://unstop.com/hackathons/creation-of-telegram-bot-in-python-for-data-logging-edgein-448722)
 - **Platform:** `Unstop` | **Priority Score:** `75/100` | **Mode:** `Online`
 - **Venue / Location:** 🌐 Online / Virtual
 - **Participation:** 🟢 Solo Eligible (1 Member)
@@ -1504,7 +1544,7 @@
 👉 **[Direct Link to Apply](https://unstop.com/hackathons/creation-of-telegram-bot-in-python-for-data-logging-edgein-448722)**
 
 ---
-### 99. [HackOverflow](https://unstop.com/hackathons/hackoverflow-codevita-live-408912)
+### 100. [HackOverflow](https://unstop.com/hackathons/hackoverflow-codevita-live-408912)
 - **Platform:** `Unstop` | **Priority Score:** `75/100` | **Mode:** `Online`
 - **Venue / Location:** 🌐 Online / Virtual
 - **Participation:** 🟢 Solo Eligible (1 Member)
@@ -1517,7 +1557,7 @@
 👉 **[Direct Link to Apply](https://unstop.com/hackathons/hackoverflow-codevita-live-408912)**
 
 ---
-### 100. [Ideathon 2.0 - National B-Plan Competition ](https://unstop.com/hackathons/ideathon-20-national-b-plan-competition-kalinga-university-raipur-443793)
+### 101. [Ideathon 2.0 - National B-Plan Competition ](https://unstop.com/hackathons/ideathon-20-national-b-plan-competition-kalinga-university-raipur-443793)
 - **Platform:** `Unstop` | **Priority Score:** `75/100` | **Mode:** `Online`
 - **Venue / Location:** 🌐 Online / Virtual
 - **Participation:** 🟢 Solo Eligible (1 Member)
@@ -1530,7 +1570,7 @@
 👉 **[Direct Link to Apply](https://unstop.com/hackathons/ideathon-20-national-b-plan-competition-kalinga-university-raipur-443793)**
 
 ---
-### 101. [BUIDL for Web3 Hackathon (2022)](https://unstop.com/hackathons/buidl-for-web3-hackathon-2022-lumos-labs-413149)
+### 102. [BUIDL for Web3 Hackathon (2022)](https://unstop.com/hackathons/buidl-for-web3-hackathon-2022-lumos-labs-413149)
 - **Platform:** `Unstop` | **Priority Score:** `75/100` | **Mode:** `Online`
 - **Venue / Location:** 🌐 Online / Virtual
 - **Participation:** 🟢 Solo Eligible (1 Member)
@@ -1543,7 +1583,7 @@
 👉 **[Direct Link to Apply](https://unstop.com/hackathons/buidl-for-web3-hackathon-2022-lumos-labs-413149)**
 
 ---
-### 102. [Bank Personal Loan](https://unstop.com/hackathons/bank-personal-loan-pickl-494880)
+### 103. [Bank Personal Loan](https://unstop.com/hackathons/bank-personal-loan-pickl-494880)
 - **Platform:** `Unstop` | **Priority Score:** `75/100` | **Mode:** `Online`
 - **Venue / Location:** 🌐 Online / Virtual
 - **Participation:** 🟢 Solo Eligible (1 Member)
@@ -1556,7 +1596,7 @@
 👉 **[Direct Link to Apply](https://unstop.com/hackathons/bank-personal-loan-pickl-494880)**
 
 ---
-### 103. [AFourathon 2.0 Hackathon](https://unstop.com/hackathons/afourathon-20-hackathon-afour-technologies-private-limited-538043)
+### 104. [AFourathon 2.0 Hackathon](https://unstop.com/hackathons/afourathon-20-hackathon-afour-technologies-private-limited-538043)
 - **Platform:** `Unstop` | **Priority Score:** `75/100` | **Mode:** `Online`
 - **Venue / Location:** 🌐 Online / Virtual
 - **Participation:** 🟢 Solo Eligible (1 Member)
@@ -1569,7 +1609,7 @@
 👉 **[Direct Link to Apply](https://unstop.com/hackathons/afourathon-20-hackathon-afour-technologies-private-limited-538043)**
 
 ---
-### 104. [Fraud Website Detection](https://unstop.com/hackathons/fraud-website-detection-pickl-546623)
+### 105. [Fraud Website Detection](https://unstop.com/hackathons/fraud-website-detection-pickl-546623)
 - **Platform:** `Unstop` | **Priority Score:** `75/100` | **Mode:** `Online`
 - **Venue / Location:** 🌐 Online / Virtual
 - **Participation:** 🟢 Solo Eligible (1 Member)
@@ -1582,7 +1622,7 @@
 👉 **[Direct Link to Apply](https://unstop.com/hackathons/fraud-website-detection-pickl-546623)**
 
 ---
-### 105. [Unblock the Block](https://unstop.com/hackathons/unblock-the-block-e-summit-2022-23-indian-institute-of-technology-iit-kanpur-565669)
+### 106. [Unblock the Block](https://unstop.com/hackathons/unblock-the-block-e-summit-2022-23-indian-institute-of-technology-iit-kanpur-565669)
 - **Platform:** `Unstop` | **Priority Score:** `75/100` | **Mode:** `Online`
 - **Venue / Location:** 🌐 Online / Virtual
 - **Participation:** 🟢 Solo Eligible (1 Member)
@@ -1595,7 +1635,7 @@
 👉 **[Direct Link to Apply](https://unstop.com/hackathons/unblock-the-block-e-summit-2022-23-indian-institute-of-technology-iit-kanpur-565669)**
 
 ---
-### 106. [BLOCK-A-THON](https://unstop.com/hackathons/block-a-thon-social-fest-indian-institute-of-technology-iit-bombay-574278)
+### 107. [BLOCK-A-THON](https://unstop.com/hackathons/block-a-thon-social-fest-indian-institute-of-technology-iit-bombay-574278)
 - **Platform:** `Unstop` | **Priority Score:** `75/100` | **Mode:** `Online`
 - **Venue / Location:** 🌐 Online / Virtual
 - **Participation:** 🟢 Solo Eligible (1 Member)
@@ -1608,7 +1648,7 @@
 👉 **[Direct Link to Apply](https://unstop.com/hackathons/block-a-thon-social-fest-indian-institute-of-technology-iit-bombay-574278)**
 
 ---
-### 107. [Nakshatra](https://unstop.com/hackathons/nakshatra-indian-institute-of-technology-iit-indore-576402)
+### 108. [Nakshatra](https://unstop.com/hackathons/nakshatra-indian-institute-of-technology-iit-indore-576402)
 - **Platform:** `Unstop` | **Priority Score:** `75/100` | **Mode:** `Online`
 - **Venue / Location:** 🌐 Online / Virtual
 - **Participation:** 🟢 Solo Eligible (1 Member)
@@ -1621,7 +1661,7 @@
 👉 **[Direct Link to Apply](https://unstop.com/hackathons/nakshatra-indian-institute-of-technology-iit-indore-576402)**
 
 ---
-### 108. [Meta-Bizz](https://unstop.com/hackathons/meta-bizz-indian-institute-of-technology-iit-indore-576519)
+### 109. [Meta-Bizz](https://unstop.com/hackathons/meta-bizz-indian-institute-of-technology-iit-indore-576519)
 - **Platform:** `Unstop` | **Priority Score:** `75/100` | **Mode:** `Online`
 - **Venue / Location:** 🌐 Online / Virtual
 - **Participation:** 🟢 Solo Eligible (1 Member)
@@ -1634,7 +1674,7 @@
 👉 **[Direct Link to Apply](https://unstop.com/hackathons/meta-bizz-indian-institute-of-technology-iit-indore-576519)**
 
 ---
-### 109. [Énosium](https://unstop.com/hackathons/enosium-indian-institute-of-technology-iit-indore-576408)
+### 110. [Énosium](https://unstop.com/hackathons/enosium-indian-institute-of-technology-iit-indore-576408)
 - **Platform:** `Unstop` | **Priority Score:** `75/100` | **Mode:** `Online`
 - **Venue / Location:** 🌐 Online / Virtual
 - **Participation:** 🟢 Solo Eligible (1 Member)
@@ -1647,7 +1687,7 @@
 👉 **[Direct Link to Apply](https://unstop.com/hackathons/enosium-indian-institute-of-technology-iit-indore-576408)**
 
 ---
-### 110. [Building Blochs](https://unstop.com/hackathons/building-blochs-indian-institute-of-technology-iit-indore-576411)
+### 111. [Building Blochs](https://unstop.com/hackathons/building-blochs-indian-institute-of-technology-iit-indore-576411)
 - **Platform:** `Unstop` | **Priority Score:** `75/100` | **Mode:** `Online`
 - **Venue / Location:** 🌐 Online / Virtual
 - **Participation:** 🟢 Solo Eligible (1 Member)
@@ -1660,7 +1700,7 @@
 👉 **[Direct Link to Apply](https://unstop.com/hackathons/building-blochs-indian-institute-of-technology-iit-indore-576411)**
 
 ---
-### 111. [Concastle](https://unstop.com/hackathons/concastle-indian-institute-of-technology-iit-indore-576413)
+### 112. [Concastle](https://unstop.com/hackathons/concastle-indian-institute-of-technology-iit-indore-576413)
 - **Platform:** `Unstop` | **Priority Score:** `75/100` | **Mode:** `Online`
 - **Venue / Location:** 🌐 Online / Virtual
 - **Participation:** 🟢 Solo Eligible (1 Member)
@@ -1673,7 +1713,7 @@
 👉 **[Direct Link to Apply](https://unstop.com/hackathons/concastle-indian-institute-of-technology-iit-indore-576413)**
 
 ---
-### 112. [Designex 2.0](https://unstop.com/hackathons/designex-20-vellore-institute-of-technology-vit-ap-andhra-pradesh-591691)
+### 113. [Designex 2.0](https://unstop.com/hackathons/designex-20-vellore-institute-of-technology-vit-ap-andhra-pradesh-591691)
 - **Platform:** `Unstop` | **Priority Score:** `75/100` | **Mode:** `Online`
 - **Venue / Location:** 🌐 Online / Virtual
 - **Participation:** 🟢 Solo Eligible (1 Member)
@@ -1686,7 +1726,7 @@
 👉 **[Direct Link to Apply](https://unstop.com/hackathons/designex-20-vellore-institute-of-technology-vit-ap-andhra-pradesh-591691)**
 
 ---
-### 113. [EHAM - The Ultimate Coding Competition](https://unstop.com/hackathons/eham-the-ultimate-coding-competition-eham-588252)
+### 114. [EHAM - The Ultimate Coding Competition](https://unstop.com/hackathons/eham-the-ultimate-coding-competition-eham-588252)
 - **Platform:** `Unstop` | **Priority Score:** `75/100` | **Mode:** `Online`
 - **Venue / Location:** 🌐 Online / Virtual
 - **Participation:** 🟢 Solo Eligible (1 Member)
@@ -1699,7 +1739,7 @@
 👉 **[Direct Link to Apply](https://unstop.com/hackathons/eham-the-ultimate-coding-competition-eham-588252)**
 
 ---
-### 114. [The Tri-NIT Hackathon](https://unstop.com/hackathons/the-tri-nit-hackathon-national-institute-of-technology-nit-trichy-594092)
+### 115. [The Tri-NIT Hackathon](https://unstop.com/hackathons/the-tri-nit-hackathon-national-institute-of-technology-nit-trichy-594092)
 - **Platform:** `Unstop` | **Priority Score:** `75/100` | **Mode:** `Online`
 - **Venue / Location:** 🌐 Online / Virtual
 - **Participation:** 🟢 Solo Eligible (1 Member)
@@ -1712,7 +1752,7 @@
 👉 **[Direct Link to Apply](https://unstop.com/hackathons/the-tri-nit-hackathon-national-institute-of-technology-nit-trichy-594092)**
 
 ---
-### 115. [Unleash Your Inner Coder](https://unstop.com/hackathons/unleash-your-inner-coder-kartexa-codewave-fest-kartexa-606182)
+### 116. [Unleash Your Inner Coder](https://unstop.com/hackathons/unleash-your-inner-coder-kartexa-codewave-fest-kartexa-606182)
 - **Platform:** `Unstop` | **Priority Score:** `75/100` | **Mode:** `Online`
 - **Venue / Location:** 🌐 Online / Virtual
 - **Participation:** 🟢 Solo Eligible (1 Member)
@@ -1725,7 +1765,7 @@
 👉 **[Direct Link to Apply](https://unstop.com/hackathons/unleash-your-inner-coder-kartexa-codewave-fest-kartexa-606182)**
 
 ---
-### 116. [CANVAS 1.0](https://unstop.com/hackathons/canvas-10-convrseai-587042)
+### 117. [CANVAS 1.0](https://unstop.com/hackathons/canvas-10-convrseai-587042)
 - **Platform:** `Unstop` | **Priority Score:** `75/100` | **Mode:** `Online`
 - **Venue / Location:** 🌐 Online / Virtual
 - **Participation:** 🟢 Solo Eligible (1 Member)
@@ -1738,7 +1778,7 @@
 👉 **[Direct Link to Apply](https://unstop.com/hackathons/canvas-10-convrseai-587042)**
 
 ---
-### 117. [Kartexage Hackathon: Improving Existing and Future Application Platforms](https://unstop.com/hackathons/kartexage-hackathon-improving-existing-and-future-application-platforms-kartexa-codewave-fest-kartexa-612890)
+### 118. [Kartexage Hackathon: Improving Existing and Future Application Platforms](https://unstop.com/hackathons/kartexage-hackathon-improving-existing-and-future-application-platforms-kartexa-codewave-fest-kartexa-612890)
 - **Platform:** `Unstop` | **Priority Score:** `75/100` | **Mode:** `Online`
 - **Venue / Location:** 🌐 Online / Virtual
 - **Participation:** 🟢 Solo Eligible (1 Member)
@@ -1751,7 +1791,7 @@
 👉 **[Direct Link to Apply](https://unstop.com/hackathons/kartexage-hackathon-improving-existing-and-future-application-platforms-kartexa-codewave-fest-kartexa-612890)**
 
 ---
-### 118. [Pickl.AI’s Datathon - 4](https://unstop.com/hackathons/picklais-datathon-4-pickl-599642)
+### 119. [Pickl.AI’s Datathon - 4](https://unstop.com/hackathons/picklais-datathon-4-pickl-599642)
 - **Platform:** `Unstop` | **Priority Score:** `75/100` | **Mode:** `Online`
 - **Venue / Location:** 🌐 Online / Virtual
 - **Participation:** 🟢 Solo Eligible (1 Member)
@@ -1764,7 +1804,7 @@
 👉 **[Direct Link to Apply](https://unstop.com/hackathons/picklais-datathon-4-pickl-599642)**
 
 ---
-### 119. [Design Your Code](https://unstop.com/hackathons/design-your-code-techmihirnaik-597325)
+### 120. [Design Your Code](https://unstop.com/hackathons/design-your-code-techmihirnaik-597325)
 - **Platform:** `Unstop` | **Priority Score:** `75/100` | **Mode:** `Online`
 - **Venue / Location:** 🌐 Online / Virtual
 - **Participation:** 🟢 Solo Eligible (1 Member)
@@ -1777,7 +1817,7 @@
 👉 **[Direct Link to Apply](https://unstop.com/hackathons/design-your-code-techmihirnaik-597325)**
 
 ---
-### 120. [Krypthon - Hackathon](https://unstop.com/hackathons/krypthon-hackathon-vit-chennai-600552)
+### 121. [Krypthon - Hackathon](https://unstop.com/hackathons/krypthon-hackathon-vit-chennai-600552)
 - **Platform:** `Unstop` | **Priority Score:** `75/100` | **Mode:** `Online`
 - **Venue / Location:** 🌐 Online / Virtual
 - **Participation:** 🟢 Solo Eligible (1 Member)
@@ -1790,7 +1830,7 @@
 👉 **[Direct Link to Apply](https://unstop.com/hackathons/krypthon-hackathon-vit-chennai-600552)**
 
 ---
-### 121. [HackFiesta](https://unstop.com/hackathons/hackfiesta-codevita-live-628861)
+### 122. [HackFiesta](https://unstop.com/hackathons/hackfiesta-codevita-live-628861)
 - **Platform:** `Unstop` | **Priority Score:** `75/100` | **Mode:** `Online`
 - **Venue / Location:** 🌐 Online / Virtual
 - **Participation:** 🟢 Solo Eligible (1 Member)
@@ -1803,7 +1843,7 @@
 👉 **[Direct Link to Apply](https://unstop.com/hackathons/hackfiesta-codevita-live-628861)**
 
 ---
-### 122. [Blackstone Shipping Hackathon](https://unstop.com/hackathons/blackstone-shipping-hackathon-blackstone-shipping-private-limited-645198)
+### 123. [Blackstone Shipping Hackathon](https://unstop.com/hackathons/blackstone-shipping-hackathon-blackstone-shipping-private-limited-645198)
 - **Platform:** `Unstop` | **Priority Score:** `75/100` | **Mode:** `Online`
 - **Venue / Location:** 🌐 Online / Virtual
 - **Participation:** 🟢 Solo Eligible (1 Member)
@@ -1816,7 +1856,7 @@
 👉 **[Direct Link to Apply](https://unstop.com/hackathons/blackstone-shipping-hackathon-blackstone-shipping-private-limited-645198)**
 
 ---
-### 123. [EthereumZuri.ch](https://ethereumzurich.devfolio.co)
+### 124. [EthereumZuri.ch](https://ethereumzurich.devfolio.co)
 - **Platform:** `Devfolio` | **Priority Score:** `75/100` | **Mode:** `Online`
 - **Venue / Location:** 🌐 Online / Virtual
 - **Participation:** 🟢 Solo Eligible (1 Member)
@@ -1829,7 +1869,20 @@
 👉 **[Direct Link to Apply](https://ethereumzurich.devfolio.co)**
 
 ---
-### 124. [Code.AIthon](https://unstop.com/hackathons/codeaithon-codevita-live-674977)
+### 125. [DATATHON 1.O](https://datathon.devfolio.co)
+- **Platform:** `Devfolio` | **Priority Score:** `75/100` | **Mode:** `Online`
+- **Venue / Location:** 🌐 Online / Virtual
+- **Participation:** 🟢 Solo Eligible (1 Member)
+- **Registration Deadline:** `2023-05-09T18:30:00+00:00`
+- **Prize Pool:** `₹`
+- **Tracks:** General / Open Innovation
+- **Organizer:** Devfolio Community
+- **Match Factors:** 🌐 **Accessible Online Mode** (+15 pts) • 👤 **Solo Eligible (1 Member)** (+35 pts) • 🤖 **AI & Software Tracks** (+25 pts) [Artificial Intelligence, Machine Learning, Natural Language Processing]
+
+👉 **[Direct Link to Apply](https://datathon.devfolio.co)**
+
+---
+### 126. [Code.AIthon](https://unstop.com/hackathons/codeaithon-codevita-live-674977)
 - **Platform:** `Unstop` | **Priority Score:** `75/100` | **Mode:** `Online`
 - **Venue / Location:** 🌐 Online / Virtual
 - **Participation:** 🟢 Solo Eligible (1 Member)
@@ -1842,7 +1895,7 @@
 👉 **[Direct Link to Apply](https://unstop.com/hackathons/codeaithon-codevita-live-674977)**
 
 ---
-### 125. [AFourathon 3.0 Hackathon](https://unstop.com/hackathons/30-hackathon-afour-technologies-private-limited-682170)
+### 127. [AFourathon 3.0 Hackathon](https://unstop.com/hackathons/30-hackathon-afour-technologies-private-limited-682170)
 - **Platform:** `Unstop` | **Priority Score:** `75/100` | **Mode:** `Online`
 - **Venue / Location:** 🌐 Online / Virtual
 - **Participation:** 🟢 Solo Eligible (1 Member)
@@ -1855,7 +1908,7 @@
 👉 **[Direct Link to Apply](https://unstop.com/hackathons/30-hackathon-afour-technologies-private-limited-682170)**
 
 ---
-### 126. [Out Of Context: Website Development Hackathon](https://unstop.com/hackathons/out-of-context-website-development-hackathon-codevita-live-699525)
+### 128. [Out Of Context: Website Development Hackathon](https://unstop.com/hackathons/out-of-context-website-development-hackathon-codevita-live-699525)
 - **Platform:** `Unstop` | **Priority Score:** `75/100` | **Mode:** `Online`
 - **Venue / Location:** 🌐 Online / Virtual
 - **Participation:** 🟢 Solo Eligible (1 Member)
@@ -1868,7 +1921,7 @@
 👉 **[Direct Link to Apply](https://unstop.com/hackathons/out-of-context-website-development-hackathon-codevita-live-699525)**
 
 ---
-### 127. [Codex Nexus- The Innovation Marathon](https://unstop.com/hackathons/codex-nexus-the-innovation-marathon-codevita-live-742316)
+### 129. [Codex Nexus- The Innovation Marathon](https://unstop.com/hackathons/codex-nexus-the-innovation-marathon-codevita-live-742316)
 - **Platform:** `Unstop` | **Priority Score:** `75/100` | **Mode:** `Online`
 - **Venue / Location:** 🌐 Online / Virtual
 - **Participation:** 🟢 Solo Eligible (1 Member)
@@ -1881,7 +1934,7 @@
 👉 **[Direct Link to Apply](https://unstop.com/hackathons/codex-nexus-the-innovation-marathon-codevita-live-742316)**
 
 ---
-### 128. [Quant Quest by AlgoBulls](https://unstop.com/hackathons/quant-quest-by-algobulls-iit-kanpur-800786)
+### 130. [Quant Quest by AlgoBulls](https://unstop.com/hackathons/quant-quest-by-algobulls-iit-kanpur-800786)
 - **Platform:** `Unstop` | **Priority Score:** `75/100` | **Mode:** `Online`
 - **Venue / Location:** 🌐 Online / Virtual
 - **Participation:** 🟢 Solo Eligible (1 Member)
@@ -1894,7 +1947,20 @@
 👉 **[Direct Link to Apply](https://unstop.com/hackathons/quant-quest-by-algobulls-iit-kanpur-800786)**
 
 ---
-### 129. [AI/ML Hackathon on Road safety, NSS IIT Roorkee](https://unstop.com/hackathons/aiml-hackathon-on-road-safety-iit-roorkee-866933)
+### 131. [TechTreck-24](https://techtreck24.devfolio.co)
+- **Platform:** `Devfolio` | **Priority Score:** `75/100` | **Mode:** `Online`
+- **Venue / Location:** 🌐 Online / Virtual
+- **Participation:** 🟢 Solo Eligible (1 Member)
+- **Registration Deadline:** `2024-01-23T03:30:00+00:00`
+- **Prize Pool:** `₹`
+- **Tracks:** General / Open Innovation
+- **Organizer:** Devfolio Community
+- **Match Factors:** 🌐 **Accessible Online Mode** (+15 pts) • 👤 **Solo Eligible (1 Member)** (+35 pts) • 🤖 **AI & Software Tracks** (+25 pts) [Web Development]
+
+👉 **[Direct Link to Apply](https://techtreck24.devfolio.co)**
+
+---
+### 132. [AI/ML Hackathon on Road safety, NSS IIT Roorkee](https://unstop.com/hackathons/aiml-hackathon-on-road-safety-iit-roorkee-866933)
 - **Platform:** `Unstop` | **Priority Score:** `75/100` | **Mode:** `Online`
 - **Venue / Location:** 🌐 Online / Virtual
 - **Participation:** 🟢 Solo Eligible (1 Member)
@@ -1907,7 +1973,7 @@
 👉 **[Direct Link to Apply](https://unstop.com/hackathons/aiml-hackathon-on-road-safety-iit-roorkee-866933)**
 
 ---
-### 130. [TriNIT Hackathon 3.0](https://unstop.com/hackathons/trinit-hackathon-30-nit-trichy-912319)
+### 133. [TriNIT Hackathon 3.0](https://unstop.com/hackathons/trinit-hackathon-30-nit-trichy-912319)
 - **Platform:** `Unstop` | **Priority Score:** `75/100` | **Mode:** `Online`
 - **Venue / Location:** 🌐 Online / Virtual
 - **Participation:** 🟢 Solo Eligible (1 Member)
@@ -1920,7 +1986,7 @@
 👉 **[Direct Link to Apply](https://unstop.com/hackathons/trinit-hackathon-30-nit-trichy-912319)**
 
 ---
-### 131. [Hack the Future: DApp Edition By Blockseblock](https://unstop.com/hackathons/hack-the-future-e-summit-2024-indian-institute-of-information-technology-design-and-manufacturing-iiitdm-kanc-929577)
+### 134. [Hack the Future: DApp Edition By Blockseblock](https://unstop.com/hackathons/hack-the-future-e-summit-2024-indian-institute-of-information-technology-design-and-manufacturing-iiitdm-kanc-929577)
 - **Platform:** `Unstop` | **Priority Score:** `75/100` | **Mode:** `Online`
 - **Venue / Location:** 🌐 Online / Virtual
 - **Participation:** 🟢 Solo Eligible (1 Member)
@@ -1933,7 +1999,20 @@
 👉 **[Direct Link to Apply](https://unstop.com/hackathons/hack-the-future-e-summit-2024-indian-institute-of-information-technology-design-and-manufacturing-iiitdm-kanc-929577)**
 
 ---
-### 132. [Flipkart GRiD 6.0 - Software Development Track](https://unstop.com/hackathons/crp-flipkart-grid-60-software-development-track-flipkart-grid-60-flipkart-1024247)
+### 135. [Story Protocol v1.0 Buildathon](https://story-buildathon.devfolio.co)
+- **Platform:** `Devfolio` | **Priority Score:** `75/100` | **Mode:** `Online`
+- **Venue / Location:** 🌐 Online / Virtual
+- **Participation:** 🟢 Solo Eligible (1 Member)
+- **Registration Deadline:** `2024-05-09T07:00:00+00:00`
+- **Prize Pool:** `₹`
+- **Tracks:** General / Open Innovation
+- **Organizer:** Devfolio Community
+- **Match Factors:** 🌐 **Accessible Online Mode** (+15 pts) • 👤 **Solo Eligible (1 Member)** (+35 pts) • 🤖 **AI & Software Tracks** (+25 pts) [AI, API]
+
+👉 **[Direct Link to Apply](https://story-buildathon.devfolio.co)**
+
+---
+### 136. [Flipkart GRiD 6.0 - Software Development Track](https://unstop.com/hackathons/crp-flipkart-grid-60-software-development-track-flipkart-grid-60-flipkart-1024247)
 - **Platform:** `Unstop` | **Priority Score:** `75/100` | **Mode:** `Online`
 - **Venue / Location:** 🌐 Online / Virtual
 - **Participation:** 🟢 Solo Eligible (1 Member)
@@ -1946,7 +2025,7 @@
 👉 **[Direct Link to Apply](https://unstop.com/hackathons/crp-flipkart-grid-60-software-development-track-flipkart-grid-60-flipkart-1024247)**
 
 ---
-### 133. [Innovate X Hackathon](https://unstop.com/hackathons/innovate-x-hackathon-shyam-lal-college-university-of-delhi-1204380)
+### 137. [Innovate X Hackathon](https://unstop.com/hackathons/innovate-x-hackathon-shyam-lal-college-university-of-delhi-1204380)
 - **Platform:** `Unstop` | **Priority Score:** `75/100` | **Mode:** `Online`
 - **Venue / Location:** 🌐 Online / Virtual
 - **Participation:** 🟢 Solo Eligible (1 Member)
@@ -1959,7 +2038,7 @@
 👉 **[Direct Link to Apply](https://unstop.com/hackathons/innovate-x-hackathon-shyam-lal-college-university-of-delhi-1204380)**
 
 ---
-### 134. [GenAI Hackathon - Product Case Study Challenge (in collaboration with Reachifyme)](https://unstop.com/hackathons/crp-genai-hackathon-product-case-study-challenge-in-collaboration-with-reachifyme-product-space-1264642)
+### 138. [GenAI Hackathon - Product Case Study Challenge (in collaboration with Reachifyme)](https://unstop.com/hackathons/crp-genai-hackathon-product-case-study-challenge-in-collaboration-with-reachifyme-product-space-1264642)
 - **Platform:** `Unstop` | **Priority Score:** `75/100` | **Mode:** `Online`
 - **Venue / Location:** 🌐 Online / Virtual
 - **Participation:** 🟢 Solo Eligible (1 Member)
@@ -1972,7 +2051,7 @@
 👉 **[Direct Link to Apply](https://unstop.com/hackathons/crp-genai-hackathon-product-case-study-challenge-in-collaboration-with-reachifyme-product-space-1264642)**
 
 ---
-### 135. [Altair's Data Science Contest](https://unstop.com/hackathons/altairs-data-science-contest-e-summit25-indian-institute-of-information-technology-design-and-manufacturing-k-1365780)
+### 139. [Altair's Data Science Contest](https://unstop.com/hackathons/altairs-data-science-contest-e-summit25-indian-institute-of-information-technology-design-and-manufacturing-k-1365780)
 - **Platform:** `Unstop` | **Priority Score:** `75/100` | **Mode:** `Online`
 - **Venue / Location:** 🌐 Online / Virtual
 - **Participation:** 🟢 Solo Eligible (1 Member)
@@ -1985,7 +2064,7 @@
 👉 **[Direct Link to Apply](https://unstop.com/hackathons/altairs-data-science-contest-e-summit25-indian-institute-of-information-technology-design-and-manufacturing-k-1365780)**
 
 ---
-### 136. [Changethon](https://unstop.com/hackathons/changethon-national-social-summit-2025-iit-roorkee-1368722)
+### 140. [Changethon](https://unstop.com/hackathons/changethon-national-social-summit-2025-iit-roorkee-1368722)
 - **Platform:** `Unstop` | **Priority Score:** `75/100` | **Mode:** `Online`
 - **Venue / Location:** 🌐 Online / Virtual
 - **Participation:** 🟢 Solo Eligible (1 Member)
@@ -1998,7 +2077,7 @@
 👉 **[Direct Link to Apply](https://unstop.com/hackathons/changethon-national-social-summit-2025-iit-roorkee-1368722)**
 
 ---
-### 137. [India's Biggest AI Hackathon](https://unstop.com/hackathons/indias-biggest-ai-hackathon-masters-union-school-of-business-1546867)
+### 141. [India's Biggest AI Hackathon](https://unstop.com/hackathons/indias-biggest-ai-hackathon-masters-union-school-of-business-1546867)
 - **Platform:** `Unstop` | **Priority Score:** `75/100` | **Mode:** `Online`
 - **Venue / Location:** 🌐 Online / Virtual
 - **Participation:** 🟢 Solo Eligible (1 Member)
@@ -2011,7 +2090,7 @@
 👉 **[Direct Link to Apply](https://unstop.com/hackathons/indias-biggest-ai-hackathon-masters-union-school-of-business-1546867)**
 
 ---
-### 138. [AIVORA 2K26 ](https://unstop.com/hackathons/aivora-2k26-innovation-hacks-1767030)
+### 142. [AIVORA 2K26 ](https://unstop.com/hackathons/aivora-2k26-innovation-hacks-1767030)
 - **Platform:** `Unstop` | **Priority Score:** `75/100` | **Mode:** `Online`
 - **Venue / Location:** 🌐 Online / Virtual
 - **Participation:** 🟢 Solo Eligible (1 Member)
@@ -2024,7 +2103,7 @@
 👉 **[Direct Link to Apply](https://unstop.com/hackathons/aivora-2k26-innovation-hacks-1767030)**
 
 ---
-### 139. [Code Quest](https://unstop.com/hackathons/code-quest-guru-nanak-dev-university-regional-campus-gurdaspur-punjab-1769089)
+### 143. [Code Quest](https://unstop.com/hackathons/code-quest-guru-nanak-dev-university-regional-campus-gurdaspur-punjab-1769089)
 - **Platform:** `Unstop` | **Priority Score:** `75/100` | **Mode:** `Online`
 - **Venue / Location:** 🌐 Online / Virtual
 - **Participation:** 🟢 Solo Eligible (1 Member)
@@ -2037,7 +2116,7 @@
 👉 **[Direct Link to Apply](https://unstop.com/hackathons/code-quest-guru-nanak-dev-university-regional-campus-gurdaspur-punjab-1769089)**
 
 ---
-### 140. [Hack & Among Us](https://unstop.com/hackathons/hack-among-us-dr-akhilesh-das-gupta-institute-of-technology-and-management-adgitm-new-delhi-1770230)
+### 144. [Hack & Among Us](https://unstop.com/hackathons/hack-among-us-dr-akhilesh-das-gupta-institute-of-technology-and-management-adgitm-new-delhi-1770230)
 - **Platform:** `Unstop` | **Priority Score:** `75/100` | **Mode:** `In-Person`
 - **Venue / Location:** 🏢 In-Person (hybrid)
 - **Participation:** 🟢 Solo Eligible (1 Member)
@@ -2050,7 +2129,33 @@
 👉 **[Direct Link to Apply](https://unstop.com/hackathons/hack-among-us-dr-akhilesh-das-gupta-institute-of-technology-and-management-adgitm-new-delhi-1770230)**
 
 ---
-### 141. [Game Jam ](https://unstop.com/hackathons/game-jam-tryst-indian-institute-of-technology-iit-delhi-281262)
+### 145. [Teckathon](https://teckathon.devfolio.co)
+- **Platform:** `Devfolio` | **Priority Score:** `60/100` | **Mode:** `In-Person`
+- **Venue / Location:** 🏢 Maharashtra (Navi Mumbai)
+- **Participation:** 🟢 Solo Eligible (1 Member)
+- **Registration Deadline:** `2020-03-16T04:30:00Z`
+- **Prize Pool:** `₹`
+- **Tracks:** General / Open Innovation
+- **Organizer:** Devfolio Community
+- **Match Factors:** 🏢 **Maharashtra Proximity** (+25 pts) [Maharashtra, Mumbai] • 👤 **Solo Eligible (1 Member)** (+35 pts)
+
+👉 **[Direct Link to Apply](https://teckathon.devfolio.co)**
+
+---
+### 146. [Tezos India Fellowship 2.0](https://tif2.devfolio.co)
+- **Platform:** `Devfolio` | **Priority Score:** `60/100` | **Mode:** `In-Person`
+- **Venue / Location:** 🏢 In-Person (TBA)
+- **Participation:** 🟢 Solo Eligible (1 Member)
+- **Registration Deadline:** `2021-08-02T14:30:00+00:00`
+- **Prize Pool:** `Not disclosed`
+- **Tracks:** General / Open Innovation
+- **Organizer:** Devfolio Community
+- **Match Factors:** 👤 **Solo Eligible (1 Member)** (+35 pts) • 🤖 **AI & Software Tracks** (+25 pts) [Blockchain]
+
+👉 **[Direct Link to Apply](https://tif2.devfolio.co)**
+
+---
+### 147. [Game Jam ](https://unstop.com/hackathons/game-jam-tryst-indian-institute-of-technology-iit-delhi-281262)
 - **Platform:** `Unstop` | **Priority Score:** `60/100` | **Mode:** `In-Person`
 - **Venue / Location:** 🏢 In-Person (offline)
 - **Participation:** 🟢 Solo Eligible (1 Member)
@@ -2063,7 +2168,7 @@
 👉 **[Direct Link to Apply](https://unstop.com/hackathons/game-jam-tryst-indian-institute-of-technology-iit-delhi-281262)**
 
 ---
-### 142. [Tech Hackathon](https://unstop.com/hackathons/tech-hackathon-indian-institute-of-technology-iit-delhi-469170)
+### 148. [Tech Hackathon](https://unstop.com/hackathons/tech-hackathon-indian-institute-of-technology-iit-delhi-469170)
 - **Platform:** `Unstop` | **Priority Score:** `60/100` | **Mode:** `In-Person`
 - **Venue / Location:** 🏢 In-Person (offline)
 - **Participation:** 🟢 Solo Eligible (1 Member)
@@ -2076,7 +2181,7 @@
 👉 **[Direct Link to Apply](https://unstop.com/hackathons/tech-hackathon-indian-institute-of-technology-iit-delhi-469170)**
 
 ---
-### 143. [Brainathon](https://unstop.com/hackathons/brainathon-vellore-institute-of-technology-vit-ap-andhra-pradesh-536227)
+### 149. [Brainathon](https://unstop.com/hackathons/brainathon-vellore-institute-of-technology-vit-ap-andhra-pradesh-536227)
 - **Platform:** `Unstop` | **Priority Score:** `60/100` | **Mode:** `In-Person`
 - **Venue / Location:** 🏢 In-Person (offline)
 - **Participation:** 🟢 Solo Eligible (1 Member)
@@ -2089,7 +2194,7 @@
 👉 **[Direct Link to Apply](https://unstop.com/hackathons/brainathon-vellore-institute-of-technology-vit-ap-andhra-pradesh-536227)**
 
 ---
-### 144. [12th IACC HACKATHON -2K23](https://unstop.com/hackathons/12th-iacc-hackathon-2k23-cmr-college-of-engineering-and-technology-cmrcet-hyderabad-583694)
+### 150. [12th IACC HACKATHON -2K23](https://unstop.com/hackathons/12th-iacc-hackathon-2k23-cmr-college-of-engineering-and-technology-cmrcet-hyderabad-583694)
 - **Platform:** `Unstop` | **Priority Score:** `60/100` | **Mode:** `In-Person`
 - **Venue / Location:** 🏢 In-Person (offline)
 - **Participation:** 🟢 Solo Eligible (1 Member)
@@ -2102,7 +2207,7 @@
 👉 **[Direct Link to Apply](https://unstop.com/hackathons/12th-iacc-hackathon-2k23-cmr-college-of-engineering-and-technology-cmrcet-hyderabad-583694)**
 
 ---
-### 145. [LNMHacks 5.0](https://unstop.com/hackathons/lnmhacks-50-lnm-institute-of-information-technology-lnmiit-jaipur-588886)
+### 151. [LNMHacks 5.0](https://unstop.com/hackathons/lnmhacks-50-lnm-institute-of-information-technology-lnmiit-jaipur-588886)
 - **Platform:** `Unstop` | **Priority Score:** `60/100` | **Mode:** `In-Person`
 - **Venue / Location:** 🏢 In-Person (offline)
 - **Participation:** 🟢 Solo Eligible (1 Member)
@@ -2115,7 +2220,7 @@
 👉 **[Direct Link to Apply](https://unstop.com/hackathons/lnmhacks-50-lnm-institute-of-information-technology-lnmiit-jaipur-588886)**
 
 ---
-### 146. [Cyberheist - Capture the Flag (CTF)](https://unstop.com/hackathons/cyberheist-capture-the-flag-ctf-siws-college-593666)
+### 152. [Cyberheist - Capture the Flag (CTF)](https://unstop.com/hackathons/cyberheist-capture-the-flag-ctf-siws-college-593666)
 - **Platform:** `Unstop` | **Priority Score:** `60/100` | **Mode:** `In-Person`
 - **Venue / Location:** 🏢 In-Person (offline)
 - **Participation:** 🟢 Solo Eligible (1 Member)
@@ -2128,7 +2233,20 @@
 👉 **[Direct Link to Apply](https://unstop.com/hackathons/cyberheist-capture-the-flag-ctf-siws-college-593666)**
 
 ---
-### 147. [Hackoona Matata](https://apoorv-hackathon.devfolio.co)
+### 153. [RapidHacks](https://rapidhacks.devfolio.co)
+- **Platform:** `Devfolio` | **Priority Score:** `60/100` | **Mode:** `In-Person`
+- **Venue / Location:** 🏢 In-Person (TBA)
+- **Participation:** 🟢 Solo Eligible (1 Member)
+- **Registration Deadline:** `2023-02-18T06:30:00+00:00`
+- **Prize Pool:** `₹`
+- **Tracks:** General / Open Innovation
+- **Organizer:** Devfolio Community
+- **Match Factors:** 👤 **Solo Eligible (1 Member)** (+35 pts) • 🤖 **AI & Software Tracks** (+25 pts) [Open Innovation]
+
+👉 **[Direct Link to Apply](https://rapidhacks.devfolio.co)**
+
+---
+### 154. [Hackoona Matata](https://apoorv-hackathon.devfolio.co)
 - **Platform:** `Devfolio` | **Priority Score:** `60/100` | **Mode:** `In-Person`
 - **Venue / Location:** 🏢 In-Person (TBA)
 - **Participation:** 🟢 Solo Eligible (1 Member)
@@ -2141,7 +2259,7 @@
 👉 **[Direct Link to Apply](https://apoorv-hackathon.devfolio.co)**
 
 ---
-### 148. [Code Odyssey 2.0](https://code-odyssey-2.devfolio.co)
+### 155. [Code Odyssey 2.0](https://code-odyssey-2.devfolio.co)
 - **Platform:** `Devfolio` | **Priority Score:** `60/100` | **Mode:** `In-Person`
 - **Venue / Location:** 🏢 Maharashtra (Mumbai)
 - **Participation:** 🟢 Solo Eligible (1 Member)
@@ -2154,7 +2272,7 @@
 👉 **[Direct Link to Apply](https://code-odyssey-2.devfolio.co)**
 
 ---
-### 149. [Build Week](https://buildweek.devfolio.co)
+### 156. [Build Week](https://buildweek.devfolio.co)
 - **Platform:** `Devfolio` | **Priority Score:** `60/100` | **Mode:** `In-Person`
 - **Venue / Location:** 🏢 In-Person (TBA)
 - **Participation:** 🟢 Solo Eligible (1 Member)
@@ -2167,7 +2285,7 @@
 👉 **[Direct Link to Apply](https://buildweek.devfolio.co)**
 
 ---
-### 150. [PASSWORD](https://unstop.com/hackathons/password-vit-chennai-682926)
+### 157. [PASSWORD](https://unstop.com/hackathons/password-vit-chennai-682926)
 - **Platform:** `Unstop` | **Priority Score:** `60/100` | **Mode:** `In-Person`
 - **Venue / Location:** 🏢 In-Person (offline)
 - **Participation:** 🟢 Solo Eligible (1 Member)
@@ -2180,7 +2298,7 @@
 👉 **[Direct Link to Apply](https://unstop.com/hackathons/password-vit-chennai-682926)**
 
 ---
-### 151. [Cyber-O-Day 2.0](https://unstop.com/hackathons/cyber-o-day-20-vit-chennai-783134)
+### 158. [Cyber-O-Day 2.0](https://unstop.com/hackathons/cyber-o-day-20-vit-chennai-783134)
 - **Platform:** `Unstop` | **Priority Score:** `60/100` | **Mode:** `In-Person`
 - **Venue / Location:** 🏢 In-Person (offline)
 - **Participation:** 🟢 Solo Eligible (1 Member)
@@ -2193,7 +2311,72 @@
 👉 **[Direct Link to Apply](https://unstop.com/hackathons/cyber-o-day-20-vit-chennai-783134)**
 
 ---
-### 152. [Password 2024](https://unstop.com/hackathons/password-2024-vit-chennai-872352)
+### 159. [HackWiz 2.0](https://hackwiz-1.devfolio.co)
+- **Platform:** `Devfolio` | **Priority Score:** `60/100` | **Mode:** `In-Person`
+- **Venue / Location:** 🏢 In-Person (Delhi, India)
+- **Participation:** 🟢 Solo Eligible (1 Member)
+- **Registration Deadline:** `2023-10-21T04:30:00+00:00`
+- **Prize Pool:** `₹`
+- **Tracks:** General / Open Innovation
+- **Organizer:** Devfolio Community
+- **Match Factors:** 👤 **Solo Eligible (1 Member)** (+35 pts) • 🤖 **AI & Software Tracks** (+25 pts) [Open Innovation]
+
+👉 **[Direct Link to Apply](https://hackwiz-1.devfolio.co)**
+
+---
+### 160. [Royal Kingathon](https://royal-kingathon.devfolio.co)
+- **Platform:** `Devfolio` | **Priority Score:** `60/100` | **Mode:** `In-Person`
+- **Venue / Location:** 🏢 In-Person (Agra, Uttar Pradesh, India)
+- **Participation:** 🟢 Solo Eligible (1 Member)
+- **Registration Deadline:** `2023-12-15T02:30:00+00:00`
+- **Prize Pool:** `₹`
+- **Tracks:** General / Open Innovation
+- **Organizer:** Devfolio Community
+- **Match Factors:** 👤 **Solo Eligible (1 Member)** (+35 pts) • 🤖 **AI & Software Tracks** (+25 pts) [Artificial Intelligence, Machine Learning, Open Innovation]
+
+👉 **[Direct Link to Apply](https://royal-kingathon.devfolio.co)**
+
+---
+### 161. [WinterToWonder](https://wintertowonder.devfolio.co)
+- **Platform:** `Devfolio` | **Priority Score:** `60/100` | **Mode:** `In-Person`
+- **Venue / Location:** 🏢 In-Person (Faridabad, Haryana, India)
+- **Participation:** 🟢 Solo Eligible (1 Member)
+- **Registration Deadline:** `2023-12-15T05:30:00+00:00`
+- **Prize Pool:** `₹`
+- **Tracks:** General / Open Innovation
+- **Organizer:** Devfolio Community
+- **Match Factors:** 👤 **Solo Eligible (1 Member)** (+35 pts) • 🤖 **AI & Software Tracks** (+25 pts) [Artificial Intelligence, Machine Learning, Open Innovation]
+
+👉 **[Direct Link to Apply](https://wintertowonder.devfolio.co)**
+
+---
+### 162. [Debate-a-thon](https://debateathon.devfolio.co)
+- **Platform:** `Devfolio` | **Priority Score:** `60/100` | **Mode:** `In-Person`
+- **Venue / Location:** 🏢 Maharashtra (Mumbai)
+- **Participation:** 🟢 Solo Eligible (1 Member)
+- **Registration Deadline:** `2023-12-16T04:30:00+00:00`
+- **Prize Pool:** `Not disclosed`
+- **Tracks:** General / Open Innovation
+- **Organizer:** Devfolio Community
+- **Match Factors:** 🏢 **Maharashtra Proximity** (+25 pts) [Maharashtra, Mumbai] • 👤 **Solo Eligible (1 Member)** (+35 pts)
+
+👉 **[Direct Link to Apply](https://debateathon.devfolio.co)**
+
+---
+### 163. [EXECUTE-3.0](https://execute3.devfolio.co)
+- **Platform:** `Devfolio` | **Priority Score:** `60/100` | **Mode:** `In-Person`
+- **Venue / Location:** 🏢 In-Person (Delhi Technological University, Shahbad Daulatpur Village, Rohini, Delhi, India)
+- **Participation:** 🟢 Solo Eligible (1 Member)
+- **Registration Deadline:** `2024-01-23T16:30:00+00:00`
+- **Prize Pool:** `₹`
+- **Tracks:** General / Open Innovation
+- **Organizer:** Devfolio Community
+- **Match Factors:** 👤 **Solo Eligible (1 Member)** (+35 pts) • 🤖 **AI & Software Tracks** (+25 pts) [Blockchain]
+
+👉 **[Direct Link to Apply](https://execute3.devfolio.co)**
+
+---
+### 164. [Password 2024](https://unstop.com/hackathons/password-2024-vit-chennai-872352)
 - **Platform:** `Unstop` | **Priority Score:** `60/100` | **Mode:** `In-Person`
 - **Venue / Location:** 🏢 In-Person (offline)
 - **Participation:** 🟢 Solo Eligible (1 Member)
@@ -2206,7 +2389,20 @@
 👉 **[Direct Link to Apply](https://unstop.com/hackathons/password-2024-vit-chennai-872352)**
 
 ---
-### 153. [Webgators](https://unstop.com/hackathons/webgators-techmarathon24-dduc-du-new-delhi-910797)
+### 165. [INNOV8 2.0](https://innovate2.devfolio.co)
+- **Platform:** `Devfolio` | **Priority Score:** `60/100` | **Mode:** `In-Person`
+- **Venue / Location:** 🏢 Maharashtra (Navi Mumbai)
+- **Participation:** 🟢 Solo Eligible (1 Member)
+- **Registration Deadline:** `2024-02-27T04:30:00+00:00`
+- **Prize Pool:** `₹`
+- **Tracks:** General / Open Innovation
+- **Organizer:** Devfolio Community
+- **Match Factors:** 🏢 **Maharashtra Proximity** (+25 pts) [Maharashtra, Mumbai] • 👤 **Solo Eligible (1 Member)** (+35 pts)
+
+👉 **[Direct Link to Apply](https://innovate2.devfolio.co)**
+
+---
+### 166. [Webgators](https://unstop.com/hackathons/webgators-techmarathon24-dduc-du-new-delhi-910797)
 - **Platform:** `Unstop` | **Priority Score:** `60/100` | **Mode:** `In-Person`
 - **Venue / Location:** 🏢 In-Person (offline)
 - **Participation:** 🟢 Solo Eligible (1 Member)
@@ -2219,7 +2415,7 @@
 👉 **[Direct Link to Apply](https://unstop.com/hackathons/webgators-techmarathon24-dduc-du-new-delhi-910797)**
 
 ---
-### 154. [Code Uncode](https://unstop.com/hackathons/code-uncode-kirori-mal-college-kmc-du-delhi-922945)
+### 167. [Code Uncode](https://unstop.com/hackathons/code-uncode-kirori-mal-college-kmc-du-delhi-922945)
 - **Platform:** `Unstop` | **Priority Score:** `60/100` | **Mode:** `In-Person`
 - **Venue / Location:** 🏢 In-Person (offline)
 - **Participation:** 🟢 Solo Eligible (1 Member)
@@ -2232,7 +2428,7 @@
 👉 **[Direct Link to Apply](https://unstop.com/hackathons/code-uncode-kirori-mal-college-kmc-du-delhi-922945)**
 
 ---
-### 155. [Data Bizz - Altair Data Science Competition](https://unstop.com/hackathons/data-bizz-a-data-science-competition-indian-institute-of-information-technology-design-and-manufacturing-iiit-922330)
+### 168. [Data Bizz - Altair Data Science Competition](https://unstop.com/hackathons/data-bizz-a-data-science-competition-indian-institute-of-information-technology-design-and-manufacturing-iiit-922330)
 - **Platform:** `Unstop` | **Priority Score:** `60/100` | **Mode:** `In-Person`
 - **Venue / Location:** 🏢 In-Person (offline)
 - **Participation:** 🟢 Solo Eligible (1 Member)
@@ -2245,7 +2441,33 @@
 👉 **[Direct Link to Apply](https://unstop.com/hackathons/data-bizz-a-data-science-competition-indian-institute-of-information-technology-design-and-manufacturing-iiit-922330)**
 
 ---
-### 156. [Code Uncode](https://unstop.com/hackathons/code-uncode-kirori-mal-college-kmc-du-delhi-1437224)
+### 169. [HackwithDelhi](https://hackwithdelhi.devfolio.co)
+- **Platform:** `Devfolio` | **Priority Score:** `60/100` | **Mode:** `In-Person`
+- **Venue / Location:** 🏢 In-Person (GL Bajaj Institute of Technology & Management, APJ Abdul Kalam Road, Knowledge Park III, Greater Noida, Uttar Pradesh, India)
+- **Participation:** 🟢 Solo Eligible (1 Member)
+- **Registration Deadline:** `2024-05-20T02:30:00+00:00`
+- **Prize Pool:** `₹`
+- **Tracks:** General / Open Innovation
+- **Organizer:** Devfolio Community
+- **Match Factors:** 👤 **Solo Eligible (1 Member)** (+35 pts) • 🤖 **AI & Software Tracks** (+25 pts) [Open Innovation]
+
+👉 **[Direct Link to Apply](https://hackwithdelhi.devfolio.co)**
+
+---
+### 170. [MATRIX 2.0](https://matrix2.devfolio.co)
+- **Platform:** `Devfolio` | **Priority Score:** `60/100` | **Mode:** `In-Person`
+- **Venue / Location:** 🏢 In-Person (Institute of Information Technology and Management (IITM), Janakpuri Institutional Area, Janakpuri, New Delhi, Delhi, India)
+- **Participation:** 🟢 Solo Eligible (1 Member)
+- **Registration Deadline:** `2024-09-20T05:30:00+00:00`
+- **Prize Pool:** `₹`
+- **Tracks:** General / Open Innovation
+- **Organizer:** Devfolio Community
+- **Match Factors:** 👤 **Solo Eligible (1 Member)** (+35 pts) • 🤖 **AI & Software Tracks** (+25 pts) [Mobile App]
+
+👉 **[Direct Link to Apply](https://matrix2.devfolio.co)**
+
+---
+### 171. [Code Uncode](https://unstop.com/hackathons/code-uncode-kirori-mal-college-kmc-du-delhi-1437224)
 - **Platform:** `Unstop` | **Priority Score:** `60/100` | **Mode:** `In-Person`
 - **Venue / Location:** 🏢 In-Person (offline)
 - **Participation:** 🟢 Solo Eligible (1 Member)
@@ -2258,7 +2480,20 @@
 👉 **[Direct Link to Apply](https://unstop.com/hackathons/code-uncode-kirori-mal-college-kmc-du-delhi-1437224)**
 
 ---
-### 157. [Swift-Hack](https://unstop.com/hackathons/swift-hack-rescon-40-bennett-university-bu-greater-noida-1467125)
+### 172. [Hack-o-Octo 2.0](https://hackocto2.devfolio.co)
+- **Platform:** `Devfolio` | **Priority Score:** `60/100` | **Mode:** `In-Person`
+- **Venue / Location:** 🏢 In-Person (Chandigarh University, Highway, Chandigarh State, Punjab, India)
+- **Participation:** 🟢 Solo Eligible (1 Member)
+- **Registration Deadline:** `2025-03-29T04:30:00+00:00`
+- **Prize Pool:** `₹`
+- **Tracks:** General / Open Innovation
+- **Organizer:** Devfolio Community
+- **Match Factors:** 👤 **Solo Eligible (1 Member)** (+35 pts) • 🤖 **AI & Software Tracks** (+25 pts) [Artificial Intelligence, Machine Learning, Blockchain]
+
+👉 **[Direct Link to Apply](https://hackocto2.devfolio.co)**
+
+---
+### 173. [Swift-Hack](https://unstop.com/hackathons/swift-hack-rescon-40-bennett-university-bu-greater-noida-1467125)
 - **Platform:** `Unstop` | **Priority Score:** `60/100` | **Mode:** `In-Person`
 - **Venue / Location:** 🏢 In-Person (offline)
 - **Participation:** 🟢 Solo Eligible (1 Member)
@@ -2271,7 +2506,7 @@
 👉 **[Direct Link to Apply](https://unstop.com/hackathons/swift-hack-rescon-40-bennett-university-bu-greater-noida-1467125)**
 
 ---
-### 158. [GDG Solution Hacks](https://www.mlh.com/events/gdg-solution-hacks/prizes)
+### 174. [GDG Solution Hacks](https://www.mlh.com/events/gdg-solution-hacks/prizes)
 - **Platform:** `MLH` | **Priority Score:** `60/100` | **Mode:** `In-Person`
 - **Venue / Location:** 🏢 In-Person (Toronto, Canada)
 - **Participation:** 🟢 Solo Eligible (1 Member)
@@ -2284,7 +2519,7 @@
 👉 **[Direct Link to Apply](https://www.mlh.com/events/gdg-solution-hacks/prizes)**
 
 ---
-### 159. [Innovate  X Hackathon](https://unstop.com/hackathons/innovate-x-hackathon-shyam-lal-college-university-of-delhi-1631069)
+### 175. [Innovate  X Hackathon](https://unstop.com/hackathons/innovate-x-hackathon-shyam-lal-college-university-of-delhi-1631069)
 - **Platform:** `Unstop` | **Priority Score:** `60/100` | **Mode:** `In-Person`
 - **Venue / Location:** 🏢 In-Person (offline)
 - **Participation:** 🟢 Solo Eligible (1 Member)
@@ -2297,20 +2532,7 @@
 👉 **[Direct Link to Apply](https://unstop.com/hackathons/innovate-x-hackathon-shyam-lal-college-university-of-delhi-1631069)**
 
 ---
-### 160. [HackPrix Season 3](https://www.mlh.com/events/hackprix-season-3/prizes)
-- **Platform:** `MLH` | **Priority Score:** `60/100` | **Mode:** `In-Person`
-- **Venue / Location:** 🏢 In-Person (Hyderabad, Telangana)
-- **Participation:** 🟢 Solo Eligible (1 Member)
-- **Registration Deadline:** `2026-06-13T12:00:00Z`
-- **Prize Pool:** `Swag, Hardware Labs, MLH Points & Trophies`
-- **Tracks:** Student Innovation, AI/ML, Web/Mobile
-- **Organizer:** Major League Hacking / Student Community
-- **Match Factors:** 👤 **Solo Eligible (1 Member)** (+35 pts) • 🤖 **AI & Software Tracks** (+25 pts) [AI, ML]
-
-👉 **[Direct Link to Apply](https://www.mlh.com/events/hackprix-season-3/prizes)**
-
----
-### 161. [Server Crash - Who Killed the server?](https://unstop.com/hackathons/server-crash-who-killed-the-server-tech-fusion-26-vaish-college-of-engineering-rohtak-haryana-1769168)
+### 176. [Server Crash - Who Killed the server?](https://unstop.com/hackathons/server-crash-who-killed-the-server-tech-fusion-26-vaish-college-of-engineering-rohtak-haryana-1769168)
 - **Platform:** `Unstop` | **Priority Score:** `60/100` | **Mode:** `In-Person`
 - **Venue / Location:** 🏢 In-Person (offline)
 - **Participation:** 🟢 Solo Eligible (1 Member)
@@ -2323,7 +2545,7 @@
 👉 **[Direct Link to Apply](https://unstop.com/hackathons/server-crash-who-killed-the-server-tech-fusion-26-vaish-college-of-engineering-rohtak-haryana-1769168)**
 
 ---
-### 162. [Designathon - CAD & PCB Hackathon](https://unstop.com/hackathons/designathon-cad-pcb-hackathon-karuyantra-carnival-2026-university-school-of-automation-robotics-delhi-1769998)
+### 177. [Designathon - CAD & PCB Hackathon](https://unstop.com/hackathons/designathon-cad-pcb-hackathon-karuyantra-carnival-2026-university-school-of-automation-robotics-delhi-1769998)
 - **Platform:** `Unstop` | **Priority Score:** `60/100` | **Mode:** `In-Person`
 - **Venue / Location:** 🏢 In-Person (offline)
 - **Participation:** 🟢 Solo Eligible (1 Member)
@@ -2336,7 +2558,20 @@
 👉 **[Direct Link to Apply](https://unstop.com/hackathons/designathon-cad-pcb-hackathon-karuyantra-carnival-2026-university-school-of-automation-robotics-delhi-1769998)**
 
 ---
-### 163. [Covix360](https://covix360.devfolio.co)
+### 178. [Hack-DCRUST](https://hackdcrust.devfolio.co)
+- **Platform:** `Devfolio` | **Priority Score:** `50/100` | **Mode:** `Online`
+- **Venue / Location:** 🌐 Online / Virtual
+- **Participation:** 🟢 Solo Eligible (1 Member)
+- **Registration Deadline:** `2020-07-06T09:30:00Z`
+- **Prize Pool:** `Not disclosed`
+- **Tracks:** General / Open Innovation
+- **Organizer:** Devfolio Community
+- **Match Factors:** 🌐 **Accessible Online Mode** (+15 pts) • 👤 **Solo Eligible (1 Member)** (+35 pts)
+
+👉 **[Direct Link to Apply](https://hackdcrust.devfolio.co)**
+
+---
+### 179. [Covix360](https://covix360.devfolio.co)
 - **Platform:** `Devfolio` | **Priority Score:** `50/100` | **Mode:** `Online`
 - **Venue / Location:** 🌐 Online / Virtual
 - **Participation:** 🟢 Solo Eligible (1 Member)
@@ -2349,7 +2584,20 @@
 👉 **[Direct Link to Apply](https://covix360.devfolio.co)**
 
 ---
-### 164. [OctaHacks 3.0](https://dsc-ciet-octahacks.devfolio.co)
+### 180. [Design Equipix](https://design-equipix.devfolio.co)
+- **Platform:** `Devfolio` | **Priority Score:** `50/100` | **Mode:** `Online`
+- **Venue / Location:** 🌐 Online / Virtual
+- **Participation:** 🟢 Solo Eligible (1 Member)
+- **Registration Deadline:** `2020-11-02T18:30:00Z`
+- **Prize Pool:** `₹`
+- **Tracks:** General / Open Innovation
+- **Organizer:** Devfolio Community
+- **Match Factors:** 🌐 **Accessible Online Mode** (+15 pts) • 👤 **Solo Eligible (1 Member)** (+35 pts)
+
+👉 **[Direct Link to Apply](https://design-equipix.devfolio.co)**
+
+---
+### 181. [OctaHacks 3.0](https://dsc-ciet-octahacks.devfolio.co)
 - **Platform:** `Devfolio` | **Priority Score:** `50/100` | **Mode:** `Online`
 - **Venue / Location:** 🌐 Online / Virtual
 - **Participation:** 🟢 Solo Eligible (1 Member)
@@ -2362,7 +2610,33 @@
 👉 **[Direct Link to Apply](https://dsc-ciet-octahacks.devfolio.co)**
 
 ---
-### 165. [Code Creed 3.0 - A Coding Quiz](https://unstop.com/hackathons/code-creed-missioned-241137)
+### 182. [The Python Week](https://thepythonweek.devfolio.co)
+- **Platform:** `Devfolio` | **Priority Score:** `50/100` | **Mode:** `Online`
+- **Venue / Location:** 🌐 Online / Virtual
+- **Participation:** 🟢 Solo Eligible (1 Member)
+- **Registration Deadline:** `2021-01-08T06:30:00Z`
+- **Prize Pool:** `₹`
+- **Tracks:** General / Open Innovation
+- **Organizer:** Devfolio Community
+- **Match Factors:** 🌐 **Accessible Online Mode** (+15 pts) • 👤 **Solo Eligible (1 Member)** (+35 pts)
+
+👉 **[Direct Link to Apply](https://thepythonweek.devfolio.co)**
+
+---
+### 183. [ApScript](https://apscript.devfolio.co)
+- **Platform:** `Devfolio` | **Priority Score:** `50/100` | **Mode:** `Online`
+- **Venue / Location:** 🌐 Online / Virtual
+- **Participation:** 🟢 Solo Eligible (1 Member)
+- **Registration Deadline:** `2021-02-05T18:30:00+00:00`
+- **Prize Pool:** `₹`
+- **Tracks:** General / Open Innovation
+- **Organizer:** Devfolio Community
+- **Match Factors:** 🌐 **Accessible Online Mode** (+15 pts) • 👤 **Solo Eligible (1 Member)** (+35 pts)
+
+👉 **[Direct Link to Apply](https://apscript.devfolio.co)**
+
+---
+### 184. [Code Creed 3.0 - A Coding Quiz](https://unstop.com/hackathons/code-creed-missioned-241137)
 - **Platform:** `Unstop` | **Priority Score:** `50/100` | **Mode:** `Online`
 - **Venue / Location:** 🌐 Online / Virtual
 - **Participation:** 🟢 Solo Eligible (1 Member)
@@ -2375,7 +2649,7 @@
 👉 **[Direct Link to Apply](https://unstop.com/hackathons/code-creed-missioned-241137)**
 
 ---
-### 166. [Hack-For-Cause](https://unstop.com/hackathons/hack-for-cause-indian-institute-of-technology-iit-delhi-267240)
+### 185. [Hack-For-Cause](https://unstop.com/hackathons/hack-for-cause-indian-institute-of-technology-iit-delhi-267240)
 - **Platform:** `Unstop` | **Priority Score:** `50/100` | **Mode:** `Online`
 - **Venue / Location:** 🌐 Online / Virtual
 - **Participation:** 🟢 Solo Eligible (1 Member)
@@ -2388,7 +2662,7 @@
 👉 **[Direct Link to Apply](https://unstop.com/hackathons/hack-for-cause-indian-institute-of-technology-iit-delhi-267240)**
 
 ---
-### 167. [hackTU 3.0](https://hacktu-3.devfolio.co)
+### 186. [hackTU 3.0](https://hacktu-3.devfolio.co)
 - **Platform:** `Devfolio` | **Priority Score:** `50/100` | **Mode:** `Online`
 - **Venue / Location:** 🌐 Online / Virtual
 - **Participation:** 🟢 Solo Eligible (1 Member)
@@ -2401,7 +2675,7 @@
 👉 **[Direct Link to Apply](https://hacktu-3.devfolio.co)**
 
 ---
-### 168. [Inspiron '22](https://inspiron22.devfolio.co)
+### 187. [Inspiron '22](https://inspiron22.devfolio.co)
 - **Platform:** `Devfolio` | **Priority Score:** `50/100` | **Mode:** `Online`
 - **Venue / Location:** 🌐 Online / Virtual
 - **Participation:** 🟢 Solo Eligible (1 Member)
@@ -2414,7 +2688,7 @@
 👉 **[Direct Link to Apply](https://inspiron22.devfolio.co)**
 
 ---
-### 169. [Hackathon](https://unstop.com/hackathons/hackathon-elan-ivision-2022-iit-hyderabad-indian-institute-of-technology-iit-hyderabad-272342)
+### 188. [Hackathon](https://unstop.com/hackathons/hackathon-elan-ivision-2022-iit-hyderabad-indian-institute-of-technology-iit-hyderabad-272342)
 - **Platform:** `Unstop` | **Priority Score:** `50/100` | **Mode:** `Online`
 - **Venue / Location:** 🌐 Online / Virtual
 - **Participation:** 🟢 Solo Eligible (1 Member)
@@ -2427,7 +2701,7 @@
 👉 **[Direct Link to Apply](https://unstop.com/hackathons/hackathon-elan-ivision-2022-iit-hyderabad-indian-institute-of-technology-iit-hyderabad-272342)**
 
 ---
-### 170. [Code Arduino](https://unstop.com/hackathons/code-arduino-elan-ivision-2022-iit-hyderabad-indian-institute-of-technology-iit-hyderabad-273568)
+### 189. [Code Arduino](https://unstop.com/hackathons/code-arduino-elan-ivision-2022-iit-hyderabad-indian-institute-of-technology-iit-hyderabad-273568)
 - **Platform:** `Unstop` | **Priority Score:** `50/100` | **Mode:** `Online`
 - **Venue / Location:** 🌐 Online / Virtual
 - **Participation:** 🟢 Solo Eligible (1 Member)
@@ -2440,7 +2714,7 @@
 👉 **[Direct Link to Apply](https://unstop.com/hackathons/code-arduino-elan-ivision-2022-iit-hyderabad-indian-institute-of-technology-iit-hyderabad-273568)**
 
 ---
-### 171. [Google Code Jam](https://unstop.com/hackathons/google-code-jam-google-10587)
+### 190. [Google Code Jam](https://unstop.com/hackathons/google-code-jam-google-10587)
 - **Platform:** `Unstop` | **Priority Score:** `50/100` | **Mode:** `Online`
 - **Venue / Location:** 🌐 Online / Virtual
 - **Participation:** 🟢 Solo Eligible (1 Member)
@@ -2453,7 +2727,7 @@
 👉 **[Direct Link to Apply](https://unstop.com/hackathons/google-code-jam-google-10587)**
 
 ---
-### 172. [Summit Strive](https://summit-strive-avenue-of-possibilities.devfolio.co)
+### 191. [Summit Strive](https://summit-strive-avenue-of-possibilities.devfolio.co)
 - **Platform:** `Devfolio` | **Priority Score:** `50/100` | **Mode:** `Online`
 - **Venue / Location:** 🌐 Online / Virtual
 - **Participation:** 🟢 Solo Eligible (1 Member)
@@ -2466,7 +2740,7 @@
 👉 **[Direct Link to Apply](https://summit-strive-avenue-of-possibilities.devfolio.co)**
 
 ---
-### 173. [Hack-e-Green ](https://unstop.com/hackathons/hack-e-green-sustainability-conclave-2022-indian-institute-of-technology-iit-roorkee-279030)
+### 192. [Hack-e-Green ](https://unstop.com/hackathons/hack-e-green-sustainability-conclave-2022-indian-institute-of-technology-iit-roorkee-279030)
 - **Platform:** `Unstop` | **Priority Score:** `50/100` | **Mode:** `Online`
 - **Venue / Location:** 🌐 Online / Virtual
 - **Participation:** 🟢 Solo Eligible (1 Member)
@@ -2479,7 +2753,7 @@
 👉 **[Direct Link to Apply](https://unstop.com/hackathons/hack-e-green-sustainability-conclave-2022-indian-institute-of-technology-iit-roorkee-279030)**
 
 ---
-### 174. [Code Fin 2.0- A Coding Quiz](https://unstop.com/hackathons/code-fin-20-a-coding-quiz-missioned-348292)
+### 193. [Code Fin 2.0- A Coding Quiz](https://unstop.com/hackathons/code-fin-20-a-coding-quiz-missioned-348292)
 - **Platform:** `Unstop` | **Priority Score:** `50/100` | **Mode:** `Online`
 - **Venue / Location:** 🌐 Online / Virtual
 - **Participation:** 🟢 Solo Eligible (1 Member)
@@ -2492,7 +2766,7 @@
 👉 **[Direct Link to Apply](https://unstop.com/hackathons/code-fin-20-a-coding-quiz-missioned-348292)**
 
 ---
-### 175. [Coding Velocity](https://unstop.com/hackathons/coding-velocity-pnapaao-private-limited-465870)
+### 194. [Coding Velocity](https://unstop.com/hackathons/coding-velocity-pnapaao-private-limited-465870)
 - **Platform:** `Unstop` | **Priority Score:** `50/100` | **Mode:** `Online`
 - **Venue / Location:** 🌐 Online / Virtual
 - **Participation:** 🟢 Solo Eligible (1 Member)
@@ -2505,7 +2779,7 @@
 👉 **[Direct Link to Apply](https://unstop.com/hackathons/coding-velocity-pnapaao-private-limited-465870)**
 
 ---
-### 176. [The Techie Pirates Ship](https://unstop.com/hackathons/the-techie-pirates-ship-roorkee-college-of-engineering-rce-538178)
+### 195. [The Techie Pirates Ship](https://unstop.com/hackathons/the-techie-pirates-ship-roorkee-college-of-engineering-rce-538178)
 - **Platform:** `Unstop` | **Priority Score:** `50/100` | **Mode:** `Online`
 - **Venue / Location:** 🌐 Online / Virtual
 - **Participation:** 🟢 Solo Eligible (1 Member)
@@ -2518,7 +2792,20 @@
 👉 **[Direct Link to Apply](https://unstop.com/hackathons/the-techie-pirates-ship-roorkee-college-of-engineering-rce-538178)**
 
 ---
-### 177. [Mockup 2.0](https://unstop.com/hackathons/mockup-20-manipal-university-mu-jaipur-566041)
+### 196. [Octahacks 5.0](https://octahacks.devfolio.co)
+- **Platform:** `Devfolio` | **Priority Score:** `50/100` | **Mode:** `Online`
+- **Venue / Location:** 🌐 Online / Virtual
+- **Participation:** 🟢 Solo Eligible (1 Member)
+- **Registration Deadline:** `2022-12-15T18:30:00+00:00`
+- **Prize Pool:** `₹`
+- **Tracks:** General / Open Innovation
+- **Organizer:** Devfolio Community
+- **Match Factors:** 🌐 **Accessible Online Mode** (+15 pts) • 👤 **Solo Eligible (1 Member)** (+35 pts)
+
+👉 **[Direct Link to Apply](https://octahacks.devfolio.co)**
+
+---
+### 197. [Mockup 2.0](https://unstop.com/hackathons/mockup-20-manipal-university-mu-jaipur-566041)
 - **Platform:** `Unstop` | **Priority Score:** `50/100` | **Mode:** `Online`
 - **Venue / Location:** 🌐 Online / Virtual
 - **Participation:** 🟢 Solo Eligible (1 Member)
@@ -2531,7 +2818,7 @@
 👉 **[Direct Link to Apply](https://unstop.com/hackathons/mockup-20-manipal-university-mu-jaipur-566041)**
 
 ---
-### 178. [Py.Hack ’22: Enhancing productivity, One program at a time](https://unstop.com/hackathons/pyhack-22-enhancing-productivity-one-program-at-a-time-cohesive-technologies-538338)
+### 198. [Py.Hack ’22: Enhancing productivity, One program at a time](https://unstop.com/hackathons/pyhack-22-enhancing-productivity-one-program-at-a-time-cohesive-technologies-538338)
 - **Platform:** `Unstop` | **Priority Score:** `50/100` | **Mode:** `Online`
 - **Venue / Location:** 🌐 Online / Virtual
 - **Participation:** 🟢 Solo Eligible (1 Member)
@@ -2544,7 +2831,20 @@
 👉 **[Direct Link to Apply](https://unstop.com/hackathons/pyhack-22-enhancing-productivity-one-program-at-a-time-cohesive-technologies-538338)**
 
 ---
-### 179. [APL Apollo Tubes - 1 Pixel Designathon](https://unstop.com/hackathons/designathon-1-pixel-1-pixel-design-conf-indraprastha-institute-of-information-technology-iiit-delhi-577906)
+### 199. [HackOverflow](https://hackoverflow-6.devfolio.co)
+- **Platform:** `Devfolio` | **Priority Score:** `50/100` | **Mode:** `Online`
+- **Venue / Location:** 🌐 Online / Virtual
+- **Participation:** 🟢 Solo Eligible (1 Member)
+- **Registration Deadline:** `2023-01-07T04:30:00+00:00`
+- **Prize Pool:** `₹`
+- **Tracks:** General / Open Innovation
+- **Organizer:** Devfolio Community
+- **Match Factors:** 🌐 **Accessible Online Mode** (+15 pts) • 👤 **Solo Eligible (1 Member)** (+35 pts)
+
+👉 **[Direct Link to Apply](https://hackoverflow-6.devfolio.co)**
+
+---
+### 200. [APL Apollo Tubes - 1 Pixel Designathon](https://unstop.com/hackathons/designathon-1-pixel-1-pixel-design-conf-indraprastha-institute-of-information-technology-iiit-delhi-577906)
 - **Platform:** `Unstop` | **Priority Score:** `50/100` | **Mode:** `Online`
 - **Venue / Location:** 🌐 Online / Virtual
 - **Participation:** 🟢 Solo Eligible (1 Member)
@@ -2557,7 +2857,7 @@
 👉 **[Direct Link to Apply](https://unstop.com/hackathons/designathon-1-pixel-1-pixel-design-conf-indraprastha-institute-of-information-technology-iiit-delhi-577906)**
 
 ---
-### 180. [Top Gear](https://unstop.com/hackathons/top-gear-indian-institute-of-technology-iit-indore-576403)
+### 201. [Top Gear](https://unstop.com/hackathons/top-gear-indian-institute-of-technology-iit-indore-576403)
 - **Platform:** `Unstop` | **Priority Score:** `50/100` | **Mode:** `Online`
 - **Venue / Location:** 🌐 Online / Virtual
 - **Participation:** 🟢 Solo Eligible (1 Member)
@@ -2570,7 +2870,7 @@
 👉 **[Direct Link to Apply](https://unstop.com/hackathons/top-gear-indian-institute-of-technology-iit-indore-576403)**
 
 ---
-### 181. [OILY MLgo](https://unstop.com/hackathons/oily-mlgo-oilympics-indian-institute-of-technology-iit-ism-dhanbad-587188)
+### 202. [OILY MLgo](https://unstop.com/hackathons/oily-mlgo-oilympics-indian-institute-of-technology-iit-ism-dhanbad-587188)
 - **Platform:** `Unstop` | **Priority Score:** `50/100` | **Mode:** `Online`
 - **Venue / Location:** 🌐 Online / Virtual
 - **Participation:** 🟢 Solo Eligible (1 Member)
@@ -2583,7 +2883,7 @@
 👉 **[Direct Link to Apply](https://unstop.com/hackathons/oily-mlgo-oilympics-indian-institute-of-technology-iit-ism-dhanbad-587188)**
 
 ---
-### 182. [Castor 2023](https://castor-2023.devfolio.co)
+### 203. [Castor 2023](https://castor-2023.devfolio.co)
 - **Platform:** `Devfolio` | **Priority Score:** `50/100` | **Mode:** `Online`
 - **Venue / Location:** 🌐 Online / Virtual
 - **Participation:** 🟢 Solo Eligible (1 Member)
@@ -2596,7 +2896,7 @@
 👉 **[Direct Link to Apply](https://castor-2023.devfolio.co)**
 
 ---
-### 183. [UI/UX Designing Hackathon](https://unstop.com/hackathons/uiux-designing-hackathon-indian-institute-of-technology-iit-patna-583592)
+### 204. [UI/UX Designing Hackathon](https://unstop.com/hackathons/uiux-designing-hackathon-indian-institute-of-technology-iit-patna-583592)
 - **Platform:** `Unstop` | **Priority Score:** `50/100` | **Mode:** `Online`
 - **Venue / Location:** 🌐 Online / Virtual
 - **Participation:** 🟢 Solo Eligible (1 Member)
@@ -2609,7 +2909,7 @@
 👉 **[Direct Link to Apply](https://unstop.com/hackathons/uiux-designing-hackathon-indian-institute-of-technology-iit-patna-583592)**
 
 ---
-### 184. [ScaleUp](https://unstop.com/hackathons/scaleup-e-summit23-indian-institute-of-technology-iit-patna-585873)
+### 205. [ScaleUp](https://unstop.com/hackathons/scaleup-e-summit23-indian-institute-of-technology-iit-patna-585873)
 - **Platform:** `Unstop` | **Priority Score:** `50/100` | **Mode:** `Online`
 - **Venue / Location:** 🌐 Online / Virtual
 - **Participation:** 🟢 Solo Eligible (1 Member)
@@ -2622,7 +2922,7 @@
 👉 **[Direct Link to Apply](https://unstop.com/hackathons/scaleup-e-summit23-indian-institute-of-technology-iit-patna-585873)**
 
 ---
-### 185. [Coder's Infinity War (Online Treasure Hunt)](https://unstop.com/hackathons/coders-infinity-war-online-treasure-hunt-cepheus23-annual-technical-fest-of-iit-goa-indian-institute-of-techno-599849)
+### 206. [Coder's Infinity War (Online Treasure Hunt)](https://unstop.com/hackathons/coders-infinity-war-online-treasure-hunt-cepheus23-annual-technical-fest-of-iit-goa-indian-institute-of-techno-599849)
 - **Platform:** `Unstop` | **Priority Score:** `50/100` | **Mode:** `Online`
 - **Venue / Location:** 🌐 Online / Virtual
 - **Participation:** 🟢 Solo Eligible (1 Member)
@@ -2635,7 +2935,7 @@
 👉 **[Direct Link to Apply](https://unstop.com/hackathons/coders-infinity-war-online-treasure-hunt-cepheus23-annual-technical-fest-of-iit-goa-indian-institute-of-techno-599849)**
 
 ---
-### 186. [Founders of The Future'23](https://unstop.com/hackathons/founders-of-the-future23-kartexa-591647)
+### 207. [Founders of The Future'23](https://unstop.com/hackathons/founders-of-the-future23-kartexa-591647)
 - **Platform:** `Unstop` | **Priority Score:** `50/100` | **Mode:** `Online`
 - **Venue / Location:** 🌐 Online / Virtual
 - **Participation:** 🟢 Solo Eligible (1 Member)
@@ -2648,7 +2948,20 @@
 👉 **[Direct Link to Apply](https://unstop.com/hackathons/founders-of-the-future23-kartexa-591647)**
 
 ---
-### 187. [Algo Unlock](https://unstop.com/hackathons/algo-unlock-zeitgeist-indian-institute-of-technology-iit-ropar-639332)
+### 208. [HackOverflow 1.0](https://phcet.devfolio.co)
+- **Platform:** `Devfolio` | **Priority Score:** `50/100` | **Mode:** `Online`
+- **Venue / Location:** 🌐 Online / Virtual
+- **Participation:** 🟢 Solo Eligible (1 Member)
+- **Registration Deadline:** `2023-03-16T04:30:00+00:00`
+- **Prize Pool:** `₹`
+- **Tracks:** General / Open Innovation
+- **Organizer:** Devfolio Community
+- **Match Factors:** 🌐 **Accessible Online Mode** (+15 pts) • 👤 **Solo Eligible (1 Member)** (+35 pts)
+
+👉 **[Direct Link to Apply](https://phcet.devfolio.co)**
+
+---
+### 209. [Algo Unlock](https://unstop.com/hackathons/algo-unlock-zeitgeist-indian-institute-of-technology-iit-ropar-639332)
 - **Platform:** `Unstop` | **Priority Score:** `50/100` | **Mode:** `Online`
 - **Venue / Location:** 🌐 Online / Virtual
 - **Participation:** 🟢 Solo Eligible (1 Member)
@@ -2661,7 +2974,7 @@
 👉 **[Direct Link to Apply](https://unstop.com/hackathons/algo-unlock-zeitgeist-indian-institute-of-technology-iit-ropar-639332)**
 
 ---
-### 188. [Unleash Your Inner Coder](https://unstop.com/hackathons/unleash-your-inner-coder-kartexa-codewave-fest-kartexa-634975)
+### 210. [Unleash Your Inner Coder](https://unstop.com/hackathons/unleash-your-inner-coder-kartexa-codewave-fest-kartexa-634975)
 - **Platform:** `Unstop` | **Priority Score:** `50/100` | **Mode:** `Online`
 - **Venue / Location:** 🌐 Online / Virtual
 - **Participation:** 🟢 Solo Eligible (1 Member)
@@ -2674,7 +2987,7 @@
 👉 **[Direct Link to Apply](https://unstop.com/hackathons/unleash-your-inner-coder-kartexa-codewave-fest-kartexa-634975)**
 
 ---
-### 189. [The Ultimate Solution Challenge 2023](https://ultimate-solution-challenge-2023.devfolio.co)
+### 211. [The Ultimate Solution Challenge 2023](https://ultimate-solution-challenge-2023.devfolio.co)
 - **Platform:** `Devfolio` | **Priority Score:** `50/100` | **Mode:** `Online`
 - **Venue / Location:** 🌐 Online / Virtual
 - **Participation:** 🟢 Solo Eligible (1 Member)
@@ -2687,7 +3000,7 @@
 👉 **[Direct Link to Apply](https://ultimate-solution-challenge-2023.devfolio.co)**
 
 ---
-### 190. [HackUnicorn](https://hackunicorn-1.devfolio.co)
+### 212. [HackUnicorn](https://hackunicorn-1.devfolio.co)
 - **Platform:** `Devfolio` | **Priority Score:** `50/100` | **Mode:** `Online`
 - **Venue / Location:** 🌐 Online / Virtual
 - **Participation:** 🟢 Solo Eligible (1 Member)
@@ -2700,7 +3013,7 @@
 👉 **[Direct Link to Apply](https://hackunicorn-1.devfolio.co)**
 
 ---
-### 191. [Waffle Hacks](https://unstop.com/hackathons/waffle-hacks-belmont-data-collaborative-675134)
+### 213. [Waffle Hacks](https://unstop.com/hackathons/waffle-hacks-belmont-data-collaborative-675134)
 - **Platform:** `Unstop` | **Priority Score:** `50/100` | **Mode:** `Online`
 - **Venue / Location:** 🌐 Online / Virtual
 - **Participation:** 🟢 Solo Eligible (1 Member)
@@ -2713,7 +3026,7 @@
 👉 **[Direct Link to Apply](https://unstop.com/hackathons/waffle-hacks-belmont-data-collaborative-675134)**
 
 ---
-### 192. [Winter Coding Contest 3.0](https://unstop.com/hackathons/winter-coding-contest-30-vallurupalli-nageswara-rao-vignana-jyothi-institute-of-engineering-and-technology-vn-773127)
+### 214. [Winter Coding Contest 3.0](https://unstop.com/hackathons/winter-coding-contest-30-vallurupalli-nageswara-rao-vignana-jyothi-institute-of-engineering-and-technology-vn-773127)
 - **Platform:** `Unstop` | **Priority Score:** `50/100` | **Mode:** `Online`
 - **Venue / Location:** 🌐 Online / Virtual
 - **Participation:** 🟢 Solo Eligible (1 Member)
@@ -2726,7 +3039,7 @@
 👉 **[Direct Link to Apply](https://unstop.com/hackathons/winter-coding-contest-30-vallurupalli-nageswara-rao-vignana-jyothi-institute-of-engineering-and-technology-vn-773127)**
 
 ---
-### 193. [Sociothon](https://unstop.com/hackathons/sociothon-iit-roorkee-798244)
+### 215. [Sociothon](https://unstop.com/hackathons/sociothon-iit-roorkee-798244)
 - **Platform:** `Unstop` | **Priority Score:** `50/100` | **Mode:** `Online`
 - **Venue / Location:** 🌐 Online / Virtual
 - **Participation:** 🟢 Solo Eligible (1 Member)
@@ -2739,7 +3052,33 @@
 👉 **[Direct Link to Apply](https://unstop.com/hackathons/sociothon-iit-roorkee-798244)**
 
 ---
-### 194. [Solve To Decipher](https://unstop.com/hackathons/solve-to-decipher-e-summit-2024-iit-madras-887040)
+### 216. [Hack Sphere](https://hack-sphere.devfolio.co)
+- **Platform:** `Devfolio` | **Priority Score:** `50/100` | **Mode:** `Online`
+- **Venue / Location:** 🌐 Online / Virtual
+- **Participation:** 🟢 Solo Eligible (1 Member)
+- **Registration Deadline:** `2023-10-30T06:30:00+00:00`
+- **Prize Pool:** `₹`
+- **Tracks:** General / Open Innovation
+- **Organizer:** Devfolio Community
+- **Match Factors:** 🌐 **Accessible Online Mode** (+15 pts) • 👤 **Solo Eligible (1 Member)** (+35 pts)
+
+👉 **[Direct Link to Apply](https://hack-sphere.devfolio.co)**
+
+---
+### 217. [Datathon 2024](https://datathon-3.devfolio.co)
+- **Platform:** `Devfolio` | **Priority Score:** `50/100` | **Mode:** `In-Person`
+- **Venue / Location:** 🏢 Maharashtra (Mumbai)
+- **Participation:** 👥 Teams Only (2-4 members)
+- **Registration Deadline:** `2024-02-03T04:30:00+00:00`
+- **Prize Pool:** `₹`
+- **Tracks:** General / Open Innovation
+- **Organizer:** Devfolio Community
+- **Match Factors:** 🏢 **Maharashtra Proximity** (+25 pts) [Maharashtra, Mumbai] • 🤖 **AI & Software Tracks** (+25 pts) [AI, Machine Learning, ML]
+
+👉 **[Direct Link to Apply](https://datathon-3.devfolio.co)**
+
+---
+### 218. [Solve To Decipher](https://unstop.com/hackathons/solve-to-decipher-e-summit-2024-iit-madras-887040)
 - **Platform:** `Unstop` | **Priority Score:** `50/100` | **Mode:** `Online`
 - **Venue / Location:** 🌐 Online / Virtual
 - **Participation:** 🟢 Solo Eligible (1 Member)
@@ -2752,7 +3091,7 @@
 👉 **[Direct Link to Apply](https://unstop.com/hackathons/solve-to-decipher-e-summit-2024-iit-madras-887040)**
 
 ---
-### 195. [Solve The SDGs: The Future is made Today](https://unstop.com/hackathons/solve-the-sdgs-the-future-is-made-today-iit-madras-913890)
+### 219. [Solve The SDGs: The Future is made Today](https://unstop.com/hackathons/solve-the-sdgs-the-future-is-made-today-iit-madras-913890)
 - **Platform:** `Unstop` | **Priority Score:** `50/100` | **Mode:** `Online`
 - **Venue / Location:** 🌐 Online / Virtual
 - **Participation:** 🟢 Solo Eligible (1 Member)
@@ -2765,7 +3104,33 @@
 👉 **[Direct Link to Apply](https://unstop.com/hackathons/solve-the-sdgs-the-future-is-made-today-iit-madras-913890)**
 
 ---
-### 196. [QuestCraft: Unleash Your Creativity](https://unstop.com/hackathons/questcraft-unleash-your-creativity-solace-odyssey-24-bennett-university-bu-greater-noida-943504)
+### 220. [Synapse](https://synapse.devfolio.co)
+- **Platform:** `Devfolio` | **Priority Score:** `50/100` | **Mode:** `Online`
+- **Venue / Location:** 🌐 Online / Virtual
+- **Participation:** 🟢 Solo Eligible (1 Member)
+- **Registration Deadline:** `2024-03-22T12:30:00+00:00`
+- **Prize Pool:** `₹`
+- **Tracks:** General / Open Innovation
+- **Organizer:** Devfolio Community
+- **Match Factors:** 🌐 **Accessible Online Mode** (+15 pts) • 👤 **Solo Eligible (1 Member)** (+35 pts)
+
+👉 **[Direct Link to Apply](https://synapse.devfolio.co)**
+
+---
+### 221. [Hackoverflow 7.0](https://hackoverflow07.devfolio.co)
+- **Platform:** `Devfolio` | **Priority Score:** `50/100` | **Mode:** `Online`
+- **Venue / Location:** 🌐 Online / Virtual
+- **Participation:** 🟢 Solo Eligible (1 Member)
+- **Registration Deadline:** `2024-04-08T04:30:00+00:00`
+- **Prize Pool:** `₹`
+- **Tracks:** General / Open Innovation
+- **Organizer:** Devfolio Community
+- **Match Factors:** 🌐 **Accessible Online Mode** (+15 pts) • 👤 **Solo Eligible (1 Member)** (+35 pts)
+
+👉 **[Direct Link to Apply](https://hackoverflow07.devfolio.co)**
+
+---
+### 222. [QuestCraft: Unleash Your Creativity](https://unstop.com/hackathons/questcraft-unleash-your-creativity-solace-odyssey-24-bennett-university-bu-greater-noida-943504)
 - **Platform:** `Unstop` | **Priority Score:** `50/100` | **Mode:** `Online`
 - **Venue / Location:** 🌐 Online / Virtual
 - **Participation:** 🟢 Solo Eligible (1 Member)
@@ -2778,7 +3143,7 @@
 👉 **[Direct Link to Apply](https://unstop.com/hackathons/questcraft-unleash-your-creativity-solace-odyssey-24-bennett-university-bu-greater-noida-943504)**
 
 ---
-### 197. [Winter Coding Contest 4.0](https://unstop.com/hackathons/winter-coding-contest-40-vallurupalli-nageswara-rao-vignana-jyothi-institute-of-engineering-technology-telang-1168884)
+### 223. [Winter Coding Contest 4.0](https://unstop.com/hackathons/winter-coding-contest-40-vallurupalli-nageswara-rao-vignana-jyothi-institute-of-engineering-technology-telang-1168884)
 - **Platform:** `Unstop` | **Priority Score:** `50/100` | **Mode:** `Online`
 - **Venue / Location:** 🌐 Online / Virtual
 - **Participation:** 🟢 Solo Eligible (1 Member)
@@ -2791,7 +3156,7 @@
 👉 **[Direct Link to Apply](https://unstop.com/hackathons/winter-coding-contest-40-vallurupalli-nageswara-rao-vignana-jyothi-institute-of-engineering-technology-telang-1168884)**
 
 ---
-### 198. [PM Hackathon - Product Case Study In Collaboration with Uber](https://unstop.com/hackathons/product-management-hackathon-product-space-1191511)
+### 224. [PM Hackathon - Product Case Study In Collaboration with Uber](https://unstop.com/hackathons/product-management-hackathon-product-space-1191511)
 - **Platform:** `Unstop` | **Priority Score:** `50/100` | **Mode:** `Online`
 - **Venue / Location:** 🌐 Online / Virtual
 - **Participation:** 🟢 Solo Eligible (1 Member)
@@ -2804,7 +3169,7 @@
 👉 **[Direct Link to Apply](https://unstop.com/hackathons/product-management-hackathon-product-space-1191511)**
 
 ---
-### 199. [Best COO](https://unstop.com/hackathons/best-coo-cura25-nit-warangal-1394635)
+### 225. [Best COO](https://unstop.com/hackathons/best-coo-cura25-nit-warangal-1394635)
 - **Platform:** `Unstop` | **Priority Score:** `50/100` | **Mode:** `Online`
 - **Venue / Location:** 🌐 Online / Virtual
 - **Participation:** 🟢 Solo Eligible (1 Member)
@@ -2817,7 +3182,20 @@
 👉 **[Direct Link to Apply](https://unstop.com/hackathons/best-coo-cura25-nit-warangal-1394635)**
 
 ---
-### 200. [Innerve X: India’s Largest Student Driven Hackathon](https://unstop.com/hackathons/innerve-x-indias-largest-student-driven-hackathon-army-institute-of-technology-ait-pune-1595880)
+### 226. [World Chain CTF](https://world-chain-ctf.devfolio.co)
+- **Platform:** `Devfolio` | **Priority Score:** `50/100` | **Mode:** `Online`
+- **Venue / Location:** 🌐 Online / Virtual
+- **Participation:** 🟢 Solo Eligible (1 Member)
+- **Registration Deadline:** `2025-02-28T07:00:00+00:00`
+- **Prize Pool:** `₹`
+- **Tracks:** General / Open Innovation
+- **Organizer:** Devfolio Community
+- **Match Factors:** 🌐 **Accessible Online Mode** (+15 pts) • 👤 **Solo Eligible (1 Member)** (+35 pts)
+
+👉 **[Direct Link to Apply](https://world-chain-ctf.devfolio.co)**
+
+---
+### 227. [Innerve X: India’s Largest Student Driven Hackathon](https://unstop.com/hackathons/innerve-x-indias-largest-student-driven-hackathon-army-institute-of-technology-ait-pune-1595880)
 - **Platform:** `Unstop` | **Priority Score:** `50/100` | **Mode:** `In-Person`
 - **Venue / Location:** 🏢 Maharashtra (offline)
 - **Participation:** 👥 Teams Only (2-4 members)
@@ -2830,7 +3208,7 @@
 👉 **[Direct Link to Apply](https://unstop.com/hackathons/innerve-x-indias-largest-student-driven-hackathon-army-institute-of-technology-ait-pune-1595880)**
 
 ---
-### 201. [Inspiron 5.0](https://unstop.com/hackathons/inspiron-50-computer-society-of-indiacsi-coep-tech-student-chapter-1630859)
+### 228. [Inspiron 5.0](https://unstop.com/hackathons/inspiron-50-computer-society-of-indiacsi-coep-tech-student-chapter-1630859)
 - **Platform:** `Unstop` | **Priority Score:** `50/100` | **Mode:** `In-Person`
 - **Venue / Location:** 🏢 Maharashtra (offline)
 - **Participation:** 👥 Teams Only (2-4 members)
@@ -2843,7 +3221,7 @@
 👉 **[Direct Link to Apply](https://unstop.com/hackathons/inspiron-50-computer-society-of-indiacsi-coep-tech-student-chapter-1630859)**
 
 ---
-### 202. [Reporeboot'26](https://unstop.com/hackathons/reporeboot26-dhirubhai-ambani-institute-of-information-and-communication-technology-da-iict-gandhinagar-1771533)
+### 229. [Reporeboot'26](https://unstop.com/hackathons/reporeboot26-dhirubhai-ambani-institute-of-information-and-communication-technology-da-iict-gandhinagar-1771533)
 - **Platform:** `Unstop` | **Priority Score:** `50/100` | **Mode:** `Online`
 - **Venue / Location:** 🌐 Online / Virtual
 - **Participation:** 🟢 Solo Eligible (1 Member)
@@ -2856,7 +3234,7 @@
 👉 **[Direct Link to Apply](https://unstop.com/hackathons/reporeboot26-dhirubhai-ambani-institute-of-information-and-communication-technology-da-iict-gandhinagar-1771533)**
 
 ---
-### 203. [Sparkathon 2022](https://unstop.com/hackathons/sparkathon-2022-ia-labs-439058)
+### 230. [Sparkathon 2022](https://unstop.com/hackathons/sparkathon-2022-ia-labs-439058)
 - **Platform:** `Unstop` | **Priority Score:** `40/100` | **Mode:** `Online`
 - **Venue / Location:** 🌐 Online / Virtual
 - **Participation:** 👥 Teams Only (2-6 members)
@@ -2869,7 +3247,7 @@
 👉 **[Direct Link to Apply](https://unstop.com/hackathons/sparkathon-2022-ia-labs-439058)**
 
 ---
-### 204. [Wienova](https://unstop.com/hackathons/wienova-institute-of-electrical-and-electronics-engineers-ieee-568654)
+### 231. [Wienova](https://unstop.com/hackathons/wienova-institute-of-electrical-and-electronics-engineers-ieee-568654)
 - **Platform:** `Unstop` | **Priority Score:** `40/100` | **Mode:** `Online`
 - **Venue / Location:** 🌐 Online / Virtual
 - **Participation:** 👥 Teams Only (2-4 members)
@@ -2882,7 +3260,7 @@
 👉 **[Direct Link to Apply](https://unstop.com/hackathons/wienova-institute-of-electrical-and-electronics-engineers-ieee-568654)**
 
 ---
-### 205. [Code Hack 2023](https://unstop.com/hackathons/code-hack-2023-dev-code-community-557528)
+### 232. [Code Hack 2023](https://unstop.com/hackathons/code-hack-2023-dev-code-community-557528)
 - **Platform:** `Unstop` | **Priority Score:** `40/100` | **Mode:** `Online`
 - **Venue / Location:** 🌐 Online / Virtual
 - **Participation:** 👥 Teams Only (2-4 members)
@@ -2895,7 +3273,7 @@
 👉 **[Direct Link to Apply](https://unstop.com/hackathons/code-hack-2023-dev-code-community-557528)**
 
 ---
-### 206. [GPU Hackathon 2023](https://unstop.com/hackathons/gpu-hackathon-2023-bengaluru-city-university-675122)
+### 233. [GPU Hackathon 2023](https://unstop.com/hackathons/gpu-hackathon-2023-bengaluru-city-university-675122)
 - **Platform:** `Unstop` | **Priority Score:** `40/100` | **Mode:** `Online`
 - **Venue / Location:** 🌐 Online / Virtual
 - **Participation:** 👥 Teams Only (3-5 members)
@@ -2908,7 +3286,7 @@
 👉 **[Direct Link to Apply](https://unstop.com/hackathons/gpu-hackathon-2023-bengaluru-city-university-675122)**
 
 ---
-### 207. [Capture the Flag](https://unstop.com/hackathons/capture-the-flag-v-prayukti25-bannari-amman-institute-of-technology-1346649)
+### 234. [Capture the Flag](https://unstop.com/hackathons/capture-the-flag-v-prayukti25-bannari-amman-institute-of-technology-1346649)
 - **Platform:** `Unstop` | **Priority Score:** `40/100` | **Mode:** `Online`
 - **Venue / Location:** 🌐 Online / Virtual
 - **Participation:** 👥 Teams Only (2-3 members)
@@ -2921,7 +3299,7 @@
 👉 **[Direct Link to Apply](https://unstop.com/hackathons/capture-the-flag-v-prayukti25-bannari-amman-institute-of-technology-1346649)**
 
 ---
-### 208. [Zero Shot Hack](https://unstop.com/hackathons/zero-shot-hack-vit-vellore-1769865)
+### 235. [Zero Shot Hack](https://unstop.com/hackathons/zero-shot-hack-vit-vellore-1769865)
 - **Platform:** `Unstop` | **Priority Score:** `40/100` | **Mode:** `In-Person`
 - **Venue / Location:** 🏢 In-Person (hybrid)
 - **Participation:** 👥 Teams Only (4-4 members)

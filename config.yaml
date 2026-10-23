@@ -113,16 +113,13 @@ scrapers:
     enabled: true
     seasons:
       - 2025
-      - 2026
-    timeout_seconds: 15
+    timeout_seconds: 6
   crawl4ai:
     enabled: true
-    max_pages: 50
-    timeout_seconds: 20
+    max_pages: 30
+    timeout_seconds: 6
     seed_urls:
       - "https://axisvnit.in"
-      - "https://www.vnit.ac.in"
-      - "https://iiitn.ac.in"
       - "https://techfest.org"
       - "https://mind-spark.org"
 

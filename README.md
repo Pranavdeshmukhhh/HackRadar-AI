@@ -1,14 +1,14 @@
-# 🚀 Nagpur AI & Software Hackathon Monitor
+# 🛰️ HackRadar-AI: 24/7 Autonomous Hackathon Radar & AI Scorer
 
-[![Automated Monitor](https://github.com/Pranavdeshmukhhh/nagpur-hackathon-monitor/actions/workflows/monitor.yml/badge.svg)](https://github.com/Pranavdeshmukhhh/nagpur-hackathon-monitor/actions)
+[![Automated Monitor](https://github.com/Pranavdeshmukhhh/HackRadar-AI/actions/workflows/monitor.yml/badge.svg)](https://github.com/Pranavdeshmukhhh/HackRadar-AI/actions)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Nagpur Priority](https://img.shields.io/badge/Region-Nagpur%20%26%20Vidarbha-orange.svg)]()
 [![Solo Friendly](https://img.shields.io/badge/Eligibility-Solo%20(1%20Member)-brightgreen.svg)]()
 
-An automated intelligence monitor and alert engine designed specifically for **developers, students, and hackathon competitors in Nagpur & Vidarbha**. 
+An autonomous intelligence monitor and opportunity radar designed specifically for **developers, students, and hackathon competitors in Nagpur & Vidarbha**. 
 
-It continuously scans **Unstop (Dare2Compete)**, **Devfolio**, and **Devpost**, scores each event with a weighted algorithm favoring **Nagpur regional venues**, **Solo eligibility**, and **AI/Software tracks**, and dispatches alerts via **GitHub Issues (zero external API keys needed)**, **Discord**, **Telegram**, and **SMTP Email**.
+It continuously scans **Unstop (Dare2Compete)**, **Devfolio**, **Devpost**, **HackerEarth**, **Major League Hacking (MLH)**, and regional college tech portals, scores each event with a weighted algorithm favoring **Nagpur regional venues**, **Solo eligibility**, and **AI/Software tracks**, and dispatches alerts via **GitHub Issues (zero external API keys needed)**, **Discord**, **Telegram**, and **SMTP Email**.
 
 ---
 
@@ -21,7 +21,7 @@ The monitor maintains a continuously updated live dashboard of all qualified opp
 ## 📂 Repository Architecture
 
 ```plaintext
-nagpur-hackathon-monitor/
+HackRadar-AI/
 ├── .github/
 │   └── workflows/
 │       └── monitor.yml          # Automated GitHub Actions workflow (Daily at 8:00 AM IST + manual trigger)
@@ -99,7 +99,7 @@ git init
 git branch -M main
 git add .
 git commit -m "feat: initialize automated Nagpur hackathon monitor"
-git remote add origin https://github.com/Pranavdeshmukhhh/nagpur-hackathon-monitor.git
+git remote add origin https://github.com/Pranavdeshmukhhh/HackRadar-AI.git
 git push -u origin main
 ```
 

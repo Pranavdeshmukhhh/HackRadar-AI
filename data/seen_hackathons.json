@@ -1,1 +1,1874 @@
-{}
+{
+  "college:axisvnitin": {
+    "title": "AXIS'27 - Central India's Largest Technical Fest | VNIT Nagpur",
+    "url": "https://axisvnit.in",
+    "score": 105,
+    "source": "CollegePortal",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": true,
+    "solo_allowed": true
+  },
+  "unstop:1771520": {
+    "title": "Prajwalan - 2K26",
+    "url": "https://unstop.com/hackathons/prajwalan-2k26-ramdeobaba-university-1771520",
+    "score": 95,
+    "source": "Unstop",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": true,
+    "solo_allowed": true
+  },
+  "college:mindsparkorg": {
+    "title": "MindSpark '26 | 20th Edition Annual National Technical Festival | COEP Tech",
+    "url": "https://mind-spark.org",
+    "score": 85,
+    "source": "CollegePortal",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:1771036": {
+    "title": "Hacksphere 3.0",
+    "url": "https://unstop.com/hackathons/hacksphere-30-birla-institute-of-technology-science-bits-pilani-hyderabad-campus-1771036",
+    "score": 75,
+    "source": "Unstop",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:1772228": {
+    "title": "MST Blockchain Buildathon | From Idea to MVP",
+    "url": "https://unstop.com/hackathons/mst-blockchain-buildathon-from-idea-to-mvp-mst-blockchain-1772228",
+    "score": 75,
+    "source": "Unstop",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:1772304": {
+    "title": "Code Conqueror India 2026 - National Hackathon",
+    "url": "https://unstop.com/hackathons/code-conqueror-india-2026-national-hackathon-wecodecoders-1772304",
+    "score": 75,
+    "source": "Unstop",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:1770609": {
+    "title": "WH Versehack",
+    "url": "https://unstop.com/hackathons/wh-versehack-writers-haven-1770609",
+    "score": 75,
+    "source": "Unstop",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:1772647": {
+    "title": "CodeOdyssey '26",
+    "url": "https://unstop.com/hackathons/codeodyssey-26-jecrc-university-jecrcu-vidhani-jaipur-rajasthan-1772647",
+    "score": 75,
+    "source": "Unstop",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:1771427": {
+    "title": "AI Product Hackathon",
+    "url": "https://unstop.com/hackathons/ai-product-hackathon-product-space-1771427",
+    "score": 75,
+    "source": "Unstop",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:1771441": {
+    "title": "CodeQuest: National Tech Hackathon 2026",
+    "url": "https://unstop.com/hackathons/codequest-national-tech-hackathon-2026-dotrepo-1771441",
+    "score": 75,
+    "source": "Unstop",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:1772846": {
+    "title": "FirstCommit '26 — National Online Hackathon by CampusCode",
+    "url": "https://unstop.com/hackathons/firstcommit-26-national-online-hackathon-by-campuscode-campus-code-1772846",
+    "score": 75,
+    "source": "Unstop",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:1769404": {
+    "title": "Neural Storm",
+    "url": "https://unstop.com/hackathons/neural-storm-jawaharlal-nehru-technological-university-jntuh-hyderabad-1769404",
+    "score": 75,
+    "source": "Unstop",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:1772904": {
+    "title": "Prasunex Innovathon 2026",
+    "url": "https://unstop.com/hackathons/prasunex-innovathon-2026-prasunex-1772904",
+    "score": 75,
+    "source": "Unstop",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:1769646": {
+    "title": "Datanova 2026 Global Data-Thon",
+    "url": "https://unstop.com/hackathons/datanova-2026-global-data-thon-swiss-school-of-management-rome-italy-1769646",
+    "score": 75,
+    "source": "Unstop",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:1771084": {
+    "title": "The Last Daemon",
+    "url": "https://unstop.com/hackathons/the-last-daemon-beunwrapd-1771084",
+    "score": 75,
+    "source": "Unstop",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:1771798": {
+    "title": "Catalyst - Solo AI Hackathon",
+    "url": "https://unstop.com/hackathons/catalyst-solo-ai-hackathon-makers-need-more-mnm-1771798",
+    "score": 75,
+    "source": "Unstop",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:1760462": {
+    "title": "Trivora",
+    "url": "https://unstop.com/hackathons/trivora-hackhere-1760462",
+    "score": 75,
+    "source": "Unstop",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:1768100": {
+    "title": "Ooty Hacks",
+    "url": "https://unstop.com/hackathons/ooty-hacks-hackhere-1768100",
+    "score": 75,
+    "source": "Unstop",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:1771511": {
+    "title": "Tech Expo 2027",
+    "url": "https://unstop.com/hackathons/tech-expo-2027-parul-university-pu-vadodara-1771511",
+    "score": 75,
+    "source": "Unstop",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "devpost:30984": {
+    "title": "OpenCV AI Competition 2026, powered by AWS",
+    "url": "https://opencv26.devpost.com/",
+    "score": 75,
+    "source": "Devpost",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "devpost:30790": {
+    "title": "Nebius x NVIDIA Global AI Hackathon",
+    "url": "https://nebiusglobalaihackathon.devpost.com/",
+    "score": 75,
+    "source": "Devpost",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "devpost:30992": {
+    "title": "Build, Ship, Shape: Amazon Developer Hackathon",
+    "url": "https://amazonappdev2026.devpost.com/",
+    "score": 75,
+    "source": "Devpost",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "devpost:30740": {
+    "title": "Code for Humanity",
+    "url": "https://code-for-humanity.devpost.com/",
+    "score": 75,
+    "source": "Devpost",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "devpost:30764": {
+    "title": "Syntax Summit",
+    "url": "https://syntax-summit.devpost.com/",
+    "score": 75,
+    "source": "Devpost",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "hackerearth:mks-inc-hackathon": {
+    "title": "MKS AI & Data Hackathon",
+    "url": "https://www.hackerearth.com/challenges/competitive/mks-inc-hackathon/",
+    "score": 75,
+    "source": "HackerEarth",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "hackerearth:godaddy-inclusive-innovation-challenge-2026": {
+    "title": "GoDaddy Inclusive Innovation Hackathon 2026",
+    "url": "https://www.hackerearth.com/challenges/competitive/godaddy-inclusive-innovation-challenge-2026/",
+    "score": 75,
+    "source": "HackerEarth",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "hackerearth:agentic-banking-hackathon-2": {
+    "title": "Agentic Banking Hackathon",
+    "url": "https://www.hackerearth.com/challenges/hackathon/agentic-banking-hackathon-2/",
+    "score": 75,
+    "source": "HackerEarth",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "devpost:31302": {
+    "title": "PayPal AI Hackathon",
+    "url": "https://paypalaihackathon.devpost.com/",
+    "score": 75,
+    "source": "Devpost",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "devpost:29114": {
+    "title": "IEEE ClimateChain Global Hackathon",
+    "url": "https://ieee-climatechain-hack.devpost.com/",
+    "score": 75,
+    "source": "Devpost",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "devpost:31503": {
+    "title": "Life After Code",
+    "url": "https://gitlab-transcend.devpost.com/",
+    "score": 75,
+    "source": "Devpost",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "devpost:31617": {
+    "title": "IEEE Hack For Humanity",
+    "url": "https://ieee-ai-hack-for-humanity.devpost.com/",
+    "score": 75,
+    "source": "Devpost",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "devpost:31736": {
+    "title": "CreateAThon",
+    "url": "https://graph-hacks.devpost.com/",
+    "score": 75,
+    "source": "Devpost",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "devpost:31659": {
+    "title": "Learn AR with SPECS",
+    "url": "https://learn-specs.devpost.com/",
+    "score": 75,
+    "source": "Devpost",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "devpost:31666": {
+    "title": "Mathematics for systems security",
+    "url": "https://mathematics-systems-security.devpost.com/",
+    "score": 75,
+    "source": "Devpost",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "devpost:31737": {
+    "title": "HackWithAditya",
+    "url": "https://hackwithaditya.devpost.com/",
+    "score": 75,
+    "source": "Devpost",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "devpost:31789": {
+    "title": "STEM2Connect AI Hackathon",
+    "url": "https://stem2connect-online-hackathon.devpost.com/",
+    "score": 75,
+    "source": "Devpost",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "devpost:31796": {
+    "title": "SafeSpace Hacks",
+    "url": "https://safespace-hacks.devpost.com/",
+    "score": 75,
+    "source": "Devpost",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "devpost:30789": {
+    "title": "Arbiter Hacks V1",
+    "url": "https://arbiter-hacks-v1.devpost.com/",
+    "score": 75,
+    "source": "Devpost",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "devpost:31805": {
+    "title": "NextSpark Hacks",
+    "url": "https://nextspark-hacks.devpost.com/",
+    "score": 75,
+    "source": "Devpost",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "devpost:31552": {
+    "title": "UGREEN Hackathon 2026 on AI NAS",
+    "url": "https://ugreenhackathon.devpost.com/",
+    "score": 75,
+    "source": "Devpost",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "devpost:31052": {
+    "title": "AWS Communication Developer Services (CDS) Agentic AI Partner Hackathon",
+    "url": "https://aws-cds-partner.devpost.com/",
+    "score": 75,
+    "source": "Devpost",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "devpost:30447": {
+    "title": "Build With AI: Basics",
+    "url": "https://learn-ai-basics.devpost.com/",
+    "score": 75,
+    "source": "Devpost",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "devpost:31024": {
+    "title": "Meta VR Start Developer Competition 2026",
+    "url": "https://start-developer-competition-26.devpost.com/",
+    "score": 75,
+    "source": "Devpost",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "devpost:31400": {
+    "title": "YouCam API Skin AI & eCommerce VTO Hackathon",
+    "url": "https://youcam-api-skin-ai-ecommerce.devpost.com/",
+    "score": 75,
+    "source": "Devpost",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "devpost:31054": {
+    "title": "Qloo Agentic Hackathon",
+    "url": "https://qloo.devpost.com/",
+    "score": 75,
+    "source": "Devpost",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:1768744": {
+    "title": "Blitz'26 - Technical Coding & Debugging Event",
+    "url": "https://unstop.com/hackathons/blitz26-technical-coding-mookambigai-college-of-engineering-1768744",
+    "score": 60,
+    "source": "Unstop",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:1773100": {
+    "title": "Octocode",
+    "url": "https://unstop.com/hackathons/octocode-chhattisgarh-institute-of-technology-raipur-1773100",
+    "score": 60,
+    "source": "Unstop",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:1771902": {
+    "title": "DEFCON 2.0",
+    "url": "https://unstop.com/hackathons/defcon-20-defcon-20-nit-warangal-1771902",
+    "score": 60,
+    "source": "Unstop",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:1765597": {
+    "title": "PromptWars Hyderabad 2026 - AI & Prompt Engineering Competition",
+    "url": "https://unstop.com/hackathons/promptwars-hyderabad-2026-ai-prompt-engineering-competition-st-peters-engineering-college-spec-hyderabad-tela-1765597",
+    "score": 60,
+    "source": "Unstop",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:1769664": {
+    "title": "Hybrid Micro Mouse Challenge",
+    "url": "https://unstop.com/hackathons/hybrid-micro-mouse-challenge-alliance-university-au-1769664",
+    "score": 60,
+    "source": "Unstop",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:1766861": {
+    "title": "OverClock'26 - 24 hours Hackathon",
+    "url": "https://unstop.com/hackathons/overclock26-24-hours-hackathon-srm-easwari-engineering-college-srmeec-ramapuram-1766861",
+    "score": 60,
+    "source": "Unstop",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:1771905": {
+    "title": "Hack The Circle",
+    "url": "https://unstop.com/hackathons/hack-the-circle-maharaja-agrasen-institute-of-technology-mait-1771905",
+    "score": 60,
+    "source": "Unstop",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:1771951": {
+    "title": "Competitive Programming",
+    "url": "https://unstop.com/hackathons/competitive-programming-acharya-institute-of-technology-1771951",
+    "score": 60,
+    "source": "Unstop",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:1773211": {
+    "title": "Build with Agora - BLR",
+    "url": "https://unstop.com/hackathons/build-with-agora-blr-knotic-1773211",
+    "score": 60,
+    "source": "Unstop",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "devpost:30539": {
+    "title": "HTCJ × PROOF Aviation Futures Challenge",
+    "url": "https://htcj-aviation-futures.devpost.com/",
+    "score": 60,
+    "source": "Devpost",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "devpost:30548": {
+    "title": "HackFW: MADE Challenge",
+    "url": "https://hackfw.devpost.com/",
+    "score": 60,
+    "source": "Devpost",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "devpost:31694": {
+    "title": "MineArena 1.0",
+    "url": "https://minearena-1-0.devpost.com/",
+    "score": 60,
+    "source": "Devpost",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "devpost:31152": {
+    "title": "Cornell Six Sigma Hackathon",
+    "url": "https://six-sigma-hackathon.devpost.com/",
+    "score": 60,
+    "source": "Devpost",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "devpost:31138": {
+    "title": "Build North: Ship Something Real",
+    "url": "https://build-north.devpost.com/",
+    "score": 60,
+    "source": "Devpost",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "devpost:31116": {
+    "title": "Next Gen Hackathon 2026 -Bengaluru",
+    "url": "https://next-gen-hackathon.devpost.com/",
+    "score": 60,
+    "source": "Devpost",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:1772551": {
+    "title": "ELUCode-6",
+    "url": "https://unstop.com/hackathons/elucode-6-edulinkup-1772551",
+    "score": 50,
+    "source": "Unstop",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:1772359": {
+    "title": "Ideathon 6.0: Ideas into Impact",
+    "url": "https://unstop.com/hackathons/ideathon-60-ideas-into-impact-inspire-leap-private-limited-1772359",
+    "score": 50,
+    "source": "Unstop",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:1771928": {
+    "title": "Tryb Weekend Challenge 1: Build, Launch & Play",
+    "url": "https://unstop.com/hackathons/tryb-weekend-challenge-1-build-launch-play-tryb-arcade-26-the-build-play-festival-prizes-worth-rs225-lakhs-tr-1771928",
+    "score": 50,
+    "source": "Unstop",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:1769180": {
+    "title": "Circuit Debugging",
+    "url": "https://unstop.com/hackathons/circuit-debugging-addovedi-2026-national-institute-of-technology-nit-arunachal-pradesh-1769180",
+    "score": 50,
+    "source": "Unstop",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:1773178": {
+    "title": "Yantravedh Hardware Hackathon",
+    "url": "https://unstop.com/hackathons/yantravedh-hardware-hackathon-marathwada-mitra-mandals-college-of-engineering-mmcoe-pune-1773178",
+    "score": 50,
+    "source": "Unstop",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": false
+  },
+  "unstop:1769616": {
+    "title": "NHCE Ideathon 2026",
+    "url": "https://unstop.com/hackathons/nhce-ideathon-2026-ideathon-2026-new-horizon-collage-of-engineering-1769616",
+    "score": 50,
+    "source": "Unstop",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:1771573": {
+    "title": "Tiny Hacks",
+    "url": "https://unstop.com/hackathons/tiny-hacks-vishveshwarya-group-of-institutions-vgi-greater-noida-uttar-pradesh-1771573",
+    "score": 50,
+    "source": "Unstop",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:1773705": {
+    "title": "Campus Quest",
+    "url": "https://unstop.com/hackathons/campus-quest-rajiv-gandhi-institute-of-petroleum-technology-rgipt-jais-uttar-pradesh-1773705",
+    "score": 50,
+    "source": "Unstop",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "devpost:31108": {
+    "title": "InnovArt 2027: Art and Technology Hack Day",
+    "url": "https://innovart2027.devpost.com/",
+    "score": 50,
+    "source": "Devpost",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "devpost:30500": {
+    "title": "DSH Hacks V2 ($100k+ in prizes!)",
+    "url": "https://dsh-hacks-v2.devpost.com/",
+    "score": 50,
+    "source": "Devpost",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "devpost:31627": {
+    "title": "Next Byte Hacks V5",
+    "url": "https://next-byte-hacks-v5.devpost.com/",
+    "score": 50,
+    "source": "Devpost",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "devpost:31474": {
+    "title": "2026 International CodeTheCure Hackathon",
+    "url": "https://codethecure-hackathon-26.devpost.com/",
+    "score": 50,
+    "source": "Devpost",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "devpost:31619": {
+    "title": "Pumpkin Playground",
+    "url": "https://pumpkin-playground.devpost.com/",
+    "score": 50,
+    "source": "Devpost",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "devpost:31139": {
+    "title": "Neighborhood Hacks",
+    "url": "https://neighborhood-hacks-2026.devpost.com/",
+    "score": 50,
+    "source": "Devpost",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "devpost:31773": {
+    "title": "LaunchPad Hacks",
+    "url": "https://launchpad-hacks.devpost.com/",
+    "score": 50,
+    "source": "Devpost",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "devpost:31798": {
+    "title": "Taskforge",
+    "url": "https://taskforge.devpost.com/",
+    "score": 50,
+    "source": "Devpost",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "devpost:31795": {
+    "title": "AccessED Hacks",
+    "url": "https://accessed-hacks.devpost.com/",
+    "score": 50,
+    "source": "Devpost",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "devpost:31777": {
+    "title": "GLITCHATHON",
+    "url": "https://glitchathon.devpost.com/",
+    "score": 50,
+    "source": "Devpost",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "devpost:31793": {
+    "title": "AQX Sports Analytics Data Bowl 4.0",
+    "url": "https://aqxanalyticsfour.devpost.com/",
+    "score": 50,
+    "source": "Devpost",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "devpost:31515": {
+    "title": "CodeSprint by Elite Coders",
+    "url": "https://codesprint-by-elitecoders.devpost.com/",
+    "score": 50,
+    "source": "Devpost",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:1773221": {
+    "title": "Bid and Code: Design & Frontend Competition by ACM",
+    "url": "https://unstop.com/hackathons/bid-and-code-design-frontend-competition-by-acm-university-school-of-information-communication-and-technology-1773221",
+    "score": 40,
+    "source": "Unstop",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": false
+  },
+  "unstop:1768767": {
+    "title": "Echelon Young Innovators Hackathon 2026",
+    "url": "https://unstop.com/hackathons/echelon-young-innovators-hackathon-2026-echelon-institute-of-technology-1768767",
+    "score": 40,
+    "source": "Unstop",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": false
+  },
+  "unstop:1768041": {
+    "title": "Srujan 2026 - 1.5 Lakh Mega Hackathon In association with L&T Edutech - Online Round is Free, No Rs 1200 Charged in it",
+    "url": "https://unstop.com/hackathons/srujan-2026-15-lakh-mega-hackathon-in-association-with-lt-bk-birla-college-1768041",
+    "score": 40,
+    "source": "Unstop",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": false
+  },
+  "unstop:1771785": {
+    "title": "Hack Era 2.0",
+    "url": "https://unstop.com/hackathons/hack-era-20-erazone-1771785",
+    "score": 40,
+    "source": "Unstop",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": false
+  },
+  "unstop:1771949": {
+    "title": "RedStone Rush 12 Hour Open Innovation Hackathon",
+    "url": "https://unstop.com/hackathons/redstone-rush-12-hour-open-innovation-hackathon-continuum-mmmut-gorakhpur-1771949",
+    "score": 40,
+    "source": "Unstop",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": false
+  },
+  "unstop:880662": {
+    "title": "Code Vista 4.0",
+    "url": "https://unstop.com/hackathons/code-vista-40-gh-raisoni-college-of-engineering-and-management-pune-880662",
+    "score": 95,
+    "source": "Unstop",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": true,
+    "solo_allowed": true
+  },
+  "unstop:874645": {
+    "title": "CodeBizz | Hackathon",
+    "url": "https://unstop.com/hackathons/codebizz-hackathon-vnit-nagpur-874645",
+    "score": 70,
+    "source": "Unstop",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": true,
+    "solo_allowed": false
+  },
+  "unstop:1737808": {
+    "title": "HackCelestial 3.0",
+    "url": "https://unstop.com/hackathons/hackcelestial-30-pillai-university-navi-mumbai-1737808",
+    "score": 85,
+    "source": "Unstop",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:253975": {
+    "title": "Ideathon",
+    "url": "https://unstop.com/hackathons/ideathon-yhills-253975",
+    "score": 75,
+    "source": "Unstop",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:257850": {
+    "title": "CSI Hackathon 6.0",
+    "url": "https://unstop.com/hackathons/csi-hackathon-60-university-of-petroleum-energy-studies-upes-dehradun-257850",
+    "score": 75,
+    "source": "Unstop",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:266368": {
+    "title": "Code with Globalshala 3.0",
+    "url": "https://unstop.com/hackathons/code-with-globalshala-30-globalshala-266368",
+    "score": 75,
+    "source": "Unstop",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:274253": {
+    "title": "Sociothon",
+    "url": "https://unstop.com/hackathons/sociothon-national-social-summit22-indian-institute-of-technology-iit-roorkee-274253",
+    "score": 75,
+    "source": "Unstop",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:328792": {
+    "title": "Data Challenge II",
+    "url": "https://unstop.com/hackathons/data-challenge-ii-henry-harvin-education-328792",
+    "score": 75,
+    "source": "Unstop",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:362115": {
+    "title": "Code with Globalshala 3.0",
+    "url": "https://unstop.com/hackathons/code-with-globalshala-30-globalshala-362115",
+    "score": 75,
+    "source": "Unstop",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:377073": {
+    "title": "Out Of Context: Website Development Hackathon",
+    "url": "https://unstop.com/hackathons/out-of-context-website-development-hackathon-codevita-live-377073",
+    "score": 75,
+    "source": "Unstop",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:436615": {
+    "title": "Hawk the Log: Retail Dataset Competition",
+    "url": "https://unstop.com/hackathons/hawk-the-log-retail-dataset-competition-interface-2022-birla-institute-of-technology-science-bits-pilani-436615",
+    "score": 75,
+    "source": "Unstop",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:424925": {
+    "title": "Pickl.Ai's Datathon - 1",
+    "url": "https://unstop.com/hackathons/picklais-datathon-1-pickl-424925",
+    "score": 75,
+    "source": "Unstop",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:448722": {
+    "title": "Creation of Telegram Bot in Python for Data Logging",
+    "url": "https://unstop.com/hackathons/creation-of-telegram-bot-in-python-for-data-logging-edgein-448722",
+    "score": 75,
+    "source": "Unstop",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:408912": {
+    "title": "HackOverflow",
+    "url": "https://unstop.com/hackathons/hackoverflow-codevita-live-408912",
+    "score": 75,
+    "source": "Unstop",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:443793": {
+    "title": "Ideathon 2.0 - National B-Plan Competition ",
+    "url": "https://unstop.com/hackathons/ideathon-20-national-b-plan-competition-kalinga-university-raipur-443793",
+    "score": 75,
+    "source": "Unstop",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:413149": {
+    "title": "BUIDL for Web3 Hackathon (2022)",
+    "url": "https://unstop.com/hackathons/buidl-for-web3-hackathon-2022-lumos-labs-413149",
+    "score": 75,
+    "source": "Unstop",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:494880": {
+    "title": "Bank Personal Loan",
+    "url": "https://unstop.com/hackathons/bank-personal-loan-pickl-494880",
+    "score": 75,
+    "source": "Unstop",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:538043": {
+    "title": "AFourathon 2.0 Hackathon",
+    "url": "https://unstop.com/hackathons/afourathon-20-hackathon-afour-technologies-private-limited-538043",
+    "score": 75,
+    "source": "Unstop",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:546623": {
+    "title": "Fraud Website Detection",
+    "url": "https://unstop.com/hackathons/fraud-website-detection-pickl-546623",
+    "score": 75,
+    "source": "Unstop",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:565669": {
+    "title": "Unblock the Block",
+    "url": "https://unstop.com/hackathons/unblock-the-block-e-summit-2022-23-indian-institute-of-technology-iit-kanpur-565669",
+    "score": 75,
+    "source": "Unstop",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:574278": {
+    "title": "BLOCK-A-THON",
+    "url": "https://unstop.com/hackathons/block-a-thon-social-fest-indian-institute-of-technology-iit-bombay-574278",
+    "score": 75,
+    "source": "Unstop",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:576402": {
+    "title": "Nakshatra",
+    "url": "https://unstop.com/hackathons/nakshatra-indian-institute-of-technology-iit-indore-576402",
+    "score": 75,
+    "source": "Unstop",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:576519": {
+    "title": "Meta-Bizz",
+    "url": "https://unstop.com/hackathons/meta-bizz-indian-institute-of-technology-iit-indore-576519",
+    "score": 75,
+    "source": "Unstop",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:576408": {
+    "title": "Énosium",
+    "url": "https://unstop.com/hackathons/enosium-indian-institute-of-technology-iit-indore-576408",
+    "score": 75,
+    "source": "Unstop",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:576411": {
+    "title": "Building Blochs",
+    "url": "https://unstop.com/hackathons/building-blochs-indian-institute-of-technology-iit-indore-576411",
+    "score": 75,
+    "source": "Unstop",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:576413": {
+    "title": "Concastle",
+    "url": "https://unstop.com/hackathons/concastle-indian-institute-of-technology-iit-indore-576413",
+    "score": 75,
+    "source": "Unstop",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:591691": {
+    "title": "Designex 2.0",
+    "url": "https://unstop.com/hackathons/designex-20-vellore-institute-of-technology-vit-ap-andhra-pradesh-591691",
+    "score": 75,
+    "source": "Unstop",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:588252": {
+    "title": "EHAM - The Ultimate Coding Competition",
+    "url": "https://unstop.com/hackathons/eham-the-ultimate-coding-competition-eham-588252",
+    "score": 75,
+    "source": "Unstop",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:594092": {
+    "title": "The Tri-NIT Hackathon",
+    "url": "https://unstop.com/hackathons/the-tri-nit-hackathon-national-institute-of-technology-nit-trichy-594092",
+    "score": 75,
+    "source": "Unstop",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:606182": {
+    "title": "Unleash Your Inner Coder",
+    "url": "https://unstop.com/hackathons/unleash-your-inner-coder-kartexa-codewave-fest-kartexa-606182",
+    "score": 75,
+    "source": "Unstop",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:587042": {
+    "title": "CANVAS 1.0",
+    "url": "https://unstop.com/hackathons/canvas-10-convrseai-587042",
+    "score": 75,
+    "source": "Unstop",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:612890": {
+    "title": "Kartexage Hackathon: Improving Existing and Future Application Platforms",
+    "url": "https://unstop.com/hackathons/kartexage-hackathon-improving-existing-and-future-application-platforms-kartexa-codewave-fest-kartexa-612890",
+    "score": 75,
+    "source": "Unstop",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:599642": {
+    "title": "Pickl.AI’s Datathon - 4",
+    "url": "https://unstop.com/hackathons/picklais-datathon-4-pickl-599642",
+    "score": 75,
+    "source": "Unstop",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:597325": {
+    "title": "Design Your Code",
+    "url": "https://unstop.com/hackathons/design-your-code-techmihirnaik-597325",
+    "score": 75,
+    "source": "Unstop",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:600552": {
+    "title": "Krypthon - Hackathon",
+    "url": "https://unstop.com/hackathons/krypthon-hackathon-vit-chennai-600552",
+    "score": 75,
+    "source": "Unstop",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:628861": {
+    "title": "HackFiesta",
+    "url": "https://unstop.com/hackathons/hackfiesta-codevita-live-628861",
+    "score": 75,
+    "source": "Unstop",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:645198": {
+    "title": "Blackstone Shipping Hackathon",
+    "url": "https://unstop.com/hackathons/blackstone-shipping-hackathon-blackstone-shipping-private-limited-645198",
+    "score": 75,
+    "source": "Unstop",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "devfolio:af96d1c4fe204ed0a7a350c863520253": {
+    "title": "EthereumZuri.ch",
+    "url": "https://ethereumzurich.devfolio.co",
+    "score": 75,
+    "source": "Devfolio",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:674977": {
+    "title": "Code.AIthon",
+    "url": "https://unstop.com/hackathons/codeaithon-codevita-live-674977",
+    "score": 75,
+    "source": "Unstop",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:682170": {
+    "title": "AFourathon 3.0 Hackathon",
+    "url": "https://unstop.com/hackathons/30-hackathon-afour-technologies-private-limited-682170",
+    "score": 75,
+    "source": "Unstop",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:699525": {
+    "title": "Out Of Context: Website Development Hackathon",
+    "url": "https://unstop.com/hackathons/out-of-context-website-development-hackathon-codevita-live-699525",
+    "score": 75,
+    "source": "Unstop",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:742316": {
+    "title": "Codex Nexus- The Innovation Marathon",
+    "url": "https://unstop.com/hackathons/codex-nexus-the-innovation-marathon-codevita-live-742316",
+    "score": 75,
+    "source": "Unstop",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:800786": {
+    "title": "Quant Quest by AlgoBulls",
+    "url": "https://unstop.com/hackathons/quant-quest-by-algobulls-iit-kanpur-800786",
+    "score": 75,
+    "source": "Unstop",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:866933": {
+    "title": "AI/ML Hackathon on Road safety, NSS IIT Roorkee",
+    "url": "https://unstop.com/hackathons/aiml-hackathon-on-road-safety-iit-roorkee-866933",
+    "score": 75,
+    "source": "Unstop",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:912319": {
+    "title": "TriNIT Hackathon 3.0",
+    "url": "https://unstop.com/hackathons/trinit-hackathon-30-nit-trichy-912319",
+    "score": 75,
+    "source": "Unstop",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:929577": {
+    "title": "Hack the Future: DApp Edition By Blockseblock",
+    "url": "https://unstop.com/hackathons/hack-the-future-e-summit-2024-indian-institute-of-information-technology-design-and-manufacturing-iiitdm-kanc-929577",
+    "score": 75,
+    "source": "Unstop",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:1024247": {
+    "title": "Flipkart GRiD 6.0 - Software Development Track",
+    "url": "https://unstop.com/hackathons/crp-flipkart-grid-60-software-development-track-flipkart-grid-60-flipkart-1024247",
+    "score": 75,
+    "source": "Unstop",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:1204380": {
+    "title": "Innovate X Hackathon",
+    "url": "https://unstop.com/hackathons/innovate-x-hackathon-shyam-lal-college-university-of-delhi-1204380",
+    "score": 75,
+    "source": "Unstop",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:1264642": {
+    "title": "GenAI Hackathon - Product Case Study Challenge (in collaboration with Reachifyme)",
+    "url": "https://unstop.com/hackathons/crp-genai-hackathon-product-case-study-challenge-in-collaboration-with-reachifyme-product-space-1264642",
+    "score": 75,
+    "source": "Unstop",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:1365780": {
+    "title": "Altair's Data Science Contest",
+    "url": "https://unstop.com/hackathons/altairs-data-science-contest-e-summit25-indian-institute-of-information-technology-design-and-manufacturing-k-1365780",
+    "score": 75,
+    "source": "Unstop",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:1368722": {
+    "title": "Changethon",
+    "url": "https://unstop.com/hackathons/changethon-national-social-summit-2025-iit-roorkee-1368722",
+    "score": 75,
+    "source": "Unstop",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:1546867": {
+    "title": "India's Biggest AI Hackathon",
+    "url": "https://unstop.com/hackathons/indias-biggest-ai-hackathon-masters-union-school-of-business-1546867",
+    "score": 75,
+    "source": "Unstop",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:1767030": {
+    "title": "AIVORA 2K26 ",
+    "url": "https://unstop.com/hackathons/aivora-2k26-innovation-hacks-1767030",
+    "score": 75,
+    "source": "Unstop",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:1769089": {
+    "title": "Code Quest",
+    "url": "https://unstop.com/hackathons/code-quest-guru-nanak-dev-university-regional-campus-gurdaspur-punjab-1769089",
+    "score": 75,
+    "source": "Unstop",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:1770230": {
+    "title": "Hack & Among Us",
+    "url": "https://unstop.com/hackathons/hack-among-us-dr-akhilesh-das-gupta-institute-of-technology-and-management-adgitm-new-delhi-1770230",
+    "score": 75,
+    "source": "Unstop",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:281262": {
+    "title": "Game Jam ",
+    "url": "https://unstop.com/hackathons/game-jam-tryst-indian-institute-of-technology-iit-delhi-281262",
+    "score": 60,
+    "source": "Unstop",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:469170": {
+    "title": "Tech Hackathon",
+    "url": "https://unstop.com/hackathons/tech-hackathon-indian-institute-of-technology-iit-delhi-469170",
+    "score": 60,
+    "source": "Unstop",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:536227": {
+    "title": "Brainathon",
+    "url": "https://unstop.com/hackathons/brainathon-vellore-institute-of-technology-vit-ap-andhra-pradesh-536227",
+    "score": 60,
+    "source": "Unstop",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:583694": {
+    "title": "12th IACC HACKATHON -2K23",
+    "url": "https://unstop.com/hackathons/12th-iacc-hackathon-2k23-cmr-college-of-engineering-and-technology-cmrcet-hyderabad-583694",
+    "score": 60,
+    "source": "Unstop",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:588886": {
+    "title": "LNMHacks 5.0",
+    "url": "https://unstop.com/hackathons/lnmhacks-50-lnm-institute-of-information-technology-lnmiit-jaipur-588886",
+    "score": 60,
+    "source": "Unstop",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:593666": {
+    "title": "Cyberheist - Capture the Flag (CTF)",
+    "url": "https://unstop.com/hackathons/cyberheist-capture-the-flag-ctf-siws-college-593666",
+    "score": 60,
+    "source": "Unstop",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "devfolio:098c5c70099642fab7b76ab2fc587daa": {
+    "title": "Hackoona Matata",
+    "url": "https://apoorv-hackathon.devfolio.co",
+    "score": 60,
+    "source": "Devfolio",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "devfolio:653042ccfb0e448caec6ba14b6d90e4e": {
+    "title": "Code Odyssey 2.0",
+    "url": "https://code-odyssey-2.devfolio.co",
+    "score": 60,
+    "source": "Devfolio",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "devfolio:992294e1c2b241238d2f4b39c1d7e7e0": {
+    "title": "Build Week",
+    "url": "https://buildweek.devfolio.co",
+    "score": 60,
+    "source": "Devfolio",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:682926": {
+    "title": "PASSWORD",
+    "url": "https://unstop.com/hackathons/password-vit-chennai-682926",
+    "score": 60,
+    "source": "Unstop",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:783134": {
+    "title": "Cyber-O-Day 2.0",
+    "url": "https://unstop.com/hackathons/cyber-o-day-20-vit-chennai-783134",
+    "score": 60,
+    "source": "Unstop",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:872352": {
+    "title": "Password 2024",
+    "url": "https://unstop.com/hackathons/password-2024-vit-chennai-872352",
+    "score": 60,
+    "source": "Unstop",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:910797": {
+    "title": "Webgators",
+    "url": "https://unstop.com/hackathons/webgators-techmarathon24-dduc-du-new-delhi-910797",
+    "score": 60,
+    "source": "Unstop",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:922945": {
+    "title": "Code Uncode",
+    "url": "https://unstop.com/hackathons/code-uncode-kirori-mal-college-kmc-du-delhi-922945",
+    "score": 60,
+    "source": "Unstop",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:922330": {
+    "title": "Data Bizz - Altair Data Science Competition",
+    "url": "https://unstop.com/hackathons/data-bizz-a-data-science-competition-indian-institute-of-information-technology-design-and-manufacturing-iiit-922330",
+    "score": 60,
+    "source": "Unstop",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:1437224": {
+    "title": "Code Uncode",
+    "url": "https://unstop.com/hackathons/code-uncode-kirori-mal-college-kmc-du-delhi-1437224",
+    "score": 60,
+    "source": "Unstop",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:1467125": {
+    "title": "Swift-Hack",
+    "url": "https://unstop.com/hackathons/swift-hack-rescon-40-bennett-university-bu-greater-noida-1467125",
+    "score": 60,
+    "source": "Unstop",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "mlh:2025:prizes": {
+    "title": "GDG Solution Hacks",
+    "url": "https://www.mlh.com/events/gdg-solution-hacks/prizes",
+    "score": 60,
+    "source": "MLH",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:1631069": {
+    "title": "Innovate  X Hackathon",
+    "url": "https://unstop.com/hackathons/innovate-x-hackathon-shyam-lal-college-university-of-delhi-1631069",
+    "score": 60,
+    "source": "Unstop",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "mlh:2026:prizes": {
+    "title": "HackPrix Season 3",
+    "url": "https://www.mlh.com/events/hackprix-season-3/prizes",
+    "score": 60,
+    "source": "MLH",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:1769168": {
+    "title": "Server Crash - Who Killed the server?",
+    "url": "https://unstop.com/hackathons/server-crash-who-killed-the-server-tech-fusion-26-vaish-college-of-engineering-rohtak-haryana-1769168",
+    "score": 60,
+    "source": "Unstop",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:1769998": {
+    "title": "Designathon - CAD & PCB Hackathon",
+    "url": "https://unstop.com/hackathons/designathon-cad-pcb-hackathon-karuyantra-carnival-2026-university-school-of-automation-robotics-delhi-1769998",
+    "score": 60,
+    "source": "Unstop",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "devfolio:9adf060811c54760af2747439bbd512f": {
+    "title": "Covix360",
+    "url": "https://covix360.devfolio.co",
+    "score": 50,
+    "source": "Devfolio",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "devfolio:a3d4a5d530a1468cb61492d2f4e6247d": {
+    "title": "OctaHacks 3.0",
+    "url": "https://dsc-ciet-octahacks.devfolio.co",
+    "score": 50,
+    "source": "Devfolio",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:241137": {
+    "title": "Code Creed 3.0 - A Coding Quiz",
+    "url": "https://unstop.com/hackathons/code-creed-missioned-241137",
+    "score": 50,
+    "source": "Unstop",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:267240": {
+    "title": "Hack-For-Cause",
+    "url": "https://unstop.com/hackathons/hack-for-cause-indian-institute-of-technology-iit-delhi-267240",
+    "score": 50,
+    "source": "Unstop",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "devfolio:34ba0a3edc424f68b659d97e959f27d2": {
+    "title": "hackTU 3.0",
+    "url": "https://hacktu-3.devfolio.co",
+    "score": 50,
+    "source": "Devfolio",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "devfolio:b227d4b84a084a83babc7bd9434087cd": {
+    "title": "Inspiron '22",
+    "url": "https://inspiron22.devfolio.co",
+    "score": 50,
+    "source": "Devfolio",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:272342": {
+    "title": "Hackathon",
+    "url": "https://unstop.com/hackathons/hackathon-elan-ivision-2022-iit-hyderabad-indian-institute-of-technology-iit-hyderabad-272342",
+    "score": 50,
+    "source": "Unstop",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:273568": {
+    "title": "Code Arduino",
+    "url": "https://unstop.com/hackathons/code-arduino-elan-ivision-2022-iit-hyderabad-indian-institute-of-technology-iit-hyderabad-273568",
+    "score": 50,
+    "source": "Unstop",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:10587": {
+    "title": "Google Code Jam",
+    "url": "https://unstop.com/hackathons/google-code-jam-google-10587",
+    "score": 50,
+    "source": "Unstop",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "devfolio:d718d50fef3c4c8b944f5664644de333": {
+    "title": "Summit Strive",
+    "url": "https://summit-strive-avenue-of-possibilities.devfolio.co",
+    "score": 50,
+    "source": "Devfolio",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:279030": {
+    "title": "Hack-e-Green ",
+    "url": "https://unstop.com/hackathons/hack-e-green-sustainability-conclave-2022-indian-institute-of-technology-iit-roorkee-279030",
+    "score": 50,
+    "source": "Unstop",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:348292": {
+    "title": "Code Fin 2.0- A Coding Quiz",
+    "url": "https://unstop.com/hackathons/code-fin-20-a-coding-quiz-missioned-348292",
+    "score": 50,
+    "source": "Unstop",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:465870": {
+    "title": "Coding Velocity",
+    "url": "https://unstop.com/hackathons/coding-velocity-pnapaao-private-limited-465870",
+    "score": 50,
+    "source": "Unstop",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:538178": {
+    "title": "The Techie Pirates Ship",
+    "url": "https://unstop.com/hackathons/the-techie-pirates-ship-roorkee-college-of-engineering-rce-538178",
+    "score": 50,
+    "source": "Unstop",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:566041": {
+    "title": "Mockup 2.0",
+    "url": "https://unstop.com/hackathons/mockup-20-manipal-university-mu-jaipur-566041",
+    "score": 50,
+    "source": "Unstop",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:538338": {
+    "title": "Py.Hack ’22: Enhancing productivity, One program at a time",
+    "url": "https://unstop.com/hackathons/pyhack-22-enhancing-productivity-one-program-at-a-time-cohesive-technologies-538338",
+    "score": 50,
+    "source": "Unstop",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:577906": {
+    "title": "APL Apollo Tubes - 1 Pixel Designathon",
+    "url": "https://unstop.com/hackathons/designathon-1-pixel-1-pixel-design-conf-indraprastha-institute-of-information-technology-iiit-delhi-577906",
+    "score": 50,
+    "source": "Unstop",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:576403": {
+    "title": "Top Gear",
+    "url": "https://unstop.com/hackathons/top-gear-indian-institute-of-technology-iit-indore-576403",
+    "score": 50,
+    "source": "Unstop",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:587188": {
+    "title": "OILY MLgo",
+    "url": "https://unstop.com/hackathons/oily-mlgo-oilympics-indian-institute-of-technology-iit-ism-dhanbad-587188",
+    "score": 50,
+    "source": "Unstop",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "devfolio:9d8d2d2af9a04080a391451c2b16905e": {
+    "title": "Castor 2023",
+    "url": "https://castor-2023.devfolio.co",
+    "score": 50,
+    "source": "Devfolio",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:583592": {
+    "title": "UI/UX Designing Hackathon",
+    "url": "https://unstop.com/hackathons/uiux-designing-hackathon-indian-institute-of-technology-iit-patna-583592",
+    "score": 50,
+    "source": "Unstop",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:585873": {
+    "title": "ScaleUp",
+    "url": "https://unstop.com/hackathons/scaleup-e-summit23-indian-institute-of-technology-iit-patna-585873",
+    "score": 50,
+    "source": "Unstop",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:599849": {
+    "title": "Coder's Infinity War (Online Treasure Hunt)",
+    "url": "https://unstop.com/hackathons/coders-infinity-war-online-treasure-hunt-cepheus23-annual-technical-fest-of-iit-goa-indian-institute-of-techno-599849",
+    "score": 50,
+    "source": "Unstop",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:591647": {
+    "title": "Founders of The Future'23",
+    "url": "https://unstop.com/hackathons/founders-of-the-future23-kartexa-591647",
+    "score": 50,
+    "source": "Unstop",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:639332": {
+    "title": "Algo Unlock",
+    "url": "https://unstop.com/hackathons/algo-unlock-zeitgeist-indian-institute-of-technology-iit-ropar-639332",
+    "score": 50,
+    "source": "Unstop",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:634975": {
+    "title": "Unleash Your Inner Coder",
+    "url": "https://unstop.com/hackathons/unleash-your-inner-coder-kartexa-codewave-fest-kartexa-634975",
+    "score": 50,
+    "source": "Unstop",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "devfolio:abe670ca590048879c5b297e45dc12f4": {
+    "title": "The Ultimate Solution Challenge 2023",
+    "url": "https://ultimate-solution-challenge-2023.devfolio.co",
+    "score": 50,
+    "source": "Devfolio",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "devfolio:95b15f2db0e7480eb48633bc7f9120e5": {
+    "title": "HackUnicorn",
+    "url": "https://hackunicorn-1.devfolio.co",
+    "score": 50,
+    "source": "Devfolio",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:675134": {
+    "title": "Waffle Hacks",
+    "url": "https://unstop.com/hackathons/waffle-hacks-belmont-data-collaborative-675134",
+    "score": 50,
+    "source": "Unstop",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:773127": {
+    "title": "Winter Coding Contest 3.0",
+    "url": "https://unstop.com/hackathons/winter-coding-contest-30-vallurupalli-nageswara-rao-vignana-jyothi-institute-of-engineering-and-technology-vn-773127",
+    "score": 50,
+    "source": "Unstop",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:798244": {
+    "title": "Sociothon",
+    "url": "https://unstop.com/hackathons/sociothon-iit-roorkee-798244",
+    "score": 50,
+    "source": "Unstop",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:887040": {
+    "title": "Solve To Decipher",
+    "url": "https://unstop.com/hackathons/solve-to-decipher-e-summit-2024-iit-madras-887040",
+    "score": 50,
+    "source": "Unstop",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:913890": {
+    "title": "Solve The SDGs: The Future is made Today",
+    "url": "https://unstop.com/hackathons/solve-the-sdgs-the-future-is-made-today-iit-madras-913890",
+    "score": 50,
+    "source": "Unstop",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:943504": {
+    "title": "QuestCraft: Unleash Your Creativity",
+    "url": "https://unstop.com/hackathons/questcraft-unleash-your-creativity-solace-odyssey-24-bennett-university-bu-greater-noida-943504",
+    "score": 50,
+    "source": "Unstop",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:1168884": {
+    "title": "Winter Coding Contest 4.0",
+    "url": "https://unstop.com/hackathons/winter-coding-contest-40-vallurupalli-nageswara-rao-vignana-jyothi-institute-of-engineering-technology-telang-1168884",
+    "score": 50,
+    "source": "Unstop",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:1191511": {
+    "title": "PM Hackathon - Product Case Study In Collaboration with Uber",
+    "url": "https://unstop.com/hackathons/product-management-hackathon-product-space-1191511",
+    "score": 50,
+    "source": "Unstop",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:1394635": {
+    "title": "Best COO",
+    "url": "https://unstop.com/hackathons/best-coo-cura25-nit-warangal-1394635",
+    "score": 50,
+    "source": "Unstop",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:1595880": {
+    "title": "Innerve X: India’s Largest Student Driven Hackathon",
+    "url": "https://unstop.com/hackathons/innerve-x-indias-largest-student-driven-hackathon-army-institute-of-technology-ait-pune-1595880",
+    "score": 50,
+    "source": "Unstop",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": false
+  },
+  "unstop:1630859": {
+    "title": "Inspiron 5.0",
+    "url": "https://unstop.com/hackathons/inspiron-50-computer-society-of-indiacsi-coep-tech-student-chapter-1630859",
+    "score": 50,
+    "source": "Unstop",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": false
+  },
+  "unstop:1771533": {
+    "title": "Reporeboot'26",
+    "url": "https://unstop.com/hackathons/reporeboot26-dhirubhai-ambani-institute-of-information-and-communication-technology-da-iict-gandhinagar-1771533",
+    "score": 50,
+    "source": "Unstop",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:439058": {
+    "title": "Sparkathon 2022",
+    "url": "https://unstop.com/hackathons/sparkathon-2022-ia-labs-439058",
+    "score": 40,
+    "source": "Unstop",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": false
+  },
+  "unstop:568654": {
+    "title": "Wienova",
+    "url": "https://unstop.com/hackathons/wienova-institute-of-electrical-and-electronics-engineers-ieee-568654",
+    "score": 40,
+    "source": "Unstop",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": false
+  },
+  "unstop:557528": {
+    "title": "Code Hack 2023",
+    "url": "https://unstop.com/hackathons/code-hack-2023-dev-code-community-557528",
+    "score": 40,
+    "source": "Unstop",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": false
+  },
+  "unstop:675122": {
+    "title": "GPU Hackathon 2023",
+    "url": "https://unstop.com/hackathons/gpu-hackathon-2023-bengaluru-city-university-675122",
+    "score": 40,
+    "source": "Unstop",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": false
+  },
+  "unstop:1346649": {
+    "title": "Capture the Flag",
+    "url": "https://unstop.com/hackathons/capture-the-flag-v-prayukti25-bannari-amman-institute-of-technology-1346649",
+    "score": 40,
+    "source": "Unstop",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": false
+  },
+  "unstop:1769865": {
+    "title": "Zero Shot Hack",
+    "url": "https://unstop.com/hackathons/zero-shot-hack-vit-vellore-1769865",
+    "score": 40,
+    "source": "Unstop",
+    "last_notified": "2026-10-23T06:03:06.357691+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": false
+  }
+}

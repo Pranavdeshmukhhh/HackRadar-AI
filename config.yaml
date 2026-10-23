@@ -1,0 +1,151 @@
+# Nagpur & Vidarbha Hackathon Monitor Configuration
+# Prioritizing Nagpur/Vidarbha regional events, Solo participation, and AI/Software tracks.
+
+scoring:
+  weights:
+    nagpur_regional_boost: 45      # Nagpur & Vidarbha keywords & institutions
+    maharashtra_regional_boost: 25  # Rest of Maharashtra
+    online_hybrid_boost: 15        # Readily accessible virtual/hybrid events
+    solo_boost: 35                 # Solo participation permitted (min_team_size <= 1)
+    track_match_boost: 25          # Matches AI, GenAI, ML, Software, Full Stack
+  min_qualifying_score: 40         # Minimum score to trigger alerts and qualify for dashboard
+
+keywords:
+  nagpur_regional:
+    - "nagpur"
+    - "vidarbha"
+    - "vnit"
+    - "visvesvaraya national institute of technology"
+    - "iiit nagpur"
+    - "iiitn"
+    - "iim nagpur"
+    - "rcoem"
+    - "ramdeobaba"
+    - "rbu"
+    - "ramdeobaba university"
+    - "ycce"
+    - "yeshwantrao chavan college of engineering"
+    - "ghrce"
+    - "g.h. raisoni"
+    - "gh raisoni"
+    - "raisoni"
+    - "symbiosis nagpur"
+    - "sit nagpur"
+    - "pce nagpur"
+    - "priyadarshini college"
+    - "priyadarshini"
+    - "lit nagpur"
+    - "laxminarayan"
+    - "nagpur university"
+    - "rtmnu"
+    - "st. vincent pallotti nagpur"
+    - "pallotti nagpur"
+    - "kdk college"
+    - "wardha"
+    - "amravati"
+    - "chandrapur"
+
+  maharashtra_regional:
+    - "maharashtra"
+    - "pune"
+    - "mumbai"
+    - "nashik"
+    - "chhatrapati sambhajinagar"
+    - "aurangabad"
+    - "solapur"
+    - "kolhapur"
+    - "coep"
+    - "vjti"
+    - "iit bombay"
+    - "pict pune"
+    - "vit pune"
+
+  tracks:
+    - "ai"
+    - "artificial intelligence"
+    - "machine learning"
+    - "ml"
+    - "genai"
+    - "generative ai"
+    - "llm"
+    - "large language model"
+    - "agentic ai"
+    - "ai agents"
+    - "autonomous agents"
+    - "deep learning"
+    - "nlp"
+    - "natural language processing"
+    - "computer vision"
+    - "software development"
+    - "software engineering"
+    - "full stack"
+    - "web development"
+    - "frontend"
+    - "backend"
+    - "mobile app"
+    - "open innovation"
+    - "cloud"
+    - "devops"
+    - "cybersecurity"
+    - "web3"
+    - "blockchain"
+    - "api"
+    - "data science"
+
+scrapers:
+  unstop:
+    enabled: true
+    pages: 5
+    per_page: 50
+    timeout_seconds: 15
+  devfolio:
+    enabled: true
+    max_items: 100
+    timeout_seconds: 15
+  devpost:
+    enabled: true
+    max_pages: 5
+    timeout_seconds: 15
+  hackerearth:
+    enabled: true
+    timeout_seconds: 15
+  mlh:
+    enabled: true
+    seasons:
+      - 2025
+      - 2026
+    timeout_seconds: 15
+  crawl4ai:
+    enabled: true
+    max_pages: 50
+    timeout_seconds: 20
+    seed_urls:
+      - "https://axisvnit.in"
+      - "https://www.vnit.ac.in"
+      - "https://iiitn.ac.in"
+      - "https://techfest.org"
+      - "https://mind-spark.org"
+
+notifiers:
+  github_issues:
+    enabled: true
+    labels:
+      - "hackathon-alert"
+      - "nagpur-monitor"
+  discord:
+    enabled: true
+  telegram:
+    enabled: true
+  smtp:
+    enabled: true
+  dashboard:
+    enabled: true
+    output_path: "HACKATHONS.md"
+
+storage:
+  seen_file: "data/seen_hackathons.json"
+
+scheduler:
+  enabled: true
+  interval_minutes: 60  # Continuous 24/7 interval between scrapes (in minutes)
+

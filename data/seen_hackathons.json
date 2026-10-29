@@ -2077,5 +2077,77 @@
     "last_notified": "2026-10-28T14:49:15.399124+00:00",
     "is_nagpur_local": false,
     "solo_allowed": false
+  },
+  "unstop:1783775": {
+    "title": "CodeNova India 2026 - National Hackathon",
+    "url": "https://unstop.com/hackathons/codenova-india-2026-national-hackathon-wecodecoders-1783775",
+    "score": 75,
+    "source": "Unstop",
+    "last_notified": "2026-10-29T17:13:40.032040+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:1783835": {
+    "title": "CodeZen India 2026 - National Hackathon",
+    "url": "https://unstop.com/hackathons/codezen-india-2026-national-hackathon-wecodecoders-1783835",
+    "score": 75,
+    "source": "Unstop",
+    "last_notified": "2026-10-29T17:13:40.032040+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:1783135": {
+    "title": "WebClone Mania",
+    "url": "https://unstop.com/hackathons/webclone-mania-nit-rourkela-1783135",
+    "score": 60,
+    "source": "Unstop",
+    "last_notified": "2026-10-29T17:13:40.032040+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:1782942": {
+    "title": "CodeHive Community Duel Night",
+    "url": "https://unstop.com/hackathons/codehive-community-duel-night-code-hive-1782942",
+    "score": 50,
+    "source": "Unstop",
+    "last_notified": "2026-10-29T17:13:40.032040+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:1782949": {
+    "title": "Reverse Coding X",
+    "url": "https://unstop.com/hackathons/reverse-coding-x-iit-madras-1782949",
+    "score": 50,
+    "source": "Unstop",
+    "last_notified": "2026-10-29T17:13:40.032040+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "devpost:31797": {
+    "title": "Green Shift Hacks",
+    "url": "https://green-shift-hacks.devpost.com/",
+    "score": 50,
+    "source": "Devpost",
+    "last_notified": "2026-10-29T17:13:40.032040+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:1783707": {
+    "title": "Forge '26 – India's Biggest Gen AI Buildathon",
+    "url": "https://unstop.com/hackathons/forge-26-indias-biggest-gen-ai-buildathon-nxtwave-launchpad-1783707",
+    "score": 40,
+    "source": "Unstop",
+    "last_notified": "2026-10-29T17:13:40.032040+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": false
+  },
+  "unstop:1783256": {
+    "title": "AGENTX 2.0",
+    "url": "https://unstop.com/hackathons/agentx-20-hackqube-1783256",
+    "score": 40,
+    "source": "Unstop",
+    "last_notified": "2026-10-29T17:13:40.032040+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": false
   }
 }

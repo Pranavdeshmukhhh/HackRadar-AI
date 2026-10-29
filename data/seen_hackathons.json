@@ -2149,5 +2149,23 @@
     "last_notified": "2026-10-29T17:13:40.032040+00:00",
     "is_nagpur_local": false,
     "solo_allowed": false
+  },
+  "unstop:1784554": {
+    "title": "One Who Codes 2026 - A Portfolio Challenge",
+    "url": "https://unstop.com/hackathons/one-who-codes-2026-a-portfolio-challenge-acadable-1784554",
+    "score": 75,
+    "source": "Unstop",
+    "last_notified": "2026-10-29T22:15:10.936496+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:1784631": {
+    "title": "Health Hackathon 3.0",
+    "url": "https://unstop.com/hackathons/health-hackathon-30-vit-bhopal-university-1784631",
+    "score": 60,
+    "source": "Unstop",
+    "last_notified": "2026-10-29T22:15:10.936496+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
   }
 }

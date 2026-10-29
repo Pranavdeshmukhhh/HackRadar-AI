@@ -179,6 +179,7 @@ class EmailNotifier:
     """Dispatches HTML email notifications via SMTP."""
 
     def __init__(self):
+        self.host = os.getenv("SMTP_HOST")
         port_raw = os.getenv("SMTP_PORT") or "587"
         try:
             self.port = int(str(port_raw).strip())

@@ -92,23 +92,26 @@ keywords:
     - "api"
     - "data science"
 
+filters:
+  exclude_finished: true  # Automatically filter out expired hackathons
+
 scrapers:
   unstop:
     enabled: true
-    pages: 5
-    per_page: 50
-    timeout_seconds: 15
+    pages: 3
+    per_page: 30
+    timeout_seconds: 12
   devfolio:
     enabled: true
-    max_items: 100
-    timeout_seconds: 15
+    max_items: 60
+    timeout_seconds: 12
   devpost:
     enabled: true
-    max_pages: 5
-    timeout_seconds: 15
+    max_pages: 3
+    timeout_seconds: 12
   hackerearth:
     enabled: true
-    timeout_seconds: 15
+    timeout_seconds: 12
   mlh:
     enabled: true
     seasons:

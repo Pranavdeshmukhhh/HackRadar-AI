@@ -396,6 +396,47 @@ HTML_TEMPLATE = r"""<!DOCTYPE html>
       color: #67e8f9;
     }
 
+    .tag.expired {
+      background: rgba(239, 68, 68, 0.15);
+      border-color: rgba(239, 68, 68, 0.4);
+      color: #f87171;
+      font-weight: 600;
+    }
+
+    .pill-btn.expired.active {
+      background: #ef4444;
+      border-color: #ef4444;
+      box-shadow: 0 0 15px rgba(239, 68, 68, 0.35);
+    }
+
+    .pill-btn.active-tab.active {
+      background: var(--emerald);
+      border-color: var(--emerald);
+      box-shadow: 0 0 15px var(--emerald-glow);
+    }
+
+    .event-card.expired-card {
+      opacity: 0.65;
+      filter: grayscale(30%);
+      border-color: rgba(239, 68, 68, 0.2);
+    }
+
+    .event-card.expired-card:hover {
+      opacity: 0.95;
+      filter: none;
+    }
+
+    .apply-btn.expired-btn {
+      background: rgba(255, 255, 255, 0.1);
+      color: var(--text-muted);
+    }
+
+    .apply-btn.expired-btn:hover {
+      background: rgba(255, 255, 255, 0.2);
+      color: #fff;
+      box-shadow: none;
+    }
+
     .reasons-box {
       background: rgba(0, 0, 0, 0.25);
       border-radius: 0.5rem;
@@ -476,20 +517,20 @@ HTML_TEMPLATE = r"""<!DOCTYPE html>
 
     <div class="stats-grid">
       <div class="stat-card">
-        <div class="stat-num" id="stat-total">0</div>
-        <div class="stat-label">Total Verified Hackathons</div>
+        <div class="stat-num" id="stat-active" style="color: var(--emerald)">0</div>
+        <div class="stat-label">Active / Open Now</div>
       </div>
       <div class="stat-card">
         <div class="stat-num" id="stat-nagpur" style="color: var(--amber)">0</div>
         <div class="stat-label">Nagpur & Vidarbha Regionals</div>
       </div>
       <div class="stat-card">
-        <div class="stat-num" id="stat-solo" style="color: var(--emerald)">0</div>
+        <div class="stat-num" id="stat-solo" style="color: var(--cyan)">0</div>
         <div class="stat-label">Solo Eligible (1 Member)</div>
       </div>
       <div class="stat-card">
-        <div class="stat-num" id="stat-ai" style="color: var(--purple)">0</div>
-        <div class="stat-label">AI & Software Tracks</div>
+        <div class="stat-num" id="stat-expired" style="color: #f87171">0</div>
+        <div class="stat-label">Expired / Historical</div>
       </div>
     </div>
   </header>
@@ -508,12 +549,14 @@ HTML_TEMPLATE = r"""<!DOCTYPE html>
     </div>
 
     <div class="filter-pills">
-      <button class="pill-btn active" data-filter="all">All Opportunities</button>
-      <button class="pill-btn nagpur" data-filter="nagpur">📍 Nagpur & Vidarbha Priority</button>
+      <button class="pill-btn active-tab active" data-filter="active">🟢 Active & Open Only</button>
+      <button class="pill-btn nagpur" data-filter="nagpur">📍 Nagpur & Vidarbha</button>
       <button class="pill-btn solo" data-filter="solo">👤 Solo Eligible</button>
       <button class="pill-btn" data-filter="ai">🤖 AI / GenAI Tracks</button>
       <button class="pill-btn" data-filter="online">🌐 Online / Virtual</button>
       <button class="pill-btn" data-filter="inperson">🏢 In-Person / On-Campus</button>
+      <button class="pill-btn expired" data-filter="expired">🔴 Expired / Closed</button>
+      <button class="pill-btn" data-filter="all">📁 All Opportunities</button>
     </div>
   </div>
 
@@ -533,7 +576,7 @@ __DATA_JSON__
 
   <script>
     let rawEvents = [];
-    let currentFilter = 'all';
+    let currentFilter = 'active';
 
     function init() {
       try {
@@ -545,12 +588,38 @@ __DATA_JSON__
         console.error("Failed to parse embedded hackathons data:", err);
       }
 
-      // If embedded empty, fetch dynamically
+      const now = new Date().getTime();
+      rawEvents.forEach(e => {
+        let isExpired = (e.is_active === false);
+        const dStr = e.registration_deadline || e.end_date;
+        if (dStr) {
+          try {
+            const dt = new Date(dStr).getTime();
+            if (!isNaN(dt) && dt < now) {
+              isExpired = true;
+            }
+          } catch (_) {}
+        }
+        e.is_expired = isExpired;
+      });
+
       if (!rawEvents || rawEvents.length === 0) {
         fetch('hackathons.json')
           .then(r => r.json())
           .then(data => {
             rawEvents = data;
+            const now = new Date().getTime();
+            rawEvents.forEach(e => {
+              let isExpired = (e.is_active === false);
+              const dStr = e.registration_deadline || e.end_date;
+              if (dStr) {
+                try {
+                  const dt = new Date(dStr).getTime();
+                  if (!isNaN(dt) && dt < now) isExpired = true;
+                } catch (_) {}
+              }
+              e.is_expired = isExpired;
+            });
             render();
           })
           .catch(err => console.error("Could not fetch hackathons.json", err));
@@ -581,13 +650,11 @@ __DATA_JSON__
     }
 
     function updateStats() {
-      document.getElementById('stat-total').textContent = rawEvents.length;
-      document.getElementById('stat-nagpur').textContent = rawEvents.filter(e => e.is_nagpur_local).length;
-      document.getElementById('stat-solo').textContent = rawEvents.filter(e => e.solo_allowed).length;
-      document.getElementById('stat-ai').textContent = rawEvents.filter(e => {
-        const text = (e.title + ' ' + (e.tracks || []).join(' ')).toLowerCase();
-        return text.includes('ai') || text.includes('machine learning') || text.includes('software');
-      }).length;
+      const activeList = rawEvents.filter(e => !e.is_expired);
+      document.getElementById('stat-active').textContent = activeList.length;
+      document.getElementById('stat-nagpur').textContent = rawEvents.filter(e => e.is_nagpur_local && !e.is_expired).length;
+      document.getElementById('stat-solo').textContent = activeList.filter(e => e.solo_allowed).length;
+      document.getElementById('stat-expired').textContent = rawEvents.filter(e => e.is_expired).length;
     }
 
     function renderCards() {
@@ -596,7 +663,9 @@ __DATA_JSON__
       const sort = document.getElementById('sortSelect').value;
 
       let filtered = rawEvents.filter(e => {
-        // Filter by tab
+        // Tab filtering
+        if (currentFilter === 'active' && e.is_expired) return false;
+        if (currentFilter === 'expired' && !e.is_expired) return false;
         if (currentFilter === 'nagpur' && !e.is_nagpur_local) return false;
         if (currentFilter === 'solo' && !e.solo_allowed) return false;
         if (currentFilter === 'online' && e.mode !== 'Online') return false;
@@ -640,7 +709,7 @@ __DATA_JSON__
         grid.innerHTML = `
           <div class="no-results">
             <h3>No matching hackathons found</h3>
-            <p style="margin-top:0.5rem">Try adjusting your filters or search keywords.</p>
+            <p style="margin-top:0.5rem">Try switching to "📁 All Opportunities" or clearing your search.</p>
           </div>
         `;
         return;
@@ -648,25 +717,27 @@ __DATA_JSON__
 
       grid.innerHTML = filtered.map(e => {
         const isNagpur = e.is_nagpur_local;
+        const isExp = e.is_expired;
         const scoreClass = (e.score >= 80) ? 'score-high' : 'score-mid';
         const soloBadge = e.solo_allowed ? `<span class="tag solo">👤 Solo Eligible</span>` : `<span class="tag">👥 Team of ${e.min_team_size}-${e.max_team_size || 'N'}</span>`;
         const nagpurTag = isNagpur ? `<span class="tag nagpur">📍 Nagpur & Vidarbha</span>` : '';
         const modeTag = `<span class="tag online">${e.mode === 'Online' ? '🌐 Virtual' : (e.mode === 'Hybrid' ? '⚡ Hybrid' : '🏢 In-Person')}</span>`;
+        const statusTag = isExp ? `<span class="tag expired">🔴 Expired / Closed</span>` : `<span class="tag solo">🟢 Active & Open</span>`;
         
-        let deadlineStr = 'Registration Open';
+        let deadlineStr = isExp ? 'Registration Ended' : 'Registration Open';
         if (e.registration_deadline) {
           try {
             const dt = new Date(e.registration_deadline);
-            deadlineStr = `Ends: ${dt.toLocaleDateString('en-IN', { day: 'numeric', month: 'short', year: 'numeric' })}`;
+            deadlineStr = `${isExp ? 'Ended' : 'Ends'}: ${dt.toLocaleDateString('en-IN', { day: 'numeric', month: 'short', year: 'numeric' })}`;
           } catch (_) {
-            deadlineStr = `Ends: ${e.registration_deadline}`;
+            deadlineStr = `${isExp ? 'Ended' : 'Ends'}: ${e.registration_deadline}`;
           }
         }
 
         const reasons = (e.matched_reasons || []).slice(0, 3).map(r => `• ${r}`).join('<br>');
 
         return `
-          <div class="event-card ${isNagpur ? 'nagpur-card' : ''}">
+          <div class="event-card ${isExp ? 'expired-card' : ''} ${isNagpur && !isExp ? 'nagpur-card' : ''}">
             <div class="card-top">
               <span class="source-tag">${e.source}</span>
               <span class="score-badge ${scoreClass}">★ ${e.score} pts</span>
@@ -676,6 +747,7 @@ __DATA_JSON__
             <div class="card-org">${escapeHtml(e.organizer || e.venue || 'Organizer TBA')}</div>
 
             <div class="meta-row">
+              ${statusTag}
               ${nagpurTag}
               ${soloBadge}
               ${modeTag}
@@ -685,7 +757,9 @@ __DATA_JSON__
 
             <div class="card-footer">
               <span class="deadline-badge">📅 ${deadlineStr}</span>
-              <a href="${escapeHtml(e.url)}" target="_blank" rel="noopener noreferrer" class="apply-btn">Apply Now 🚀</a>
+              <a href="${escapeHtml(e.url)}" target="_blank" rel="noopener noreferrer" class="apply-btn ${isExp ? 'expired-btn' : ''}">
+                ${isExp ? 'View Details 🔗' : 'Apply Now 🚀'}
+              </a>
             </div>
           </div>
         `;

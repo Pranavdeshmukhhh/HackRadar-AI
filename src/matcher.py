@@ -6,6 +6,7 @@ Solo participation eligibility, and AI/Software tracks.
 
 import re
 import logging
+from datetime import datetime, timezone
 from typing import List, Dict, Any, Tuple
 from .models import HackathonEvent
 
@@ -126,10 +127,32 @@ class HackathonMatcher:
         threshold = min_score if min_score is not None else self.min_qualifying_score
         processed: List[HackathonEvent] = []
 
-        exclude_finished = self.config.get("filters", {}).get("exclude_finished", False)
+        # Exclude finished/expired hackathons by default (can be toggled via --include-finished)
+        exclude_finished = self.config.get("filters", {}).get("exclude_finished", True)
+        now_utc = datetime.now(timezone.utc)
+        now_year = now_utc.year
 
         for ev in events:
-            # Exclude finished hackathons if configured
+            # Check deadline date expiration
+            d = ev.registration_deadline or ev.end_date
+            if d:
+                is_past = False
+                try:
+                    dt = datetime.fromisoformat(d.replace("Z", "+00:00"))
+                    if dt.tzinfo is None:
+                        dt = dt.replace(tzinfo=timezone.utc)
+                    if dt < now_utc:
+                        is_past = True
+                except Exception:
+                    # Fallback check for past years (e.g. 2020, 2024 in text dates)
+                    for past_year in range(2015, now_year):
+                        if str(past_year) in d:
+                            is_past = True
+                            break
+
+                if is_past:
+                    ev.is_active = False
+
             if exclude_finished and not ev.is_active:
                 continue
 

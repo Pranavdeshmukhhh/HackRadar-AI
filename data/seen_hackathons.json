@@ -2176,5 +2176,32 @@
     "last_notified": "2026-10-30T02:17:55.372355+00:00",
     "is_nagpur_local": false,
     "solo_allowed": true
+  },
+  "unstop:1786140": {
+    "title": "ML Codeathon 1.0",
+    "url": "https://unstop.com/hackathons/ml-codeathon-10-ksrangasamy-college-of-technology-college-thiruchengode-tamil-nadu-1786140",
+    "score": 75,
+    "source": "Unstop",
+    "last_notified": "2026-10-30T16:24:33.996870+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "hackerearth:ibm-z-day": {
+    "title": "IBM Z Day",
+    "url": "https://www.hackerearth.com/challenges/hackathon/ibm-z-day/",
+    "score": 75,
+    "source": "HackerEarth",
+    "last_notified": "2026-10-30T16:24:33.996870+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "devpost:31667": {
+    "title": "Kiroween 2026",
+    "url": "https://kiroween.devpost.com/",
+    "score": 75,
+    "source": "Devpost",
+    "last_notified": "2026-10-30T16:24:33.996870+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
   }
 }

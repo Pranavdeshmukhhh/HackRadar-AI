@@ -2203,5 +2203,59 @@
     "last_notified": "2026-10-30T16:24:33.996870+00:00",
     "is_nagpur_local": false,
     "solo_allowed": true
+  },
+  "unstop:1783838": {
+    "title": "Innovate - Online Hackathon",
+    "url": "https://unstop.com/hackathons/innovate-online-hackathon-aveeranex-opc-private-limited-1783838",
+    "score": 75,
+    "source": "Unstop",
+    "last_notified": "2026-10-30T21:16:47.825073+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:1785416": {
+    "title": "Madlab - The Ultimate Innovation Hackathon",
+    "url": "https://unstop.com/hackathons/madlab-the-ultimate-innovation-hackathon-shri-chinai-college-of-commerce-economics-1785416",
+    "score": 75,
+    "source": "Unstop",
+    "last_notified": "2026-10-30T21:16:47.825073+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "devpost:26475": {
+    "title": "Dakar Bitcoin Hack by BTrust",
+    "url": "https://dakar-bitcoin-hack-2026.devpost.com/",
+    "score": 75,
+    "source": "Devpost",
+    "last_notified": "2026-10-30T21:16:47.825073+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:1785430": {
+    "title": "Tatusta",
+    "url": "https://unstop.com/hackathons/tatusta-thakur-college-of-engineering-and-technology-tcet-mumbai-1785430",
+    "score": 65,
+    "source": "Unstop",
+    "last_notified": "2026-10-30T21:16:47.825073+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": false
+  },
+  "unstop:1784666": {
+    "title": "Hackday",
+    "url": "https://unstop.com/hackathons/hackday-trishulx-1784666",
+    "score": 50,
+    "source": "Unstop",
+    "last_notified": "2026-10-30T21:16:47.825073+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:1784543": {
+    "title": "SHAASTRA 2027",
+    "url": "https://unstop.com/hackathons/shaastra-2027-iit-madras-1784543",
+    "score": 50,
+    "source": "Unstop",
+    "last_notified": "2026-10-30T21:16:47.825073+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
   }
 }

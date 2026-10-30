@@ -2167,5 +2167,14 @@
     "last_notified": "2026-10-29T22:15:10.936496+00:00",
     "is_nagpur_local": false,
     "solo_allowed": true
+  },
+  "devpost:31664": {
+    "title": "Herhack",
+    "url": "https://herhack.devpost.com/",
+    "score": 75,
+    "source": "Devpost",
+    "last_notified": "2026-10-30T02:17:55.372355+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
   }
 }

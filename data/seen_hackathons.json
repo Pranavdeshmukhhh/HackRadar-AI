@@ -2266,5 +2266,23 @@
     "last_notified": "2026-10-31T07:49:42.151851+00:00",
     "is_nagpur_local": false,
     "solo_allowed": true
+  },
+  "devpost:31907": {
+    "title": "Build Your First AI App",
+    "url": "https://build-your-first-ai-app.devpost.com/",
+    "score": 75,
+    "source": "Devpost",
+    "last_notified": "2026-10-31T14:08:25.784034+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:1786992": {
+    "title": "Technova 2027",
+    "url": "https://unstop.com/hackathons/technova-2027-burhani-college-mumbai-1786992",
+    "score": 50,
+    "source": "Unstop",
+    "last_notified": "2026-10-31T14:08:25.784034+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": false
   }
 }

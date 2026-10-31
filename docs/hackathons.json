@@ -33,7 +33,7 @@
     "is_nagpur_local": true,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-10-31T07:49:41.528938+00:00"
+    "discovered_at": "2026-10-31T14:08:24.583969+00:00"
   },
   {
     "id": "college:mindsparkorg",
@@ -69,7 +69,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": true,
     "is_active": true,
-    "discovered_at": "2026-10-31T07:49:41.220324+00:00"
+    "discovered_at": "2026-10-31T14:08:24.093491+00:00"
   },
   {
     "id": "unstop:1786140",
@@ -109,7 +109,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-10-31T07:49:31.426889+00:00"
+    "discovered_at": "2026-10-31T14:08:14.126942+00:00"
   },
   {
     "id": "unstop:1783775",
@@ -147,7 +147,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-10-31T07:49:33.518251+00:00"
+    "discovered_at": "2026-10-31T14:08:16.024922+00:00"
   },
   {
     "id": "unstop:1783838",
@@ -181,7 +181,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-10-31T07:49:31.428548+00:00"
+    "discovered_at": "2026-10-31T14:08:14.126855+00:00"
   },
   {
     "id": "unstop:1785416",
@@ -221,7 +221,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-10-31T07:49:31.426851+00:00"
+    "discovered_at": "2026-10-31T14:08:14.125361+00:00"
   },
   {
     "id": "unstop:1783835",
@@ -259,7 +259,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-10-31T07:49:33.518178+00:00"
+    "discovered_at": "2026-10-31T14:08:16.024852+00:00"
   },
   {
     "id": "unstop:1784554",
@@ -297,7 +297,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-10-31T07:49:33.517923+00:00"
+    "discovered_at": "2026-10-31T14:08:16.024620+00:00"
   },
   {
     "id": "unstop:1777504",
@@ -337,41 +337,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-10-31T07:49:35.402701+00:00"
-  },
-  {
-    "id": "unstop:1777639",
-    "source": "Unstop",
-    "title": "Rack It Up 2026: 48-Hour Online Hackathon by Rack'Em",
-    "url": "https://unstop.com/hackathons/rack-it-up-2026-48-hour-online-hackathon-by-rackem-karma-enterprises-1777639",
-    "description": "Rack It Up 2026 is a free, online 48-hour hackathon by Rack'Em , the cloud hosting venture of Karma Enterprises , a student-founded company from Bengaluru. Most hackathons end with slides and a demo video. Rack It Up asks for more: build something real in a weekend, deploy it, and have it live on the internet by the final whistle. Why join Build with a team (or solo) and ship a working, live product in 48 hours Solve real problem statements from industry sponsors (announced 2&ndash;5 Dec) Get your project in front of sponsors and judges in a live final Cash prizes for the top teams, revealed between 2 and 5 Dec Exclusive Unstop goodies for every member of the winning team, plus 3 lucky draw winners Certificates for every team that submits, plus winner certificates, all issued on Unstop Special discounts on Rack'Em servers for every participant, and bigger ones for the winners Themes AI for Everyday India Student Life &amp; Learning Local Business &amp; Commerce Developer Tools &amp; Infra Open Innovation (build anything) Sponsor problem statements (announced before the hackathon) Prizes Cash prizes for the top 3 teams overall and the best team in each sponsor track. Amounts are revealed between 2 and 5 Dec. Certificates: every team that submits a project gets a certificate of participation, and winners get winner certificates, all issued on Unstop. Exclusive Unstop goodies for every member of the winning team, plus 3 free lucky draw winners from teams that submit a project and follow @karmaenterprises.in on Instagram. More hackers, more loot, so rally your friends. Rack'Em perks: special discounts on Rack'Em servers for every participant, and bigger ones for the winners, to keep your project live after the hack. Dates Registrations: 30 Oct to 9 Dec 2026, 11:59 PM IST Hackathon: Fri 11 Dec, 6 PM IST to Sun 13 Dec 2026, 6 PM IST Finals (top 10, live demos): Mon 14 Dec 2026 Results: Tue 15 Dec 2026 Eligibility Open to all developers and students across India. Teams of 1&ndash;4 members. Cross-college and cross-city teams are welcome. Rounds Round 1: Registration &amp; team formation (30 Oct &ndash; 9 Dec) Register on Unstop and form your team of 1&ndash;4. No team yet? Find teammates on HackerMate, our community partner: hackermate.in/partners/rack-it-up-2026 . Updates come by email, and live mentor hours run on Zoom. Round 2: The Hack (11 Dec 6 PM &ndash; 13 Dec 6 PM IST, online) Build and deploy your project. Submit on Unstop before the deadline: a live, deployed link (any hosting is fine) public code repository a demo video of up to 3 minutes Round 3: Finals (14 Dec, online) The top 10 teams demo live to the judges and sponsors. Results on 15 Dec. Judging criteria Working, deployed demo: 30% Impact: 25% Technical depth: 25% Presentation: 20% Partners Platform partner: Unstop Community partner: HackerMate (team matching): hackermate.in/partners/rack-it-up-2026 Rules All code must be written during the hackathon. Open-source libraries, frameworks, APIs and AI tools are allowed; pre-built projects are not. Your project must be live at a working link at submission. Any hosting provider is allowed. Teams keep full ownership (IP) of what they build. Sponsors may contact teams about licensing or hiring. One submission per team. Each person can be in only one team. Registrations and submissions happen only on Unstop. Be respectful. Harassment, plagiarism or cheating leads to disqualification. Judges' decisions are final. FAQ Is it free? Yes. There is no registration fee. Do I need to use Rack'Em servers? No. Deploy anywhere. Rack'Em servers are optional, and participants get special discounts on them. Can I take part solo? Yes. Teams can have 1 to 4 members. I don't have a team. How do I find one? Use HackerMate, our community partner, to find teammates: hackermate.in/partners/rack-it-up-2026 Do I need to be a student? No. Any developer in India can join. Will there be mentors? Yes, live mentor hours run on Zoom during the hackathon. What are the prizes? Cash prizes for the top 3 teams overall and the best team in each sponsor track, revealed between 2 and 5 Dec. The winning team and 3 lucky draw winners also get exclusive Unstop goodies, and everyone gets special Rack'Em discounts. How does the lucky draw work? It's free to enter. After the hack, we pick 3 winners at random from participants whose team submitted a project and who follow @karmaenterprises.in on Instagram. Each winner gets exclusive Unstop goodies. The draw is run by us, not by Instagram. Do I get a certificate? Yes. Every team that submits a project gets a certificate of participation, and winners get winner certificates, issued on Unstop. Who owns what we build? You do. Teams keep full ownership of their projects. Contact Venugopal Rao, Founder, Karma Enterprises +91 70199 22967 &middot; venugopalrao@karmaenterprises.tech Sushma, Co-founder, Karma Enterprises +91 84314 96344 &middot; sushma@karmaenterprises.tech rackitup.karmaenterprises.tech &middot; rackem.karmaenterprises.tech &middot; karmaenterprises.tech",
-    "organizer": "Karma Enterprises",
-    "venue": "Online",
-    "mode": "Online",
-    "city": null,
-    "state": "online",
-    "country": null,
-    "start_date": "2026-10-30T00:00:00+05:30",
-    "end_date": "2026-12-15T18:00:00+05:30",
-    "registration_deadline": "2026-12-09T23:59:00+05:30",
-    "min_team_size": 1,
-    "max_team_size": 4,
-    "solo_allowed": true,
-    "eligibility": "Open to college students & coders",
-    "prize_pool": "Prizes & Certificates",
-    "tracks": [
-      "All"
-    ],
-    "score": 75,
-    "matched_reasons": [
-      "🌐 **Accessible Online Mode** (+15 pts)",
-      "👤 **Solo Eligible (1 Member)** (+35 pts)",
-      "🤖 **AI & Software Tracks** (+25 pts) [AI, Open Innovation, Cloud]"
-    ],
-    "is_nagpur_local": false,
-    "is_maharashtra": false,
-    "is_active": true,
-    "discovered_at": "2026-10-31T07:49:35.402382+00:00"
+    "discovered_at": "2026-10-31T14:08:18.284855+00:00"
   },
   {
     "id": "devpost:30740",
@@ -407,14 +373,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-10-31T07:49:38.388548+00:00"
+    "discovered_at": "2026-10-31T14:08:21.301420+00:00"
   },
   {
     "id": "devpost:30764",
     "source": "Devpost",
     "title": "Syntax Summit",
     "url": "https://syntax-summit.devpost.com/",
-    "description": "Devpost hackathon. 3 months left",
+    "description": "Devpost hackathon. 2 months left",
     "organizer": "Student Organization",
     "venue": "Online",
     "mode": "Online",
@@ -443,7 +409,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-10-31T07:49:38.388575+00:00"
+    "discovered_at": "2026-10-31T14:08:21.301433+00:00"
   },
   {
     "id": "hackerearth:godaddy-inclusive-innovation-challenge-2026",
@@ -479,7 +445,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-10-31T07:49:39.412842+00:00"
+    "discovered_at": "2026-10-31T14:08:22.378430+00:00"
   },
   {
     "id": "hackerearth:mks-inc-hackathon",
@@ -515,7 +481,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-10-31T07:49:39.412854+00:00"
+    "discovered_at": "2026-10-31T14:08:22.378442+00:00"
   },
   {
     "id": "hackerearth:ibm-z-day",
@@ -551,14 +517,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-10-31T07:49:39.412818+00:00"
+    "discovered_at": "2026-10-31T14:08:22.378403+00:00"
   },
   {
     "id": "devpost:31302",
     "source": "Devpost",
     "title": "PayPal AI Hackathon",
     "url": "https://paypalaihackathon.devpost.com/",
-    "description": "Devpost hackathon. 13 days left",
+    "description": "Devpost hackathon. 12 days left",
     "organizer": "PayPal",
     "venue": "Online",
     "mode": "Online",
@@ -587,14 +553,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-10-31T07:49:38.239486+00:00"
+    "discovered_at": "2026-10-31T14:08:21.131813+00:00"
   },
   {
     "id": "devpost:31659",
     "source": "Devpost",
     "title": "Learn AR with SPECS",
     "url": "https://learn-specs.devpost.com/",
-    "description": "Devpost hackathon. 10 days left",
+    "description": "Devpost hackathon. 9 days left",
     "organizer": "Devpost",
     "venue": "Online",
     "mode": "Online",
@@ -623,7 +589,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-10-31T07:49:38.239545+00:00"
+    "discovered_at": "2026-10-31T14:08:21.131873+00:00"
   },
   {
     "id": "devpost:31666",
@@ -659,7 +625,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-10-31T07:49:38.513862+00:00"
+    "discovered_at": "2026-10-31T14:08:21.453816+00:00"
   },
   {
     "id": "devpost:31737",
@@ -695,7 +661,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-10-31T07:49:38.513885+00:00"
+    "discovered_at": "2026-10-31T14:08:21.453839+00:00"
   },
   {
     "id": "devpost:31664",
@@ -731,7 +697,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-10-31T07:49:38.513878+00:00"
+    "discovered_at": "2026-10-31T14:08:21.453825+00:00"
   },
   {
     "id": "devpost:31789",
@@ -767,14 +733,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-10-31T07:49:38.388594+00:00"
+    "discovered_at": "2026-10-31T14:08:21.301451+00:00"
   },
   {
     "id": "devpost:31796",
     "source": "Devpost",
     "title": "SafeSpace Hacks",
     "url": "https://safespace-hacks.devpost.com/",
-    "description": "Devpost hackathon. 23 days left",
+    "description": "Devpost hackathon. 22 days left",
     "organizer": "SafeSpace",
     "venue": "Online",
     "mode": "Online",
@@ -803,7 +769,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-10-31T07:49:38.388600+00:00"
+    "discovered_at": "2026-10-31T14:08:21.301458+00:00"
   },
   {
     "id": "devpost:30789",
@@ -839,7 +805,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-10-31T07:49:38.388531+00:00"
+    "discovered_at": "2026-10-31T14:08:21.301411+00:00"
   },
   {
     "id": "devpost:31552",
@@ -875,14 +841,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-10-31T07:49:38.239551+00:00"
+    "discovered_at": "2026-10-31T14:08:21.131886+00:00"
   },
   {
     "id": "devpost:31742",
     "source": "Devpost",
     "title": "Codex x TwitchCon Hackathon",
     "url": "https://twitchcon-codex.devpost.com/",
-    "description": "Devpost hackathon. 3 days left",
+    "description": "Devpost hackathon. 2 days left",
     "organizer": "Twitch",
     "venue": "Online",
     "mode": "Online",
@@ -911,43 +877,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-10-31T07:49:38.239531+00:00"
-  },
-  {
-    "id": "devpost:26475",
-    "source": "Devpost",
-    "title": "Dakar Bitcoin Hack by BTrust",
-    "url": "https://dakar-bitcoin-hack-2026.devpost.com/",
-    "description": "Devpost hackathon. 21 days left",
-    "organizer": "Dakar Bitcoin Days",
-    "venue": "Online",
-    "mode": "Online",
-    "city": null,
-    "state": null,
-    "country": null,
-    "start_date": null,
-    "end_date": null,
-    "registration_deadline": "Oct 26 - Nov 20, 2026",
-    "min_team_size": 1,
-    "max_team_size": null,
-    "solo_allowed": true,
-    "eligibility": "Global Devpost Participants",
-    "prize_pool": "$ 900",
-    "tracks": [
-      "Blockchain",
-      "Fintech",
-      "Machine Learning/AI"
-    ],
-    "score": 75,
-    "matched_reasons": [
-      "🌐 **Accessible Online Mode** (+15 pts)",
-      "👤 **Solo Eligible (1 Member)** (+35 pts)",
-      "🤖 **AI & Software Tracks** (+25 pts) [AI, Machine Learning, Blockchain]"
-    ],
-    "is_nagpur_local": false,
-    "is_maharashtra": false,
-    "is_active": true,
-    "discovered_at": "2026-10-31T07:49:38.513893+00:00"
+    "discovered_at": "2026-10-31T14:08:21.131859+00:00"
   },
   {
     "id": "devpost:31572",
@@ -983,7 +913,43 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-10-31T07:49:38.239558+00:00"
+    "discovered_at": "2026-10-31T14:08:21.131880+00:00"
+  },
+  {
+    "id": "devpost:31907",
+    "source": "Devpost",
+    "title": "Build Your First AI App",
+    "url": "https://build-your-first-ai-app.devpost.com/",
+    "description": "Devpost hackathon. 27 days left",
+    "organizer": "Yasir Insights",
+    "venue": "Online",
+    "mode": "Online",
+    "city": null,
+    "state": null,
+    "country": null,
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": "Oct 27 - Nov 27, 2026",
+    "min_team_size": 1,
+    "max_team_size": null,
+    "solo_allowed": true,
+    "eligibility": "Global Devpost Participants",
+    "prize_pool": "$ 0",
+    "tracks": [
+      "Education",
+      "Machine Learning/AI",
+      "Web"
+    ],
+    "score": 75,
+    "matched_reasons": [
+      "🌐 **Accessible Online Mode** (+15 pts)",
+      "👤 **Solo Eligible (1 Member)** (+35 pts)",
+      "🤖 **AI & Software Tracks** (+25 pts) [AI, Machine Learning]"
+    ],
+    "is_nagpur_local": false,
+    "is_maharashtra": false,
+    "is_active": true,
+    "discovered_at": "2026-10-31T14:08:21.453832+00:00"
   },
   {
     "id": "devpost:31667",
@@ -1019,7 +985,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-10-31T07:49:38.239522+00:00"
+    "discovered_at": "2026-10-31T14:08:21.131852+00:00"
   },
   {
     "id": "devpost:31187",
@@ -1055,14 +1021,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-10-31T07:49:38.513826+00:00"
+    "discovered_at": "2026-10-31T14:08:21.453773+00:00"
   },
   {
     "id": "devpost:31024",
     "source": "Devpost",
     "title": "Meta VR Start Developer Competition 2026",
     "url": "https://start-developer-competition-26.devpost.com/",
-    "description": "Devpost hackathon. 19 days left",
+    "description": "Devpost hackathon. 18 days left",
     "organizer": "Meta",
     "venue": "Online",
     "mode": "Online",
@@ -1091,7 +1057,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-10-31T07:49:38.239510+00:00"
+    "discovered_at": "2026-10-31T14:08:21.131840+00:00"
   },
   {
     "id": "devpost:31400",
@@ -1127,7 +1093,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-10-31T07:49:38.239537+00:00"
+    "discovered_at": "2026-10-31T14:08:21.131867+00:00"
   },
   {
     "id": "unstop:1785430",
@@ -1167,7 +1133,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": true,
     "is_active": true,
-    "discovered_at": "2026-10-31T07:49:31.426622+00:00"
+    "discovered_at": "2026-10-31T14:08:14.125117+00:00"
   },
   {
     "id": "unstop:1783135",
@@ -1202,7 +1168,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-10-31T07:49:33.518462+00:00"
+    "discovered_at": "2026-10-31T14:08:16.025135+00:00"
   },
   {
     "id": "unstop:1784631",
@@ -1239,14 +1205,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-10-31T07:49:31.428754+00:00"
+    "discovered_at": "2026-10-31T14:08:16.024436+00:00"
   },
   {
     "id": "devpost:31694",
     "source": "Devpost",
     "title": "MineArena 1.0",
     "url": "https://minearena-1-0.devpost.com/",
-    "description": "Devpost hackathon. about 10 hours left",
+    "description": "Devpost hackathon. about 4 hours left",
     "organizer": "Code commit",
     "venue": "SSM cultural centre",
     "mode": "In-Person",
@@ -1274,7 +1240,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-10-31T07:49:38.388559+00:00"
+    "discovered_at": "2026-10-31T14:08:21.301387+00:00"
   },
   {
     "id": "unstop:1782942",
@@ -1307,7 +1273,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-10-31T07:49:33.518564+00:00"
+    "discovered_at": "2026-10-31T14:08:16.025252+00:00"
   },
   {
     "id": "unstop:1782685",
@@ -1340,7 +1306,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-10-31T07:49:35.402155+00:00"
+    "discovered_at": "2026-10-31T14:08:18.284294+00:00"
   },
   {
     "id": "unstop:1784666",
@@ -1373,7 +1339,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-10-31T07:49:31.428599+00:00"
+    "discovered_at": "2026-10-31T14:08:14.126907+00:00"
   },
   {
     "id": "unstop:1784543",
@@ -1412,7 +1378,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-10-31T07:49:31.426454+00:00"
+    "discovered_at": "2026-10-31T14:08:14.124955+00:00"
   },
   {
     "id": "unstop:1782949",
@@ -1451,7 +1417,40 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-10-31T07:49:33.518640+00:00"
+    "discovered_at": "2026-10-31T14:08:16.025329+00:00"
+  },
+  {
+    "id": "unstop:1786992",
+    "source": "Unstop",
+    "title": "Technova 2027",
+    "url": "https://unstop.com/hackathons/technova-2027-burhani-college-mumbai-1786992",
+    "description": "Technova 2027 &ndash; Startup-First Hackathon Think. Build. Innovate. Pitch. Technova 2027 is an 8-hour startup-first hackathon organized by Burhani College, Mumbai. It is designed to bring together creative thinkers, developers, innovators, and aspiring entrepreneurs to solve real-world problems through technology. Unlike traditional hackathons, TECHNOVA focuses not only on building applications but also on developing practical solutions with business potential. Participants will be challenged to think like startup founders, build a functional Minimum Viable Product (MVP), and present their ideas effectively. Event Details: Event: Technova 2027 Date: January 2027 Duration: 8 Hours Venue: Burhani College, 10 Nesbit Road, Mazgaon, Mumbai, Maharashtra &ndash; 400010 Team Size: 2&ndash;4 Participants Format: Startup-First Hackathon Eligibility &amp; Team Rules: Each Team Must Have a Minimum of 2 and A Maximum of 4 Participants. Solo Participation Is Not Allowed. Cross-College Teams Are Allowed and Encouraged. Each Participant Can Be Part of Only One Team. Teams Must Be Finalized Before the Event. Team Switching During the Hackathon Is Not Permitted. Team Members Cannot Be Changed Later than 2 Days Before the Event. Every Participant Must Carry a valid government-issued ID proof and college ID card. Registration &amp; Selection Process: Registration Will Be Conducted Through the Official Unstop Opportunity. Participants Must Provide Accurate Details of All Team Members. Linked in Profile Links Must Be Submitted as Part of The Registration Process. Participation Is Subject to Limited Slots. If Registrations Exceed the Available Capacity, Teams Will Be Shortlisted Based on Their Linked in Presence and Submitted Profiles. Selection Will Follow a First-Come, First-Served Approach, Subject to Linked In-Based Shortlisting and Available Slots. Registration Does Not Guarantee Selection. Only Approved and Confirmed Teams Will Be Eligible to Participate. Hackathon Format &ndash; Color-Based Challenge System: Technova Introduces a Unique Color-Based Problem Allocation System. Participants Select One of Five Available Colors. Each Team Receives a Corresponding Colored Wristband During Registration at The Venue. A Problem Set Will Be Assigned Based on The Selected Color and Revealed Later. Each Team Must Choose One Problem Statement from Its Assigned Set. Teams Work on Developing an Mvp and Preparing Their Final Pitch. This System Promotes Fairness, Creativity, and Equal Opportunities for All Teams. Challenge Tracks: Participants Will Work on Problem Statements from One of The Following Five Tracks: Digital Trust: verify Before You Believe Money &amp; Markets: make Finance Work for Everyone From Soil to Shelf: rethink the Food Chain Technology without Barriers: build for Every Ability Ai that Gets Things Done: move Beyond Chatbots ️ Build Rules: All Project Development Must Take Place During the Hackathon. Pre-Built Projects Are Strictly Prohibited. Open-Source Tools and Ai Tools Are Allowed. Plagiarism and Copying Are Not Permitted. Teams Must Develop Their Solutions According to Their Selected Problem Statement. Participants Must Maintain Professional and Respectful Conduct. Submission Requirements: Every Team Must Submit: Git Hub Repository: complete Project Source Code. Pitch Deck (ppt): explanation of The Problem, Solution, Business Model, and Project Value. Demo / Prototype: a Working Demonstration of The Developed Solution. Note: submission Deadlines and Formats Are Strict. No Extensions or Exceptions Will Be Provided. Judging Criteria: Projects Will Be Evaluated on The Following Parameters: MVP Quality &ndash; Does the Solution Actually Work? Innovation &amp; Creativity &ndash; Is the Idea Fresh and Innovative? Technical Execution &ndash; Is the Solution Functional, Clean, and Scalable? Problem Clarity &ndash; Does It Solve a Real-World Problem? Market Feasibility &ndash; Would People Actually Use It? Revenue Potential &ndash; Can It Become a Sustainable Business? Presentation &amp; Pitch &ndash; how Effectively Is the Idea Communicated? Tentative Event Schedule Time Activity 7:00 Am Registration &amp; Wristband Selection 9:00 Am Opening &amp; Orientation 9:30 Am Hackathon Begins 10:00 Am Brunch 12:30 Pm Mentorship Round 4:00 Pm Submission Opens 4:30 Pm Final Mentor / Judging Round 5:15 Pm Early Dinner 5:30 Pm Top 5 Teams Announced 5:45 Pm Final Demo for Top 5 7:00 Pm Winner Declaration &amp; Closing Ceremony The Schedule Is Tentative and Subject to Changes on The Event Day. What to Bring? Laptop &ndash; Mandatory Valid College Id Card &ndash; Mandatory Government-Issued Id Proof &ndash; Mandatory Laptop Charger &ndash; Recommended Personal Water Bottle &ndash; Recommended ️Disqualification Conditions: Teams May Be Disqualified For: Using Pre-Built Projects. Presenting Fake Demos. Missing Submission Deadlines. Plagiarism or Copying. Violating the Code of Conduct. Sabotaging Other Teams. Being Absent During Mandatory Demo or Mentoring Sessions. Contact Information For Queries and Assistance: Email: Technovasupport9@gmail.Com Organized By: burhani College, Mumbai Don't Just Build an Application. Build a Solution. Think Like a Founder. Make an Impact. See you at TECHNOVA 2027!",
+    "organizer": "Burhani College, Mumbai",
+    "venue": "offline",
+    "mode": "In-Person",
+    "city": null,
+    "state": "offline",
+    "country": null,
+    "start_date": "2026-10-31T00:00:00+05:30",
+    "end_date": "2027-01-22T23:59:00+05:30",
+    "registration_deadline": "2027-01-22T23:59:00+05:30",
+    "min_team_size": 2,
+    "max_team_size": 4,
+    "solo_allowed": false,
+    "eligibility": "Open to college students & coders",
+    "prize_pool": "Prizes & Certificates",
+    "tracks": [
+      "All"
+    ],
+    "score": 50,
+    "matched_reasons": [
+      "🏢 **Maharashtra Proximity** (+25 pts) [Mumbai]",
+      "🤖 **AI & Software Tracks** (+25 pts) [AI]"
+    ],
+    "is_nagpur_local": false,
+    "is_maharashtra": true,
+    "is_active": true,
+    "discovered_at": "2026-10-31T14:08:14.124608+00:00"
   },
   {
     "id": "devpost:31108",
@@ -1486,7 +1485,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-10-31T07:49:38.388588+00:00"
+    "discovered_at": "2026-10-31T14:08:21.301445+00:00"
   },
   {
     "id": "devpost:30500",
@@ -1521,14 +1520,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-10-31T07:49:38.239566+00:00"
+    "discovered_at": "2026-10-31T14:08:21.131892+00:00"
   },
   {
     "id": "devpost:31627",
     "source": "Devpost",
     "title": "Next Byte Hacks V5",
     "url": "https://next-byte-hacks-v5.devpost.com/",
-    "description": "Devpost hackathon. about 14 hours left",
+    "description": "Devpost hackathon. about 7 hours left",
     "organizer": "Next Byte Hacks",
     "venue": "Online",
     "mode": "Online",
@@ -1556,7 +1555,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-10-31T07:49:38.388567+00:00"
+    "discovered_at": "2026-10-31T14:08:21.301427+00:00"
   },
   {
     "id": "devpost:31619",
@@ -1591,14 +1590,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-10-31T07:49:38.513846+00:00"
+    "discovered_at": "2026-10-31T14:08:21.453795+00:00"
   },
   {
     "id": "devpost:31773",
     "source": "Devpost",
     "title": "LaunchPad Hacks",
     "url": "https://launchpad-hacks.devpost.com/",
-    "description": "Devpost hackathon. 21 days left",
+    "description": "Devpost hackathon. 20 days left",
     "organizer": "Hack4TodayOrg",
     "venue": "Online",
     "mode": "Online",
@@ -1625,14 +1624,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-10-31T07:49:38.388581+00:00"
+    "discovered_at": "2026-10-31T14:08:21.301439+00:00"
   },
   {
     "id": "devpost:31795",
     "source": "Devpost",
     "title": "AccessED Hacks",
     "url": "https://accessed-hacks.devpost.com/",
-    "description": "Devpost hackathon. 21 days left",
+    "description": "Devpost hackathon. 20 days left",
     "organizer": "AccessEDnpo",
     "venue": "Online",
     "mode": "Online",
@@ -1660,14 +1659,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-10-31T07:49:38.513868+00:00"
+    "discovered_at": "2026-10-31T14:08:21.453810+00:00"
   },
   {
     "id": "devpost:31793",
     "source": "Devpost",
     "title": "AQX Sports Analytics Data Bowl 4.0",
     "url": "https://aqxanalyticsfour.devpost.com/",
-    "description": "Devpost hackathon. about 24 hours left",
+    "description": "Devpost hackathon. about 17 hours left",
     "organizer": "Devpost",
     "venue": "Online",
     "mode": "Online",
@@ -1695,14 +1694,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-10-31T07:49:38.513855+00:00"
+    "discovered_at": "2026-10-31T14:08:21.453803+00:00"
   },
   {
     "id": "devpost:31797",
     "source": "Devpost",
     "title": "Green Shift Hacks",
     "url": "https://green-shift-hacks.devpost.com/",
-    "description": "Devpost hackathon. 18 days left",
+    "description": "Devpost hackathon. 17 days left",
     "organizer": "HackathonForEveryone",
     "venue": "Online",
     "mode": "Online",
@@ -1729,7 +1728,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-10-31T07:49:38.513899+00:00"
+    "discovered_at": "2026-10-31T14:08:21.453846+00:00"
   },
   {
     "id": "unstop:1783256",
@@ -1768,6 +1767,6 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-10-31T07:49:31.429146+00:00"
+    "discovered_at": "2026-10-31T14:08:14.127426+00:00"
   }
 ]

@@ -2257,5 +2257,14 @@
     "last_notified": "2026-10-30T21:16:47.825073+00:00",
     "is_nagpur_local": false,
     "solo_allowed": true
+  },
+  "devpost:31187": {
+    "title": "STEMergent Hacks 2026",
+    "url": "https://stemergent-hacks.devpost.com/",
+    "score": 75,
+    "source": "Devpost",
+    "last_notified": "2026-10-31T07:49:42.151851+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
   }
 }

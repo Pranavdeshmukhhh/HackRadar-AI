@@ -33,7 +33,7 @@
     "is_nagpur_local": true,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-10-31T01:18:40.782417+00:00"
+    "discovered_at": "2026-10-31T07:49:41.528938+00:00"
   },
   {
     "id": "college:mindsparkorg",
@@ -69,41 +69,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": true,
     "is_active": true,
-    "discovered_at": "2026-10-31T01:18:40.789086+00:00"
-  },
-  {
-    "id": "unstop:1782516",
-    "source": "Unstop",
-    "title": "Product Verse Hackathon",
-    "url": "https://unstop.com/hackathons/product-verse-hackathon-product-space-1782516",
-    "description": "Overview Date: 31st October 2026 (Saturday). Registrations: Now Open. Kickoff Session: 31st October 2026 (Saturday). This is a one-day, hands-on hackathon for individuals who want to build and launch a working AI product. What You&rsquo;ll Do During the hackathon, participants will conceptualize, build, and demonstrate an agentic AI solution to a practical, real-world challenge. You&rsquo;ll work through the complete product development process: Identify the problem.. Design the system architecture.. Integrate tools and APIs.. Build and demonstrate a functional end product.. The core focus is on building AI agents that can: Reason and make decisions.. Interact with tools.. Execute tasks independently.. By the end of the day, you&rsquo;ll have a working prototype that you can add to your portfolio, demonstrate in interviews, and develop further for real-world use. Participation Guidelines Join individually or in a team. Teams of up to two members are recommended.. All development must take place within the hackathon timeframe on 31st October 2026.. You may use AI tools, APIs, and frameworks.. Clearly document your process, including the problem, solution, and architecture.. A functional prototype or live demo is required.. Submission Requirements Submit the following before the announced deadline on 31st October 2026: A demo video or access to a live working product.. Access to the codebase through GitHub or an equivalent platform.. A brief explanation of your solution.. Rules Fully pre-built solutions are not allowed. Starter templates are acceptable.. Copying or plagiarism will result in disqualification.. Clearly distinguish your contribution from AI-generated output.. Submissions must demonstrate working functionality. Designs or presentations alone will not qualify.. All entries must be submitted before the deadline.. Click here to join the WhatsApp Group for more details: https://chat.whatsapp.com/BUvjhcDWHo3HrPEWdkbNQU?s=cl&amp;p=a&amp;mlu=4&amp;ilr=4&amp;iam=2",
-    "organizer": "Product Space",
-    "venue": "Online",
-    "mode": "Online",
-    "city": null,
-    "state": "online",
-    "country": null,
-    "start_date": "2026-10-28T00:00:00+05:30",
-    "end_date": "2026-10-31T23:59:00+05:30",
-    "registration_deadline": "2026-10-31T10:01:00+05:30",
-    "min_team_size": 1,
-    "max_team_size": 3,
-    "solo_allowed": true,
-    "eligibility": "Open to college students & coders",
-    "prize_pool": "Prizes & Certificates",
-    "tracks": [
-      "All"
-    ],
-    "score": 75,
-    "matched_reasons": [
-      "🌐 **Accessible Online Mode** (+15 pts)",
-      "👤 **Solo Eligible (1 Member)** (+35 pts)",
-      "🤖 **AI & Software Tracks** (+25 pts) [AI, Agentic Ai, Ai Agents]"
-    ],
-    "is_nagpur_local": false,
-    "is_maharashtra": false,
-    "is_active": true,
-    "discovered_at": "2026-10-31T01:18:35.051094+00:00"
+    "discovered_at": "2026-10-31T07:49:41.220324+00:00"
   },
   {
     "id": "unstop:1786140",
@@ -143,7 +109,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-10-31T01:18:31.552113+00:00"
+    "discovered_at": "2026-10-31T07:49:31.426889+00:00"
   },
   {
     "id": "unstop:1783775",
@@ -181,7 +147,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-10-31T01:18:33.157635+00:00"
+    "discovered_at": "2026-10-31T07:49:33.518251+00:00"
   },
   {
     "id": "unstop:1783838",
@@ -215,7 +181,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-10-31T01:18:31.552011+00:00"
+    "discovered_at": "2026-10-31T07:49:31.428548+00:00"
   },
   {
     "id": "unstop:1785416",
@@ -255,7 +221,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-10-31T01:18:31.551966+00:00"
+    "discovered_at": "2026-10-31T07:49:31.426851+00:00"
   },
   {
     "id": "unstop:1783835",
@@ -293,7 +259,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-10-31T01:18:33.157567+00:00"
+    "discovered_at": "2026-10-31T07:49:33.518178+00:00"
   },
   {
     "id": "unstop:1784554",
@@ -331,47 +297,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-10-31T01:18:33.157351+00:00"
-  },
-  {
-    "id": "unstop:1781358",
-    "source": "Unstop",
-    "title": "Pixels To Prognosis",
-    "url": "https://unstop.com/hackathons/pixels-to-prognosis-iit-madras-1781358",
-    "description": "About the Event Gliomas are among the most aggressive brain tumours, and outlining them accurately on MRI is central to diagnosis, surgical planning and treatment monitoring. Doing it by hand is slow, and different radiologists often draw the boundaries differently. Pixels to Prognosis asks you to build an AI system that does this automatically. Using multimodal brain MRI scans, your model has to locate a glioma and separate it into its three subregions: active (enhancing) tumour, necrotic core, and surrounding edema. The event combines neuroscience, MRI physics and computer vision. You&rsquo;ll need more than a model with a good leaderboard score. You&rsquo;ll also need to understand what the scans show, why models fail, and how to make one that holds up on real clinical data. Who Can Participate Open to undergraduate and postgraduate students from any college and any stream Especially suited to students in Biotechnology &amp; Biomedical Engineering, Computer Science, and AI &amp; Data Science Teams of 1 to 3 members . Cross-disciplinary teams are encouraged. Competition Structure Round 1: Online Quiz (Screening) This is a case-based quiz on: How MRI machines work and the basics of MRI imaging The biology of brain gliomas and how they appear on MRI scans Artificial Intelligence, Deep Learning and Image Processing The questions reward reasoning over memorisation. The quiz is meant to sharpen your problem-solving for the later rounds. Round 2: Model Submission Round Shortlisted teams train a segmentation model on a curated glioma dataset we provide, [derived from the BraTS 2021 challenge]. Each patient has four MRI modalities: T1-weighted, post-contrast T1-weighted (T1ce), T2-weighted and T2-FLAIR. Your model must segment three regions: Whole Tumour, Tumour Core and Enhancing Tumour. Models are ranked on a hidden patient-level test set . Rules: Train only on the dataset provided. No external data. All learnable parameters must start from random initialisation . Pretrained weights are not allowed. You may use published architectures such as U-Net variants. The Colab notebook runtime must be 9 hours or less . Submission requirements: Complete source code (.py / .ipynb) Final trained weights (.pt / .keras) Training logs, including loss and validation curves, config and seed used (.csv) A technical report (.pdf) covering your thought process, pipeline, architecture details and the compute you used Evaluation: Segmentation quality is measured with the Dice score and 95th-percentile Hausdorff distance for each tumour region. Scoring also covers anatomical consistency, false-positive control, and the quality of your technical report. Finals: Offline Round at IIT Madras Finalists come to campus and receive a new set of MRI scans with real-world problems. These can include motion artefacts, missing modalities, or pathologies your model has never seen. Each team must: Work out what is wrong with the data and why it happened Adapt the model through preprocessing, retraining or other corrective strategies Present the problems they found, the medical reasoning behind them, and how they handled them Evaluation criteria: Problem identification and medical reasoning Model adaptation strategy and outcome Clarity of presentation and understanding Knowing when your model should not be trusted counts in your favour. Flagging an unreliable case for expert review is part of good clinical AI. Prizes &amp; Recognition Cash prizes for the top 3 teams [prize pool: ₹35000] Special Awards for Best Robust Model and Best Diagnostic Reasoning Certificates of Merit for the winners(Hard Copy) Certificates of Merit for all finalists(Soft Copy) Certificates of Participation for all Round 2 participants Important Dates Registration closes: 28th December, 2026 Round 1 (Online Quiz): 5th December, 2026 Round 2 submission window: 9th - 16th December, 2026 Finals at IIT Madras: 4th January, 2027",
-    "organizer": "Indian Institute of Technology (IIT), Madras",
-    "venue": "Online",
-    "mode": "Online",
-    "city": null,
-    "state": "online",
-    "country": null,
-    "start_date": "2026-10-28T00:00:00+05:30",
-    "end_date": "2027-01-04T18:01:00+05:30",
-    "registration_deadline": "2026-11-28T00:00:00+05:30",
-    "min_team_size": 1,
-    "max_team_size": 3,
-    "solo_allowed": true,
-    "eligibility": "Undergraduate / Postgraduate & Engineering students",
-    "prize_pool": "Prizes & Certificates",
-    "tracks": [
-      "Engineering Students",
-      "Postgraduate",
-      "Undergraduate",
-      "Management",
-      "Medical",
-      "Law",
-      "Arts, Commerce, Sciences & Others"
-    ],
-    "score": 75,
-    "matched_reasons": [
-      "🌐 **Accessible Online Mode** (+15 pts)",
-      "👤 **Solo Eligible (1 Member)** (+35 pts)",
-      "🤖 **AI & Software Tracks** (+25 pts) [AI, Artificial Intelligence, Deep Learning]"
-    ],
-    "is_nagpur_local": false,
-    "is_maharashtra": false,
-    "is_active": true,
-    "discovered_at": "2026-10-31T01:18:35.051590+00:00"
+    "discovered_at": "2026-10-31T07:49:33.517923+00:00"
   },
   {
     "id": "unstop:1777504",
@@ -411,47 +337,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-10-31T01:18:35.051965+00:00"
-  },
-  {
-    "id": "unstop:1781449",
-    "source": "Unstop",
-    "title": "NeuroHack",
-    "url": "https://unstop.com/hackathons/neurohack-2027-iit-madras-1781449",
-    "description": "Overview Neurohack is a two-round computational neuroscience hackathon hosted under BIOGEN at SHAASTRA 2027, IIT Madras. Participants will work with real EEG datasets to build pipelines that classify human emotions from brainwave signals, combining signal processing, machine learning, and neuroscience in one challenge. Eligibility Open to undergraduate and postgraduate students. Teams of 1&ndash;4 members. Participants may be from any discipline and any institute; no prior EEG experience is required, but working knowledge of Python is expected. Target Audience Students interested in: Biotechnology &amp; biomedical engineering Neuroscience and cognitive science Computer science, data science and machine learning Signal processing and electronics Competition Rounds Round 1: Online Quiz An online quiz covering basic neuroscience, EEG principles, brain-wave patterns, and Python for data analysis. Top-scoring teams advance to Round 2. Round 2: 24-Hour Offline Hackathon Selected teams are invited to IIT Madras during SHAASTRA 2027 for a 24-hour hackathon . Participants receive a preprocessed subset of a public EEG emotion dataset and build a complete pipeline to classify human emotions using signal processing and machine learning. Finals at IIT Madras: PPT Presentation Each team presents its problem approach, features, model, results, and insights from the brain signals to a panel of judges, followed by a Q&amp;A session.",
-    "organizer": "Indian Institute of Technology (IIT), Madras",
-    "venue": "hybrid",
-    "mode": "In-Person",
-    "city": null,
-    "state": "hybrid",
-    "country": null,
-    "start_date": "2026-10-28T00:00:00+05:30",
-    "end_date": "2027-01-06T13:01:00+05:30",
-    "registration_deadline": "2026-12-04T00:00:00+05:30",
-    "min_team_size": 1,
-    "max_team_size": 4,
-    "solo_allowed": true,
-    "eligibility": "Undergraduate / Postgraduate & Engineering students",
-    "prize_pool": "Prizes & Certificates",
-    "tracks": [
-      "Engineering Students",
-      "Postgraduate",
-      "Undergraduate",
-      "Management",
-      "Medical",
-      "Law",
-      "Arts, Commerce, Sciences & Others"
-    ],
-    "score": 75,
-    "matched_reasons": [
-      "🌐 **Accessible In-Person Mode** (+15 pts)",
-      "👤 **Solo Eligible (1 Member)** (+35 pts)",
-      "🤖 **AI & Software Tracks** (+25 pts) [Machine Learning, Data Science]"
-    ],
-    "is_nagpur_local": false,
-    "is_maharashtra": false,
-    "is_active": true,
-    "discovered_at": "2026-10-31T01:18:35.051656+00:00"
+    "discovered_at": "2026-10-31T07:49:35.402701+00:00"
   },
   {
     "id": "unstop:1777639",
@@ -485,7 +371,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-10-31T01:18:35.051409+00:00"
+    "discovered_at": "2026-10-31T07:49:35.402382+00:00"
   },
   {
     "id": "devpost:30740",
@@ -521,7 +407,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-10-31T01:18:38.367591+00:00"
+    "discovered_at": "2026-10-31T07:49:38.388548+00:00"
   },
   {
     "id": "devpost:30764",
@@ -557,7 +443,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-10-31T01:18:38.367624+00:00"
+    "discovered_at": "2026-10-31T07:49:38.388575+00:00"
   },
   {
     "id": "hackerearth:godaddy-inclusive-innovation-challenge-2026",
@@ -593,7 +479,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-10-31T01:18:39.202350+00:00"
+    "discovered_at": "2026-10-31T07:49:39.412842+00:00"
   },
   {
     "id": "hackerearth:mks-inc-hackathon",
@@ -629,7 +515,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-10-31T01:18:39.202363+00:00"
+    "discovered_at": "2026-10-31T07:49:39.412854+00:00"
   },
   {
     "id": "hackerearth:ibm-z-day",
@@ -665,7 +551,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-10-31T01:18:39.202326+00:00"
+    "discovered_at": "2026-10-31T07:49:39.412818+00:00"
   },
   {
     "id": "devpost:31302",
@@ -701,7 +587,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-10-31T01:18:38.258798+00:00"
+    "discovered_at": "2026-10-31T07:49:38.239486+00:00"
   },
   {
     "id": "devpost:31659",
@@ -737,14 +623,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-10-31T01:18:38.258864+00:00"
+    "discovered_at": "2026-10-31T07:49:38.239545+00:00"
   },
   {
     "id": "devpost:31666",
     "source": "Devpost",
     "title": "Mathematics for systems security",
     "url": "https://mathematics-systems-security.devpost.com/",
-    "description": "Devpost hackathon. 16 days left",
+    "description": "Devpost hackathon. 15 days left",
     "organizer": "Software Engineering Club (DEV)",
     "venue": "Online",
     "mode": "Online",
@@ -773,14 +659,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-10-31T01:18:38.491540+00:00"
+    "discovered_at": "2026-10-31T07:49:38.513862+00:00"
   },
   {
     "id": "devpost:31737",
     "source": "Devpost",
     "title": "HackWithAditya",
     "url": "https://hackwithaditya.devpost.com/",
-    "description": "Devpost hackathon. 26 days left",
+    "description": "Devpost hackathon. 25 days left",
     "organizer": "Aditya University",
     "venue": "Online",
     "mode": "Online",
@@ -809,7 +695,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-10-31T01:18:38.491564+00:00"
+    "discovered_at": "2026-10-31T07:49:38.513885+00:00"
   },
   {
     "id": "devpost:31664",
@@ -845,7 +731,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-10-31T01:18:38.491557+00:00"
+    "discovered_at": "2026-10-31T07:49:38.513878+00:00"
   },
   {
     "id": "devpost:31789",
@@ -881,7 +767,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-10-31T01:18:38.367643+00:00"
+    "discovered_at": "2026-10-31T07:49:38.388594+00:00"
   },
   {
     "id": "devpost:31796",
@@ -917,7 +803,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-10-31T01:18:38.491504+00:00"
+    "discovered_at": "2026-10-31T07:49:38.388600+00:00"
   },
   {
     "id": "devpost:30789",
@@ -953,7 +839,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-10-31T01:18:38.367600+00:00"
+    "discovered_at": "2026-10-31T07:49:38.388531+00:00"
   },
   {
     "id": "devpost:31552",
@@ -989,7 +875,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-10-31T01:18:38.258871+00:00"
+    "discovered_at": "2026-10-31T07:49:38.239551+00:00"
   },
   {
     "id": "devpost:31742",
@@ -1025,7 +911,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-10-31T01:18:38.258850+00:00"
+    "discovered_at": "2026-10-31T07:49:38.239531+00:00"
   },
   {
     "id": "devpost:26475",
@@ -1061,7 +947,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-10-31T01:18:38.491577+00:00"
+    "discovered_at": "2026-10-31T07:49:38.513893+00:00"
   },
   {
     "id": "devpost:31572",
@@ -1097,7 +983,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-10-31T01:18:38.258878+00:00"
+    "discovered_at": "2026-10-31T07:49:38.239558+00:00"
   },
   {
     "id": "devpost:31667",
@@ -1133,7 +1019,43 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-10-31T01:18:38.258835+00:00"
+    "discovered_at": "2026-10-31T07:49:38.239522+00:00"
+  },
+  {
+    "id": "devpost:31187",
+    "source": "Devpost",
+    "title": "STEMergent Hacks 2026",
+    "url": "https://stemergent-hacks.devpost.com/",
+    "description": "Devpost hackathon. 16 days left",
+    "organizer": "STEMergent",
+    "venue": "Online",
+    "mode": "Online",
+    "city": null,
+    "state": null,
+    "country": null,
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": "Oct 31 - Nov 15, 2026",
+    "min_team_size": 1,
+    "max_team_size": null,
+    "solo_allowed": true,
+    "eligibility": "Global Devpost Participants",
+    "prize_pool": "$ 0",
+    "tracks": [
+      "Low/No Code",
+      "Machine Learning/AI",
+      "Social Good"
+    ],
+    "score": 75,
+    "matched_reasons": [
+      "🌐 **Accessible Online Mode** (+15 pts)",
+      "👤 **Solo Eligible (1 Member)** (+35 pts)",
+      "🤖 **AI & Software Tracks** (+25 pts) [AI, Machine Learning]"
+    ],
+    "is_nagpur_local": false,
+    "is_maharashtra": false,
+    "is_active": true,
+    "discovered_at": "2026-10-31T07:49:38.513826+00:00"
   },
   {
     "id": "devpost:31024",
@@ -1169,14 +1091,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-10-31T01:18:38.258824+00:00"
+    "discovered_at": "2026-10-31T07:49:38.239510+00:00"
   },
   {
     "id": "devpost:31400",
     "source": "Devpost",
     "title": "YouCam API Skin AI & eCommerce VTO Hackathon",
     "url": "https://youcam-api-skin-ai-ecommerce.devpost.com/",
-    "description": "Devpost hackathon. 3 days left",
+    "description": "Devpost hackathon. 2 days left",
     "organizer": "Perfect Corp",
     "venue": "Online",
     "mode": "Online",
@@ -1205,41 +1127,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-10-31T01:18:38.258857+00:00"
-  },
-  {
-    "id": "devpost:31054",
-    "source": "Devpost",
-    "title": "Qloo Agentic Hackathon",
-    "url": "https://qloo.devpost.com/",
-    "description": "Devpost hackathon. about 2 hours left",
-    "organizer": "Qloo",
-    "venue": "Online",
-    "mode": "Online",
-    "city": null,
-    "state": null,
-    "country": null,
-    "start_date": null,
-    "end_date": null,
-    "registration_deadline": "Sep 30 - Oct 30, 2026",
-    "min_team_size": 1,
-    "max_team_size": null,
-    "solo_allowed": true,
-    "eligibility": "Global Devpost Participants",
-    "prize_pool": "$ 25,000",
-    "tracks": [
-      "Machine Learning/AI"
-    ],
-    "score": 75,
-    "matched_reasons": [
-      "🌐 **Accessible Online Mode** (+15 pts)",
-      "👤 **Solo Eligible (1 Member)** (+35 pts)",
-      "🤖 **AI & Software Tracks** (+25 pts) [AI, Machine Learning]"
-    ],
-    "is_nagpur_local": false,
-    "is_maharashtra": false,
-    "is_active": true,
-    "discovered_at": "2026-10-31T01:18:38.258843+00:00"
+    "discovered_at": "2026-10-31T07:49:38.239537+00:00"
   },
   {
     "id": "unstop:1785430",
@@ -1279,7 +1167,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": true,
     "is_active": true,
-    "discovered_at": "2026-10-31T01:18:31.551755+00:00"
+    "discovered_at": "2026-10-31T07:49:31.426622+00:00"
   },
   {
     "id": "unstop:1783135",
@@ -1314,7 +1202,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-10-31T01:18:33.157831+00:00"
+    "discovered_at": "2026-10-31T07:49:33.518462+00:00"
   },
   {
     "id": "unstop:1784631",
@@ -1351,14 +1239,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-10-31T01:18:31.553796+00:00"
+    "discovered_at": "2026-10-31T07:49:31.428754+00:00"
   },
   {
     "id": "devpost:31694",
     "source": "Devpost",
     "title": "MineArena 1.0",
     "url": "https://minearena-1-0.devpost.com/",
-    "description": "Devpost hackathon. about 17 hours left",
+    "description": "Devpost hackathon. about 10 hours left",
     "organizer": "Code commit",
     "venue": "SSM cultural centre",
     "mode": "In-Person",
@@ -1386,7 +1274,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-10-31T01:18:38.367610+00:00"
+    "discovered_at": "2026-10-31T07:49:38.388559+00:00"
   },
   {
     "id": "unstop:1782942",
@@ -1419,7 +1307,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-10-31T01:18:33.157925+00:00"
+    "discovered_at": "2026-10-31T07:49:33.518564+00:00"
   },
   {
     "id": "unstop:1782685",
@@ -1452,7 +1340,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-10-31T01:18:35.051203+00:00"
+    "discovered_at": "2026-10-31T07:49:35.402155+00:00"
   },
   {
     "id": "unstop:1784666",
@@ -1485,7 +1373,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-10-31T01:18:31.552076+00:00"
+    "discovered_at": "2026-10-31T07:49:31.428599+00:00"
   },
   {
     "id": "unstop:1784543",
@@ -1524,7 +1412,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-10-31T01:18:31.551577+00:00"
+    "discovered_at": "2026-10-31T07:49:31.426454+00:00"
   },
   {
     "id": "unstop:1782949",
@@ -1563,7 +1451,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-10-31T01:18:33.157993+00:00"
+    "discovered_at": "2026-10-31T07:49:33.518640+00:00"
   },
   {
     "id": "devpost:31108",
@@ -1598,7 +1486,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-10-31T01:18:38.367637+00:00"
+    "discovered_at": "2026-10-31T07:49:38.388588+00:00"
   },
   {
     "id": "devpost:30500",
@@ -1633,14 +1521,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-10-31T01:18:38.367573+00:00"
+    "discovered_at": "2026-10-31T07:49:38.239566+00:00"
   },
   {
     "id": "devpost:31627",
     "source": "Devpost",
     "title": "Next Byte Hacks V5",
     "url": "https://next-byte-hacks-v5.devpost.com/",
-    "description": "Devpost hackathon. about 20 hours left",
+    "description": "Devpost hackathon. about 14 hours left",
     "organizer": "Next Byte Hacks",
     "venue": "Online",
     "mode": "Online",
@@ -1668,7 +1556,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-10-31T01:18:38.367617+00:00"
+    "discovered_at": "2026-10-31T07:49:38.388567+00:00"
   },
   {
     "id": "devpost:31619",
@@ -1703,7 +1591,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-10-31T01:18:38.491524+00:00"
+    "discovered_at": "2026-10-31T07:49:38.513846+00:00"
   },
   {
     "id": "devpost:31773",
@@ -1737,7 +1625,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-10-31T01:18:38.367630+00:00"
+    "discovered_at": "2026-10-31T07:49:38.388581+00:00"
   },
   {
     "id": "devpost:31795",
@@ -1772,14 +1660,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-10-31T01:18:38.491547+00:00"
+    "discovered_at": "2026-10-31T07:49:38.513868+00:00"
   },
   {
     "id": "devpost:31793",
     "source": "Devpost",
     "title": "AQX Sports Analytics Data Bowl 4.0",
     "url": "https://aqxanalyticsfour.devpost.com/",
-    "description": "Devpost hackathon. 1 day left",
+    "description": "Devpost hackathon. about 24 hours left",
     "organizer": "Devpost",
     "venue": "Online",
     "mode": "Online",
@@ -1807,7 +1695,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-10-31T01:18:38.491533+00:00"
+    "discovered_at": "2026-10-31T07:49:38.513855+00:00"
   },
   {
     "id": "devpost:31797",
@@ -1841,7 +1729,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-10-31T01:18:38.491571+00:00"
+    "discovered_at": "2026-10-31T07:49:38.513899+00:00"
   },
   {
     "id": "unstop:1783256",
@@ -1880,6 +1768,6 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-10-31T01:18:31.554185+00:00"
+    "discovered_at": "2026-10-31T07:49:31.429146+00:00"
   }
 ]

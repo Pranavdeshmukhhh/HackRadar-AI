@@ -2284,5 +2284,14 @@
     "last_notified": "2026-10-31T14:08:25.784034+00:00",
     "is_nagpur_local": false,
     "solo_allowed": false
+  },
+  "unstop:1786387": {
+    "title": "CODE SHIFT 2026",
+    "url": "https://unstop.com/hackathons/code-shift-2026-infotechiezz-1786387",
+    "score": 50,
+    "source": "Unstop",
+    "last_notified": "2026-10-31T18:57:55.771310+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
   }
 }

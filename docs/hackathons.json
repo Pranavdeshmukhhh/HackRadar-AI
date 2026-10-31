@@ -33,7 +33,7 @@
     "is_nagpur_local": true,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-10-31T14:08:24.583969+00:00"
+    "discovered_at": "2026-10-31T18:57:55.165255+00:00"
   },
   {
     "id": "college:mindsparkorg",
@@ -69,47 +69,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": true,
     "is_active": true,
-    "discovered_at": "2026-10-31T14:08:24.093491+00:00"
-  },
-  {
-    "id": "unstop:1786140",
-    "source": "Unstop",
-    "title": "ML Codeathon 1.0",
-    "url": "https://unstop.com/hackathons/ml-codeathon-10-ksrangasamy-college-of-technology-college-thiruchengode-tamil-nadu-1786140",
-    "description": "Overview ML Codeathon 1.0 is an individual online coding competition designed to test your Machine Learning and Python problem-solving abilities. Guidelines &amp; Format Format: Individual participation Questions: 2 problems (randomly assigned from a 30-question bank) Duration: 45 minutes Scoring: 100 total marks (50 marks per question) Language: Python 3 Negative Marking: None Evaluation &amp; Rules Testing: Submissions are automatically evaluated against hidden test cases. Environment: Code must be written and executed directly within the platform. Integrity: Plagiarism or unfair practices will result in immediate disqualification.",
-    "organizer": "K.S.Rangasamy College of Technology College, Thiruchengode, Tamil Nadu",
-    "venue": "Online",
-    "mode": "Online",
-    "city": null,
-    "state": "online",
-    "country": null,
-    "start_date": "2026-10-31T09:00:00+05:30",
-    "end_date": "2026-10-31T22:00:00+05:30",
-    "registration_deadline": "2026-10-31T21:00:00+05:30",
-    "min_team_size": 1,
-    "max_team_size": 1,
-    "solo_allowed": true,
-    "eligibility": "Undergraduate / Postgraduate & Engineering students",
-    "prize_pool": "Prizes & Certificates",
-    "tracks": [
-      "Engineering Students",
-      "Postgraduate",
-      "Undergraduate",
-      "Management",
-      "Medical",
-      "Law",
-      "Arts, Commerce, Sciences & Others"
-    ],
-    "score": 75,
-    "matched_reasons": [
-      "🌐 **Accessible Online Mode** (+15 pts)",
-      "👤 **Solo Eligible (1 Member)** (+35 pts)",
-      "🤖 **AI & Software Tracks** (+25 pts) [Machine Learning, ML]"
-    ],
-    "is_nagpur_local": false,
-    "is_maharashtra": false,
-    "is_active": true,
-    "discovered_at": "2026-10-31T14:08:14.126942+00:00"
+    "discovered_at": "2026-10-31T18:57:55.049914+00:00"
   },
   {
     "id": "unstop:1783775",
@@ -147,7 +107,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-10-31T14:08:16.024922+00:00"
+    "discovered_at": "2026-10-31T18:57:46.779996+00:00"
   },
   {
     "id": "unstop:1783838",
@@ -181,7 +141,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-10-31T14:08:14.126855+00:00"
+    "discovered_at": "2026-10-31T18:57:46.779396+00:00"
   },
   {
     "id": "unstop:1785416",
@@ -221,7 +181,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-10-31T14:08:14.125361+00:00"
+    "discovered_at": "2026-10-31T18:57:44.964361+00:00"
   },
   {
     "id": "unstop:1783835",
@@ -259,7 +219,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-10-31T14:08:16.024852+00:00"
+    "discovered_at": "2026-10-31T18:57:46.779924+00:00"
   },
   {
     "id": "unstop:1784554",
@@ -297,7 +257,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-10-31T14:08:16.024620+00:00"
+    "discovered_at": "2026-10-31T18:57:46.779693+00:00"
   },
   {
     "id": "unstop:1777504",
@@ -337,7 +297,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-10-31T14:08:18.284855+00:00"
+    "discovered_at": "2026-10-31T18:57:48.837320+00:00"
   },
   {
     "id": "devpost:30740",
@@ -373,7 +333,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-10-31T14:08:21.301420+00:00"
+    "discovered_at": "2026-10-31T18:57:51.996837+00:00"
   },
   {
     "id": "devpost:30764",
@@ -409,7 +369,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-10-31T14:08:21.301433+00:00"
+    "discovered_at": "2026-10-31T18:57:51.996853+00:00"
   },
   {
     "id": "hackerearth:godaddy-inclusive-innovation-challenge-2026",
@@ -445,7 +405,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-10-31T14:08:22.378430+00:00"
+    "discovered_at": "2026-10-31T18:57:53.022368+00:00"
   },
   {
     "id": "hackerearth:mks-inc-hackathon",
@@ -481,7 +441,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-10-31T14:08:22.378442+00:00"
+    "discovered_at": "2026-10-31T18:57:53.022380+00:00"
   },
   {
     "id": "hackerearth:ibm-z-day",
@@ -517,7 +477,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-10-31T14:08:22.378403+00:00"
+    "discovered_at": "2026-10-31T18:57:53.022345+00:00"
   },
   {
     "id": "devpost:31302",
@@ -553,7 +513,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-10-31T14:08:21.131813+00:00"
+    "discovered_at": "2026-10-31T18:57:51.869077+00:00"
   },
   {
     "id": "devpost:31659",
@@ -589,7 +549,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-10-31T14:08:21.131873+00:00"
+    "discovered_at": "2026-10-31T18:57:51.869160+00:00"
   },
   {
     "id": "devpost:31666",
@@ -625,7 +585,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-10-31T14:08:21.453816+00:00"
+    "discovered_at": "2026-10-31T18:57:52.179803+00:00"
   },
   {
     "id": "devpost:31737",
@@ -661,14 +621,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-10-31T14:08:21.453839+00:00"
+    "discovered_at": "2026-10-31T18:57:52.179830+00:00"
   },
   {
     "id": "devpost:31664",
     "source": "Devpost",
     "title": "Herhack",
     "url": "https://herhack.devpost.com/",
-    "description": "Devpost hackathon. 11 days left",
+    "description": "Devpost hackathon. 10 days left",
     "organizer": "Echelon institute of technology",
     "venue": "Online",
     "mode": "Online",
@@ -697,14 +657,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-10-31T14:08:21.453825+00:00"
+    "discovered_at": "2026-10-31T18:57:52.179793+00:00"
   },
   {
     "id": "devpost:31789",
     "source": "Devpost",
     "title": "STEM2Connect AI Hackathon",
     "url": "https://stem2connect-online-hackathon.devpost.com/",
-    "description": "Devpost hackathon. 22 days left",
+    "description": "Devpost hackathon. 21 days left",
     "organizer": "STEM2Connect",
     "venue": "Online",
     "mode": "Online",
@@ -733,7 +693,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-10-31T14:08:21.301451+00:00"
+    "discovered_at": "2026-10-31T18:57:51.996872+00:00"
   },
   {
     "id": "devpost:31796",
@@ -769,7 +729,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-10-31T14:08:21.301458+00:00"
+    "discovered_at": "2026-10-31T18:57:51.996878+00:00"
   },
   {
     "id": "devpost:30789",
@@ -805,7 +765,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-10-31T14:08:21.301411+00:00"
+    "discovered_at": "2026-10-31T18:57:51.996824+00:00"
   },
   {
     "id": "devpost:31552",
@@ -841,7 +801,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-10-31T14:08:21.131886+00:00"
+    "discovered_at": "2026-10-31T18:57:51.869177+00:00"
   },
   {
     "id": "devpost:31742",
@@ -877,7 +837,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-10-31T14:08:21.131859+00:00"
+    "discovered_at": "2026-10-31T18:57:51.869119+00:00"
   },
   {
     "id": "devpost:31572",
@@ -913,7 +873,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-10-31T14:08:21.131880+00:00"
+    "discovered_at": "2026-10-31T18:57:51.869170+00:00"
   },
   {
     "id": "devpost:31907",
@@ -949,7 +909,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-10-31T14:08:21.453832+00:00"
+    "discovered_at": "2026-10-31T18:57:52.179811+00:00"
   },
   {
     "id": "devpost:31667",
@@ -985,14 +945,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-10-31T14:08:21.131852+00:00"
+    "discovered_at": "2026-10-31T18:57:51.869111+00:00"
   },
   {
     "id": "devpost:31187",
     "source": "Devpost",
     "title": "STEMergent Hacks 2026",
     "url": "https://stemergent-hacks.devpost.com/",
-    "description": "Devpost hackathon. 16 days left",
+    "description": "Devpost hackathon. 15 days left",
     "organizer": "STEMergent",
     "venue": "Online",
     "mode": "Online",
@@ -1021,7 +981,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-10-31T14:08:21.453773+00:00"
+    "discovered_at": "2026-10-31T18:57:51.996884+00:00"
   },
   {
     "id": "devpost:31024",
@@ -1057,7 +1017,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-10-31T14:08:21.131840+00:00"
+    "discovered_at": "2026-10-31T18:57:51.869099+00:00"
   },
   {
     "id": "devpost:31400",
@@ -1093,7 +1053,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-10-31T14:08:21.131867+00:00"
+    "discovered_at": "2026-10-31T18:57:51.869127+00:00"
   },
   {
     "id": "unstop:1785430",
@@ -1133,7 +1093,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": true,
     "is_active": true,
-    "discovered_at": "2026-10-31T14:08:14.125117+00:00"
+    "discovered_at": "2026-10-31T18:57:44.964118+00:00"
   },
   {
     "id": "unstop:1783135",
@@ -1168,7 +1128,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-10-31T14:08:16.025135+00:00"
+    "discovered_at": "2026-10-31T18:57:46.780221+00:00"
   },
   {
     "id": "unstop:1784631",
@@ -1205,42 +1165,40 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-10-31T14:08:16.024436+00:00"
+    "discovered_at": "2026-10-31T18:57:46.779514+00:00"
   },
   {
-    "id": "devpost:31694",
-    "source": "Devpost",
-    "title": "MineArena 1.0",
-    "url": "https://minearena-1-0.devpost.com/",
-    "description": "Devpost hackathon. about 4 hours left",
-    "organizer": "Code commit",
-    "venue": "SSM cultural centre",
-    "mode": "In-Person",
+    "id": "unstop:1786387",
+    "source": "Unstop",
+    "title": "CODE SHIFT 2026",
+    "url": "https://unstop.com/hackathons/code-shift-2026-infotechiezz-1786387",
+    "description": "CODE SHIFT 2026&nbsp;&nbsp; Organised by InfoTechiezz&nbsp; &nbsp;x&nbsp; Shortfundly OTT Marketplace &nbsp; Shift Your Thinking. Solve Differently. CODE SHIFT 2026 is an online coding competition designed to test students' programming knowledge, logical reasoning, and problem-solving abilities. Participants will compete in a single round featuring two DSA problems, providing an opportunity to demonstrate their coding skills and algorithmic thinking. Competition Format Competition Type: Online Coding Challenge Total Rounds: 1 Round Name: Algorithm Clash Total Problems: 2 DSA Questions Duration: 90 min Registration Fee: Free Mode: Online Round 1 &mdash; Algorithm Clash Participants will solve 2 coding problems within the allotted time. Solutions will be evaluated based on correctness, test cases passed, and the official judging criteria. Eligibility Criteria Second-year college students. Pre-final-year college students. Eligible students from Tamil Nadu. Participants should have basic programming knowledge and an interest in problem-solving. Participation Type: Individual. Rules and Guidelines Participants must register through the official Unstop opportunity page. The competition consists of 2 DSA problems in a single round. Solutions must be submitted within the allotted time. Only valid submissions through the designated coding platform will be considered. Plagiarism, copied code, or unfair practices may result in disqualification. Participants must follow the competition instructions. Organiser decisions regarding evaluation and results will be final. Rewards and Recognition Top 2 Performers &mdash; Free Internship Opportunity! The Top 2 performers will receive an opportunity to pursue a free internship with InfoTechiezz , subject to the organiser's eligibility criteria and applicable terms. This is an opportunity to gain practical experience, strengthen technical skills, and explore real-world learning opportunities. Top 3 Performers &mdash; Exciting Prizes! The Top 3 participants will receive exciting prizes in recognition of their outstanding coding performance, problem-solving abilities, and achievements in CODE SHIFT 2026. Why Participate? Test your coding and algorithmic thinking skills. Compete with students from different institutions. Improve your problem-solving abilities. Gain competitive programming experience. Earn recognition for your performance. Skills to Be Assessed Data Structures and Algorithms (DSA). Problem Solving. Logical Reasoning. Programming Fundamentals. Algorithm Design. Code Optimization. Bonus Rewards &amp; Exclusive Benefits Follow InfoTechiezz on its official platforms to discover additional coding preparation resources, community activities, and learning opportunities. Participants who complete the applicable social-media follow and subscription requirements may become eligible for additional benefits. How to Claim Bonus Benefits: Follow InfoTechiezz on its official social media platforms. Subscribe to the InfoTechiezz YouTube channel. Take screenshots as proof of completion. Send your screenshots to admin@infotechiezz.com . Wait for verification by the organiser. Additional benefits are subject to verification and availability. What You May Get After verification, eligible participants may receive: Tips and strategies for coding rounds. Coding tricks and shortcuts. Guidance on approaching algorithmic problems. Additional DSA practice resources. Special coding preparation content. Learning resources to improve programming skills. Extra Learning Benefits Subscribe to the InfoTechiezz YouTube channel for: Coding tutorials. Data Structures and Algorithms preparation. Problem-solving strategies. Programming tips and techniques. Competitive programming guidance. Coding contest preparation resources. Future Premium Contest Benefits Active community members may receive additional benefits in upcoming contests, subject to availability and applicable terms. Potential benefits include: Exclusive coupon codes. Discounted entry passes for eligible future contests. Priority reward opportunities. Premium coding preparation materials. Access to selected learning resources. These benefits are not guaranteed and may vary by contest. Refer &amp; Earn Invite your friends to follow InfoTechiezz and participate in the Reverse Coding Challenge 2026 . Share the opportunity with fellow students, developers, and coding enthusiasts. Eligible referrals may unlock surprise rewards and exclusive benefits, subject to the organiser's referral rules and verification. Stay Connected with InfoTechiezz Follow our official platforms for coding preparation content, contest announcements, results, learning resources, and future opportunities. Website https://www.infotechiezz.com/ YouTube https://www.youtube.com/@InfoTechiezz Instagram https://www.instagram.com/infotechiezz/ LinkedIn https://www.linkedin.com/in/infotechiezz/ WhatsApp Channel https://whatsapp.com/channel/0029Vb7QJZG8fewpER7N8U0V X (Twitter) https://x.com/infotechiezz Contact Email: admin@infotechiezz.com Event Summary Event: Reverse Coding Challenge 2026 Organiser: InfoTechiezz In Collaboration With: Thozhil Date: 31 October 2026 Mode: Online Rounds: 1 Duration: 90 minutes Problems: 4 DSA problems Entry Fee: Free Top Rewards: Exciting gifts for the Top 3 performers Additional Opportunity: Opportunity to compete for a free internship, subject to eligibility and applicable terms Ready to Take the Challenge? Prepare your logic, sharpen your coding skills, and get ready to compete. Register now. Solve smart. Climb the leaderboard. Earn your recognition. InfoTechiezz&nbsp; x&nbsp; Shortfundly OTT Marketplace&nbsp; &mdash; Learn. Code. Compete. Grow. &nbsp;",
+    "organizer": "InfoTechiezz",
+    "venue": "Online",
+    "mode": "Online",
     "city": null,
-    "state": null,
+    "state": "online",
     "country": null,
-    "start_date": null,
-    "end_date": null,
-    "registration_deadline": "Oct 15 - 31, 2026",
+    "start_date": "2026-10-30T00:00:00+05:30",
+    "end_date": "2026-11-08T23:00:00+05:30",
+    "registration_deadline": "2026-11-07T23:00:00+05:30",
     "min_team_size": 1,
-    "max_team_size": null,
+    "max_team_size": 1,
     "solo_allowed": true,
-    "eligibility": "Global Devpost Participants",
-    "prize_pool": "₹ 75,000",
+    "eligibility": "Open to college students & coders",
+    "prize_pool": "Prizes & Certificates",
     "tracks": [
-      "Machine Learning/AI",
-      "Fintech",
-      "Health"
+      "All"
     ],
-    "score": 60,
+    "score": 50,
     "matched_reasons": [
-      "👤 **Solo Eligible (1 Member)** (+35 pts)",
-      "🤖 **AI & Software Tracks** (+25 pts) [AI, Machine Learning]"
+      "🌐 **Accessible Online Mode** (+15 pts)",
+      "👤 **Solo Eligible (1 Member)** (+35 pts)"
     ],
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-10-31T14:08:21.301387+00:00"
+    "discovered_at": "2026-10-31T18:57:44.961774+00:00"
   },
   {
     "id": "unstop:1782942",
@@ -1273,40 +1231,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-10-31T14:08:16.025252+00:00"
-  },
-  {
-    "id": "unstop:1782685",
-    "source": "Unstop",
-    "title": "Shaastra Programming Contest 2027",
-    "url": "https://unstop.com/hackathons/shaastra-programming-contest-2027-iit-madras-1782685",
-    "description": "Get ready for SPC '27, IIT Madras&rsquo;s premier competitive programming showdown with a prize pool worth Rs.1,30,000! Test your algorithmic skills, solve complex coding puzzles, and compete against top minds to take home the Code Champion title. Step into the arena, prove your technical finesse, and claim your victory. Are you up for the challenge? The event will consist of 2 rounds : Online prelims will be conducted as a rated contest on Codechef&nbsp; Criteria for Finals: &nbsp;As the event is division based, we will consider the problems common for all divisions as the selection criteria for Finals. This includes Last n problems present in the problem page visible for Div 2,3,4 participants and All n problems present in the problem page visible for Div 1 participants. *On will be decided on the day of the contest Details: This is a competitive coding contest based on algorithms, data structures, and problem-solving Organizer:&nbsp;Indian Institute of Technology, Madras Individual Participation. Event date (Prelims): (will be updated soon) Finals for the shortlisted participants will be conducted in offline mode at the IIT Madras campus in January 2027. Participation certificate will be provided. All four divisions will have the same set of easy-medium, medium, and hard questions. Considering these questions, a common leaderboard will be formed, and finalist selection will be based on this common leaderboard. Rules: Please do not discuss strategy, suggestions, or tips in the comments during a live contest. Posting questions clarifying the problem statement is acceptable. If you are unsure, email us. Discussing any aspect of the problem, on any other platform on the web, on identification, could lead to the disabling of respective accounts and banning from the Shaastra community. All the prominent programming languages are allowed. Each program will be tested based on our critical test data. However, output and input should be exactly as specified in the samples provided. All the problems have the same points allotted to them. The decision of the organizers in declaring the results will be final. No queries in this regard will be entertained. Any participant found to be indulging in any form of malpractice will be immediately disqualified.",
-    "organizer": "Indian Institute of Technology (IIT), Madras",
-    "venue": "Online",
-    "mode": "Online",
-    "city": null,
-    "state": "online",
-    "country": null,
-    "start_date": "2026-10-28T00:00:00+05:30",
-    "end_date": "2027-01-09T19:25:00+05:30",
-    "registration_deadline": "2026-11-11T00:00:00+05:30",
-    "min_team_size": 1,
-    "max_team_size": 2,
-    "solo_allowed": true,
-    "eligibility": "Open to college students & coders",
-    "prize_pool": "Prizes & Certificates",
-    "tracks": [
-      "All"
-    ],
-    "score": 50,
-    "matched_reasons": [
-      "🌐 **Accessible Online Mode** (+15 pts)",
-      "👤 **Solo Eligible (1 Member)** (+35 pts)"
-    ],
-    "is_nagpur_local": false,
-    "is_maharashtra": false,
-    "is_active": true,
-    "discovered_at": "2026-10-31T14:08:18.284294+00:00"
+    "discovered_at": "2026-10-31T18:57:46.780322+00:00"
   },
   {
     "id": "unstop:1784666",
@@ -1339,7 +1264,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-10-31T14:08:14.126907+00:00"
+    "discovered_at": "2026-10-31T18:57:46.779446+00:00"
   },
   {
     "id": "unstop:1784543",
@@ -1378,7 +1303,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-10-31T14:08:14.124955+00:00"
+    "discovered_at": "2026-10-31T18:57:44.962473+00:00"
   },
   {
     "id": "unstop:1782949",
@@ -1417,7 +1342,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-10-31T14:08:16.025329+00:00"
+    "discovered_at": "2026-10-31T18:57:46.780427+00:00"
   },
   {
     "id": "unstop:1786992",
@@ -1450,7 +1375,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": true,
     "is_active": true,
-    "discovered_at": "2026-10-31T14:08:14.124608+00:00"
+    "discovered_at": "2026-10-31T18:57:44.962116+00:00"
   },
   {
     "id": "devpost:31108",
@@ -1485,7 +1410,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-10-31T14:08:21.301445+00:00"
+    "discovered_at": "2026-10-31T18:57:51.996866+00:00"
   },
   {
     "id": "devpost:30500",
@@ -1520,14 +1445,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-10-31T14:08:21.131892+00:00"
+    "discovered_at": "2026-10-31T18:57:51.869184+00:00"
   },
   {
     "id": "devpost:31627",
     "source": "Devpost",
     "title": "Next Byte Hacks V5",
     "url": "https://next-byte-hacks-v5.devpost.com/",
-    "description": "Devpost hackathon. about 7 hours left",
+    "description": "Devpost hackathon. 7 days left",
     "organizer": "Next Byte Hacks",
     "venue": "Online",
     "mode": "Online",
@@ -1536,7 +1461,7 @@
     "country": null,
     "start_date": null,
     "end_date": null,
-    "registration_deadline": "Oct 06 - 31, 2026",
+    "registration_deadline": "Oct 06 - Nov 07, 2026",
     "min_team_size": 1,
     "max_team_size": null,
     "solo_allowed": true,
@@ -1555,7 +1480,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-10-31T14:08:21.301427+00:00"
+    "discovered_at": "2026-10-31T18:57:51.996846+00:00"
   },
   {
     "id": "devpost:31619",
@@ -1590,7 +1515,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-10-31T14:08:21.453795+00:00"
+    "discovered_at": "2026-10-31T18:57:52.179771+00:00"
   },
   {
     "id": "devpost:31773",
@@ -1624,7 +1549,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-10-31T14:08:21.301439+00:00"
+    "discovered_at": "2026-10-31T18:57:51.996860+00:00"
   },
   {
     "id": "devpost:31795",
@@ -1659,14 +1584,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-10-31T14:08:21.453810+00:00"
+    "discovered_at": "2026-10-31T18:57:52.179781+00:00"
   },
   {
     "id": "devpost:31793",
     "source": "Devpost",
     "title": "AQX Sports Analytics Data Bowl 4.0",
     "url": "https://aqxanalyticsfour.devpost.com/",
-    "description": "Devpost hackathon. about 17 hours left",
+    "description": "Devpost hackathon. about 12 hours left",
     "organizer": "Devpost",
     "venue": "Online",
     "mode": "Online",
@@ -1694,7 +1619,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-10-31T14:08:21.453803+00:00"
+    "discovered_at": "2026-10-31T18:57:52.179749+00:00"
   },
   {
     "id": "devpost:31797",
@@ -1728,7 +1653,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-10-31T14:08:21.453846+00:00"
+    "discovered_at": "2026-10-31T18:57:52.179820+00:00"
   },
   {
     "id": "unstop:1783256",
@@ -1767,6 +1692,6 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-10-31T14:08:14.127426+00:00"
+    "discovered_at": "2026-10-31T18:57:44.964828+00:00"
   }
 ]

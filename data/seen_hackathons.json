@@ -2338,5 +2338,23 @@
     "last_notified": "2026-11-01T15:38:48.514095+00:00",
     "is_nagpur_local": false,
     "solo_allowed": true
+  },
+  "devpost:30731": {
+    "title": "LarpHacks",
+    "url": "https://larphacks.devpost.com/",
+    "score": 60,
+    "source": "Devpost",
+    "last_notified": "2026-11-01T20:00:39.257122+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:1789982": {
+    "title": "Project Last Mile: Analytics Case Challenge",
+    "url": "https://unstop.com/hackathons/project-lastmile-analytics-case-challenge-xavier-school-of-management-xlri-1789982",
+    "score": 40,
+    "source": "Unstop",
+    "last_notified": "2026-11-01T20:00:39.257122+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": false
   }
 }

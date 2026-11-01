@@ -2320,5 +2320,23 @@
     "last_notified": "2026-11-01T08:30:35.863988+00:00",
     "is_nagpur_local": false,
     "solo_allowed": true
+  },
+  "unstop:1782683": {
+    "title": "CTF - Capture The Flag",
+    "url": "https://unstop.com/hackathons/ctf-capture-the-flag-iit-madras-1782683",
+    "score": 75,
+    "source": "Unstop",
+    "last_notified": "2026-11-01T15:38:48.514095+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "devpost:31942": {
+    "title": "INCEPTION 2026",
+    "url": "https://inception2026.devpost.com/",
+    "score": 75,
+    "source": "Devpost",
+    "last_notified": "2026-11-01T15:38:48.514095+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
   }
 }

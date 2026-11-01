@@ -2293,5 +2293,32 @@
     "last_notified": "2026-10-31T18:57:55.771310+00:00",
     "is_nagpur_local": false,
     "solo_allowed": true
+  },
+  "devpost:31580": {
+    "title": "Ostad Presents YUNet AIgnite Buildathon 2026",
+    "url": "https://yunet-aignite26.devpost.com/",
+    "score": 75,
+    "source": "Devpost",
+    "last_notified": "2026-11-01T08:30:35.863988+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "devpost:31060": {
+    "title": "Agentic Hackathon",
+    "url": "https://agentic-hackathon.devpost.com/",
+    "score": 75,
+    "source": "Devpost",
+    "last_notified": "2026-11-01T08:30:35.863988+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:1783260": {
+    "title": "ELUCode - 7",
+    "url": "https://unstop.com/hackathons/elucode-7-edulinkup-1783260",
+    "score": 50,
+    "source": "Unstop",
+    "last_notified": "2026-11-01T08:30:35.863988+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
   }
 }

@@ -2365,5 +2365,23 @@
     "last_notified": "2026-11-02T07:00:33.310330+00:00",
     "is_nagpur_local": false,
     "solo_allowed": true
+  },
+  "devpost:31489": {
+    "title": "EthnoHack",
+    "url": "https://ethnohack2026.devpost.com/",
+    "score": 75,
+    "source": "Devpost",
+    "last_notified": "2026-11-02T17:38:06.931172+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "devpost:31083": {
+    "title": "QNX Global Hackathon",
+    "url": "https://qnx.devpost.com/",
+    "score": 75,
+    "source": "Devpost",
+    "last_notified": "2026-11-02T17:38:06.931172+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
   }
 }

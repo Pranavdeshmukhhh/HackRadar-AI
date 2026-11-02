@@ -33,7 +33,7 @@
     "is_nagpur_local": true,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-02T07:00:32.517126+00:00"
+    "discovered_at": "2026-11-02T17:38:05.621624+00:00"
   },
   {
     "id": "college:mindsparkorg",
@@ -69,7 +69,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": true,
     "is_active": true,
-    "discovered_at": "2026-11-02T07:00:32.057210+00:00"
+    "discovered_at": "2026-11-02T17:38:05.343433+00:00"
   },
   {
     "id": "unstop:1783838",
@@ -103,7 +103,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-02T07:00:23.305445+00:00"
+    "discovered_at": "2026-11-02T17:37:58.049590+00:00"
   },
   {
     "id": "unstop:1785416",
@@ -143,7 +143,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-02T07:00:20.703161+00:00"
+    "discovered_at": "2026-11-02T17:37:56.107893+00:00"
   },
   {
     "id": "unstop:1782683",
@@ -177,7 +177,47 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-02T07:00:20.702784+00:00"
+    "discovered_at": "2026-11-02T17:37:58.048811+00:00"
+  },
+  {
+    "id": "unstop:1784543",
+    "source": "Unstop",
+    "title": "SHAASTRA 2027",
+    "url": "https://unstop.com/hackathons/shaastra-2027-iit-madras-1784543",
+    "description": "Event Description Abstract Submission Round Participants must submit an aircraft abstract in A4 format, with 1.5 line spacing and a maximum of 15 pages, along with a ZIP file containing 5&ndash;10 construction photographs. The abstract should cover the aircraft design, including dimensions, wing area, estimated flight speed, reservoir and mounting, release mechanism, leakage prevention, centre-of-gravity management, and safe operation. The prescribed format must be downloaded from the respective IIT website and submitted by email at least 20 days before the competition. Shortlisted teams will be announced 15 days before the competition. If multiple teams participate from the same institution, their aircraft designs must be distinct, with at least a 2.5% difference in wingspan, chord, and fuselage length; otherwise, the teams will be disqualified. Qualifier Round The Qualifier Round aims to select the top 30 teams with lightweight aircraft capable of safe, controlled flight carrying a 1,000 mL water payload. The aircraft must fly safely for at least 30 seconds with the full payload, with no water release required. The water must be stored in a sealed, securely mounted, removable reservoir, with the reservoir and release mechanism included in the aircraft&rsquo;s empty weight. Judges will inspect the system before takeoff, and there must be no visible leakage. Each attempt must be completed within 3 minutes. Failure to maintain 30 seconds of safe flight or any visible leakage before landing results in a zero score. Each team gets two attempts, with the higher score counted, and only teams that safely complete the loaded flight can advance. The top 30 teams qualify for the Main Round and receive ₹5,000 towards material costs, subject to providing the bank details of one designated team member. Main Round In the Main Round, the aircraft must carry 1,000 mL of water in an inspected, sealed, removable reservoir and release it while flying over the designated simulated fire/release zone. The aircraft must fly safely for at least 30 seconds before release, which must be manually triggered by the pilot using a single transmitter channel; automatic or programmed release is not allowed. Judges will verify that the release begins within the marked zone, which is approximately 40 m from the take-off/landing area, though its location and dimensions may be adjusted based on venue and wind conditions. The amount of water released will be determined by weighing the reservoir before and after the attempt; if leakage before the commanded release cannot be distinguished from the actual release, the attempt scores zero. Each team gets two attempts, with the better score counted, and each attempt must complete the release and landing within 3 minutes. Rules and Regulations The same aircraft must be used throughout all rounds and must match the submitted design; repairs are allowed, but replacement aircraft are not. Teams should carry spare components and be ready when called, or risk losing their attempt or flight time. A 2.4 GHz radio is required unless another frequency is approved in advance, receivers must remain in receiver mode only, and metal propellers are prohibited. All systems will be inspected before the competition, and non-functional equipment can lead to dismissal. Teams must carry their own equipment and cannot share components with other teams. Aircraft may use powered take-off with landing gear or manual launch. A team member cannot participate in more than one team. Teams must be ready to fly after the 120-second interval following the previous attempt or lose their turn. Reimbursement will only be made to a registered team member whose bank account name matches the registration details. Flying outside the designated zone will result in disqualification, and the aircraft must immediately return and land safely. The take-off, landing, and release zones may vary depending on venue and wind conditions. Teams may participate in only one zonal event, and the same team members must participate in the finals if they qualify.Any attempts to unfairly influence the scoring or disrupt the competition by teams or individuals associated with them, such as parents, professors, trainers, etc., will result in immediate disqualification of the teams.&nbsp; Eligibility Teams must design and fabricate a fixed-wing RC aircraft; ready-made models such as RTF, ARF, and BNF are not allowed. The aircraft must have a thrust-to-weight ratio of &le;1.5 without payload, a maximum propeller diameter of 13 inches, and a wingspan of &le;1 m. Only electric motors are permitted, while IC engines, gyros, receiver programming, mission automation, FPV, and other flying-support systems are prohibited. Teams must consist of 2&ndash;4 students, with members from institutions within the same zone; an additional mentor may accompany the team but cannot assist during participation. Only students are eligible, and participants must carry a bona fide certificate signed by the HoD/Dean/Principal along with their college/school ID. During emergencies, an organizer-provided safety pilot may take control if required for safety, and all decisions of the safety pilot and judges must be followed. Format of the competition 1. Selection for the Zonal rounds will be based on the screening of the Design Abstract, its explanation, and the accompanying pictures a. IIT Gandhinagar b. IIT Kanpur c. IIT Madras &nbsp; d. KIIT Bhubaneswar 2. Participants can register with the team to participate only in the zones based on the location of their college/university. (See section on Zones for more details) 3. The participants will bring their aircraft and all necessary equipment to participate. 4. The top three teams from each zonal round will be invited to the national finals",
+    "organizer": "Indian Institute of Technology (IIT), Madras",
+    "venue": "hybrid",
+    "mode": "In-Person",
+    "city": null,
+    "state": "hybrid",
+    "country": null,
+    "start_date": "2026-10-31T00:00:00+05:30",
+    "end_date": "2027-01-05T18:01:00+05:30",
+    "registration_deadline": "2026-12-10T00:00:00+05:30",
+    "min_team_size": 1,
+    "max_team_size": 4,
+    "solo_allowed": true,
+    "eligibility": "Undergraduate / Postgraduate & Engineering students",
+    "prize_pool": "Prizes & Certificates",
+    "tracks": [
+      "Engineering Students",
+      "Postgraduate",
+      "Undergraduate",
+      "Management",
+      "Medical",
+      "Law",
+      "Arts, Commerce, Sciences & Others"
+    ],
+    "score": 75,
+    "matched_reasons": [
+      "🌐 **Accessible In-Person Mode** (+15 pts)",
+      "👤 **Solo Eligible (1 Member)** (+35 pts)",
+      "🤖 **AI & Software Tracks** (+25 pts) [ML]"
+    ],
+    "is_nagpur_local": false,
+    "is_maharashtra": false,
+    "is_active": true,
+    "discovered_at": "2026-11-02T17:37:58.049555+00:00"
   },
   {
     "id": "devpost:30740",
@@ -213,7 +253,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-02T07:00:28.714564+00:00"
+    "discovered_at": "2026-11-02T17:38:02.847840+00:00"
   },
   {
     "id": "devpost:30764",
@@ -249,7 +289,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-02T07:00:28.714576+00:00"
+    "discovered_at": "2026-11-02T17:38:02.847867+00:00"
   },
   {
     "id": "devpost:31580",
@@ -285,7 +325,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-02T07:00:28.714581+00:00"
+    "discovered_at": "2026-11-02T17:38:02.847873+00:00"
   },
   {
     "id": "devpost:31060",
@@ -321,14 +361,86 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-02T07:00:28.845147+00:00"
+    "discovered_at": "2026-11-02T17:38:02.961231+00:00"
+  },
+  {
+    "id": "devpost:31489",
+    "source": "Devpost",
+    "title": "EthnoHack",
+    "url": "https://ethnohack2026.devpost.com/",
+    "description": "Devpost hackathon. 6 days left",
+    "organizer": "ETHCSTWIN",
+    "venue": "Online",
+    "mode": "Online",
+    "city": null,
+    "state": null,
+    "country": null,
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": "Nov 02 - 08, 2026",
+    "min_team_size": 1,
+    "max_team_size": null,
+    "solo_allowed": true,
+    "eligibility": "Global Devpost Participants",
+    "prize_pool": "€ 8,000",
+    "tracks": [
+      "Databases",
+      "Health",
+      "Machine Learning/AI"
+    ],
+    "score": 75,
+    "matched_reasons": [
+      "🌐 **Accessible Online Mode** (+15 pts)",
+      "👤 **Solo Eligible (1 Member)** (+35 pts)",
+      "🤖 **AI & Software Tracks** (+25 pts) [AI, Machine Learning]"
+    ],
+    "is_nagpur_local": false,
+    "is_maharashtra": false,
+    "is_active": true,
+    "discovered_at": "2026-11-02T17:38:02.961205+00:00"
+  },
+  {
+    "id": "devpost:31083",
+    "source": "Devpost",
+    "title": "QNX Global Hackathon",
+    "url": "https://qnx.devpost.com/",
+    "description": "Devpost hackathon. about 1 month left",
+    "organizer": "QNX",
+    "venue": "Online",
+    "mode": "Online",
+    "city": null,
+    "state": null,
+    "country": null,
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": "Nov 02 - Dec 15, 2026",
+    "min_team_size": 1,
+    "max_team_size": null,
+    "solo_allowed": true,
+    "eligibility": "Global Devpost Participants",
+    "prize_pool": "$ 50,000",
+    "tracks": [
+      "IoT",
+      "Machine Learning/AI",
+      "Open Ended"
+    ],
+    "score": 75,
+    "matched_reasons": [
+      "🌐 **Accessible Online Mode** (+15 pts)",
+      "👤 **Solo Eligible (1 Member)** (+35 pts)",
+      "🤖 **AI & Software Tracks** (+25 pts) [AI, Machine Learning]"
+    ],
+    "is_nagpur_local": false,
+    "is_maharashtra": false,
+    "is_active": true,
+    "discovered_at": "2026-11-02T17:38:02.961196+00:00"
   },
   {
     "id": "devpost:31811",
     "source": "Devpost",
     "title": "BDBI x SpaceXSI Grokathon",
     "url": "https://bdbi-x-spacexsi.devpost.com/",
-    "description": "Devpost hackathon. about 22 hours left",
+    "description": "Devpost hackathon. about 10 hours left",
     "organizer": "SpaceXSI",
     "venue": "Online",
     "mode": "Online",
@@ -357,7 +469,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-02T07:00:28.845092+00:00"
+    "discovered_at": "2026-11-02T17:38:02.847897+00:00"
   },
   {
     "id": "hackerearth:mks-inc-hackathon",
@@ -371,7 +483,7 @@
     "city": null,
     "state": null,
     "country": null,
-    "start_date": "Monday, Nov 02, 2026",
+    "start_date": "Friday, Nov 06, 2026",
     "end_date": "Nov 15, 2026",
     "registration_deadline": "Nov 15, 2026",
     "min_team_size": 1,
@@ -393,7 +505,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-02T07:00:29.645958+00:00"
+    "discovered_at": "2026-11-02T17:38:03.862163+00:00"
   },
   {
     "id": "hackerearth:ibm-z-day",
@@ -429,14 +541,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-02T07:00:29.645934+00:00"
+    "discovered_at": "2026-11-02T17:38:03.862139+00:00"
   },
   {
     "id": "devpost:31302",
     "source": "Devpost",
     "title": "PayPal AI Hackathon",
     "url": "https://paypalaihackathon.devpost.com/",
-    "description": "Devpost hackathon. 11 days left",
+    "description": "Devpost hackathon. 10 days left",
     "organizer": "PayPal",
     "venue": "Online",
     "mode": "Online",
@@ -465,14 +577,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-02T07:00:28.575882+00:00"
+    "discovered_at": "2026-11-02T17:38:02.754860+00:00"
   },
   {
     "id": "devpost:31659",
     "source": "Devpost",
     "title": "Learn AR with SPECS",
     "url": "https://learn-specs.devpost.com/",
-    "description": "Devpost hackathon. 8 days left",
+    "description": "Devpost hackathon. 7 days left",
     "organizer": "Devpost",
     "venue": "Online",
     "mode": "Online",
@@ -501,7 +613,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-02T07:00:28.575946+00:00"
+    "discovered_at": "2026-11-02T17:38:02.754916+00:00"
   },
   {
     "id": "devpost:31666",
@@ -537,14 +649,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-02T07:00:28.845136+00:00"
+    "discovered_at": "2026-11-02T17:38:02.961236+00:00"
   },
   {
     "id": "devpost:31664",
     "source": "Devpost",
     "title": "Herhack",
     "url": "https://herhack.devpost.com/",
-    "description": "Devpost hackathon. 9 days left",
+    "description": "Devpost hackathon. 8 days left",
     "organizer": "Echelon institute of technology",
     "venue": "Online",
     "mode": "Online",
@@ -573,14 +685,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-02T07:00:28.845131+00:00"
+    "discovered_at": "2026-11-02T17:38:02.961221+00:00"
   },
   {
     "id": "devpost:31789",
     "source": "Devpost",
     "title": "STEM2Connect AI Hackathon",
     "url": "https://stem2connect-online-hackathon.devpost.com/",
-    "description": "Devpost hackathon. 20 days left",
+    "description": "Devpost hackathon. 19 days left",
     "organizer": "STEM2Connect",
     "venue": "Online",
     "mode": "Online",
@@ -609,14 +721,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-02T07:00:28.714596+00:00"
+    "discovered_at": "2026-11-02T17:38:02.847887+00:00"
   },
   {
     "id": "devpost:31796",
     "source": "Devpost",
     "title": "SafeSpace Hacks",
     "url": "https://safespace-hacks.devpost.com/",
-    "description": "Devpost hackathon. 21 days left",
+    "description": "Devpost hackathon. 20 days left",
     "organizer": "SafeSpace",
     "venue": "Online",
     "mode": "Online",
@@ -645,7 +757,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-02T07:00:28.714601+00:00"
+    "discovered_at": "2026-11-02T17:38:02.847892+00:00"
   },
   {
     "id": "devpost:30789",
@@ -681,7 +793,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-02T07:00:28.714544+00:00"
+    "discovered_at": "2026-11-02T17:38:02.754927+00:00"
   },
   {
     "id": "devpost:31552",
@@ -717,14 +829,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-02T07:00:28.575951+00:00"
+    "discovered_at": "2026-11-02T17:38:02.754910+00:00"
   },
   {
     "id": "devpost:31742",
     "source": "Devpost",
     "title": "Codex x TwitchCon Hackathon",
     "url": "https://twitchcon-codex.devpost.com/",
-    "description": "Devpost hackathon. about 15 hours left",
+    "description": "Devpost hackathon. about 4 hours left",
     "organizer": "Twitch",
     "venue": "Online",
     "mode": "Online",
@@ -753,43 +865,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-02T07:00:28.575925+00:00"
-  },
-  {
-    "id": "devpost:26475",
-    "source": "Devpost",
-    "title": "Dakar Bitcoin Hack by BTrust",
-    "url": "https://dakar-bitcoin-hack-2026.devpost.com/",
-    "description": "Devpost hackathon. 19 days left",
-    "organizer": "Dakar Bitcoin Days",
-    "venue": "Online",
-    "mode": "Online",
-    "city": null,
-    "state": null,
-    "country": null,
-    "start_date": null,
-    "end_date": null,
-    "registration_deadline": "Oct 26 - Nov 20, 2026",
-    "min_team_size": 1,
-    "max_team_size": null,
-    "solo_allowed": true,
-    "eligibility": "Global Devpost Participants",
-    "prize_pool": "$ 900",
-    "tracks": [
-      "Blockchain",
-      "Fintech",
-      "Machine Learning/AI"
-    ],
-    "score": 75,
-    "matched_reasons": [
-      "🌐 **Accessible Online Mode** (+15 pts)",
-      "👤 **Solo Eligible (1 Member)** (+35 pts)",
-      "🤖 **AI & Software Tracks** (+25 pts) [AI, Machine Learning, Blockchain]"
-    ],
-    "is_nagpur_local": false,
-    "is_maharashtra": false,
-    "is_active": true,
-    "discovered_at": "2026-11-02T07:00:28.845152+00:00"
+    "discovered_at": "2026-11-02T17:38:02.754899+00:00"
   },
   {
     "id": "devpost:31572",
@@ -825,14 +901,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-02T07:00:28.575941+00:00"
+    "discovered_at": "2026-11-02T17:38:02.754905+00:00"
   },
   {
     "id": "devpost:31907",
     "source": "Devpost",
     "title": "Build Your First AI App",
     "url": "https://build-your-first-ai-app.devpost.com/",
-    "description": "Devpost hackathon. 26 days left",
+    "description": "Devpost hackathon. 25 days left",
     "organizer": "Yasir Insights",
     "venue": "Online",
     "mode": "Online",
@@ -861,7 +937,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-02T07:00:28.845112+00:00"
+    "discovered_at": "2026-11-02T17:38:02.961179+00:00"
   },
   {
     "id": "devpost:31667",
@@ -897,14 +973,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-02T07:00:28.575908+00:00"
+    "discovered_at": "2026-11-02T17:38:02.754883+00:00"
   },
   {
     "id": "devpost:31187",
     "source": "Devpost",
     "title": "STEMergent Hacks 2026",
     "url": "https://stemergent-hacks.devpost.com/",
-    "description": "Devpost hackathon. 14 days left",
+    "description": "Devpost hackathon. 13 days left",
     "organizer": "STEMergent",
     "venue": "Online",
     "mode": "Online",
@@ -933,14 +1009,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-02T07:00:28.845118+00:00"
+    "discovered_at": "2026-11-02T17:38:02.961211+00:00"
   },
   {
     "id": "devpost:31024",
     "source": "Devpost",
     "title": "Meta VR Start Developer Competition 2026",
     "url": "https://start-developer-competition-26.devpost.com/",
-    "description": "Devpost hackathon. 17 days left",
+    "description": "Devpost hackathon. 16 days left",
     "organizer": "Meta",
     "venue": "Online",
     "mode": "Online",
@@ -969,43 +1045,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-02T07:00:28.575918+00:00"
-  },
-  {
-    "id": "devpost:31400",
-    "source": "Devpost",
-    "title": "YouCam API Skin AI & eCommerce VTO Hackathon",
-    "url": "https://youcam-api-skin-ai-ecommerce.devpost.com/",
-    "description": "Devpost hackathon. about 10 hours left",
-    "organizer": "Perfect Corp",
-    "venue": "Online",
-    "mode": "Online",
-    "city": null,
-    "state": null,
-    "country": null,
-    "start_date": null,
-    "end_date": null,
-    "registration_deadline": "Sep 29 - Nov 02, 2026",
-    "min_team_size": 1,
-    "max_team_size": null,
-    "solo_allowed": true,
-    "eligibility": "Global Devpost Participants",
-    "prize_pool": "$ 6,000",
-    "tracks": [
-      "AR/VR",
-      "E-commerce/Retail",
-      "Machine Learning/AI"
-    ],
-    "score": 75,
-    "matched_reasons": [
-      "🌐 **Accessible Online Mode** (+15 pts)",
-      "👤 **Solo Eligible (1 Member)** (+35 pts)",
-      "🤖 **AI & Software Tracks** (+25 pts) [AI, Machine Learning, API]"
-    ],
-    "is_nagpur_local": false,
-    "is_maharashtra": false,
-    "is_active": true,
-    "discovered_at": "2026-11-02T07:00:28.575936+00:00"
+    "discovered_at": "2026-11-02T17:38:02.754892+00:00"
   },
   {
     "id": "unstop:1785430",
@@ -1045,7 +1085,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": true,
     "is_active": true,
-    "discovered_at": "2026-11-02T07:00:20.702988+00:00"
+    "discovered_at": "2026-11-02T17:37:56.107734+00:00"
   },
   {
     "id": "unstop:1783260",
@@ -1082,7 +1122,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-02T07:00:23.304721+00:00"
+    "discovered_at": "2026-11-02T17:37:58.048857+00:00"
   },
   {
     "id": "unstop:1786387",
@@ -1115,7 +1155,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-02T07:00:23.304931+00:00"
+    "discovered_at": "2026-11-02T17:37:58.049063+00:00"
   },
   {
     "id": "unstop:1784666",
@@ -1148,46 +1188,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-02T07:00:23.305484+00:00"
-  },
-  {
-    "id": "unstop:1784543",
-    "source": "Unstop",
-    "title": "SHAASTRA 2027",
-    "url": "https://unstop.com/hackathons/shaastra-2027-iit-madras-1784543",
-    "description": "Boeing&ndash;IIT National Aeromodelling Competition 2025&ndash;26 | IIT Madras Zone About the Competition The challenge is to design, build, and operate a radio-controlled fixed-wing aircraft capable of carrying the maximum possible payload relative to its own weight and delivering it accurately to a designated drop zone. Competition Format Stage 1: Design Abstract Submission and Screening Teams must submit an abstract describing their aircraft design, supported by photographs documenting the construction process. The abstract will be evaluated to shortlist teams for the zonal competition. Submission requirements: An A4-format design abstract of no more than 15 pages. Standard formatting with 1.5 line spacing. Technical details of the aircraft, including dimensions, wing area, and velocity. An explanation of how the design addresses the competition problem statement. A ZIP file containing 5&ndash;10 photographs of the aircraft during construction. The abstract must be submitted at least 20 days before the zonal competition date. Shortlisted teams will be announced 15 days before the event, according to the published competition guidelines. Stage 2: Zonal Competition &ndash; IIT Madras Shortlisted teams will bring their aircraft and necessary equipment to compete in two rounds. Round 1: Qualifier Round The objective is to demonstrate safe flight while carrying a payload and achieve a high payload-to-aircraft weight ratio. The organiser-provided payload consists of golf balls weighing 45 g each. The aircraft must carry the payload for a minimum of 30 seconds. The payload must be carried inside the aircraft and must not be externally exposed. The aircraft must complete the attempt within a maximum of 3 minutes from take-off to landing. Each team receives two attempts, and the better score is considered. Scoring formula: Score = (Weight of payload carried &times; 100) / Weight of aircraft without payload. Aircraft that cannot maintain flight for 30 seconds with the payload receive zero points. The top 30 teams based on the qualifier scores advance to the Main Round. Teams qualifying for the Main Round are eligible for a reimbursement of ₹5,000 per team towards aircraft material costs, subject to the competition&rsquo;s stated requirements. Round 2: Main Round &ndash; Payload Delivery Challenge Teams must demonstrate their aircraft&rsquo;s payload-carrying capability and accurate payload release. Carry independent golf balls as payload. Fly for at least 30 seconds before releasing the payload. Release all payloads in a single drop using one transmitter channel. Deliver the payload into a circular drop zone of 20 m diameter. The drop zone is located 40 m from the take-off and landing zone. Complete the attempt within the maximum 3-minute time limit. Payloads must fall as separate golf balls. Combining them into one larger payload or releasing them inside a common box is not permitted. Each team receives two attempts, and the better score is considered. Scoring formula: Score = (Weight of payload successfully dropped inside the zone &times; 100) / Weight of aircraft without payload. National Finals The top three teams from the IIT Madras Zonal Competition will be invited to the national finals at IIT Delhi, according to the 2025&ndash;26 competition guidelines. The final-round problem statement will be announced separately by the organisers. Eligibility Criteria Only students are eligible to participate. Each team must have a minimum of 2 and a maximum of 4 student members. An additional mentor may accompany the team but cannot assist during competition participation. Team members may belong to the same or different educational institutions, provided all institutions fall within the same designated zone. Each participant can be a member of only one team. Participants must carry a valid college or school ID card and a bona fide certificate signed by the respective HoD, Dean, or Principal. Each team can participate in only one zonal event. Aircraft Design Constraints Aircraft type: A self-designed and fabricated fixed-wing radio-controlled aircraft is mandatory. Ready-to-fly, almost-ready-to-fly, and bind-and-fly models are not permitted. Maximum aircraft weight: 800 g without payload. Maximum wingspan: 1 metre. Maximum propeller diameter: 13 inches. Thrust-to-weight ratio: Must not exceed 1.5 without payload. Power source: Electric motors only. Internal combustion engines and other thrust sources are prohibited. Flight control: Gyroscopes, receiver programming assistance, and programmed mission steps are prohibited. Flight assistance: FPV and other flying-support systems are not allowed. Payload mechanism: The payload must be securely mounted and comply with the prescribed round-specific release requirements. Aircraft consistency: The same aircraft must be used in both rounds and must match the design submitted in the abstract. General Rules and Safety Regulations Teams must bring their aircraft and all required equipment. Aircraft systems, including motors and servos, will be inspected before participation. All aircraft must use 2.4 GHz radio unless another frequency has been approved in advance by the organisers. Receivers must operate in receiver-only mode. Metal propellers are prohibited. Teams must not share aircraft components with other teams. Powered take-off with landing gear or a manual ground-level launch is permitted. Damaged aircraft may be repaired, but replacement aircraft are not permitted. Pilots must remain within the designated flying zone. Flying outside the permitted zone may result in disqualification. Participants must follow all safety instructions from judges and organisers. A safety pilot may take control when required for safety. Teams must be ready when called for their attempt; failure to do so may result in losing their turn. The same team members must participate in the national finals if their team qualifies. Attempts to unfairly influence scoring or disrupt the competition may result in immediate disqualification. If multiple teams from the same institution participate, their aircraft designs must be distinct. The 2025&ndash;26 guidelines specify a minimum 2.5% difference in wingspan, chord, and fuselage length between such teams. Scoring and Evaluation The final zonal score is calculated as follows: Final Score = (0.25 &times; Qualifier Round Score) + (0.75 &times; Main Round Score). The Main Round contributes 75% of the final score, making payload delivery performance the most significant scoring component. The top three teams with the highest final scores will be declared zonal winners. In case of a tie, a separate round may be conducted by the judges, whose decisions will be final. Prizes IIT Madras Zonal Competition First Prize: ₹50,000. Second Prize: ₹25,000. Third Prize: ₹15,000. and the remaing top 24 teams will be awarded 5000/- National Competition First Prize: ₹1,00,000. Second Prize: ₹50,000. Third Prize: ₹30,000. The top three teams from each zonal competition will be invited to the national finals at IIT Delhi.",
-    "organizer": "Indian Institute of Technology (IIT), Madras",
-    "venue": "hybrid",
-    "mode": "In-Person",
-    "city": null,
-    "state": "hybrid",
-    "country": null,
-    "start_date": "2026-10-31T00:00:00+05:30",
-    "end_date": "2027-01-05T18:01:00+05:30",
-    "registration_deadline": "2026-12-10T00:00:00+05:30",
-    "min_team_size": 1,
-    "max_team_size": 4,
-    "solo_allowed": true,
-    "eligibility": "Undergraduate / Postgraduate & Engineering students",
-    "prize_pool": "Prizes & Certificates",
-    "tracks": [
-      "Engineering Students",
-      "Postgraduate",
-      "Undergraduate",
-      "Management",
-      "Medical",
-      "Law",
-      "Arts, Commerce, Sciences & Others"
-    ],
-    "score": 50,
-    "matched_reasons": [
-      "🌐 **Accessible In-Person Mode** (+15 pts)",
-      "👤 **Solo Eligible (1 Member)** (+35 pts)"
-    ],
-    "is_nagpur_local": false,
-    "is_maharashtra": false,
-    "is_active": true,
-    "discovered_at": "2026-11-02T07:00:23.305409+00:00"
+    "discovered_at": "2026-11-02T17:37:58.049629+00:00"
   },
   {
     "id": "unstop:1786992",
@@ -1220,7 +1221,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": true,
     "is_active": true,
-    "discovered_at": "2026-11-02T07:00:23.305129+00:00"
+    "discovered_at": "2026-11-02T17:37:58.049331+00:00"
   },
   {
     "id": "devpost:31108",
@@ -1255,7 +1256,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-02T07:00:28.714591+00:00"
+    "discovered_at": "2026-11-02T17:38:02.847883+00:00"
   },
   {
     "id": "devpost:30500",
@@ -1290,14 +1291,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-02T07:00:28.575956+00:00"
+    "discovered_at": "2026-11-02T17:38:02.754921+00:00"
   },
   {
     "id": "devpost:31627",
     "source": "Devpost",
     "title": "Next Byte Hacks V5",
     "url": "https://next-byte-hacks-v5.devpost.com/",
-    "description": "Devpost hackathon. 6 days left",
+    "description": "Devpost hackathon. 5 days left",
     "organizer": "Next Byte Hacks",
     "venue": "Online",
     "mode": "Online",
@@ -1325,7 +1326,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-02T07:00:28.714571+00:00"
+    "discovered_at": "2026-11-02T17:38:02.847861+00:00"
   },
   {
     "id": "devpost:31619",
@@ -1360,14 +1361,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-02T07:00:28.845123+00:00"
+    "discovered_at": "2026-11-02T17:38:02.961216+00:00"
   },
   {
     "id": "devpost:31773",
     "source": "Devpost",
     "title": "LaunchPad Hacks",
     "url": "https://launchpad-hacks.devpost.com/",
-    "description": "Devpost hackathon. 19 days left",
+    "description": "Devpost hackathon. 18 days left",
     "organizer": "Hack4TodayOrg",
     "venue": "Online",
     "mode": "Online",
@@ -1394,14 +1395,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-02T07:00:28.714586+00:00"
+    "discovered_at": "2026-11-02T17:38:02.847878+00:00"
   },
   {
     "id": "devpost:31795",
     "source": "Devpost",
     "title": "AccessED Hacks",
     "url": "https://accessed-hacks.devpost.com/",
-    "description": "Devpost hackathon. 19 days left",
+    "description": "Devpost hackathon. 18 days left",
     "organizer": "AccessEDnpo",
     "venue": "Online",
     "mode": "Online",
@@ -1429,46 +1430,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-02T07:00:28.845141+00:00"
-  },
-  {
-    "id": "unstop:1783256",
-    "source": "Unstop",
-    "title": "AGENTX 2.0",
-    "url": "https://unstop.com/hackathons/agentx-20-hackqube-1783256",
-    "description": "AGENTX 2.0 is a national-level hackathon organized by HackQube, bringing together students, developers, AI enthusiasts, and innovators to build intelligent, technology-driven solutions to real-world challenges. The hackathon focuses on Artificial Intelligence, AI Agents, Agentic AI, Generative AI, and intelligent automation. Participants will have the opportunity to transform ideas into functional prototypes that demonstrate innovation, technical excellence, practical applicability, and real-world impact. Participants must select one of the official problem statements and develop a solution that addresses the specified challenge. Eligibility Criteria Students enrolled in recognized colleges or universities are eligible to participate. Developers, AI enthusiasts, and aspiring innovators may participate, subject to the registration requirements. Participants must provide accurate information during registration. All participants must comply with the hackathon rules and submission guidelines. Team Formation Rules Team Size: 2&ndash;4 members per team. Inter-college Teams: Allowed. Team members may belong to different colleges or universities. Inter-specialization Teams: Allowed. Members from different academic disciplines and technical specializations may collaborate. Each participant may be part of only one team. Teams must provide accurate details for all members during registration. One team must submit only one project for evaluation. Official Problem Statements Teams must select one of the following eight problem statements and develop a solution aligned with its objectives. PS01: Agentic Workflow Automation Build an AI agent that automates repetitive tasks by planning multi-step workflows, integrating external tools and APIs, executing actions, and verifying task completion. PS02: Autonomous AI Software Engineer Develop an AI agent that analyzes codebases, identifies bugs, proposes fixes, runs tests, and generates actionable reports to improve software development workflows. PS03: Multi-Agent Research &amp; Fact-Checking Create a multi-agent system that researches complex topics, verifies information using reliable sources, identifies conflicting claims, and generates evidence-backed reports. PS04: Personalized AI Learning Agent Build an intelligent learning agent that identifies knowledge gaps, creates personalized learning paths, generates assessments, and adapts recommendations based on student progress. PS05: AI Operations Agent for Businesses Develop an AI agent that streamlines business operations by analyzing data, managing routine workflows, identifying exceptions, and recommending actions with appropriate human oversight. PS06: AI-Powered Cybersecurity Triage Create a defensive AI agent that analyzes security logs, correlates alerts, detects suspicious activities, and recommends safe remediation steps. PS07: Smart Energy &amp; Sustainability Agent Build an AI agent that analyzes energy consumption data, identifies inefficiencies, predicts potential wastage, and recommends actionable sustainability improvements. PS08: Startup Co-Pilot Agent Develop a multi-agent system that assists early-stage founders with market research, competitor analysis, customer profiling, idea validation, and execution planning. Competition Format The competition will follow the official schedule and format announced by HackQube. The proposed process includes: Registration: Eligible participants register through Unstop in teams of 2&ndash;4 members. Problem Statement Selection: Each team selects one official problem statement from PS01 to PS08. Solution Development: Teams design and develop their solutions using appropriate technologies, APIs, frameworks, and AI tools. Project Submission: Teams submit the required project details and demonstration materials before the official deadline. Evaluation: Judges assess projects according to the published evaluation criteria. Final Results: Winners are determined based on evaluation scores and the final decision of the judging panel. The round-wise schedule, duration, submission deadline, and grand finale details will be communicated through official event announcements. Project Submission Guidelines Each team must submit the materials specified by the organizers. These may include: Project title and selected problem statement. Problem overview and proposed solution. Key features and explanation of the approach. Working prototype or functional demonstration. Source-code repository link, if required. Presentation or pitch deck, if required. Technology stack, APIs, frameworks, and AI tools used. Explanation of the solution's feasibility, impact, and scalability. All required submissions must be completed before the official deadline. Late or incomplete submissions may be disqualified. Judging Criteria Projects may be evaluated on the following parameters: Innovation: Originality and creativity of the proposed solution. Technical Implementation: Quality, functionality, and effective use of AI and other technologies. Problem Relevance: Effectiveness in addressing the selected problem statement. Feasibility and Scalability: Practical applicability and potential for further development. User Experience: Usability, accessibility, and clarity of the solution. Presentation and Demonstration: Quality of the project explanation, working demo, and responses to judges' questions. The final scoring weights and any additional evaluation requirements will be communicated by the organizers. Rules and Code of Conduct All submissions must address one of the official problem statements. Plagiarism, fraudulent registrations, misrepresentation of contributions, and presenting copied work as original are prohibited. Teams must disclose relevant third-party code, datasets, APIs, AI models, and tools used in their projects when requested. Participants must have the necessary rights and permissions to use submitted code, content, datasets, and other materials. Projects must comply with applicable laws, ethical technology practices, and data privacy requirements. Unauthorized system access, malicious activities, and misuse of data or services are strictly prohibited. Cybersecurity solutions must remain defensive and operate only within authorized environments. Teams must not submit multiple entries under different team identities unless explicitly permitted by the organizers. Participants must maintain professional conduct and respect fellow participants, mentors, judges, and organizers. The organizers reserve the right to investigate violations and disqualify teams that breach the rules. The judges' decisions will be final, subject to the published competition rules. Prizes and Recognition Prize details, certificates, special recognitions, and other benefits, if applicable, will be announced through official HackQube communications and the Unstop opportunity page. Only prizes and benefits explicitly confirmed by the organizers should be considered guaranteed. Important Information Opportunity: AGENTX 2.0 &mdash; National-Level Hackathon Organizer: HackQube Registration Platform: Unstop Team Size: 2&ndash;4 members Inter-college Participation: Allowed Inter-specialization Participation: Allowed Problem Statements: 8 Competition Format: As announced by the organizers Event Date: 14 November 2026 Venue: As announced by the organizers Registration Deadline: As announced by the organizers Participants are responsible for reviewing official announcements, completing registration correctly, and meeting all applicable deadlines. Any updates to the schedule, format, or rules will be communicated through the designated official channels. Build. Innovate. Elevate. Organized by HackQube &mdash; A Builders-First Technology Ecosystem.",
-    "organizer": "HackQube",
-    "venue": "hybrid",
-    "mode": "In-Person",
-    "city": null,
-    "state": "hybrid",
-    "country": null,
-    "start_date": "2026-10-29T00:00:00+05:30",
-    "end_date": "2026-11-10T00:00:00+05:30",
-    "registration_deadline": "2026-11-10T00:00:00+05:30",
-    "min_team_size": 2,
-    "max_team_size": 4,
-    "solo_allowed": false,
-    "eligibility": "Undergraduate / Postgraduate & Engineering students",
-    "prize_pool": "Prizes & Certificates",
-    "tracks": [
-      "Engineering Students",
-      "Postgraduate",
-      "Undergraduate",
-      "Management",
-      "Medical",
-      "Law",
-      "Arts, Commerce, Sciences & Others"
-    ],
-    "score": 40,
-    "matched_reasons": [
-      "🌐 **Accessible In-Person Mode** (+15 pts)",
-      "🤖 **AI & Software Tracks** (+25 pts) [AI, Artificial Intelligence, Generative Ai]"
-    ],
-    "is_nagpur_local": false,
-    "is_maharashtra": false,
-    "is_active": true,
-    "discovered_at": "2026-11-02T07:00:23.305749+00:00"
+    "discovered_at": "2026-11-02T17:38:02.961226+00:00"
   },
   {
     "id": "unstop:1789982",
@@ -1507,6 +1469,6 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-02T07:00:20.701524+00:00"
+    "discovered_at": "2026-11-02T17:37:56.106495+00:00"
   }
 ]

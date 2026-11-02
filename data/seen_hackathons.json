@@ -2356,5 +2356,14 @@
     "last_notified": "2026-11-01T20:00:39.257122+00:00",
     "is_nagpur_local": false,
     "solo_allowed": false
+  },
+  "devpost:31811": {
+    "title": "BDBI x SpaceXSI Grokathon",
+    "url": "https://bdbi-x-spacexsi.devpost.com/",
+    "score": 75,
+    "source": "Devpost",
+    "last_notified": "2026-11-02T07:00:33.310330+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
   }
 }

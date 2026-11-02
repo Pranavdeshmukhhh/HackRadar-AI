@@ -7,9 +7,9 @@
 ### 📊 Quick Metrics
 | Total Qualified | 📍 Nagpur Local | 👤 Solo-Friendly | 🌐 Online/Virtual | ⭐ High Priority (60+ pts) |
 |:---:|:---:|:---:|:---:|:---:|
-| **43** | **1** | **39** | **37** | **30** |
+| **43** | **1** | **39** | **38** | **29** |
 
-*Last Updated:* **2026-11-02 01:30 AM IST** (`2026-11-01 20:00 UTC`)
+*Last Updated:* **2026-11-02 05:35 AM IST** (`2026-11-02 00:05 UTC`)
 
 ---
 
@@ -46,7 +46,6 @@
 | **`75`** | [Meta VR Start Developer Competition 2026](https://start-developer-competition-26.devpost.com/) | 🌐 Online | ✅ Solo | `Sep 24 - Nov 18, 2026` | AR/VR, Machine Learning/AI | Devpost | [Register](https://start-developer-competition-26.devpost.com/) |
 | **`75`** | [YouCam API Skin AI & eCommerce VTO Hackathon](https://youcam-api-skin-ai-ecommerce.devpost.com/) | 🌐 Online | ✅ Solo | `Sep 29 - Nov 02, 2026` | AR/VR, E-commerce/Retail | Devpost | [Register](https://youcam-api-skin-ai-ecommerce.devpost.com/) |
 | **`65`** | [Tatusta](https://unstop.com/hackathons/tatusta-thakur-college-of-engineering-and-technology-tcet-mumbai-1785430) | 🌐 Online | 👥 Team | `2026-11-13T00:00:00+05:30` | Engineering Students, Pos... | Unstop | [Register](https://unstop.com/hackathons/tatusta-thakur-college-of-engineering-and-technology-tcet-mumbai-1785430) |
-| **`60`** | [LarpHacks](https://larphacks.devpost.com/) | 🏢 Toronto | ✅ Solo | `Nov 01, 2026` | Beginner Friendly, Machin... | Devpost | [Register](https://larphacks.devpost.com/) |
 | **`50`** | [ELUCode - 7](https://unstop.com/hackathons/elucode-7-edulinkup-1783260) | 🌐 Online | ✅ Solo | `2026-11-07T20:00:08+05:30` | Engineering Students, Pos... | Unstop | [Register](https://unstop.com/hackathons/elucode-7-edulinkup-1783260) |
 | **`50`** | [CODE SHIFT 2026](https://unstop.com/hackathons/code-shift-2026-infotechiezz-1786387) | 🌐 Online | ✅ Solo | `2026-11-07T23:00:00+05:30` | All | Unstop | [Register](https://unstop.com/hackathons/code-shift-2026-infotechiezz-1786387) |
 | **`50`** | [Hackday](https://unstop.com/hackathons/hackday-trishulx-1784666) | 🌐 Online | ✅ Solo | `2026-11-13T23:59:00+05:30` | All | Unstop | [Register](https://unstop.com/hackathons/hackday-trishulx-1784666) |
@@ -58,6 +57,7 @@
 | **`50`** | [Pumpkin Playground](https://pumpkin-playground.devpost.com/) | 🌐 Online | ✅ Solo | `Oct 12 - Nov 06, 2026` | Design, Gaming | Devpost | [Register](https://pumpkin-playground.devpost.com/) |
 | **`50`** | [LaunchPad Hacks](https://launchpad-hacks.devpost.com/) | 🌐 Online | ✅ Solo | `Oct 16 - Nov 20, 2026` | Beginner Friendly, Open E... | Devpost | [Register](https://launchpad-hacks.devpost.com/) |
 | **`50`** | [AccessED Hacks](https://accessed-hacks.devpost.com/) | 🌐 Online | ✅ Solo | `Oct 17 - Nov 20, 2026` | Beginner Friendly, Education | Devpost | [Register](https://accessed-hacks.devpost.com/) |
+| **`50`** | [Green Shift Hacks](https://green-shift-hacks.devpost.com/) | 🌐 Online | ✅ Solo | `Oct 18 - Nov 17, 2026` | Beginner Friendly, Social... | Devpost | [Register](https://green-shift-hacks.devpost.com/) |
 | **`40`** | [AGENTX 2.0](https://unstop.com/hackathons/agentx-20-hackqube-1783256) | 🏢 hybrid | 👥 Team | `2026-11-10T00:00:00+05:30` | Engineering Students, Pos... | Unstop | [Register](https://unstop.com/hackathons/agentx-20-hackqube-1783256) |
 | **`40`** | [Project Last Mile: Analytics Case Challenge](https://unstop.com/hackathons/project-lastmile-analytics-case-challenge-xavier-school-of-management-xlri-1789982) | 🌐 Online | 👥 Team | `2026-11-15T00:00:00+05:30` | Engineering Students, Pos... | Unstop | [Register](https://unstop.com/hackathons/project-lastmile-analytics-case-challenge-xavier-school-of-management-xlri-1789982) |
 
@@ -442,20 +442,7 @@
 👉 **[Direct Link to Apply](https://unstop.com/hackathons/tatusta-thakur-college-of-engineering-and-technology-tcet-mumbai-1785430)**
 
 ---
-### 30. [LarpHacks](https://larphacks.devpost.com/)
-- **Platform:** `Devpost` | **Priority Score:** `60/100` | **Mode:** `In-Person`
-- **Venue / Location:** 🏢 In-Person (Toronto)
-- **Participation:** 🟢 Solo Eligible (1 Member)
-- **Registration Deadline:** `Nov 01, 2026`
-- **Prize Pool:** `$ 21,394`
-- **Tracks:** Beginner Friendly, Machine Learning/AI, Web
-- **Organizer:** larphacks
-- **Match Factors:** 👤 **Solo Eligible (1 Member)** (+35 pts) • 🤖 **AI & Software Tracks** (+25 pts) [AI, Machine Learning]
-
-👉 **[Direct Link to Apply](https://larphacks.devpost.com/)**
-
----
-### 31. [ELUCode - 7](https://unstop.com/hackathons/elucode-7-edulinkup-1783260)
+### 30. [ELUCode - 7](https://unstop.com/hackathons/elucode-7-edulinkup-1783260)
 - **Platform:** `Unstop` | **Priority Score:** `50/100` | **Mode:** `Online`
 - **Venue / Location:** 🌐 Online / Virtual
 - **Participation:** 🟢 Solo Eligible (1 Member)
@@ -468,7 +455,7 @@
 👉 **[Direct Link to Apply](https://unstop.com/hackathons/elucode-7-edulinkup-1783260)**
 
 ---
-### 32. [CODE SHIFT 2026](https://unstop.com/hackathons/code-shift-2026-infotechiezz-1786387)
+### 31. [CODE SHIFT 2026](https://unstop.com/hackathons/code-shift-2026-infotechiezz-1786387)
 - **Platform:** `Unstop` | **Priority Score:** `50/100` | **Mode:** `Online`
 - **Venue / Location:** 🌐 Online / Virtual
 - **Participation:** 🟢 Solo Eligible (1 Member)
@@ -481,7 +468,7 @@
 👉 **[Direct Link to Apply](https://unstop.com/hackathons/code-shift-2026-infotechiezz-1786387)**
 
 ---
-### 33. [Hackday](https://unstop.com/hackathons/hackday-trishulx-1784666)
+### 32. [Hackday](https://unstop.com/hackathons/hackday-trishulx-1784666)
 - **Platform:** `Unstop` | **Priority Score:** `50/100` | **Mode:** `Online`
 - **Venue / Location:** 🌐 Online / Virtual
 - **Participation:** 🟢 Solo Eligible (1 Member)
@@ -494,7 +481,7 @@
 👉 **[Direct Link to Apply](https://unstop.com/hackathons/hackday-trishulx-1784666)**
 
 ---
-### 34. [SHAASTRA 2027](https://unstop.com/hackathons/shaastra-2027-iit-madras-1784543)
+### 33. [SHAASTRA 2027](https://unstop.com/hackathons/shaastra-2027-iit-madras-1784543)
 - **Platform:** `Unstop` | **Priority Score:** `50/100` | **Mode:** `In-Person`
 - **Venue / Location:** 🏢 In-Person (hybrid)
 - **Participation:** 🟢 Solo Eligible (1 Member)
@@ -507,7 +494,7 @@
 👉 **[Direct Link to Apply](https://unstop.com/hackathons/shaastra-2027-iit-madras-1784543)**
 
 ---
-### 35. [Technova 2027](https://unstop.com/hackathons/technova-2027-burhani-college-mumbai-1786992)
+### 34. [Technova 2027](https://unstop.com/hackathons/technova-2027-burhani-college-mumbai-1786992)
 - **Platform:** `Unstop` | **Priority Score:** `50/100` | **Mode:** `In-Person`
 - **Venue / Location:** 🏢 Maharashtra (offline)
 - **Participation:** 👥 Teams Only (2-4 members)
@@ -520,7 +507,7 @@
 👉 **[Direct Link to Apply](https://unstop.com/hackathons/technova-2027-burhani-college-mumbai-1786992)**
 
 ---
-### 36. [InnovArt 2027: Art and Technology Hack Day](https://innovart2027.devpost.com/)
+### 35. [InnovArt 2027: Art and Technology Hack Day](https://innovart2027.devpost.com/)
 - **Platform:** `Devpost` | **Priority Score:** `50/100` | **Mode:** `Online`
 - **Venue / Location:** 🌐 Online / Virtual
 - **Participation:** 🟢 Solo Eligible (1 Member)
@@ -533,7 +520,7 @@
 👉 **[Direct Link to Apply](https://innovart2027.devpost.com/)**
 
 ---
-### 37. [DSH Hacks V2 ($100k+ in prizes!)](https://dsh-hacks-v2.devpost.com/)
+### 36. [DSH Hacks V2 ($100k+ in prizes!)](https://dsh-hacks-v2.devpost.com/)
 - **Platform:** `Devpost` | **Priority Score:** `50/100` | **Mode:** `Online`
 - **Venue / Location:** 🌐 Online / Virtual
 - **Participation:** 🟢 Solo Eligible (1 Member)
@@ -546,7 +533,7 @@
 👉 **[Direct Link to Apply](https://dsh-hacks-v2.devpost.com/)**
 
 ---
-### 38. [Next Byte Hacks V5](https://next-byte-hacks-v5.devpost.com/)
+### 37. [Next Byte Hacks V5](https://next-byte-hacks-v5.devpost.com/)
 - **Platform:** `Devpost` | **Priority Score:** `50/100` | **Mode:** `Online`
 - **Venue / Location:** 🌐 Online / Virtual
 - **Participation:** 🟢 Solo Eligible (1 Member)
@@ -559,7 +546,7 @@
 👉 **[Direct Link to Apply](https://next-byte-hacks-v5.devpost.com/)**
 
 ---
-### 39. [Pumpkin Playground](https://pumpkin-playground.devpost.com/)
+### 38. [Pumpkin Playground](https://pumpkin-playground.devpost.com/)
 - **Platform:** `Devpost` | **Priority Score:** `50/100` | **Mode:** `Online`
 - **Venue / Location:** 🌐 Online / Virtual
 - **Participation:** 🟢 Solo Eligible (1 Member)
@@ -572,7 +559,7 @@
 👉 **[Direct Link to Apply](https://pumpkin-playground.devpost.com/)**
 
 ---
-### 40. [LaunchPad Hacks](https://launchpad-hacks.devpost.com/)
+### 39. [LaunchPad Hacks](https://launchpad-hacks.devpost.com/)
 - **Platform:** `Devpost` | **Priority Score:** `50/100` | **Mode:** `Online`
 - **Venue / Location:** 🌐 Online / Virtual
 - **Participation:** 🟢 Solo Eligible (1 Member)
@@ -585,7 +572,7 @@
 👉 **[Direct Link to Apply](https://launchpad-hacks.devpost.com/)**
 
 ---
-### 41. [AccessED Hacks](https://accessed-hacks.devpost.com/)
+### 40. [AccessED Hacks](https://accessed-hacks.devpost.com/)
 - **Platform:** `Devpost` | **Priority Score:** `50/100` | **Mode:** `Online`
 - **Venue / Location:** 🌐 Online / Virtual
 - **Participation:** 🟢 Solo Eligible (1 Member)
@@ -596,6 +583,19 @@
 - **Match Factors:** 🌐 **Accessible Online Mode** (+15 pts) • 👤 **Solo Eligible (1 Member)** (+35 pts)
 
 👉 **[Direct Link to Apply](https://accessed-hacks.devpost.com/)**
+
+---
+### 41. [Green Shift Hacks](https://green-shift-hacks.devpost.com/)
+- **Platform:** `Devpost` | **Priority Score:** `50/100` | **Mode:** `Online`
+- **Venue / Location:** 🌐 Online / Virtual
+- **Participation:** 🟢 Solo Eligible (1 Member)
+- **Registration Deadline:** `Oct 18 - Nov 17, 2026`
+- **Prize Pool:** `$ 125`
+- **Tracks:** Beginner Friendly, Social Good
+- **Organizer:** HackathonForEveryone
+- **Match Factors:** 🌐 **Accessible Online Mode** (+15 pts) • 👤 **Solo Eligible (1 Member)** (+35 pts)
+
+👉 **[Direct Link to Apply](https://green-shift-hacks.devpost.com/)**
 
 ---
 ### 42. [AGENTX 2.0](https://unstop.com/hackathons/agentx-20-hackqube-1783256)

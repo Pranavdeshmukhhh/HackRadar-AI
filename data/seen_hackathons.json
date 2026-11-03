@@ -2383,5 +2383,14 @@
     "last_notified": "2026-11-02T17:38:06.931172+00:00",
     "is_nagpur_local": false,
     "solo_allowed": true
+  },
+  "devpost:31642": {
+    "title": "AWS MSP AI Hackathon",
+    "url": "https://aws-agentic-msp.devpost.com/",
+    "score": 75,
+    "source": "Devpost",
+    "last_notified": "2026-11-03T00:15:14.625894+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
   }
 }

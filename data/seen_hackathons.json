@@ -2392,5 +2392,14 @@
     "last_notified": "2026-11-03T00:15:14.625894+00:00",
     "is_nagpur_local": false,
     "solo_allowed": true
+  },
+  "devpost:31815": {
+    "title": "Neural Storm",
+    "url": "https://neuralstorm.devpost.com/",
+    "score": 75,
+    "source": "Devpost",
+    "last_notified": "2026-11-03T07:26:09.735510+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
   }
 }

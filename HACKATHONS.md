@@ -9,7 +9,7 @@
 |:---:|:---:|:---:|:---:|:---:|
 | **37** | **1** | **35** | **34** | **28** |
 
-*Last Updated:* **2026-11-03 05:45 AM IST** (`2026-11-03 00:15 UTC`)
+*Last Updated:* **2026-11-03 12:56 PM IST** (`2026-11-03 07:26 UTC`)
 
 ---
 
@@ -25,10 +25,10 @@
 | **`75`** | [Syntax Summit](https://syntax-summit.devpost.com/) | 🌐 Online | ✅ Solo | `Jul 18, 2026 - Jan 14, 2027` | DevOps, Machine Learning/AI | Devpost | [Register](https://syntax-summit.devpost.com/) |
 | **`75`** | [Ostad Presents YUNet AIgnite Buildathon 2026](https://yunet-aignite26.devpost.com/) | 🌐 Online | ✅ Solo | `Nov 01 - 05, 2026` | Education, Low/No Code | Devpost | [Register](https://yunet-aignite26.devpost.com/) |
 | **`75`** | [Agentic Hackathon](https://agentic-hackathon.devpost.com/) | 🌐 Online | ✅ Solo | `Nov 01 - 10, 2026` | Machine Learning/AI, Open... | Devpost | [Register](https://agentic-hackathon.devpost.com/) |
+| **`75`** | [Neural Storm](https://neuralstorm.devpost.com/) | 🌐 Online | ✅ Solo | `Nov 02 - 04, 2026` | Beginner Friendly, Machin... | Devpost | [Register](https://neuralstorm.devpost.com/) |
 | **`75`** | [EthnoHack](https://ethnohack2026.devpost.com/) | 🌐 Online | ✅ Solo | `Nov 02 - 08, 2026` | Databases, Health | Devpost | [Register](https://ethnohack2026.devpost.com/) |
 | **`75`** | [AWS MSP AI Hackathon](https://aws-agentic-msp.devpost.com/) | 🌐 Online | ✅ Solo | `Nov 02 - Dec 11, 2026` | Machine Learning/AI, Prod... | Devpost | [Register](https://aws-agentic-msp.devpost.com/) |
 | **`75`** | [QNX Global Hackathon](https://qnx.devpost.com/) | 🌐 Online | ✅ Solo | `Nov 02 - Dec 15, 2026` | IoT, Machine Learning/AI | Devpost | [Register](https://qnx.devpost.com/) |
-| **`75`** | [BDBI x SpaceXSI Grokathon](https://bdbi-x-spacexsi.devpost.com/) | 🌐 Online | ✅ Solo | `Nov 02, 2026` | Machine Learning/AI, Open... | Devpost | [Register](https://bdbi-x-spacexsi.devpost.com/) |
 | **`75`** | [MKS AI/ML Hackathon](https://www.hackerearth.com/challenges/competitive/mks-inc-hackathon/) | 🌐 Online | ✅ Solo | `Nov 15, 2026` | Software, AI/ML | HackerEarth | [Register](https://www.hackerearth.com/challenges/competitive/mks-inc-hackathon/) |
 | **`75`** | [IBM Z Day](https://www.hackerearth.com/challenges/hackathon/ibm-z-day/) | 🌐 Online | ✅ Solo | `Nov 18, 2026` | Software, AI/ML | HackerEarth | [Register](https://www.hackerearth.com/challenges/hackathon/ibm-z-day/) |
 | **`75`** | [PayPal AI Hackathon](https://paypalaihackathon.devpost.com/) | 🌐 Online | ✅ Solo | `Oct 01 - Nov 12, 2026` | Low/No Code, Machine Lear... | Devpost | [Register](https://paypalaihackathon.devpost.com/) |
@@ -163,7 +163,20 @@
 👉 **[Direct Link to Apply](https://agentic-hackathon.devpost.com/)**
 
 ---
-### 9. [EthnoHack](https://ethnohack2026.devpost.com/)
+### 9. [Neural Storm](https://neuralstorm.devpost.com/)
+- **Platform:** `Devpost` | **Priority Score:** `75/100` | **Mode:** `Online`
+- **Venue / Location:** 🌐 Online / Virtual
+- **Participation:** 🟢 Solo Eligible (1 Member)
+- **Registration Deadline:** `Nov 02 - 04, 2026`
+- **Prize Pool:** `₹ 20,000`
+- **Tracks:** Beginner Friendly, Machine Learning/AI
+- **Organizer:** JNTUH
+- **Match Factors:** 🌐 **Accessible Online Mode** (+15 pts) • 👤 **Solo Eligible (1 Member)** (+35 pts) • 🤖 **AI & Software Tracks** (+25 pts) [AI, Machine Learning]
+
+👉 **[Direct Link to Apply](https://neuralstorm.devpost.com/)**
+
+---
+### 10. [EthnoHack](https://ethnohack2026.devpost.com/)
 - **Platform:** `Devpost` | **Priority Score:** `75/100` | **Mode:** `Online`
 - **Venue / Location:** 🌐 Online / Virtual
 - **Participation:** 🟢 Solo Eligible (1 Member)
@@ -176,7 +189,7 @@
 👉 **[Direct Link to Apply](https://ethnohack2026.devpost.com/)**
 
 ---
-### 10. [AWS MSP AI Hackathon](https://aws-agentic-msp.devpost.com/)
+### 11. [AWS MSP AI Hackathon](https://aws-agentic-msp.devpost.com/)
 - **Platform:** `Devpost` | **Priority Score:** `75/100` | **Mode:** `Online`
 - **Venue / Location:** 🌐 Online / Virtual
 - **Participation:** 🟢 Solo Eligible (1 Member)
@@ -189,7 +202,7 @@
 👉 **[Direct Link to Apply](https://aws-agentic-msp.devpost.com/)**
 
 ---
-### 11. [QNX Global Hackathon](https://qnx.devpost.com/)
+### 12. [QNX Global Hackathon](https://qnx.devpost.com/)
 - **Platform:** `Devpost` | **Priority Score:** `75/100` | **Mode:** `Online`
 - **Venue / Location:** 🌐 Online / Virtual
 - **Participation:** 🟢 Solo Eligible (1 Member)
@@ -200,19 +213,6 @@
 - **Match Factors:** 🌐 **Accessible Online Mode** (+15 pts) • 👤 **Solo Eligible (1 Member)** (+35 pts) • 🤖 **AI & Software Tracks** (+25 pts) [AI, Machine Learning]
 
 👉 **[Direct Link to Apply](https://qnx.devpost.com/)**
-
----
-### 12. [BDBI x SpaceXSI Grokathon](https://bdbi-x-spacexsi.devpost.com/)
-- **Platform:** `Devpost` | **Priority Score:** `75/100` | **Mode:** `Online`
-- **Venue / Location:** 🌐 Online / Virtual
-- **Participation:** 🟢 Solo Eligible (1 Member)
-- **Registration Deadline:** `Nov 02, 2026`
-- **Prize Pool:** `$ 0`
-- **Tracks:** Machine Learning/AI, Open Ended, Social Good
-- **Organizer:** SpaceXSI
-- **Match Factors:** 🌐 **Accessible Online Mode** (+15 pts) • 👤 **Solo Eligible (1 Member)** (+35 pts) • 🤖 **AI & Software Tracks** (+25 pts) [AI, Machine Learning]
-
-👉 **[Direct Link to Apply](https://bdbi-x-spacexsi.devpost.com/)**
 
 ---
 ### 13. [MKS AI/ML Hackathon](https://www.hackerearth.com/challenges/competitive/mks-inc-hackathon/)

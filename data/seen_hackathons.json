@@ -2401,5 +2401,95 @@
     "last_notified": "2026-11-03T07:26:09.735510+00:00",
     "is_nagpur_local": false,
     "solo_allowed": true
+  },
+  "unstop:1792108": {
+    "title": "BUILD / 04: Diwali Codefest 2026 | Online Qualifier & Final",
+    "url": "https://unstop.com/hackathons/build-04-diwali-codefest-2026-online-qualifier-final-apex-institute-of-technology-chandigarh-university-1792108",
+    "score": 75,
+    "source": "Unstop",
+    "last_notified": "2026-11-03T15:41:10.192542+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:1779479": {
+    "title": "AGENTIC X 2.0 – AI & Robotics Hackathon",
+    "url": "https://unstop.com/hackathons/agentic-x-20-ai-robotics-hackathon-woxsen-university-hyderabad-1779479",
+    "score": 75,
+    "source": "Unstop",
+    "last_notified": "2026-11-03T15:41:10.192542+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:1791467": {
+    "title": "Codeverse 2.0 Hackathon ",
+    "url": "https://unstop.com/hackathons/codeverse-20-hackathon-metaverse-club-1791467",
+    "score": 75,
+    "source": "Unstop",
+    "last_notified": "2026-11-03T15:41:10.192542+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:1793112": {
+    "title": "Queryquest: SQL Problem-Solving Challenge",
+    "url": "https://unstop.com/hackathons/queryquest-sql-problem-solving-challenge-the-national-institute-of-engineering-karnataka-1793112",
+    "score": 75,
+    "source": "Unstop",
+    "last_notified": "2026-11-03T15:41:10.192542+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:1791573": {
+    "title": "MassX CTF 2026",
+    "url": "https://unstop.com/hackathons/massx-ctf-2026-panipat-institute-of-engineering-technology-piet-panipat-1791573",
+    "score": 75,
+    "source": "Unstop",
+    "last_notified": "2026-11-03T15:41:10.192542+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:1792269": {
+    "title": "Agentic AI Hackathon",
+    "url": "https://unstop.com/hackathons/agentic-ai-hackathon-product-space-1792269",
+    "score": 75,
+    "source": "Unstop",
+    "last_notified": "2026-11-03T15:41:10.192542+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:1790680": {
+    "title": "National Online Hackathon 2026",
+    "url": "https://unstop.com/hackathons/national-online-hackathon-2026-edxcellence-llp-1790680",
+    "score": 75,
+    "source": "Unstop",
+    "last_notified": "2026-11-03T15:41:10.192542+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:1791313": {
+    "title": "CodeAstra India 2026 – National Hackathon",
+    "url": "https://unstop.com/hackathons/codeastra-india-2026-national-hackathon-wecodecoders-1791313",
+    "score": 75,
+    "source": "Unstop",
+    "last_notified": "2026-11-03T15:41:10.192542+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:1792835": {
+    "title": "INFRA//SHIFT",
+    "url": "https://unstop.com/hackathons/infrashift-infrasitycom-1792835",
+    "score": 60,
+    "source": "Unstop",
+    "last_notified": "2026-11-03T15:41:10.192542+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:1786997": {
+    "title": "Singularity",
+    "url": "https://unstop.com/hackathons/singularity-keshav-mahavidyalaya-kmv-university-of-delhi-du-delhi-1786997",
+    "score": 40,
+    "source": "Unstop",
+    "last_notified": "2026-11-03T15:41:10.192542+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": false
   }
 }

@@ -2491,5 +2491,41 @@
     "last_notified": "2026-11-03T15:41:10.192542+00:00",
     "is_nagpur_local": false,
     "solo_allowed": false
+  },
+  "unstop:1792826": {
+    "title": "CodeCrafters India 2026 - National Hackathon",
+    "url": "https://unstop.com/hackathons/codecrafters-india-2026-national-hackathon-hackwithpune-1792826",
+    "score": 75,
+    "source": "Unstop",
+    "last_notified": "2026-11-03T21:23:25.290979+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:1781454": {
+    "title": "VIT Bhopal University to Host Health Hackathon 3.0 in January 2027",
+    "url": "https://unstop.com/hackathons/vit-bhopal-university-to-host-health-hackathon-30-in-january-2027-vit-bhopal-1781454",
+    "score": 60,
+    "source": "Unstop",
+    "last_notified": "2026-11-03T21:23:25.290979+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:1793341": {
+    "title": "DoomForge",
+    "url": "https://unstop.com/hackathons/doomforge-vellore-institute-of-technology-vit-chennai-1793341",
+    "score": 60,
+    "source": "Unstop",
+    "last_notified": "2026-11-03T21:23:25.290979+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:1793392": {
+    "title": "404 Hackathon",
+    "url": "https://unstop.com/hackathons/404-hackathon-hax-baby-1793392",
+    "score": 50,
+    "source": "Unstop",
+    "last_notified": "2026-11-03T21:23:25.290979+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
   }
 }

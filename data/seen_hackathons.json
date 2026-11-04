@@ -2527,5 +2527,14 @@
     "last_notified": "2026-11-03T21:23:25.290979+00:00",
     "is_nagpur_local": false,
     "solo_allowed": true
+  },
+  "devpost:31480": {
+    "title": "AI Agents for Founders Challenge — HETIC 2026",
+    "url": "https://ai-agents-founders-hetic-26.devpost.com/",
+    "score": 75,
+    "source": "Devpost",
+    "last_notified": "2026-11-04T08:23:14.464442+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
   }
 }

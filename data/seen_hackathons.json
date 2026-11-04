@@ -2545,5 +2545,32 @@
     "last_notified": "2026-11-04T16:42:52.185585+00:00",
     "is_nagpur_local": false,
     "solo_allowed": true
+  },
+  "unstop:1795047": {
+    "title": "Db2Hack 2026 | Build AI Applications on IBM Db2 ",
+    "url": "https://unstop.com/hackathons/db2hack-2026-build-ai-applications-on-ibm-db2-gl-bajaj-group-of-institutions-mathura-uttar-pradesh-1795047",
+    "score": 75,
+    "source": "Unstop",
+    "last_notified": "2026-11-04T22:18:33.529231+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:1794890": {
+    "title": "13th Protocol: An AI Hackathon 2026",
+    "url": "https://unstop.com/hackathons/13th-protocol-an-ai-hackathon-2026-voyager-coding-club-1794890",
+    "score": 40,
+    "source": "Unstop",
+    "last_notified": "2026-11-04T22:18:33.529231+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": false
+  },
+  "unstop:1786652": {
+    "title": "VYTRON'26",
+    "url": "https://unstop.com/hackathons/vytron26-droidecks-1786652",
+    "score": 40,
+    "source": "Unstop",
+    "last_notified": "2026-11-04T22:18:33.529231+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": false
   }
 }

@@ -33,7 +33,7 @@
     "is_nagpur_local": true,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-03T21:23:22.891853+00:00"
+    "discovered_at": "2026-11-04T01:46:43.883186+00:00"
   },
   {
     "id": "college:mindsparkorg",
@@ -69,7 +69,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": true,
     "is_active": true,
-    "discovered_at": "2026-11-03T21:23:22.816029+00:00"
+    "discovered_at": "2026-11-04T01:46:43.729859+00:00"
   },
   {
     "id": "unstop:1792835",
@@ -103,7 +103,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-03T21:23:12.366292+00:00"
+    "discovered_at": "2026-11-04T01:46:32.887560+00:00"
   },
   {
     "id": "unstop:1791467",
@@ -143,7 +143,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-03T21:23:12.364280+00:00"
+    "discovered_at": "2026-11-04T01:46:32.885336+00:00"
   },
   {
     "id": "unstop:1793112",
@@ -183,7 +183,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-03T21:23:12.363912+00:00"
+    "discovered_at": "2026-11-04T01:46:32.884939+00:00"
   },
   {
     "id": "unstop:1785416",
@@ -223,7 +223,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-03T21:23:17.211661+00:00"
+    "discovered_at": "2026-11-04T01:46:38.227387+00:00"
   },
   {
     "id": "unstop:1791573",
@@ -263,7 +263,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-03T21:23:12.363965+00:00"
+    "discovered_at": "2026-11-04T01:46:32.884996+00:00"
   },
   {
     "id": "unstop:1792269",
@@ -303,7 +303,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-03T21:23:12.364217+00:00"
+    "discovered_at": "2026-11-04T01:46:32.885273+00:00"
   },
   {
     "id": "unstop:1779479",
@@ -341,7 +341,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-03T21:23:12.364119+00:00"
+    "discovered_at": "2026-11-04T01:46:32.885181+00:00"
   },
   {
     "id": "unstop:1782683",
@@ -375,7 +375,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-03T21:23:14.915386+00:00"
+    "discovered_at": "2026-11-04T01:46:35.307791+00:00"
   },
   {
     "id": "unstop:1790680",
@@ -412,7 +412,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-03T21:23:12.364401+00:00"
+    "discovered_at": "2026-11-04T01:46:32.885456+00:00"
   },
   {
     "id": "unstop:1791313",
@@ -450,7 +450,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-03T21:23:14.912919+00:00"
+    "discovered_at": "2026-11-04T01:46:35.305382+00:00"
   },
   {
     "id": "unstop:1792826",
@@ -484,7 +484,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-03T21:23:12.365916+00:00"
+    "discovered_at": "2026-11-04T01:46:32.887130+00:00"
   },
   {
     "id": "devpost:30740",
@@ -520,7 +520,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-03T21:23:20.316054+00:00"
+    "discovered_at": "2026-11-04T01:46:40.955140+00:00"
   },
   {
     "id": "devpost:30764",
@@ -556,14 +556,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-03T21:23:20.316089+00:00"
+    "discovered_at": "2026-11-04T01:46:40.955178+00:00"
   },
   {
     "id": "devpost:31580",
     "source": "Devpost",
     "title": "Ostad Presents YUNet AIgnite Buildathon 2026",
     "url": "https://yunet-aignite26.devpost.com/",
-    "description": "Devpost hackathon. 2 days left",
+    "description": "Devpost hackathon. 1 day left",
     "organizer": "Youth Upskill Network - YUNet",
     "venue": "Online",
     "mode": "Online",
@@ -592,7 +592,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-03T21:23:20.316095+00:00"
+    "discovered_at": "2026-11-04T01:46:40.955186+00:00"
   },
   {
     "id": "devpost:31060",
@@ -628,14 +628,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-03T21:23:20.402587+00:00"
+    "discovered_at": "2026-11-04T01:46:41.085451+00:00"
   },
   {
     "id": "devpost:31815",
     "source": "Devpost",
     "title": "Neural Storm",
     "url": "https://neuralstorm.devpost.com/",
-    "description": "Devpost hackathon. about 18 hours left",
+    "description": "Devpost hackathon. about 13 hours left",
     "organizer": "JNTUH",
     "venue": "Online",
     "mode": "Online",
@@ -663,7 +663,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-03T21:23:20.402580+00:00"
+    "discovered_at": "2026-11-04T01:46:41.085436+00:00"
   },
   {
     "id": "devpost:31489",
@@ -699,7 +699,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-03T21:23:20.402525+00:00"
+    "discovered_at": "2026-11-04T01:46:41.085388+00:00"
   },
   {
     "id": "devpost:31642",
@@ -735,7 +735,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-03T21:23:20.316077+00:00"
+    "discovered_at": "2026-11-04T01:46:40.955159+00:00"
   },
   {
     "id": "devpost:31083",
@@ -771,7 +771,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-03T21:23:19.975347+00:00"
+    "discovered_at": "2026-11-04T01:46:40.827989+00:00"
   },
   {
     "id": "hackerearth:mks-inc-hackathon",
@@ -807,7 +807,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-03T21:23:21.167845+00:00"
+    "discovered_at": "2026-11-04T01:46:41.968880+00:00"
   },
   {
     "id": "hackerearth:ibm-z-day",
@@ -843,7 +843,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-03T21:23:21.167819+00:00"
+    "discovered_at": "2026-11-04T01:46:41.968855+00:00"
   },
   {
     "id": "devpost:31302",
@@ -879,7 +879,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-03T21:23:19.975279+00:00"
+    "discovered_at": "2026-11-04T01:46:40.827915+00:00"
   },
   {
     "id": "devpost:31659",
@@ -915,7 +915,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-03T21:23:19.975341+00:00"
+    "discovered_at": "2026-11-04T01:46:40.827982+00:00"
   },
   {
     "id": "devpost:31666",
@@ -951,7 +951,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-03T21:23:20.402592+00:00"
+    "discovered_at": "2026-11-04T01:46:41.085457+00:00"
   },
   {
     "id": "devpost:31664",
@@ -987,7 +987,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-03T21:23:20.402569+00:00"
+    "discovered_at": "2026-11-04T01:46:41.085429+00:00"
   },
   {
     "id": "devpost:31789",
@@ -1023,7 +1023,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-03T21:23:20.316105+00:00"
+    "discovered_at": "2026-11-04T01:46:40.955202+00:00"
   },
   {
     "id": "devpost:31796",
@@ -1059,7 +1059,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-03T21:23:20.316115+00:00"
+    "discovered_at": "2026-11-04T01:46:40.955218+00:00"
   },
   {
     "id": "devpost:30789",
@@ -1095,7 +1095,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-03T21:23:19.975359+00:00"
+    "discovered_at": "2026-11-04T01:46:40.828003+00:00"
   },
   {
     "id": "devpost:31552",
@@ -1131,7 +1131,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-03T21:23:19.975334+00:00"
+    "discovered_at": "2026-11-04T01:46:40.827975+00:00"
   },
   {
     "id": "devpost:31572",
@@ -1167,7 +1167,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-03T21:23:19.975328+00:00"
+    "discovered_at": "2026-11-04T01:46:40.827968+00:00"
   },
   {
     "id": "devpost:31907",
@@ -1203,7 +1203,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-03T21:23:20.402548+00:00"
+    "discovered_at": "2026-11-04T01:46:41.085406+00:00"
   },
   {
     "id": "devpost:31667",
@@ -1239,7 +1239,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-03T21:23:19.975309+00:00"
+    "discovered_at": "2026-11-04T01:46:40.827945+00:00"
   },
   {
     "id": "devpost:31187",
@@ -1275,7 +1275,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-03T21:23:20.402556+00:00"
+    "discovered_at": "2026-11-04T01:46:41.085414+00:00"
   },
   {
     "id": "devpost:31024",
@@ -1311,7 +1311,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-03T21:23:19.975320+00:00"
+    "discovered_at": "2026-11-04T01:46:40.827959+00:00"
   },
   {
     "id": "unstop:1785430",
@@ -1351,7 +1351,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": true,
     "is_active": true,
-    "discovered_at": "2026-11-03T21:23:17.211444+00:00"
+    "discovered_at": "2026-11-04T01:46:38.227152+00:00"
   },
   {
     "id": "unstop:1781454",
@@ -1390,7 +1390,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-03T21:23:12.363636+00:00"
+    "discovered_at": "2026-11-04T01:46:32.884636+00:00"
   },
   {
     "id": "unstop:1793341",
@@ -1429,7 +1429,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-03T21:23:12.363824+00:00"
+    "discovered_at": "2026-11-04T01:46:32.884841+00:00"
   },
   {
     "id": "unstop:1783260",
@@ -1466,7 +1466,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-03T21:23:14.915445+00:00"
+    "discovered_at": "2026-11-04T01:46:35.307849+00:00"
   },
   {
     "id": "unstop:1793392",
@@ -1499,7 +1499,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-03T21:23:12.365959+00:00"
+    "discovered_at": "2026-11-04T01:46:32.887185+00:00"
   },
   {
     "id": "devpost:31108",
@@ -1534,7 +1534,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-03T21:23:20.316110+00:00"
+    "discovered_at": "2026-11-04T01:46:40.955209+00:00"
   },
   {
     "id": "devpost:30500",
@@ -1569,7 +1569,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-03T21:23:19.975353+00:00"
+    "discovered_at": "2026-11-04T01:46:40.827996+00:00"
   },
   {
     "id": "devpost:31627",
@@ -1604,7 +1604,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-03T21:23:20.316084+00:00"
+    "discovered_at": "2026-11-04T01:46:40.955170+00:00"
   },
   {
     "id": "devpost:31619",
@@ -1639,7 +1639,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-03T21:23:20.402562+00:00"
+    "discovered_at": "2026-11-04T01:46:41.085421+00:00"
   },
   {
     "id": "devpost:31773",
@@ -1673,7 +1673,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-03T21:23:20.316100+00:00"
+    "discovered_at": "2026-11-04T01:46:40.955194+00:00"
   },
   {
     "id": "devpost:31795",
@@ -1708,7 +1708,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-03T21:23:20.402575+00:00"
+    "discovered_at": "2026-11-04T01:46:41.085443+00:00"
   },
   {
     "id": "unstop:1786997",
@@ -1747,6 +1747,6 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-03T21:23:12.364580+00:00"
+    "discovered_at": "2026-11-04T01:46:32.885644+00:00"
   }
 ]

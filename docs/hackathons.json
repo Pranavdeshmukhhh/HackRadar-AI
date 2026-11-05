@@ -33,7 +33,46 @@
     "is_nagpur_local": true,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-05T10:29:40.435219+00:00"
+    "discovered_at": "2026-11-05T18:25:34.037978+00:00"
+  },
+  {
+    "id": "unstop:1788753",
+    "source": "Unstop",
+    "title": "Central India Hackathon 4.0",
+    "url": "https://unstop.com/hackathons/central-india-hackathon-40-suryodaya-college-of-engineering-technology-nagpur-1788753",
+    "description": "Overview National-Level Deep-Tech Innovation Hackathon Central India Hackathon 4.0 (CIH 4.0) is a national-level Deep-Tech Innovation Hackathon organized by Suryodaya College of Engineering &amp; Technology (SCET), Nagpur, and Suryodaya Technology Business Incubation Foundation (STBIF) , bringing together innovators, developers, engineers and researchers from across India to develop solutions for real-world challenges. Building on the success of CIH 1.0, CIH 2.0 and CIH 3.0 , this edition focuses on advanced technologies, next-generation engineering and Deep-Tech innovation. CIH 3.0 achieved a remarkable milestone with maximum participation in an offline, SDG-focused hackathon , bringing together innovators to address challenges aligned with the United Nations Sustainable Development Goals. Be Part of History! CIH 4.0 aims to make history! This edition aspires to establish a record for the Largest Deep-Tech Innovation Hackathon , seeking recognition from the International Book of Records . This is your opportunity to be counted, be recognized and be part of something bigger! Event Highlights Event: Central India Hackathon 4.0 (CIH 4.0) Category: National-Level Deep-Tech Innovation Hackathon Domain: Advanced Technology &amp; Deep-Tech Development Mode: Hybrid (Virtual Rounds + Offline Grand Finale) Grand Finale Venue: Suryodaya College of Engineering &amp; Technology, Nagpur, Maharashtra Grand Finale Duration: 24 Hours Team Size: Strictly 4 Members Total Prize Pool: ₹1,00,000+ Special Initiative: Attempting to establish a record for the Largest Deep-Tech Innovation Hackathon with recognition sought from the International Book of Records. CIH 4.0 focuses on five major technology domains: Advanced AI, Agentic Intelligence &amp; Cognitive Systems Advanced Robotics, Autonomous Systems &amp; Intelligent Automation Semiconductors, Embedded Intelligence, Edge Computing &amp; Cyber-Physical Systems SpaceTech, Aerospace, Defence &amp; Strategic Technologies Advanced Biotechnology, Biomedical Engineering &amp; Life Sciences Participants are encouraged to develop innovative, scalable and impactful solutions using emerging technologies across these domains. Eligibility Criteria Open to students from AICTE-approved and other recognized/approved colleges and universities across India . Strictly 4 members per team. Interdisciplinary and cross-college teams are encouraged, subject to registration guidelines. Students from relevant technical and non-technical backgrounds are welcome. All team members must be registered as part of the same team. Why Participate in CIH 4.0? Become part of an ambitious International Book of Records attempt. Contribute to a record-breaking Deep-Tech innovation initiative. Explore five advanced technology domains. Work on real-world challenges using emerging technologies. Receive mentorship from industry experts and domain specialists. Develop functional prototypes during a 24-hour hackathon. Win prizes worth ₹1,00,000+ Network with innovators, entrepreneurs and technology enthusiasts. Gain national-level recognition and strengthen your technical portfolio. Hackathon Format &amp; Timeline The hackathon will be conducted in three phases. Phase 1: Registration &amp; PPT Submission Registration Period: 1 November - 30 November 2026 Register your team through Unstop. Choose your own Deep-Tech Problem Statement (PS). Identify a real-world problem aligned with any of the five hackathon domains. Develop an innovative solution approach. Prepare and submit a PowerPoint presentation (PPT) explaining your proposed solution. Mandatory: All teams must use the official CIH 4.0 PPT Template , available in the \"Brief/Case\" or \"Download Attachments\" section on Unstop. Teams must strictly follow the provided template without modifying its structure, design or prescribed format. IMPORTANT: MANDATORY PPT TEMPLATE Submission using any other PPT template or making unauthorized changes to the official CIH 4.0 template will lead to disqualification of the team . Teams are advised to download the official template and carefully follow all instructions before preparing their submissions. PPT Submission Deadline: 30 November 2026 Phase 2: Virtual Round (Idea Presentation) Dates: 15 December - 25 December 2026 Registered teams will present their proposed solutions virtually. Teams must explain their selected problem statement, innovation and technical approach. Presentations will be evaluated by experienced mentors and judges. Evaluation will focus on innovation, technical feasibility, scalability and potential real-world impact. Selected teams will advance to the Offline Grand Finale. Grand Finale Registration Fee: ₹1,500 per shortlisted team , payable only after selection to confirm participation in the Grand Finale. Phase 3: Grand Finale (24-Hour Offline Hackathon) Dates: 22 - 23 January 2027 Venue: Suryodaya College of Engineering &amp; Technology, Nagpur, Maharashtra. Shortlisted teams will participate in an intensive 24-hour Deep-Tech Innovation Hackathon. Activities: On-campus reporting and team verification. Official inauguration and hackathon briefing. On-the-spot Deep-Tech Problem Statements. 24-hour intensive development challenge. Prototype development and implementation. Technical mentorship and expert guidance. Final project presentation and live demonstration. Jury evaluation and winner announcement. Prize Pool Details Total Prize Pool: ₹1,00,000 + Goodies Outstanding teams will be rewarded for their innovation, technical excellence and real-world impact. Detailed prize distribution and category-wise rewards will be announced through official event platforms. Aiming for the International Book of Records! CIH 4.0 is setting its sights on the International Book of Records , with an ambitious attempt to establish the record for the Largest Deep-Tech Innovation Hackathon . Join CIH 4.0, register your team and become one of the participants contributing to this record-breaking attempt. Important Updates &amp; Announcements All official updates, instructions, schedules, shortlisting results and announcements related to CIH 4.0 will be shared through our official platforms. Be a Part of History. Be a Part of CIH 4.0!",
+    "organizer": "Suryodaya College of Engineering & Technology, Nagpur",
+    "venue": "offline",
+    "mode": "In-Person",
+    "city": null,
+    "state": "offline",
+    "country": null,
+    "start_date": "2026-11-01T00:00:00+05:30",
+    "end_date": "2027-01-23T17:00:00+05:30",
+    "registration_deadline": "2026-11-30T23:59:00+05:30",
+    "min_team_size": 4,
+    "max_team_size": 4,
+    "solo_allowed": false,
+    "eligibility": "Undergraduate / Postgraduate & Engineering students",
+    "prize_pool": "Prizes & Certificates",
+    "tracks": [
+      "Engineering Students",
+      "Postgraduate",
+      "Undergraduate",
+      "Management",
+      "Medical",
+      "Law",
+      "Arts, Commerce, Sciences & Others"
+    ],
+    "score": 70,
+    "matched_reasons": [
+      "📍 **Nagpur / Vidarbha Local Match** (+45 pts) [Nagpur]",
+      "🤖 **AI & Software Tracks** (+25 pts) [AI]"
+    ],
+    "is_nagpur_local": true,
+    "is_maharashtra": false,
+    "is_active": true,
+    "discovered_at": "2026-11-05T18:25:24.351959+00:00"
   },
   {
     "id": "unstop:1794522",
@@ -68,7 +107,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": true,
     "is_active": true,
-    "discovered_at": "2026-11-05T10:29:31.787319+00:00"
+    "discovered_at": "2026-11-05T18:25:24.353595+00:00"
   },
   {
     "id": "college:mindsparkorg",
@@ -104,14 +143,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": true,
     "is_active": true,
-    "discovered_at": "2026-11-05T10:29:40.433500+00:00"
+    "discovered_at": "2026-11-05T18:25:33.946768+00:00"
   },
   {
     "id": "unstop:1795047",
     "source": "Unstop",
-    "title": "Db2Hack 2026 | Build AI Applications on IBM Db2 ",
+    "title": "IBM Db2Hack 2026 | Build AI Applications on IBM Db2 ",
     "url": "https://unstop.com/hackathons/db2hack-2026-build-ai-applications-on-ibm-db2-gl-bajaj-group-of-institutions-mathura-uttar-pradesh-1795047",
-    "description": "Organised by: IBM Db2 TechX In Association With: IBM, Institution's Innovation Council (IIC), GL Bajaj Group of Institutions, Mathura, and NexaSphere Opportunity Mode: Online Participation: Individual (Solo Only) Registration: Free Submission Deadline: 10 November 2026, 5:00 PM IST Results Announcement: 11 November 2026 About Db2Hack: Ready to build something meaningful with AI and enterprise databases? Db2Hack 2026 is an online hackathon that challenges participants to develop AI-powered applications using IBM Db2. Build a practical AI use case by combining IBM Db2 with modern AI frameworks. Explore Retrieval-Augmented Generation (RAG), AI agents, vector search, document intelligence, and text-to-SQL applications. The hackathon is open to everyone. You do not need prior experience with IBM Db2 to participate. The goal is simple: learn, build, and demonstrate a working AI application on an enterprise database. Challenge Tracks and Technologies Participants must use at least ONE of the following supported frameworks: LangChain LlamaIndex Haystack CrewAI Langflow You can combine multiple frameworks if your project requires them. Suggested project directions: AI-powered RAG applications Intelligent AI agents Database-powered chatbots Semantic search and vector search Text-to-SQL applications Document intelligence systems AI-powered data analytics You are encouraged to develop an original and practical use case. Eligibility Criteria Open to students, developers, freshers, working professionals, and AI enthusiasts. Participants from any college, university, or organisation are welcome. Individual participation only. Team submissions are not permitted. Registration is free. Prior IBM Db2 experience is not mandatory. Participation Process Follow these four steps: Register on Unstop and complete your registration on Luma before 8 November 2026. Join the official WhatsApp community. Joining is mandatory for updates, the Google Form, and workshop announcements. Install the IBM Db2 Developer Extension for VS Code and set up your free Db2 Community Edition. Build your AI application using at least one supported framework. Submission Guidelines Participants must complete BOTH submission requirements: Create a Pull Request (PR) in the official GitHub submission repository. Submit the PR link through the official Google Form. Both submissions must be completed before 5:00 PM IST on 10 November 2026. Participants must also share their project use case on LinkedIn and tag the organising team. Incomplete submissions or submissions received after the deadline might not qualify for evaluation. Rewards and Recognition Top 3 Participants Trophy IBM Db2 Kit Certificate of Excellence Top 10 Participants IBM Db2 Goodies Certificate of Merit Projects with High Potential Opportunity to contribute your use case to the IBM Db2 GitHub Organisation. All participants get an opportunity to showcase their skills through a practical project built on an enterprise database. Workshops and Support The on-campus IBM Db2 TechX Summit and hands-on workshop at GL Bajaj, Mathura, took place on 30 October 2026. Additional online support includes: Live online technical workshop. Online doubt-solving session. Guidance on Db2 setup, AI frameworks, and project submissions. Dates for upcoming online sessions will be announced through the WhatsApp community. Important Dates Hackathon Started: 28 October 2026 Luma Registration Deadline: 8 November 2026 Final Submission Deadline: 10 November 2026, 5:00 PM IST Results Announcement: 11 November 2026 Important Instructions Individual participation only. No teams. Registration on Luma is free. Joining the official WhatsApp community is mandatory. Use at least one supported AI framework. Submit both your GitHub Pull Request and Google Form. Follow the official submission guidelines. All deadlines follow Indian Standard Time (IST). Official Resources Event Website: https://ibmdb2techxsummit.glbajajgroup.ac.in/ Registration: https://luma.com/68jmineh WhatsApp Community: https://chat.whatsapp.com/L5EwLpFMmqa179MsOgi9fu GitHub Submission Repository: https://github.com/KunalGolaIBM/IBM_Db2_TechX_Project_Submission Resources and Tutorials: Available on the official event website. Build. Innovate. Submit. Make your AI idea work with IBM Db2. See you at Db2Hack 2026!",
+    "description": "Db2Hack 2026 | Build AI Applications with IBM Db2 Organised by: IBM Db2 TechX In Association With: IBM, Institution's Innovation Council (IIC), GL Bajaj Group of Institutions, Mathura, and NexaSphere Opportunity Mode: Online Participation Mode: Individual (Solo Only) Registration Fee: Free Final Submission Deadline: 10 November 2026, 5:00 PM IST Results Announcement: 11 November 2026 About Db2Hack 2026 Ready to build something meaningful with AI and enterprise databases? Db2Hack 2026 is an online hackathon that challenges students, developers, and AI enthusiasts to build practical AI-powered applications using IBM Db2. Participants will explore how enterprise databases can power modern AI applications by combining IBM Db2 with frameworks such as LangChain, LlamaIndex, Haystack, CrewAI, and Langflow. You can build solutions involving Retrieval-Augmented Generation (RAG), intelligent AI agents, vector search, document intelligence, text-to-SQL, and AI-powered analytics. No prior IBM Db2 experience is required. Whether you are exploring AI for the first time or already building intelligent applications, this is an opportunity to learn, experiment, and demonstrate your skills through a working project. The goal is simple: Build. Innovate. Submit. Make your AI idea work with IBM Db2. Challenge Tracks and Technologies Participants must integrate IBM Db2 into their solution and use at least ONE of the following supported AI frameworks: LangChain LlamaIndex Haystack CrewAI Langflow You may combine multiple frameworks when required by your project architecture. Suggested Project Directions AI-powered RAG applications Intelligent AI agents and agentic workflows Database-powered conversational applications Semantic search and vector search Natural Language to SQL (Text-to-SQL) Document intelligence and information extraction AI-powered data analytics These are suggested directions, not restrictions. Participants are encouraged to identify real-world problems and develop original, practical solutions. Eligibility Criteria Db2Hack 2026 is open to: Students from any college or university. Software developers and fresh graduates. Working professionals. AI, machine learning, and technology enthusiasts. Participation is strictly individual. Each participant must register and submit their own project. Team submissions are not permitted. Registration is free, and prior experience with IBM Db2 is not mandatory. Participation Process Follow these steps to participate: Register: Complete your registration on Unstop and register through the official Luma event page by 8 November 2026. Join the Community: Join the official WhatsApp community. This is mandatory for receiving announcements, workshop updates, technical resources, and submission instructions. Set Up Your Environment: Install the IBM Db2 Developer Extension for VS Code and set up IBM Db2 Community Edition. Build Your Project: Develop an AI-powered application using IBM Db2 and at least one supported AI framework. Submit Your Work: Complete both the GitHub Pull Request and Google Form submission before the final deadline. Hackathon Rounds Round 1: Ideation &amp; Architecture Participants propose an innovative project using IBM Db2 and Agentic AI. The proposal should identify a real-world problem, explain the proposed solution, and describe the intended technical approach. Proposal submission should include: Project title and problem statement. Proposed solution and key features. Selected Agentic AI framework. IBM Db2 connector and intended integration. Proposed system architecture and workflow. Expected impact and use case. Participants must upload their proposal as a PDF or PPT through the designated submission field. Round 2: Build &amp; Final Submission Participants develop a functional implementation of their proposed solution, demonstrating meaningful IBM Db2 integration with their selected AI framework. Final submission must include: Working project and complete source code. Project documentation, including setup and execution instructions. System architecture and implementation details. Screenshots demonstrating the application. A demo video showcasing the working solution. GitHub Submission: Participants must fork the official repository, follow its submission template, add their project, and raise a Pull Request (PR) against the original repository. Google Form: Participants must submit their GitHub PR link through the official Google Form. Both the GitHub PR and Google Form submission are mandatory. Submission Guidelines All participants must complete the following requirements: Submit the project through a Pull Request to the official GitHub repository. Follow the repository's submission template and documentation guidelines. Include working source code, setup instructions, and project documentation. Submit the GitHub PR URL through the official Google Form. Share the project use case on LinkedIn and tag the organising team. Final Submission Deadline: 10 November 2026, 5:00 PM IST. Incomplete submissions or submissions received after the deadline may not qualify for evaluation. Evaluation Criteria Projects will be evaluated based on the following criteria: IBM Db2 Integration &amp; Depth (30%): Meaningful use of IBM Db2, including database connectivity, data operations, and relevant capabilities. Innovation &amp; Impact (25%): Originality, problem relevance, practical usefulness, and potential impact. Technical Architecture &amp; AI Integration (20%): Quality of system architecture and effective use of the selected AI framework. Reproducibility &amp; Code Quality (15%): Code organisation, implementation quality, and ease of setup and execution. Documentation &amp; Presentation (10%): Clarity of project documentation and demonstration. Rewards and Recognition Top 3 Participants Trophy IBM Db2 Kit Certificate of Excellence Top 10 Participants IBM Db2 Goodies Certificate of Merit Projects with High Potential Selected projects with strong potential may receive an opportunity to contribute their use cases to the IBM Db2 GitHub Organisation. All participants get an opportunity to showcase their technical skills through a practical project built on an enterprise database. Workshops and Technical Support The on-campus IBM Db2 TechX Summit and hands-on workshop at GL Bajaj, Mathura, took place on 30 October 2026. Additional online support will include: Live online technical workshop. Online doubt-solving session. Guidance on IBM Db2 setup and configuration. Assistance with AI frameworks and project integration. Guidance on GitHub submissions and documentation. Dates and joining details for upcoming online sessions will be announced through the official WhatsApp community. Important Dates Event Date Hackathon Begins 28 October 2026 On-campus Db2 TechX Summit 30 October 2026 Luma Registration Deadline 8 November 2026 Final Project Submission 10 November 2026, 5:00 PM IST Results Announcement 11 November 2026 All deadlines follow Indian Standard Time (IST). Important Instructions Participation is strictly individual. Team submissions are not allowed. Registration is free. Unstop and Luma registration must be completed. Joining the official WhatsApp community is mandatory. Every project must use IBM Db2 and at least one supported AI framework. Both GitHub PR and Google Form submissions are compulsory. Follow the official GitHub repository template and submission guidelines. Do not include passwords, API keys, or other sensitive credentials in your public repository. Late or incomplete submissions may be disqualified. Official Resources Event Website: https://ibmdb2techxsummit.glbajajgroup.ac.in/ Unstop Registration: Available through the official event listing. Luma Registration: https://luma.com/68jmineh WhatsApp Community: https://chat.whatsapp.com/L5EwLpFMmqa179MsOgi9fu GitHub Submission Repository: https://github.com/KunalGolaIBM/IBM_Db2_TechX_Project_Submission Final Submission Google Form: https://forms.gle/n8GQL4tg7Yzftwu39 Learning Resources and Tutorials: Available on the official event website. Ready to Build? Turn your ideas into working AI applications. Explore enterprise database capabilities, experiment with modern AI frameworks, and build something that solves a real-world problem. Build. Innovate. Submit. See you at Db2Hack 2026!",
     "organizer": "GL Bajaj Group of Institutions, Mathura, Uttar Pradesh",
     "venue": "Online",
     "mode": "Online",
@@ -119,7 +158,7 @@
     "state": "online",
     "country": null,
     "start_date": "2026-10-28T00:00:00+05:30",
-    "end_date": "2026-11-10T17:00:00+05:30",
+    "end_date": "2026-11-10T19:00:00+05:30",
     "registration_deadline": "2026-11-08T16:00:00+05:30",
     "min_team_size": 1,
     "max_team_size": 1,
@@ -133,12 +172,12 @@
     "matched_reasons": [
       "🌐 **Accessible Online Mode** (+15 pts)",
       "👤 **Solo Eligible (1 Member)** (+35 pts)",
-      "🤖 **AI & Software Tracks** (+25 pts) [AI, Ai Agents]"
+      "🤖 **AI & Software Tracks** (+25 pts) [AI, Machine Learning, Agentic Ai]"
     ],
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-05T10:29:31.787234+00:00"
+    "discovered_at": "2026-11-05T18:25:24.353500+00:00"
   },
   {
     "id": "unstop:1791467",
@@ -178,7 +217,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-05T10:29:31.787666+00:00"
+    "discovered_at": "2026-11-05T18:25:24.352981+00:00"
   },
   {
     "id": "unstop:1783838",
@@ -212,7 +251,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-05T10:29:33.256439+00:00"
+    "discovered_at": "2026-11-05T18:25:26.254479+00:00"
   },
   {
     "id": "unstop:1793112",
@@ -252,7 +291,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-05T10:29:31.788240+00:00"
+    "discovered_at": "2026-11-05T18:25:24.353814+00:00"
   },
   {
     "id": "unstop:1785416",
@@ -292,7 +331,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-05T10:29:31.789383+00:00"
+    "discovered_at": "2026-11-05T18:25:26.253131+00:00"
   },
   {
     "id": "unstop:1791573",
@@ -332,7 +371,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-05T10:29:31.787605+00:00"
+    "discovered_at": "2026-11-05T18:25:24.353870+00:00"
   },
   {
     "id": "unstop:1792269",
@@ -372,45 +411,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-05T10:29:31.788481+00:00"
-  },
-  {
-    "id": "unstop:1784554",
-    "source": "Unstop",
-    "title": "One Who Codes 2026 - A Portfolio Challenge",
-    "url": "https://unstop.com/hackathons/one-who-codes-2026-a-portfolio-challenge-acadable-1784554",
-    "description": "One Who Codes 2026 &mdash; Online Portfolio Challenge You already built it. Now show the internet you're one who codes. One Who Codes 2026 is an online portfolio challenge for developers who bring their personality, creativity, and craftsmanship to the web. Put your best portfolio on a free ONEWHO address, submit your application link through Unstop, and compete for a total prize pool of ₹30,000. ONEWHO connects a memorable address, such as yourname.isonewho.codes, to the portfolio you have already deployed. Your website stays on its existing hosting platform. Prizes First Place: ₹15,000 Second Place: ₹10,000 Third Place: ₹5,000 Every participant with a valid entry receives a certificate of participation. Eligibility and Format Open to participants from anywhere in the world, including students and working professionals. Individual participation only. Teams are not permitted. One entry per person. Participation and claiming a ONEWHO name are free. The challenge is conducted entirely online. Submit a personal portfolio website that represents your own work. How to Participate 1. Deploy Your Portfolio Build your portfolio using your preferred technologies and deploy it on a supported platform: Vercel, Netlify, GitHub Pages, Cloudflare Pages, Railway, Render, or Fly. 2. Claim Your ONEWHO Name Visit https://isonewho.codes/ , sign in with GitHub, choose your name, and connect your deployed portfolio URL. Your portfolio will be accessible through an address such as: yourname.isonewho.codes 3. Create Your Competition Entry Link Open the Applications section in your ONEWHO dashboard and add an application with the company name &ldquo;Unstop.&rdquo; This creates your submission link: https://yourname.isonewho.codes/a/unstop The application link lets you view recorded judging visits and tracked page activity in your ONEWHO dashboard. 4. Submit Through Unstop Complete your registration and submit both of the following before the deadline: Your ONEWHO application link ending in /a/unstop . The public GitHub source repository for your portfolio. Creating a ONEWHO name alone does not complete your competition entry. Your submission must also be completed on Unstop. Judging Criteria Creativity &mdash; 30%: Original ideas, personal identity, and thoughtful customization. Craft &mdash; 30%: Layout, typography, motion, visual consistency, and attention to detail. Content &mdash; 20%: How clearly your portfolio communicates who you are, what you build, and the work you have done. Performance and Accessibility &mdash; 20%: Loading experience, mobile usability, and accessibility. Rules and Guidelines Each participant may submit only one entry. ONEWHO permits one name per GitHub account. The portfolio must represent your own work. Include its public source repository, with development history associated with your GitHub account. Templates and AI tools are permitted. Judging rewards your original contribution; changing only the name on a template will not score well on creativity. You must deploy the portfolio yourself on a supported hosting platform. Portfolios automatically generated by ONEWHO from a GitHub profile are not eligible. Submit the required ONEWHO application link and public source repository through Unstop before the deadline. You may improve your portfolio until submissions close. After the deadline, leave the submitted website unchanged until results are announced. Keep your ONEWHO address connected to your portfolio and publicly accessible throughout judging and until results are announced. All entries must comply with ONEWHO&rsquo;s acceptable use policy: https://isonewho.codes/acceptable-use . Entries that violate the rules or acceptable use policy may be disqualified. The judges&rsquo; decisions are final. Important Dates Registration Opens: 1 November 2026 Registration and Submission Deadline: 15 November 2026, 11:59 PM IST Judging: 16&ndash;17 November 2026 Results Announced: 18 November 2026 All dates and times follow India Standard Time (IST).",
-    "organizer": "Acadable",
-    "venue": "Online",
-    "mode": "Online",
-    "city": null,
-    "state": "online",
-    "country": null,
-    "start_date": "2026-10-29T00:00:00+05:30",
-    "end_date": "2026-11-15T23:59:00+05:30",
-    "registration_deadline": "2026-11-15T23:59:00+05:30",
-    "min_team_size": 1,
-    "max_team_size": 1,
-    "solo_allowed": true,
-    "eligibility": "Undergraduate / Postgraduate & Engineering students",
-    "prize_pool": "Prizes & Certificates",
-    "tracks": [
-      "Engineering Students",
-      "Postgraduate",
-      "Undergraduate",
-      "Management",
-      "Arts, Commerce, Sciences & Others"
-    ],
-    "score": 75,
-    "matched_reasons": [
-      "🌐 **Accessible Online Mode** (+15 pts)",
-      "👤 **Solo Eligible (1 Member)** (+35 pts)",
-      "🤖 **AI & Software Tracks** (+25 pts) [AI]"
-    ],
-    "is_nagpur_local": false,
-    "is_maharashtra": false,
-    "is_active": true,
-    "discovered_at": "2026-11-05T10:29:33.256847+00:00"
+    "discovered_at": "2026-11-05T18:25:24.354124+00:00"
   },
   {
     "id": "unstop:1792758",
@@ -445,7 +446,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-05T10:29:31.788028+00:00"
+    "discovered_at": "2026-11-05T18:25:24.352074+00:00"
   },
   {
     "id": "unstop:1779479",
@@ -483,7 +484,47 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-05T10:29:31.788396+00:00"
+    "discovered_at": "2026-11-05T18:25:24.354041+00:00"
+  },
+  {
+    "id": "unstop:1795775",
+    "source": "Unstop",
+    "title": "Nexathon ",
+    "url": "https://unstop.com/hackathons/nexathon-school-of-computers-ips-academy-indore-1795775",
+    "description": "NEXATHON brings teams together for an online hackathon experience. About the Opportunity: NEXATHON is an online hackathon organized by the School of Computers, IPS Academy, Indore. It gives teams the opportunity to participate in an online coding challenge. Take on the challenge collaboratively and put your team&rsquo;s coding skills into action. Join NEXATHON to experience a hackathon in an online format. Bring your team to NEXATHON and take part in the online coding challenge. Domains: Disaster Managment Agriculture Land Management Health Care Smart Cities and Urban Resilience Cyber Security and Blockchain Government Tech Ideas Energy Conservation&nbsp; Student Innvoation Template Format Problem Identification Proposed Solution&nbsp; Innovation and Uniqueness Feasibility , Viability and Scalability Protoype (optional) , Estimated Cost&nbsp; Research and Refrences&nbsp;",
+    "organizer": "SCHOOL OF COMPUTERS , IPS ACADEMY , INDORE",
+    "venue": "Online",
+    "mode": "Online",
+    "city": null,
+    "state": "online",
+    "country": null,
+    "start_date": "2026-11-06T00:00:00+05:30",
+    "end_date": "2026-11-26T00:00:00+05:30",
+    "registration_deadline": "2026-11-26T00:00:00+05:30",
+    "min_team_size": 1,
+    "max_team_size": 4,
+    "solo_allowed": true,
+    "eligibility": "Undergraduate / Postgraduate & Engineering students",
+    "prize_pool": "Prizes & Certificates",
+    "tracks": [
+      "Engineering Students",
+      "Postgraduate",
+      "Undergraduate",
+      "Management",
+      "Medical",
+      "Law",
+      "Arts, Commerce, Sciences & Others"
+    ],
+    "score": 75,
+    "matched_reasons": [
+      "🌐 **Accessible Online Mode** (+15 pts)",
+      "👤 **Solo Eligible (1 Member)** (+35 pts)",
+      "🤖 **AI & Software Tracks** (+25 pts) [Blockchain]"
+    ],
+    "is_nagpur_local": false,
+    "is_maharashtra": false,
+    "is_active": true,
+    "discovered_at": "2026-11-05T18:25:24.351640+00:00"
   },
   {
     "id": "unstop:1782683",
@@ -517,7 +558,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-05T10:29:33.255498+00:00"
+    "discovered_at": "2026-11-05T18:25:26.253588+00:00"
   },
   {
     "id": "unstop:1790680",
@@ -554,7 +595,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-05T10:29:31.787797+00:00"
+    "discovered_at": "2026-11-05T18:25:24.353096+00:00"
   },
   {
     "id": "unstop:1791313",
@@ -592,7 +633,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-05T10:29:31.789057+00:00"
+    "discovered_at": "2026-11-05T18:25:26.252868+00:00"
   },
   {
     "id": "unstop:1792826",
@@ -626,12 +667,12 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-05T10:29:31.788110+00:00"
+    "discovered_at": "2026-11-05T18:25:24.353672+00:00"
   },
   {
     "id": "unstop:1792025",
     "source": "Unstop",
-    "title": "INNOVATE - Hackathon 2026",
+    "title": "INNOVATE INDIA - Hackathon 2026",
     "url": "https://unstop.com/hackathons/innovate-hackathon-2026-devharbour-1792025",
     "description": "Innovate India &ndash; National Hackathon 2026 Innovate. Build. Inspire. Join now Official WhatsApp Community for important updates hackathon rounds, submission deadlines, shortlisting results, prizes, certificates, and announcements. Innovate India 2026 is a national-level online hackathon bringing together students, developers, and innovators to transform creative ideas into real-world solutions. Showcase your skills, build impactful projects, and compete for exciting prizes, AI credits, goodies, and certificates! Event Details Dates: 3 NOV&ndash; 6 DEC 2026 Mode: Online Team Size: 1 member Eligibility: Students and tech enthusiasts Registration: FREE Hackathon Rounds Round 1 &mdash; Idea Submission 3 &ndash;17 November 2026 Submit a 6&ndash;8-slide PPT/PDF explaining your project idea, problem statement, proposed solution, technology stack, and impact. No coding required! Round 2 &mdash; Project Development 18 &ndash; 28 November 2026 Shortlisted teams will build a working prototype of their proposed solution. Round 3 &mdash; Grand Finale 29 November 2026 Top teams will present their projects for final evaluation. Prizes &amp; Rewards 1st Place &mdash; Best Overall Project ₹10000 cash worth AI credits Winner Certificate Exclusive DevHarbour Goodies Feature Project On Official Web 2nd Place &mdash; First Runner-Up Runner-Up Certificate Feature project on official web Participation Certificate&nbsp; 3rd Place &mdash; Second Runner-Up Runner-Up Certificate Feature project on official web Participation Certificate&nbsp; Special Recognition Awards Best UI/UX Design Best AI Innovation Most Innovative Project Best Technical Implementation Best Real-World Impact Rising Innovator Award Certificates: Digital participation certificates for valid Round 1 submissions, finalist certificates, and special winner certificates. Innovation Tracks Participants can choose any of the following tracks based on their interests and project ideas: Artificial Intelligence &amp; Emerging Technologies &ndash; Generative AI, Machine Learning, AI Agents, Chatbots, Computer Vision, NLP, Predictive Analytics, Automation, and Intelligent Systems. Web &amp; Mobile Development &ndash; Full-Stack Applications, Mobile Apps, SaaS Platforms, E-Commerce, Developer Tools, Productivity Applications, and Cloud-Based Solutions. Cybersecurity &amp; Digital Safety &ndash; Threat Detection, Network Security, Ethical Hacking Tools, Fraud Detection, Data Privacy, Digital Identity, and Secure Authentication. Healthcare &amp; Medical Technology &ndash; Health Monitoring, Telemedicine, AI-Assisted Healthcare, Medical Data Analysis, Accessibility Tools, and Digital Health Solutions. Education &amp; Learning Technology &ndash; AI Tutors, Personalized Learning Platforms, Virtual Classrooms, Coding Platforms, Skill Development Tools, and Gamified Learning. FinTech &amp; Blockchain &ndash; Digital Payments, Financial Literacy, Fraud Prevention, Smart Contracts, Decentralized Applications, and Blockchain-Based Solutions. Sustainability &amp; Green Technology &ndash; Climate Tech, Waste Management, Smart Agriculture, Renewable Energy, Water Conservation, and Environmental Monitoring. Smart Cities &amp; IoT &ndash; Smart Infrastructure, Traffic Management, IoT Automation, Smart Homes, Public Safety, and Connected Devices. Social Impact &amp; Accessibility &ndash; Assistive Technologies, Women&rsquo;s Safety, Rural Development, Disaster Management, Community Solutions, and Inclusive Technology. Open Innovation &ndash; Any unique, creative, and technology-driven project that addresses a real-world problem beyond the listed categories. Note: Participants are free to use any programming language, framework, or technology stack. Projects will be evaluated based on innovation, technical feasibility, creativity, and real-world impact. Rules Individual and team participation allowed. Original ideas and projects only. Shortlisting is based on innovation, feasibility, and impact. Participants must submit before the deadlines. The judging panel's decisions will be final, subject to correction of scoring errors. Why Participate? Gain hands-on experience, build your portfolio, earn certificates, win rewards, and showcase your innovation to the DevHarbour community. Great ideas deserve to be built! Register for FREE and begin your innovation journey! Powered by DevHarbour &mdash; One Universe. Endless Possibilities.",
     "organizer": "DevHarbour",
@@ -646,16 +687,10 @@
     "min_team_size": 1,
     "max_team_size": 1,
     "solo_allowed": true,
-    "eligibility": "Undergraduate / Postgraduate & Engineering students",
+    "eligibility": "Open to college students & coders",
     "prize_pool": "Prizes & Certificates",
     "tracks": [
-      "Engineering Students",
-      "Postgraduate",
-      "Undergraduate",
-      "Management",
-      "Medical",
-      "Law",
-      "Arts, Commerce, Sciences & Others"
+      "All"
     ],
     "score": 75,
     "matched_reasons": [
@@ -666,14 +701,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-05T10:29:31.786262+00:00"
+    "discovered_at": "2026-11-05T18:25:24.352240+00:00"
   },
   {
     "id": "unstop:1794889",
     "source": "Unstop",
     "title": "The Code Vibes Hackathon 2.0",
     "url": "https://unstop.com/hackathons/the-code-vibes-hackathon-20-the-code-vibes-1794889",
-    "description": "&nbsp; JOIN THE WHATSAPP COMMUNITY FOR MORE UPDATES AND GROUP https://chat.whatsapp.com/Bui3UdzCF8A8tO0MPKMk1s?s=cl&amp;p=a&amp;iam=2 &nbsp; The Code Vibes OAFFICIALS Handles Whatsapp Community -: [ https://chat.whatsapp.com/Jp2xLed8Z7q5wpljKA2SKe ] Official LinkedIn: [https://www.linkedin.com/company/the-code-vibe/] Official Instagram: [https://www.instagram.com/thecodevibess?dlrf=MTR1Mjl4bGRsZjhqcQ==] Founder LinkedIn: https://www.linkedin.com/in/dhruv-sengar-887a1b378/ &nbsp; About the Hackathon The Code Vibes proudly presents THE CODE VIBES HACKATHON 1.0, an online national-level hackathon designed to bring together students, developers, innovators, and problem-solvers from across India. The hackathon provides a platform to transform creative ideas into innovative technology solutions that address real-world challenges. Participants will collaborate, develop prototypes, showcase their technical skills, and compete for exciting prizes and recognition. Hackathon Tracks Participants can build projects under the following domains: Artificial Intelligence &amp; Machine Learning Web Development App Development Cybersecurity Open Innovation Eligibility Criteria Open to students from colleges and universities across India. Developers, beginners, innovators, and technology enthusiasts are welcome. Participants can register individually or in teams. Team size: 1&ndash;4 members. Inter-college teams are allowed. Inter-specialization and interdisciplinary teams are allowed. Participants from different academic backgrounds can collaborate. No specific programming language or technology stack is mandatory. Hackathon Format The hackathon will be conducted online in the following stages: Round 1: Registration &amp; Idea Submission Participants must register and submit their project idea, problem statement, proposed solution, and technology stack. Round 2: Development &amp; Prototype Building Shortlisted or registered teams will work on developing their solutions and building a functional prototype. Round 3: Final Project Submission Teams must submit their project source code, GitHub repository, project presentation, and demo video. Round 4: Evaluation &amp; Results Projects will be evaluated by the judging panel based on innovation, technical implementation, impact, usability, and presentation. Problem Statements Participants may select a problem statement from the announced tracks or propose an original idea under Open Innovation. Suggested areas include: AI-powered student learning and productivity tools Smart campus and education solutions Cybersecurity awareness and threat detection Healthcare and social impact technology Sustainable development and smart agriculture Automation and intelligent web or mobile applications Rules &amp; Guidelines All projects must be original and developed by the participating team. Existing projects are allowed only if significant new features or improvements are added during the hackathon. Open-source libraries, frameworks, APIs, and AI tools are permitted. Plagiarism, copied submissions, and fraudulent information may result in disqualification. Each team must submit a working prototype or demonstrable solution. Teams must provide a project description, source code repository, presentation, and demo video. All team members must be listed during registration. A participant can be part of only one team. Teams must adhere to the submission deadline. The organizers reserve the right to disqualify teams violating the rules. Judges' decisions will be final. Participants must maintain professional and ethical conduct throughout the event. Submission Requirements Each team must submit: Project title and description Problem statement and proposed solution GitHub repository link Project presentation (PPT/PDF) Demo video or working prototype link Technology stack used Team member details Judging Criteria Innovation &amp; Creativity: 25% Technical Implement",
+    "description": "&nbsp; JOIN THE WHATSAPP COMMUNITY FOR MORE UPDATES AND GROUP https://chat.whatsapp.com/Bui3UdzCF8A8tO0MPKMk1s?s=cl&amp;p=a&amp;iam=2 &nbsp; The Code Vibes OAFFICIALS Handles Whatsapp Community -: [ https://chat.whatsapp.com/Jp2xLed8Z7q5wpljKA2SKe ] Official LinkedIn: [https://www.linkedin.com/company/the-code-vibe/] Official Instagram: [https://www.instagram.com/thecodevibess?dlrf=MTR1Mjl4bGRsZjhqcQ==] Founder LinkedIn: https://www.linkedin.com/in/dhruv-sengar-887a1b378/ &nbsp; About the Hackathon The Code Vibes proudly presents THE CODE VIBES HACKATHON 1.0, an online national-level hackathon designed to bring together students, developers, innovators, and problem-solvers from across India. The hackathon provides a platform to transform creative ideas into innovative technology solutions that address real-world challenges. Participants will collaborate, develop prototypes, showcase their technical skills, and compete for exciting prizes and recognition. Hackathon Tracks Participants can build projects under the following domains: Artificial Intelligence &amp; Machine Learning Web Development App Development Cybersecurity Open Innovation Eligibility Criteria Open to students from colleges and universities across India. Developers, beginners, innovators, and technology enthusiasts are welcome. Participants can register individually or in teams. Team size: 1&ndash;3 members. Inter-college teams are allowed. Inter-specialization and interdisciplinary teams are allowed. Participants from different academic backgrounds can collaborate. No specific programming language or technology stack is mandatory. Hackathon Format The hackathon will be conducted online in the following stages: Round 1: Registration &amp; Idea Submission Participants must register and submit their project idea, problem statement, proposed solution, and technology stack. Round 2: Development &amp; Prototype Building Shortlisted or registered teams will work on developing their solutions and building a functional prototype. Round 3: Final Project Submission Teams must submit their project source code, GitHub repository, project presentation, and demo video. Round 4: Evaluation &amp; Results Projects will be evaluated by the judging panel based on innovation, technical implementation, impact, usability, and presentation. Problem Statements Participants may select a problem statement from the announced tracks or propose an original idea under Open Innovation. Suggested areas include: AI-powered student learning and productivity tools Smart campus and education solutions Cybersecurity awareness and threat detection Healthcare and social impact technology Sustainable development and smart agriculture Automation and intelligent web or mobile applications Rules &amp; Guidelines All projects must be original and developed by the participating team. Existing projects are allowed only if significant new features or improvements are added during the hackathon. Open-source libraries, frameworks, APIs, and AI tools are permitted. Plagiarism, copied submissions, and fraudulent information may result in disqualification. Each team must submit a working prototype or demonstrable solution. Teams must provide a project description, source code repository, presentation, and demo video. All team members must be listed during registration. A participant can be part of only one team. Teams must adhere to the submission deadline. The organizers reserve the right to disqualify teams violating the rules. Judges' decisions will be final. Participants must maintain professional and ethical conduct throughout the event. Submission Requirements Each team must submit: Project title and description Problem statement and proposed solution GitHub repository link Project presentation (PPT/PDF) Demo video or working prototype link Technology stack used Team member details Judging Criteria Innovation &amp; Creativity: 25% Technical Implement",
     "organizer": "THE CODE VIBES",
     "venue": "Online",
     "mode": "Online",
@@ -706,7 +741,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-05T10:29:31.786404+00:00"
+    "discovered_at": "2026-11-05T18:25:24.352373+00:00"
   },
   {
     "id": "devpost:30740",
@@ -742,7 +777,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-05T10:29:38.180431+00:00"
+    "discovered_at": "2026-11-05T18:25:31.263816+00:00"
   },
   {
     "id": "devpost:30764",
@@ -778,43 +813,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-05T10:29:38.180484+00:00"
-  },
-  {
-    "id": "devpost:31580",
-    "source": "Devpost",
-    "title": "Ostad Presents YUNet AIgnite Buildathon 2026",
-    "url": "https://yunet-aignite26.devpost.com/",
-    "description": "Devpost hackathon. about 6 hours left",
-    "organizer": "Youth Upskill Network - YUNet",
-    "venue": "Online",
-    "mode": "Online",
-    "city": null,
-    "state": null,
-    "country": null,
-    "start_date": null,
-    "end_date": null,
-    "registration_deadline": "Nov 01 - 05, 2026",
-    "min_team_size": 1,
-    "max_team_size": null,
-    "solo_allowed": true,
-    "eligibility": "Global Devpost Participants",
-    "prize_pool": "$ 0",
-    "tracks": [
-      "Education",
-      "Low/No Code",
-      "Machine Learning/AI"
-    ],
-    "score": 75,
-    "matched_reasons": [
-      "🌐 **Accessible Online Mode** (+15 pts)",
-      "👤 **Solo Eligible (1 Member)** (+35 pts)",
-      "🤖 **AI & Software Tracks** (+25 pts) [AI, Machine Learning]"
-    ],
-    "is_nagpur_local": false,
-    "is_maharashtra": false,
-    "is_active": true,
-    "discovered_at": "2026-11-05T10:29:38.180469+00:00"
+    "discovered_at": "2026-11-05T18:25:31.263856+00:00"
   },
   {
     "id": "devpost:31060",
@@ -850,42 +849,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-05T10:29:38.280155+00:00"
-  },
-  {
-    "id": "devpost:31815",
-    "source": "Devpost",
-    "title": "Neural Storm",
-    "url": "https://neuralstorm.devpost.com/",
-    "description": "Devpost hackathon. about 4 hours left",
-    "organizer": "JNTUH",
-    "venue": "Online",
-    "mode": "Online",
-    "city": null,
-    "state": null,
-    "country": null,
-    "start_date": null,
-    "end_date": null,
-    "registration_deadline": "Nov 02 - 05, 2026",
-    "min_team_size": 1,
-    "max_team_size": null,
-    "solo_allowed": true,
-    "eligibility": "Global Devpost Participants",
-    "prize_pool": "₹ 20,000",
-    "tracks": [
-      "Beginner Friendly",
-      "Machine Learning/AI"
-    ],
-    "score": 75,
-    "matched_reasons": [
-      "🌐 **Accessible Online Mode** (+15 pts)",
-      "👤 **Solo Eligible (1 Member)** (+35 pts)",
-      "🤖 **AI & Software Tracks** (+25 pts) [AI, Machine Learning]"
-    ],
-    "is_nagpur_local": false,
-    "is_maharashtra": false,
-    "is_active": true,
-    "discovered_at": "2026-11-05T10:29:38.280112+00:00"
+    "discovered_at": "2026-11-05T18:25:31.426453+00:00"
   },
   {
     "id": "devpost:31489",
@@ -921,7 +885,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-05T10:29:38.180500+00:00"
+    "discovered_at": "2026-11-05T18:25:31.263871+00:00"
   },
   {
     "id": "devpost:31642",
@@ -957,7 +921,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-05T10:29:38.180451+00:00"
+    "discovered_at": "2026-11-05T18:25:31.263834+00:00"
   },
   {
     "id": "devpost:31083",
@@ -993,7 +957,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-05T10:29:38.110244+00:00"
+    "discovered_at": "2026-11-05T18:25:31.072511+00:00"
   },
   {
     "id": "devpost:31480",
@@ -1029,7 +993,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-05T10:29:38.280147+00:00"
+    "discovered_at": "2026-11-05T18:25:31.426437+00:00"
   },
   {
     "id": "hackerearth:mks-inc-hackathon",
@@ -1065,7 +1029,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-05T10:29:39.013215+00:00"
+    "discovered_at": "2026-11-05T18:25:32.132964+00:00"
   },
   {
     "id": "hackerearth:ibm-z-day",
@@ -1101,7 +1065,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-05T10:29:39.013187+00:00"
+    "discovered_at": "2026-11-05T18:25:32.132938+00:00"
   },
   {
     "id": "devpost:31302",
@@ -1137,7 +1101,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-05T10:29:38.110172+00:00"
+    "discovered_at": "2026-11-05T18:25:31.072442+00:00"
   },
   {
     "id": "devpost:31659",
@@ -1173,14 +1137,50 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-05T10:29:38.110236+00:00"
+    "discovered_at": "2026-11-05T18:25:31.072504+00:00"
+  },
+  {
+    "id": "devpost:31666",
+    "source": "Devpost",
+    "title": "Mathematics for systems security",
+    "url": "https://mathematics-systems-security.devpost.com/",
+    "description": "Devpost hackathon. 10 days left",
+    "organizer": "Software Engineering Club (DEV)",
+    "venue": "Online",
+    "mode": "Online",
+    "city": null,
+    "state": null,
+    "country": null,
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": "Oct 16 - Nov 15, 2026",
+    "min_team_size": 1,
+    "max_team_size": null,
+    "solo_allowed": true,
+    "eligibility": "Global Devpost Participants",
+    "prize_pool": "$ 0",
+    "tracks": [
+      "Communication",
+      "Cybersecurity",
+      "Machine Learning/AI"
+    ],
+    "score": 75,
+    "matched_reasons": [
+      "🌐 **Accessible Online Mode** (+15 pts)",
+      "👤 **Solo Eligible (1 Member)** (+35 pts)",
+      "🤖 **AI & Software Tracks** (+25 pts) [AI, Machine Learning, Cybersecurity]"
+    ],
+    "is_nagpur_local": false,
+    "is_maharashtra": false,
+    "is_active": true,
+    "discovered_at": "2026-11-05T18:25:31.426469+00:00"
   },
   {
     "id": "devpost:31664",
     "source": "Devpost",
     "title": "Herhack",
     "url": "https://herhack.devpost.com/",
-    "description": "Devpost hackathon. 6 days left",
+    "description": "Devpost hackathon. 5 days left",
     "organizer": "Echelon institute of technology",
     "venue": "Online",
     "mode": "Online",
@@ -1209,14 +1209,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-05T10:29:38.280128+00:00"
+    "discovered_at": "2026-11-05T18:25:31.426427+00:00"
   },
   {
     "id": "devpost:31789",
     "source": "Devpost",
     "title": "STEM2Connect AI Hackathon",
     "url": "https://stem2connect-online-hackathon.devpost.com/",
-    "description": "Devpost hackathon. 17 days left",
+    "description": "Devpost hackathon. 16 days left",
     "organizer": "STEM2Connect",
     "venue": "Online",
     "mode": "Online",
@@ -1245,14 +1245,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-05T10:29:38.180490+00:00"
+    "discovered_at": "2026-11-05T18:25:31.263862+00:00"
   },
   {
     "id": "devpost:31796",
     "source": "Devpost",
     "title": "SafeSpace Hacks",
     "url": "https://safespace-hacks.devpost.com/",
-    "description": "Devpost hackathon. 18 days left",
+    "description": "Devpost hackathon. 17 days left",
     "organizer": "SafeSpace",
     "venue": "Online",
     "mode": "Online",
@@ -1281,7 +1281,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-05T10:29:38.280092+00:00"
+    "discovered_at": "2026-11-05T18:25:31.263889+00:00"
   },
   {
     "id": "devpost:30789",
@@ -1317,7 +1317,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-05T10:29:38.110259+00:00"
+    "discovered_at": "2026-11-05T18:25:31.072524+00:00"
   },
   {
     "id": "devpost:31552",
@@ -1353,7 +1353,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-05T10:29:38.110228+00:00"
+    "discovered_at": "2026-11-05T18:25:31.072497+00:00"
   },
   {
     "id": "devpost:31572",
@@ -1389,7 +1389,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-05T10:29:38.110220+00:00"
+    "discovered_at": "2026-11-05T18:25:31.072490+00:00"
   },
   {
     "id": "devpost:31907",
@@ -1425,7 +1425,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-05T10:29:38.180508+00:00"
+    "discovered_at": "2026-11-05T18:25:31.263881+00:00"
   },
   {
     "id": "devpost:31667",
@@ -1461,14 +1461,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-05T10:29:38.110198+00:00"
+    "discovered_at": "2026-11-05T18:25:31.072470+00:00"
   },
   {
     "id": "devpost:31187",
     "source": "Devpost",
     "title": "STEMergent Hacks 2026",
     "url": "https://stemergent-hacks.devpost.com/",
-    "description": "Devpost hackathon. 11 days left",
+    "description": "Devpost hackathon. 10 days left",
     "organizer": "STEMergent",
     "venue": "Online",
     "mode": "Online",
@@ -1497,7 +1497,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-05T10:29:38.280102+00:00"
+    "discovered_at": "2026-11-05T18:25:31.426404+00:00"
   },
   {
     "id": "devpost:31024",
@@ -1533,7 +1533,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-05T10:29:38.110210+00:00"
+    "discovered_at": "2026-11-05T18:25:31.072481+00:00"
   },
   {
     "id": "unstop:1785430",
@@ -1573,7 +1573,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": true,
     "is_active": true,
-    "discovered_at": "2026-11-05T10:29:33.256382+00:00"
+    "discovered_at": "2026-11-05T18:25:26.254419+00:00"
   },
   {
     "id": "unstop:1793796",
@@ -1613,7 +1613,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": true,
     "is_active": true,
-    "discovered_at": "2026-11-05T10:29:31.786045+00:00"
+    "discovered_at": "2026-11-05T18:25:24.351227+00:00"
   },
   {
     "id": "unstop:1792835",
@@ -1646,7 +1646,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-05T10:29:31.788793+00:00"
+    "discovered_at": "2026-11-05T18:25:24.354423+00:00"
   },
   {
     "id": "unstop:1772221",
@@ -1685,7 +1685,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-05T10:29:31.786568+00:00"
+    "discovered_at": "2026-11-05T18:25:24.351380+00:00"
   },
   {
     "id": "unstop:1771951",
@@ -1724,7 +1724,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-05T10:29:33.257480+00:00"
+    "discovered_at": "2026-11-05T18:25:26.255057+00:00"
   },
   {
     "id": "unstop:1781454",
@@ -1763,7 +1763,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-05T10:29:31.787395+00:00"
+    "discovered_at": "2026-11-05T18:25:24.352754+00:00"
   },
   {
     "id": "unstop:1784631",
@@ -1800,7 +1800,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-05T10:29:33.256640+00:00"
+    "discovered_at": "2026-11-05T18:25:26.254701+00:00"
   },
   {
     "id": "unstop:1793341",
@@ -1839,7 +1839,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-05T10:29:31.787553+00:00"
+    "discovered_at": "2026-11-05T18:25:24.352921+00:00"
   },
   {
     "id": "unstop:1786387",
@@ -1872,7 +1872,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-05T10:29:33.255805+00:00"
+    "discovered_at": "2026-11-05T18:25:26.253859+00:00"
   },
   {
     "id": "unstop:1784666",
@@ -1905,7 +1905,46 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-05T10:29:33.256489+00:00"
+    "discovered_at": "2026-11-05T18:25:26.254530+00:00"
+  },
+  {
+    "id": "unstop:1795134",
+    "source": "Unstop",
+    "title": "Remote Robotics Hackathon",
+    "url": "https://unstop.com/hackathons/remote-robotics-hackathon-pes-university-pesu-bengaluru-1795134",
+    "description": "Overview Get ready for the Remote Robotics (ReRo) Online Hackathon at PES University, organized by the IEEE Robotics and Automation Society (IEEE RAS) Chapter, RR Campus, PES University! A national-level, fully online hackathon and a flagship event of IEEE RAS. Open to all students across the country. Code real robots, test them on real tracks, and compete from anywhere! Introducing ReRo Lab The ReRo Lab, inaugurated in February 2023 at PES University, stands as India&rsquo;s first-ever 24/7 remote robotics facility built by an educational institution. It&rsquo;s not just a lab, it&rsquo;s a space where innovation literally never sleeps. From programming mobile robots in real time to testing algorithms and collaborating with peers across the globe, ReRo lets you experience the future of robotics from any part of the world, remotely. Whether you're just starting out or already deep into robotics, this is where curiosity meets cutting-edge. Mode Virtual (via ReRo Lab Platform) Why Participate? Access real robots at a world-class facility without stepping into the lab Build your own algorithm from scratch and test it on real tracks Sharpen your programming, control (PID) and problem-solving skills Compete at a national level and win cash prizes How It Works Round 1 (Friday, 13th November): Online quiz on PID and robotics fundamentals. Top teams move ahead. Round 2 (Sat-Sun, 14th-15th November): 24-hour remote hackathon. Code your own algorithm and run it on our bots in two arenas: Line Follower and Maze Solver (More information on this will be given later). Bot access: 3 slots of 20 minutes per team, booked on the ReRo Lab website (first-come, first-serve basis). Event Details Open to: All students across India Team Size: 1-3 Venue: Virtual, remote access via our web platform Prizes Total cash prize pool of ₹7,000 Individual IEEE memberships for the winning students",
+    "organizer": "PES University (PESU), Bengaluru",
+    "venue": "Online",
+    "mode": "Online",
+    "city": null,
+    "state": "online",
+    "country": null,
+    "start_date": "2026-11-04T00:00:00+05:30",
+    "end_date": "2026-11-18T00:00:00+05:30",
+    "registration_deadline": "2026-11-18T00:00:00+05:30",
+    "min_team_size": 1,
+    "max_team_size": 3,
+    "solo_allowed": true,
+    "eligibility": "Undergraduate / Postgraduate & Engineering students",
+    "prize_pool": "Prizes & Certificates",
+    "tracks": [
+      "Engineering Students",
+      "Postgraduate",
+      "Undergraduate",
+      "Management",
+      "Medical",
+      "Law",
+      "Arts, Commerce, Sciences & Others"
+    ],
+    "score": 50,
+    "matched_reasons": [
+      "🌐 **Accessible Online Mode** (+15 pts)",
+      "👤 **Solo Eligible (1 Member)** (+35 pts)"
+    ],
+    "is_nagpur_local": false,
+    "is_maharashtra": false,
+    "is_active": true,
+    "discovered_at": "2026-11-05T18:25:24.350838+00:00"
   },
   {
     "id": "unstop:1793392",
@@ -1938,7 +1977,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-05T10:29:31.788154+00:00"
+    "discovered_at": "2026-11-05T18:25:24.353720+00:00"
   },
   {
     "id": "unstop:1786992",
@@ -1971,7 +2010,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": true,
     "is_active": true,
-    "discovered_at": "2026-11-05T10:29:33.256164+00:00"
+    "discovered_at": "2026-11-05T18:25:26.254192+00:00"
   },
   {
     "id": "devpost:31108",
@@ -2006,7 +2045,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-05T10:29:38.280071+00:00"
+    "discovered_at": "2026-11-05T18:25:31.426383+00:00"
   },
   {
     "id": "devpost:30500",
@@ -2041,7 +2080,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-05T10:29:38.110252+00:00"
+    "discovered_at": "2026-11-05T18:25:31.072517+00:00"
   },
   {
     "id": "devpost:31627",
@@ -2076,14 +2115,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-05T10:29:38.180461+00:00"
+    "discovered_at": "2026-11-05T18:25:31.263843+00:00"
   },
   {
     "id": "devpost:31619",
     "source": "Devpost",
     "title": "Pumpkin Playground",
     "url": "https://pumpkin-playground.devpost.com/",
-    "description": "Devpost hackathon. about 22 hours left",
+    "description": "Devpost hackathon. about 14 hours left",
     "organizer": "ACM Long Beach",
     "venue": "Online",
     "mode": "Online",
@@ -2111,14 +2150,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-05T10:29:38.280120+00:00"
+    "discovered_at": "2026-11-05T18:25:31.426415+00:00"
   },
   {
     "id": "devpost:31773",
     "source": "Devpost",
     "title": "LaunchPad Hacks",
     "url": "https://launchpad-hacks.devpost.com/",
-    "description": "Devpost hackathon. 16 days left",
+    "description": "Devpost hackathon. 15 days left",
     "organizer": "Hack4TodayOrg",
     "venue": "Online",
     "mode": "Online",
@@ -2145,14 +2184,49 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-05T10:29:38.180476+00:00"
+    "discovered_at": "2026-11-05T18:25:31.263850+00:00"
+  },
+  {
+    "id": "devpost:31795",
+    "source": "Devpost",
+    "title": "AccessED Hacks",
+    "url": "https://accessed-hacks.devpost.com/",
+    "description": "Devpost hackathon. 15 days left",
+    "organizer": "AccessEDnpo",
+    "venue": "Online",
+    "mode": "Online",
+    "city": null,
+    "state": null,
+    "country": null,
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": "Oct 17 - Nov 20, 2026",
+    "min_team_size": 1,
+    "max_team_size": null,
+    "solo_allowed": true,
+    "eligibility": "Global Devpost Participants",
+    "prize_pool": "$ 225",
+    "tracks": [
+      "Beginner Friendly",
+      "Education",
+      "Social Good"
+    ],
+    "score": 50,
+    "matched_reasons": [
+      "🌐 **Accessible Online Mode** (+15 pts)",
+      "👤 **Solo Eligible (1 Member)** (+35 pts)"
+    ],
+    "is_nagpur_local": false,
+    "is_maharashtra": false,
+    "is_active": true,
+    "discovered_at": "2026-11-05T18:25:31.426462+00:00"
   },
   {
     "id": "devpost:31798",
     "source": "Devpost",
     "title": "Taskforge",
     "url": "https://taskforge.devpost.com/",
-    "description": "Devpost hackathon. 20 days left",
+    "description": "Devpost hackathon. 19 days left",
     "organizer": "HackathonForEveryone",
     "venue": "Online",
     "mode": "Online",
@@ -2179,7 +2253,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-05T10:29:38.280137+00:00"
+    "discovered_at": "2026-11-05T18:25:31.426445+00:00"
   },
   {
     "id": "unstop:1768767",
@@ -2212,7 +2286,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-05T10:29:33.258367+00:00"
+    "discovered_at": "2026-11-05T18:25:26.255964+00:00"
   },
   {
     "id": "unstop:1786997",
@@ -2251,7 +2325,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-05T10:29:31.787921+00:00"
+    "discovered_at": "2026-11-05T18:25:24.353213+00:00"
   },
   {
     "id": "unstop:1768041",
@@ -2290,7 +2364,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-05T10:29:33.257572+00:00"
+    "discovered_at": "2026-11-05T18:25:26.255150+00:00"
   },
   {
     "id": "unstop:1794890",
@@ -2325,7 +2399,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-05T10:29:31.786770+00:00"
+    "discovered_at": "2026-11-05T18:25:24.352538+00:00"
   },
   {
     "id": "unstop:1786652",
@@ -2358,6 +2432,6 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-05T10:29:31.787086+00:00"
+    "discovered_at": "2026-11-05T18:25:24.351723+00:00"
   }
 ]

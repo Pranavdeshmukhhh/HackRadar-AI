@@ -2617,5 +2617,32 @@
     "last_notified": "2026-11-05T10:29:43.237223+00:00",
     "is_nagpur_local": false,
     "solo_allowed": true
+  },
+  "unstop:1788753": {
+    "title": "Central India Hackathon 4.0",
+    "url": "https://unstop.com/hackathons/central-india-hackathon-40-suryodaya-college-of-engineering-technology-nagpur-1788753",
+    "score": 70,
+    "source": "Unstop",
+    "last_notified": "2026-11-05T18:25:35.602011+00:00",
+    "is_nagpur_local": true,
+    "solo_allowed": false
+  },
+  "unstop:1795775": {
+    "title": "Nexathon ",
+    "url": "https://unstop.com/hackathons/nexathon-school-of-computers-ips-academy-indore-1795775",
+    "score": 75,
+    "source": "Unstop",
+    "last_notified": "2026-11-05T18:25:35.602011+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:1795134": {
+    "title": "Remote Robotics Hackathon",
+    "url": "https://unstop.com/hackathons/remote-robotics-hackathon-pes-university-pesu-bengaluru-1795134",
+    "score": 50,
+    "source": "Unstop",
+    "last_notified": "2026-11-05T18:25:35.602011+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
   }
 }

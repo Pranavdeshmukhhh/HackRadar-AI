@@ -2644,5 +2644,14 @@
     "last_notified": "2026-11-05T18:25:35.602011+00:00",
     "is_nagpur_local": false,
     "solo_allowed": true
+  },
+  "unstop:1797543": {
+    "title": "Flare",
+    "url": "https://unstop.com/hackathons/flare-hoollow-1797543",
+    "score": 75,
+    "source": "Unstop",
+    "last_notified": "2026-11-05T23:54:18.354048+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
   }
 }

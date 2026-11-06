@@ -33,7 +33,7 @@
     "is_nagpur_local": true,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-06T04:29:57.720469+00:00"
+    "discovered_at": "2026-11-06T12:37:57.311892+00:00"
   },
   {
     "id": "unstop:1788753",
@@ -72,7 +72,7 @@
     "is_nagpur_local": true,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-06T04:29:47.202245+00:00"
+    "discovered_at": "2026-11-06T12:37:48.335621+00:00"
   },
   {
     "id": "unstop:1794522",
@@ -107,7 +107,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": true,
     "is_active": true,
-    "discovered_at": "2026-11-06T04:29:47.204000+00:00"
+    "discovered_at": "2026-11-06T12:37:48.337943+00:00"
   },
   {
     "id": "college:mindsparkorg",
@@ -143,14 +143,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": true,
     "is_active": true,
-    "discovered_at": "2026-11-06T04:29:57.722602+00:00"
+    "discovered_at": "2026-11-06T12:37:56.889110+00:00"
   },
   {
     "id": "unstop:1795047",
     "source": "Unstop",
-    "title": "IBM Db2Hack 2026 | Build AI Applications on IBM Db2 ",
+    "title": "IBM Db2Hack 2026 ",
     "url": "https://unstop.com/hackathons/db2hack-2026-build-ai-applications-on-ibm-db2-gl-bajaj-group-of-institutions-mathura-uttar-pradesh-1795047",
-    "description": "Db2Hack 2026 | Build AI Applications with IBM Db2 Organised by: IBM Db2 TechX In Association With: IBM, Institution's Innovation Council (IIC), GL Bajaj Group of Institutions, Mathura, and NexaSphere Opportunity Mode: Online Participation Mode: Individual (Solo Only) Registration Fee: Free Final Submission Deadline: 10 November 2026, 5:00 PM IST Results Announcement: 11 November 2026 About Db2Hack 2026 Ready to build something meaningful with AI and enterprise databases? Db2Hack 2026 is an online hackathon that challenges students, developers, and AI enthusiasts to build practical AI-powered applications using IBM Db2. Participants will explore how enterprise databases can power modern AI applications by combining IBM Db2 with frameworks such as LangChain, LlamaIndex, Haystack, CrewAI, and Langflow. You can build solutions involving Retrieval-Augmented Generation (RAG), intelligent AI agents, vector search, document intelligence, text-to-SQL, and AI-powered analytics. No prior IBM Db2 experience is required. Whether you are exploring AI for the first time or already building intelligent applications, this is an opportunity to learn, experiment, and demonstrate your skills through a working project. The goal is simple: Build. Innovate. Submit. Make your AI idea work with IBM Db2. Challenge Tracks and Technologies Participants must integrate IBM Db2 into their solution and use at least ONE of the following supported AI frameworks: LangChain LlamaIndex Haystack CrewAI Langflow You may combine multiple frameworks when required by your project architecture. Suggested Project Directions AI-powered RAG applications Intelligent AI agents and agentic workflows Database-powered conversational applications Semantic search and vector search Natural Language to SQL (Text-to-SQL) Document intelligence and information extraction AI-powered data analytics These are suggested directions, not restrictions. Participants are encouraged to identify real-world problems and develop original, practical solutions. Eligibility Criteria Db2Hack 2026 is open to: Students from any college or university. Software developers and fresh graduates. Working professionals. AI, machine learning, and technology enthusiasts. Participation is strictly individual. Each participant must register and submit their own project. Team submissions are not permitted. Registration is free, and prior experience with IBM Db2 is not mandatory. Participation Process Follow these steps to participate: Register: Complete your registration on Unstop and register through the official Luma event page by 8 November 2026. Join the Community: Join the official WhatsApp community. This is mandatory for receiving announcements, workshop updates, technical resources, and submission instructions. Set Up Your Environment: Install the IBM Db2 Developer Extension for VS Code and set up IBM Db2 Community Edition. Build Your Project: Develop an AI-powered application using IBM Db2 and at least one supported AI framework. Submit Your Work: Complete both the GitHub Pull Request and Google Form submission before the final deadline. Hackathon Rounds Round 1: Ideation &amp; Architecture Participants propose an innovative project using IBM Db2 and Agentic AI. The proposal should identify a real-world problem, explain the proposed solution, and describe the intended technical approach. Proposal submission should include: Project title and problem statement. Proposed solution and key features. Selected Agentic AI framework. IBM Db2 connector and intended integration. Proposed system architecture and workflow. Expected impact and use case. Participants must upload their proposal as a PDF or PPT through the designated submission field. Round 2: Build &amp; Final Submission Participants develop a functional implementation of their proposed solution, demonstrating meaningful IBM Db2 integration with their selected AI framework. Final submission must include: Working project and complete source code. Project documentation, including setup and execution instructions. System architecture and implementation details. Screenshots demonstrating the application. A demo video showcasing the working solution. GitHub Submission: Participants must fork the official repository, follow its submission template, add their project, and raise a Pull Request (PR) against the original repository. Google Form: Participants must submit their GitHub PR link through the official Google Form. Both the GitHub PR and Google Form submission are mandatory. Submission Guidelines All participants must complete the following requirements: Submit the project through a Pull Request to the official GitHub repository. Follow the repository's submission template and documentation guidelines. Include working source code, setup instructions, and project documentation. Submit the GitHub PR URL through the official Google Form. Share the project use case on LinkedIn and tag the organising team. Final Submission Deadline: 10 November 2026, 5:00 PM IST. Incomplete submissions or submissions received after the deadline may not qualify for evaluation. Evaluation Criteria Projects will be evaluated based on the following criteria: IBM Db2 Integration &amp; Depth (30%): Meaningful use of IBM Db2, including database connectivity, data operations, and relevant capabilities. Innovation &amp; Impact (25%): Originality, problem relevance, practical usefulness, and potential impact. Technical Architecture &amp; AI Integration (20%): Quality of system architecture and effective use of the selected AI framework. Reproducibility &amp; Code Quality (15%): Code organisation, implementation quality, and ease of setup and execution. Documentation &amp; Presentation (10%): Clarity of project documentation and demonstration. Rewards and Recognition Top 3 Participants Trophy IBM Db2 Kit Certificate of Excellence Top 10 Participants IBM Db2 Goodies Certificate of Merit Projects with High Potential Selected projects with strong potential may receive an opportunity to contribute their use cases to the IBM Db2 GitHub Organisation. All participants get an opportunity to showcase their technical skills through a practical project built on an enterprise database. Workshops and Technical Support The on-campus IBM Db2 TechX Summit and hands-on workshop at GL Bajaj, Mathura, took place on 30 October 2026. Additional online support will include: Live online technical workshop. Online doubt-solving session. Guidance on IBM Db2 setup and configuration. Assistance with AI frameworks and project integration. Guidance on GitHub submissions and documentation. Dates and joining details for upcoming online sessions will be announced through the official WhatsApp community. Important Dates Event Date Hackathon Begins 28 October 2026 On-campus Db2 TechX Summit 30 October 2026 Luma Registration Deadline 8 November 2026 Final Project Submission 10 November 2026, 5:00 PM IST Results Announcement 11 November 2026 All deadlines follow Indian Standard Time (IST). Important Instructions Participation is strictly individual. Team submissions are not allowed. Registration is free. Unstop and Luma registration must be completed. Joining the official WhatsApp community is mandatory. Every project must use IBM Db2 and at least one supported AI framework. Both GitHub PR and Google Form submissions are compulsory. Follow the official GitHub repository template and submission guidelines. Do not include passwords, API keys, or other sensitive credentials in your public repository. Late or incomplete submissions may be disqualified. Official Resources Event Website: https://ibmdb2techxsummit.glbajajgroup.ac.in/ Unstop Registration: Available through the official event listing. Luma Registration: https://luma.com/68jmineh WhatsApp Community: https://chat.whatsapp.com/L5EwLpFMmqa179MsOgi9fu GitHub Submission Repository: https://github.com/KunalGolaIBM/IBM_Db2_TechX_Project_Submission Final Submission Google Form: https://forms.gle/n8GQL4tg7Yzftwu39 Learning Resources and Tutorials: Available on the official event website. Ready to Build? Turn your ideas into working AI applications. Explore enterprise database capabilities, experiment with modern AI frameworks, and build something that solves a real-world problem. Build. Innovate. Submit. See you at Db2Hack 2026!",
+    "description": "Db2Hack 2026&nbsp; Organised by: IBM Db2 TechX In Association With: IBM, Institution's Innovation Council (IIC), GL Bajaj Group of Institutions, Mathura, and NexaSphere Opportunity Mode: Online Participation Mode: Individual (Solo Only) Registration Fee: Free Final Submission Deadline: 10 November 2026, 5:00 PM IST Results Announcement: 11 November 2026 About Db2Hack 2026 Ready to build something meaningful with AI and enterprise databases? Db2Hack 2026 is an online hackathon that challenges students, developers, and AI enthusiasts to build practical AI-powered applications using IBM Db2. Participants will explore how enterprise databases can power modern AI applications by combining IBM Db2 with frameworks such as LangChain, LlamaIndex, Haystack, CrewAI, and Langflow. You can build solutions involving Retrieval-Augmented Generation (RAG), intelligent AI agents, vector search, document intelligence, text-to-SQL, and AI-powered analytics. No prior IBM Db2 experience is required. Whether you are exploring AI for the first time or already building intelligent applications, this is an opportunity to learn, experiment, and demonstrate your skills through a working project. The goal is simple: Build. Innovate. Submit. Make your AI idea work with IBM Db2. Challenge Tracks and Technologies Participants must integrate IBM Db2 into their solution and use at least ONE of the following supported AI frameworks: LangChain LlamaIndex Haystack CrewAI Langflow You may combine multiple frameworks when required by your project architecture. Suggested Project Directions AI-powered RAG applications Intelligent AI agents and agentic workflows Database-powered conversational applications Semantic search and vector search Natural Language to SQL (Text-to-SQL) Document intelligence and information extraction AI-powered data analytics These are suggested directions, not restrictions. Participants are encouraged to identify real-world problems and develop original, practical solutions. Eligibility Criteria Db2Hack 2026 is open to: Students from any college or university. Software developers and fresh graduates. Working professionals. AI, machine learning, and technology enthusiasts. Participation is strictly individual. Each participant must register and submit their own project. Team submissions are not permitted. Registration is free, and prior experience with IBM Db2 is not mandatory. Participation Process Follow these steps to participate: Register: Complete your registration on Unstop and register through the official Luma event page by 8 November 2026. Join the Community: Join the official WhatsApp community. This is mandatory for receiving announcements, workshop updates, technical resources, and submission instructions. Set Up Your Environment: Install the IBM Db2 Developer Extension for VS Code and set up IBM Db2 Community Edition. Build Your Project: Develop an AI-powered application using IBM Db2 and at least one supported AI framework. Submit Your Work: Complete both the GitHub Pull Request and Google Form submission before the final deadline. Hackathon Rounds Round 1: Ideation &amp; Architecture Participants propose an innovative project using IBM Db2 and Agentic AI. The proposal should identify a real-world problem, explain the proposed solution, and describe the intended technical approach. Proposal submission should include: Project title and problem statement. Proposed solution and key features. Selected Agentic AI framework. IBM Db2 connector and intended integration. Proposed system architecture and workflow. Expected impact and use case. Participants must upload their proposal as a PDF or PPT through the designated submission field. Round 2: Build &amp; Final Submission Participants develop a functional implementation of their proposed solution, demonstrating meaningful IBM Db2 integration with their selected AI framework. Final submission must include: Working project and complete source code. Project documentation, including setup and execution instructions. System architecture and implementation details. Screenshots demonstrating the application. A demo video showcasing the working solution. GitHub Submission: Participants must fork the official repository, follow its submission template, add their project, and raise a Pull Request (PR) against the original repository. Google Form: Participants must submit their GitHub PR link through the official Google Form. Both the GitHub PR and Google Form submission are mandatory. Submission Guidelines All participants must complete the following requirements: Submit the project through a Pull Request to the official GitHub repository. Follow the repository's submission template and documentation guidelines. Include working source code, setup instructions, and project documentation. Submit the GitHub PR URL through the official Google Form. Share the project use case on LinkedIn and tag the organising team. Final Submission Deadline: 10 November 2026, 5:00 PM IST. Incomplete submissions or submissions received after the deadline may not qualify for evaluation. Evaluation Criteria Projects will be evaluated based on the following criteria: IBM Db2 Integration &amp; Depth (30%): Meaningful use of IBM Db2, including database connectivity, data operations, and relevant capabilities. Innovation &amp; Impact (25%): Originality, problem relevance, practical usefulness, and potential impact. Technical Architecture &amp; AI Integration (20%): Quality of system architecture and effective use of the selected AI framework. Reproducibility &amp; Code Quality (15%): Code organisation, implementation quality, and ease of setup and execution. Documentation &amp; Presentation (10%): Clarity of project documentation and demonstration. Rewards and Recognition Top 3 Participants Trophy IBM Db2 Kit Certificate of Excellence Top 10 Participants IBM Db2 Goodies Certificate of Merit Projects with High Potential Selected projects with strong potential may receive an opportunity to contribute their use cases to the IBM Db2 GitHub Organisation. All participants get an opportunity to showcase their technical skills through a practical project built on an enterprise database. Workshops and Technical Support The on-campus IBM Db2 TechX Summit and hands-on workshop at GL Bajaj, Mathura, took place on 30 October 2026. Additional online support will include: Live online technical workshop. Online doubt-solving session. Guidance on IBM Db2 setup and configuration. Assistance with AI frameworks and project integration. Guidance on GitHub submissions and documentation. Dates and joining details for upcoming online sessions will be announced through the official WhatsApp community. Important Dates Event Date Hackathon Begins 28 October 2026 On-campus Db2 TechX Summit 30 October 2026 Luma Registration Deadline 8 November 2026 Final Project Submission 10 November 2026, 5:00 PM IST Results Announcement 11 November 2026 All deadlines follow Indian Standard Time (IST). Important Instructions Participation is strictly individual. Team submissions are not allowed. Registration is free. Unstop and Luma registration must be completed. Joining the official WhatsApp community is mandatory. Every project must use IBM Db2 and at least one supported AI framework. Both GitHub PR and Google Form submissions are compulsory. Follow the official GitHub repository template and submission guidelines. Do not include passwords, API keys, or other sensitive credentials in your public repository. Late or incomplete submissions may be disqualified. Official Resources Event Website: https://ibmdb2techxsummit.glbajajgroup.ac.in/ Unstop Registration: Available through the official event listing. Luma Registration: https://luma.com/68jmineh WhatsApp Community: https://chat.whatsapp.com/L5EwLpFMmqa179MsOgi9fu GitHub Submission Repository: https://github.com/KunalGolaIBM/IBM_Db2_TechX_Project_Submission Final Submission Google Form: https://forms.gle/n8GQL4tg7Yzftwu39 Learning Resources and Tutorials: Available on the official event website. Ready to Build? Turn your ideas into working AI applications. Explore enterprise database capabilities, experiment with modern AI frameworks, and build something that solves a real-world problem. Build. Innovate. Submit. See you at Db2Hack 2026!",
     "organizer": "GL Bajaj Group of Institutions, Mathura, Uttar Pradesh",
     "venue": "Online",
     "mode": "Online",
@@ -159,7 +159,7 @@
     "country": null,
     "start_date": "2026-10-28T00:00:00+05:30",
     "end_date": "2026-11-10T19:00:00+05:30",
-    "registration_deadline": "2026-11-08T16:00:00+05:30",
+    "registration_deadline": "2026-11-09T16:00:00+05:30",
     "min_team_size": 1,
     "max_team_size": 1,
     "solo_allowed": true,
@@ -177,7 +177,41 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-06T04:29:47.203820+00:00"
+    "discovered_at": "2026-11-06T12:37:48.337669+00:00"
+  },
+  {
+    "id": "unstop:1798516",
+    "source": "Unstop",
+    "title": "Logic Bumble – Coding & Debugging Challenge",
+    "url": "https://unstop.com/hackathons/logic-bumble-coding-debugging-challenge-army-institute-of-technology-ait-pune-1798516",
+    "description": "Overview Logic Bumble is an exciting coding and debugging competition designed to test participants' logical thinking, programming skills, and problem-solving abilities. Participants will be challenged with coding problems, logical puzzles, and programs containing errors that they must identify and fix within a given time limit. The event focuses on programming fundamentals, debugging techniques, logical reasoning, and accuracy. Event Highlights: Coding challenges Find and fix bugs Logical problem-solving Time-based debugging rounds Test your programming skills Objective: To encourage logical thinking, improve debugging skills, and enhance participants' coding abilities through competitive challenges.",
+    "organizer": "Army Institute of Technology (AIT), Pune",
+    "venue": "Online",
+    "mode": "Online",
+    "city": null,
+    "state": "online",
+    "country": null,
+    "start_date": "2026-11-06T00:00:00+05:30",
+    "end_date": "2026-11-14T11:00:00+05:30",
+    "registration_deadline": "2026-11-12T00:00:00+05:30",
+    "min_team_size": 1,
+    "max_team_size": 1,
+    "solo_allowed": true,
+    "eligibility": "Open to college students & coders",
+    "prize_pool": "Prizes & Certificates",
+    "tracks": [
+      "All"
+    ],
+    "score": 75,
+    "matched_reasons": [
+      "🏢 **Maharashtra Proximity** (+25 pts) [Pune]",
+      "🌐 **Accessible Online Mode** (+15 pts)",
+      "👤 **Solo Eligible (1 Member)** (+35 pts)"
+    ],
+    "is_nagpur_local": false,
+    "is_maharashtra": true,
+    "is_active": true,
+    "discovered_at": "2026-11-06T12:37:48.334893+00:00"
   },
   {
     "id": "unstop:1791467",
@@ -217,7 +251,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-06T04:29:47.203206+00:00"
+    "discovered_at": "2026-11-06T12:37:48.338152+00:00"
   },
   {
     "id": "unstop:1783838",
@@ -251,47 +285,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-06T04:29:49.251485+00:00"
-  },
-  {
-    "id": "unstop:1793112",
-    "source": "Unstop",
-    "title": "Queryquest: SQL Problem-Solving Challenge",
-    "url": "https://unstop.com/hackathons/queryquest-sql-problem-solving-challenge-the-national-institute-of-engineering-karnataka-1793112",
-    "description": "QueryQuest is a technical competition organised by HackerRank Campus Crew, NIE Mysuru , designed to test participants' SQL knowledge, database concepts and problem-solving abilities. The challenge provides an opportunity for students to demonstrate their understanding of SQL through practical coding problems and multiple-choice questions across different difficulty levels. Competition Format The competition will consist of 10 questions to be completed within a total time limit of 100 minutes . The question distribution will be: SQL Basic &ndash; 4 Questions SQL Intermediate &ndash; 3 Questions SQL Advanced &ndash; 1 Question SQL Multiple Choice Questions (MCQs) &ndash; 2 Questions Rules and Guidelines The competition will be conducted online through the HackerRank platform. Participants must complete all questions within the allotted 100 minutes. Participants must use their own HackerRank accounts to access the challenge. All submitted SQL solutions must satisfy the given problem requirements and test cases. Participants must not share solutions, collaborate with other participants or engage in any unfair practices during the competition. The use of external assistance or AI tools during the competition is not permitted. Participants must ensure a stable internet connection throughout the challenge. Tie-breaker: If two or more participants achieve the same score, the participant who completes the assessment in the shortest time will be ranked higher. For example, if two participants achieve the same score, but Participant 1 finishes at 10:00 AM and Participant 2 finishes at 11:00 AM, Participant 1 will be ranked higher. The organisers' decision regarding the results and rewards will be final. Eligibility Open to college students interested in SQL, databases and problem-solving. Participants from all engineering branches and academic years are welcome. Basic knowledge of SQL is recommended. Rewards and Recognition Winner HackerRank Infinity Plan AI Tool Credits HackerRank Mock Interview Credits Certificate of Achievement Runner-up AI Tool Credits HackerRank Mock Interview Credits Certificate of Achievement All Participants HackerRank Mock Interview Credits Participation Certificate Evaluation Process Participants will be evaluated based on the correctness of their submitted solutions and their performance in the competition. The final rankings will be determined based on the competition results.",
-    "organizer": "The National Institute of Engineering, Karnataka",
-    "venue": "Online",
-    "mode": "Online",
-    "city": null,
-    "state": "online",
-    "country": null,
-    "start_date": "2026-11-03T00:00:00+05:30",
-    "end_date": "2026-11-21T10:00:00+05:30",
-    "registration_deadline": "2026-11-13T00:00:00+05:30",
-    "min_team_size": 1,
-    "max_team_size": 1,
-    "solo_allowed": true,
-    "eligibility": "Undergraduate / Postgraduate & Engineering students",
-    "prize_pool": "Prizes & Certificates",
-    "tracks": [
-      "Engineering Students",
-      "Postgraduate",
-      "Undergraduate",
-      "Management",
-      "Medical",
-      "Law",
-      "Arts, Commerce, Sciences & Others"
-    ],
-    "score": 75,
-    "matched_reasons": [
-      "🌐 **Accessible Online Mode** (+15 pts)",
-      "👤 **Solo Eligible (1 Member)** (+35 pts)",
-      "🤖 **AI & Software Tracks** (+25 pts) [AI]"
-    ],
-    "is_nagpur_local": false,
-    "is_maharashtra": false,
-    "is_active": true,
-    "discovered_at": "2026-11-06T04:29:47.204190+00:00"
+    "discovered_at": "2026-11-06T12:37:50.477499+00:00"
   },
   {
     "id": "unstop:1785416",
@@ -331,7 +325,47 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-06T04:29:49.250296+00:00"
+    "discovered_at": "2026-11-06T12:37:48.338645+00:00"
+  },
+  {
+    "id": "unstop:1793112",
+    "source": "Unstop",
+    "title": "Queryquest: SQL Problem-Solving Challenge",
+    "url": "https://unstop.com/hackathons/queryquest-sql-problem-solving-challenge-the-national-institute-of-engineering-karnataka-1793112",
+    "description": "QueryQuest is a technical competition organised by HackerRank Campus Crew, NIE Mysuru , designed to test participants' SQL knowledge, database concepts and problem-solving abilities. The challenge provides an opportunity for students to demonstrate their understanding of SQL through practical coding problems and multiple-choice questions across different difficulty levels. Competition Format The competition will consist of 10 questions to be completed within a total time limit of 100 minutes . The question distribution will be: SQL Basic &ndash; 4 Questions SQL Intermediate &ndash; 3 Questions SQL Advanced &ndash; 1 Question SQL Multiple Choice Questions (MCQs) &ndash; 2 Questions Rules and Guidelines The competition will be conducted online through the HackerRank platform. Participants must complete all questions within the allotted 100 minutes. Participants must use their own HackerRank accounts to access the challenge. All submitted SQL solutions must satisfy the given problem requirements and test cases. Participants must not share solutions, collaborate with other participants or engage in any unfair practices during the competition. The use of external assistance or AI tools during the competition is not permitted. Participants must ensure a stable internet connection throughout the challenge. Tie-breaker: If two or more participants achieve the same score, the participant who completes the assessment in the shortest time will be ranked higher. For example, if two participants achieve the same score, but Participant 1 finishes at 10:00 AM and Participant 2 finishes at 11:00 AM, Participant 1 will be ranked higher. The organisers' decision regarding the results and rewards will be final. Eligibility Open to college students interested in SQL, databases and problem-solving. Participants from all engineering branches and academic years are welcome. Basic knowledge of SQL is recommended. Rewards and Recognition Winner HackerRank Infinity Plan AI Tool Credits HackerRank Mock Interview Credits Certificate of Achievement Runner-up AI Tool Credits HackerRank Mock Interview Credits Certificate of Achievement All Participants HackerRank Mock Interview Credits Participation Certificate Evaluation Process Participants will be evaluated based on the correctness of their submitted solutions and their performance in the competition. The final rankings will be determined based on the competition results.",
+    "organizer": "The National Institute of Engineering, Karnataka",
+    "venue": "Online",
+    "mode": "Online",
+    "city": null,
+    "state": "online",
+    "country": null,
+    "start_date": "2026-11-03T00:00:00+05:30",
+    "end_date": "2026-11-21T10:00:00+05:30",
+    "registration_deadline": "2026-11-13T00:00:00+05:30",
+    "min_team_size": 1,
+    "max_team_size": 1,
+    "solo_allowed": true,
+    "eligibility": "Undergraduate / Postgraduate & Engineering students",
+    "prize_pool": "Prizes & Certificates",
+    "tracks": [
+      "Engineering Students",
+      "Postgraduate",
+      "Undergraduate",
+      "Management",
+      "Medical",
+      "Law",
+      "Arts, Commerce, Sciences & Others"
+    ],
+    "score": 75,
+    "matched_reasons": [
+      "🌐 **Accessible Online Mode** (+15 pts)",
+      "👤 **Solo Eligible (1 Member)** (+35 pts)",
+      "🤖 **AI & Software Tracks** (+25 pts) [AI]"
+    ],
+    "is_nagpur_local": false,
+    "is_maharashtra": false,
+    "is_active": true,
+    "discovered_at": "2026-11-06T12:37:48.338746+00:00"
   },
   {
     "id": "unstop:1791573",
@@ -371,7 +405,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-06T04:29:47.204237+00:00"
+    "discovered_at": "2026-11-06T12:37:48.338805+00:00"
   },
   {
     "id": "unstop:1792269",
@@ -411,7 +445,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-06T04:29:47.204456+00:00"
+    "discovered_at": "2026-11-06T12:37:48.339108+00:00"
   },
   {
     "id": "unstop:1792758",
@@ -446,7 +480,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-06T04:29:47.202348+00:00"
+    "discovered_at": "2026-11-06T12:37:48.336596+00:00"
   },
   {
     "id": "unstop:1779479",
@@ -484,47 +518,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-06T04:29:47.204378+00:00"
-  },
-  {
-    "id": "unstop:1795775",
-    "source": "Unstop",
-    "title": "Nexathon : Next Gen Hackathon",
-    "url": "https://unstop.com/hackathons/nexathon-school-of-computers-ips-academy-indore-1795775",
-    "description": "NEXATHON brings teams together for an online hackathon experience. About the Opportunity: NEXATHON is an online hackathon organized by the School of Computers, IPS Academy, Indore. It gives teams the opportunity to participate in an online coding challenge. Take on the challenge collaboratively and put your team&rsquo;s coding skills into action. Join NEXATHON to experience a hackathon in an online format. Bring your team to NEXATHON and take part in the online coding challenge. Domains: Disaster Managment Agriculture Land Management Health Care Smart Cities and Urban Resilience Cyber Security and Blockchain Government Tech Ideas Energy Conservation&nbsp; Student Innvoation Template Format Problem Identification Proposed Solution&nbsp; Innovation and Uniqueness Feasibility , Viability and Scalability Protoype (optional) , Estimated Cost&nbsp; Research and Refrences&nbsp;",
-    "organizer": "SCHOOL OF COMPUTERS , IPS ACADEMY , INDORE",
-    "venue": "Online",
-    "mode": "Online",
-    "city": null,
-    "state": "online",
-    "country": null,
-    "start_date": "2026-11-06T00:00:00+05:30",
-    "end_date": "2026-11-26T00:00:00+05:30",
-    "registration_deadline": "2026-11-26T00:00:00+05:30",
-    "min_team_size": 1,
-    "max_team_size": 4,
-    "solo_allowed": true,
-    "eligibility": "Undergraduate / Postgraduate & Engineering students",
-    "prize_pool": "Prizes & Certificates",
-    "tracks": [
-      "Engineering Students",
-      "Postgraduate",
-      "Undergraduate",
-      "Management",
-      "Medical",
-      "Law",
-      "Arts, Commerce, Sciences & Others"
-    ],
-    "score": 75,
-    "matched_reasons": [
-      "🌐 **Accessible Online Mode** (+15 pts)",
-      "👤 **Solo Eligible (1 Member)** (+35 pts)",
-      "🤖 **AI & Software Tracks** (+25 pts) [Blockchain]"
-    ],
-    "is_nagpur_local": false,
-    "is_maharashtra": false,
-    "is_active": true,
-    "discovered_at": "2026-11-06T04:29:47.201721+00:00"
+    "discovered_at": "2026-11-06T12:37:48.339012+00:00"
   },
   {
     "id": "unstop:1797543",
@@ -558,7 +552,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-06T04:29:47.201447+00:00"
+    "discovered_at": "2026-11-06T12:37:48.335361+00:00"
   },
   {
     "id": "unstop:1782683",
@@ -592,7 +586,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-06T04:29:49.250706+00:00"
+    "discovered_at": "2026-11-06T12:37:50.476558+00:00"
   },
   {
     "id": "unstop:1790680",
@@ -629,7 +623,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-06T04:29:47.203309+00:00"
+    "discovered_at": "2026-11-06T12:37:48.338279+00:00"
   },
   {
     "id": "unstop:1791313",
@@ -667,7 +661,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-06T04:29:49.250078+00:00"
+    "discovered_at": "2026-11-06T12:37:50.476386+00:00"
   },
   {
     "id": "unstop:1792826",
@@ -701,7 +695,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-06T04:29:47.204071+00:00"
+    "discovered_at": "2026-11-06T12:37:48.338032+00:00"
   },
   {
     "id": "unstop:1792025",
@@ -735,7 +729,47 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-06T04:29:47.202513+00:00"
+    "discovered_at": "2026-11-06T12:37:48.336781+00:00"
+  },
+  {
+    "id": "unstop:1795775",
+    "source": "Unstop",
+    "title": "Nexathon : Next Gen Hackathon",
+    "url": "https://unstop.com/hackathons/nexathon-school-of-computers-ips-academy-indore-1795775",
+    "description": "NEXATHON brings teams together for an online hackathon experience. About the Opportunity: NEXATHON is an online hackathon organized by the School of Computers, IPS Academy, Indore. It gives teams the opportunity to participate in an online coding challenge. Take on the challenge collaboratively and put your team&rsquo;s coding skills into action. Join NEXATHON to experience a hackathon in an online format. Bring your team to NEXATHON and take part in the online coding challenge. Domains: Disaster Managment Agriculture Land Management Health Care Smart Cities and Urban Resilience Cyber Security and Blockchain Government Tech Ideas Energy Conservation&nbsp; Student Innvoation Template Format Problem Identification Proposed Solution&nbsp; Innovation and Uniqueness Feasibility , Viability and Scalability Protoype (optional) , Estimated Cost&nbsp; Research and Refrences&nbsp;",
+    "organizer": "SCHOOL OF COMPUTERS , IPS ACADEMY , INDORE",
+    "venue": "Online",
+    "mode": "Online",
+    "city": null,
+    "state": "online",
+    "country": null,
+    "start_date": "2026-11-06T00:00:00+05:30",
+    "end_date": "2027-01-09T21:00:00+05:30",
+    "registration_deadline": "2026-12-15T00:00:00+05:30",
+    "min_team_size": 1,
+    "max_team_size": 4,
+    "solo_allowed": true,
+    "eligibility": "Undergraduate / Postgraduate & Engineering students",
+    "prize_pool": "Prizes & Certificates",
+    "tracks": [
+      "Engineering Students",
+      "Postgraduate",
+      "Undergraduate",
+      "Management",
+      "Medical",
+      "Law",
+      "Arts, Commerce, Sciences & Others"
+    ],
+    "score": 75,
+    "matched_reasons": [
+      "🌐 **Accessible Online Mode** (+15 pts)",
+      "👤 **Solo Eligible (1 Member)** (+35 pts)",
+      "🤖 **AI & Software Tracks** (+25 pts) [Blockchain]"
+    ],
+    "is_nagpur_local": false,
+    "is_maharashtra": false,
+    "is_active": true,
+    "discovered_at": "2026-11-06T12:37:48.335667+00:00"
   },
   {
     "id": "unstop:1794889",
@@ -775,7 +809,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-06T04:29:47.202642+00:00"
+    "discovered_at": "2026-11-06T12:37:48.336944+00:00"
   },
   {
     "id": "devpost:30740",
@@ -811,7 +845,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-06T04:29:54.473012+00:00"
+    "discovered_at": "2026-11-06T12:37:54.450304+00:00"
   },
   {
     "id": "devpost:30764",
@@ -847,14 +881,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-06T04:29:54.473028+00:00"
+    "discovered_at": "2026-11-06T12:37:54.450327+00:00"
   },
   {
     "id": "devpost:31060",
     "source": "Devpost",
     "title": "Agentic Hackathon",
     "url": "https://agentic-hackathon.devpost.com/",
-    "description": "Devpost hackathon. 5 days left",
+    "description": "Devpost hackathon. 4 days left",
     "organizer": "Devin",
     "venue": "Online",
     "mode": "Online",
@@ -883,7 +917,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-06T04:29:54.629064+00:00"
+    "discovered_at": "2026-11-06T12:37:54.605626+00:00"
   },
   {
     "id": "devpost:31489",
@@ -919,7 +953,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-06T04:29:54.473040+00:00"
+    "discovered_at": "2026-11-06T12:37:54.450344+00:00"
   },
   {
     "id": "devpost:31642",
@@ -955,7 +989,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-06T04:29:54.472991+00:00"
+    "discovered_at": "2026-11-06T12:37:54.450283+00:00"
   },
   {
     "id": "devpost:31083",
@@ -991,7 +1025,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-06T04:29:54.332306+00:00"
+    "discovered_at": "2026-11-06T12:37:54.265522+00:00"
   },
   {
     "id": "devpost:31480",
@@ -1027,7 +1061,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-06T04:29:54.629052+00:00"
+    "discovered_at": "2026-11-06T12:37:54.605612+00:00"
   },
   {
     "id": "hackerearth:mks-inc-hackathon",
@@ -1063,7 +1097,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-06T04:29:55.465950+00:00"
+    "discovered_at": "2026-11-06T12:37:55.400978+00:00"
   },
   {
     "id": "hackerearth:ibm-z-day",
@@ -1099,14 +1133,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-06T04:29:55.465927+00:00"
+    "discovered_at": "2026-11-06T12:37:55.400951+00:00"
   },
   {
     "id": "devpost:31302",
     "source": "Devpost",
     "title": "PayPal AI Hackathon",
     "url": "https://paypalaihackathon.devpost.com/",
-    "description": "Devpost hackathon. 7 days left",
+    "description": "Devpost hackathon. 6 days left",
     "organizer": "PayPal",
     "venue": "Online",
     "mode": "Online",
@@ -1135,14 +1169,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-06T04:29:54.332247+00:00"
+    "discovered_at": "2026-11-06T12:37:54.265412+00:00"
   },
   {
     "id": "devpost:31659",
     "source": "Devpost",
     "title": "Learn AR with SPECS",
     "url": "https://learn-specs.devpost.com/",
-    "description": "Devpost hackathon. 4 days left",
+    "description": "Devpost hackathon. 3 days left",
     "organizer": "Devpost",
     "venue": "Online",
     "mode": "Online",
@@ -1171,7 +1205,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-06T04:29:54.332301+00:00"
+    "discovered_at": "2026-11-06T12:37:54.265509+00:00"
   },
   {
     "id": "devpost:31666",
@@ -1207,7 +1241,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-06T04:29:54.629075+00:00"
+    "discovered_at": "2026-11-06T12:37:54.605639+00:00"
   },
   {
     "id": "devpost:31664",
@@ -1243,7 +1277,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-06T04:29:54.629046+00:00"
+    "discovered_at": "2026-11-06T12:37:54.605599+00:00"
   },
   {
     "id": "devpost:31789",
@@ -1279,14 +1313,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-06T04:29:54.473032+00:00"
+    "discovered_at": "2026-11-06T12:37:54.450334+00:00"
   },
   {
     "id": "devpost:31796",
     "source": "Devpost",
     "title": "SafeSpace Hacks",
     "url": "https://safespace-hacks.devpost.com/",
-    "description": "Devpost hackathon. 17 days left",
+    "description": "Devpost hackathon. 16 days left",
     "organizer": "SafeSpace",
     "venue": "Online",
     "mode": "Online",
@@ -1315,14 +1349,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-06T04:29:54.473050+00:00"
+    "discovered_at": "2026-11-06T12:37:54.450358+00:00"
   },
   {
     "id": "devpost:30789",
     "source": "Devpost",
     "title": "Arbiter Hacks V1",
     "url": "https://arbiter-hacks-v1.devpost.com/",
-    "description": "Devpost hackathon. about 2 months left",
+    "description": "Devpost hackathon. about 1 month left",
     "organizer": "Arbiter ",
     "venue": "Online",
     "mode": "Online",
@@ -1351,7 +1385,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-06T04:29:54.332317+00:00"
+    "discovered_at": "2026-11-06T12:37:54.265546+00:00"
   },
   {
     "id": "devpost:31552",
@@ -1387,7 +1421,43 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-06T04:29:54.332295+00:00"
+    "discovered_at": "2026-11-06T12:37:54.265496+00:00"
+  },
+  {
+    "id": "devpost:26475",
+    "source": "Devpost",
+    "title": "Dakar Bitcoin Hack by BTrust",
+    "url": "https://dakar-bitcoin-hack-2026.devpost.com/",
+    "description": "Devpost hackathon. 15 days left",
+    "organizer": "Dakar Bitcoin Days",
+    "venue": "Online",
+    "mode": "Online",
+    "city": null,
+    "state": null,
+    "country": null,
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": "Oct 26 - Nov 20, 2026",
+    "min_team_size": 1,
+    "max_team_size": null,
+    "solo_allowed": true,
+    "eligibility": "Global Devpost Participants",
+    "prize_pool": "$ 900",
+    "tracks": [
+      "Blockchain",
+      "Fintech",
+      "Machine Learning/AI"
+    ],
+    "score": 75,
+    "matched_reasons": [
+      "🌐 **Accessible Online Mode** (+15 pts)",
+      "👤 **Solo Eligible (1 Member)** (+35 pts)",
+      "🤖 **AI & Software Tracks** (+25 pts) [AI, Machine Learning, Blockchain]"
+    ],
+    "is_nagpur_local": false,
+    "is_maharashtra": false,
+    "is_active": true,
+    "discovered_at": "2026-11-06T12:37:54.605646+00:00"
   },
   {
     "id": "devpost:31572",
@@ -1423,14 +1493,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-06T04:29:54.332289+00:00"
+    "discovered_at": "2026-11-06T12:37:54.265484+00:00"
   },
   {
     "id": "devpost:31907",
     "source": "Devpost",
     "title": "Build Your First AI App",
     "url": "https://build-your-first-ai-app.devpost.com/",
-    "description": "Devpost hackathon. 22 days left",
+    "description": "Devpost hackathon. 21 days left",
     "organizer": "Yasir Insights",
     "venue": "Online",
     "mode": "Online",
@@ -1459,14 +1529,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-06T04:29:54.473045+00:00"
+    "discovered_at": "2026-11-06T12:37:54.450351+00:00"
   },
   {
     "id": "devpost:31667",
     "source": "Devpost",
     "title": "Kiroween 2026",
     "url": "https://kiroween.devpost.com/",
-    "description": "Devpost hackathon. 29 days left",
+    "description": "Devpost hackathon. 28 days left",
     "organizer": "Kiro",
     "venue": "Online",
     "mode": "Online",
@@ -1495,7 +1565,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-06T04:29:54.332273+00:00"
+    "discovered_at": "2026-11-06T12:37:54.265451+00:00"
   },
   {
     "id": "devpost:31187",
@@ -1531,14 +1601,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-06T04:29:54.629030+00:00"
+    "discovered_at": "2026-11-06T12:37:54.605588+00:00"
   },
   {
     "id": "devpost:31024",
     "source": "Devpost",
     "title": "Meta VR Start Developer Competition 2026",
     "url": "https://start-developer-competition-26.devpost.com/",
-    "description": "Devpost hackathon. 13 days left",
+    "description": "Devpost hackathon. 12 days left",
     "organizer": "Meta",
     "venue": "Online",
     "mode": "Online",
@@ -1567,7 +1637,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-06T04:29:54.332282+00:00"
+    "discovered_at": "2026-11-06T12:37:54.265470+00:00"
   },
   {
     "id": "unstop:1785430",
@@ -1607,7 +1677,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": true,
     "is_active": true,
-    "discovered_at": "2026-11-06T04:29:49.251436+00:00"
+    "discovered_at": "2026-11-06T12:37:50.477439+00:00"
   },
   {
     "id": "unstop:1793796",
@@ -1647,7 +1717,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": true,
     "is_active": true,
-    "discovered_at": "2026-11-06T04:29:47.202022+00:00"
+    "discovered_at": "2026-11-06T12:37:48.336043+00:00"
   },
   {
     "id": "unstop:1792835",
@@ -1680,7 +1750,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-06T04:29:47.204733+00:00"
+    "discovered_at": "2026-11-06T12:37:50.475851+00:00"
   },
   {
     "id": "unstop:1772221",
@@ -1719,7 +1789,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-06T04:29:47.202776+00:00"
+    "discovered_at": "2026-11-06T12:37:48.336208+00:00"
   },
   {
     "id": "unstop:1771951",
@@ -1758,7 +1828,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-06T04:29:49.251855+00:00"
+    "discovered_at": "2026-11-06T12:37:50.477928+00:00"
   },
   {
     "id": "unstop:1781454",
@@ -1797,7 +1867,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-06T04:29:47.203009+00:00"
+    "discovered_at": "2026-11-06T12:37:48.336291+00:00"
   },
   {
     "id": "unstop:1793341",
@@ -1836,7 +1906,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-06T04:29:47.203151+00:00"
+    "discovered_at": "2026-11-06T12:37:48.336470+00:00"
   },
   {
     "id": "unstop:1786387",
@@ -1869,7 +1939,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-06T04:29:49.250946+00:00"
+    "discovered_at": "2026-11-06T12:37:50.476859+00:00"
   },
   {
     "id": "unstop:1784666",
@@ -1902,7 +1972,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-06T04:29:49.251539+00:00"
+    "discovered_at": "2026-11-06T12:37:50.477551+00:00"
   },
   {
     "id": "unstop:1795134",
@@ -1941,7 +2011,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-06T04:29:47.201582+00:00"
+    "discovered_at": "2026-11-06T12:37:48.335180+00:00"
   },
   {
     "id": "unstop:1793392",
@@ -1974,7 +2044,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-06T04:29:47.204112+00:00"
+    "discovered_at": "2026-11-06T12:37:48.338086+00:00"
   },
   {
     "id": "unstop:1786992",
@@ -2007,7 +2077,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": true,
     "is_active": true,
-    "discovered_at": "2026-11-06T04:29:49.251248+00:00"
+    "discovered_at": "2026-11-06T12:37:50.477203+00:00"
   },
   {
     "id": "devpost:31108",
@@ -2042,7 +2112,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-06T04:29:54.629009+00:00"
+    "discovered_at": "2026-11-06T12:37:54.605567+00:00"
   },
   {
     "id": "devpost:30500",
@@ -2077,7 +2147,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-06T04:29:54.332311+00:00"
+    "discovered_at": "2026-11-06T12:37:54.265535+00:00"
   },
   {
     "id": "devpost:31627",
@@ -2112,49 +2182,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-06T04:29:54.473018+00:00"
-  },
-  {
-    "id": "devpost:31619",
-    "source": "Devpost",
-    "title": "Pumpkin Playground",
-    "url": "https://pumpkin-playground.devpost.com/",
-    "description": "Devpost hackathon. about 4 hours left",
-    "organizer": "ACM Long Beach",
-    "venue": "Online",
-    "mode": "Online",
-    "city": null,
-    "state": null,
-    "country": null,
-    "start_date": null,
-    "end_date": null,
-    "registration_deadline": "Oct 12 - Nov 06, 2026",
-    "min_team_size": 1,
-    "max_team_size": null,
-    "solo_allowed": true,
-    "eligibility": "Global Devpost Participants",
-    "prize_pool": "$ 50",
-    "tracks": [
-      "Design",
-      "Gaming",
-      "Web"
-    ],
-    "score": 50,
-    "matched_reasons": [
-      "🌐 **Accessible Online Mode** (+15 pts)",
-      "👤 **Solo Eligible (1 Member)** (+35 pts)"
-    ],
-    "is_nagpur_local": false,
-    "is_maharashtra": false,
-    "is_active": true,
-    "discovered_at": "2026-11-06T04:29:54.629037+00:00"
+    "discovered_at": "2026-11-06T12:37:54.450313+00:00"
   },
   {
     "id": "devpost:31773",
     "source": "Devpost",
     "title": "LaunchPad Hacks",
     "url": "https://launchpad-hacks.devpost.com/",
-    "description": "Devpost hackathon. 15 days left",
+    "description": "Devpost hackathon. 14 days left",
     "organizer": "Hack4TodayOrg",
     "venue": "Online",
     "mode": "Online",
@@ -2181,7 +2216,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-06T04:29:54.473023+00:00"
+    "discovered_at": "2026-11-06T12:37:54.450320+00:00"
   },
   {
     "id": "devpost:31795",
@@ -2216,7 +2251,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-06T04:29:54.629070+00:00"
+    "discovered_at": "2026-11-06T12:37:54.605632+00:00"
   },
   {
     "id": "devpost:31798",
@@ -2250,7 +2285,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-06T04:29:54.629058+00:00"
+    "discovered_at": "2026-11-06T12:37:54.605619+00:00"
   },
   {
     "id": "unstop:1768767",
@@ -2283,7 +2318,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-06T04:29:49.252594+00:00"
+    "discovered_at": "2026-11-06T12:37:50.478911+00:00"
   },
   {
     "id": "unstop:1786997",
@@ -2322,7 +2357,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-06T04:29:47.203416+00:00"
+    "discovered_at": "2026-11-06T12:37:48.338411+00:00"
   },
   {
     "id": "unstop:1768041",
@@ -2361,7 +2396,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-06T04:29:49.251941+00:00"
+    "discovered_at": "2026-11-06T12:37:50.478020+00:00"
   },
   {
     "id": "unstop:1794890",
@@ -2396,7 +2431,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-06T04:29:47.203569+00:00"
+    "discovered_at": "2026-11-06T12:37:48.337223+00:00"
   },
   {
     "id": "unstop:1786652",
@@ -2429,6 +2464,39 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-06T04:29:47.202850+00:00"
+    "discovered_at": "2026-11-06T12:37:48.337036+00:00"
+  },
+  {
+    "id": "unstop:1798287",
+    "source": "Unstop",
+    "title": "Seed Hackathon 2026",
+    "url": "https://unstop.com/hackathons/crp-seed-hackathon-2026-seed-global-education-services-private-limited-1798287",
+    "description": "SEED Hackathon 2026 The Age of Autonomy A chance to build something that matters. Event Overview: Format: Virtual | Free to Participate Event Dates: 15 October&nbsp; &ndash; 9 December 2026 Grand Finale: 9 December 2026 Team Size: 2&ndash;3 Members Cash Prize Pool: ₹2,00,000 University Partners: Boston University &amp; GW Engineering Who Can Participate? Whether you're a student exploring technology or a professional already working in the field, this is your chance to put your skills to the test! Eligibility: Final Year &amp; Pre-Final Year Students from BE / BTech / BSc / BCA backgrounds First Year &amp; Second Year Students from ME / MTech / MSc / MCA backgrounds Working Professionals in Technical Roles What's the Hackathon About? What happens when AI starts making decisions on its own? That's the big question behind SEED Hackathon 2026. Organised in collaboration with Boston University and GW Engineering , this global virtual hackathon brings together curious minds to tackle real-world challenges in AI and automation! You'll work with your team to turn an idea into a working prototype, learn from industry experts, and showcase your skills on a global platform. Three Unqiue Challenges: Choose a challenge that excites you and build a solution that makes a difference. No Screens: Explore smarter ways to interact with technology without traditional screens. Chain of Command: Build AI agents that collaborate and solve problems together. The Kill Switch: Design AI systems that are safer, more accountable, and easier to control. What's in It for You? Beyond building something exciting, there's plenty to take away. ₹2,00,000 in Cash Prizes 1st Place: ₹50,000 per team 2nd Place: ₹35,000 per team 3rd Place: ₹15,000 per team Two winning teams will be selected for each position. And that's not all! Up to 75% tuition scholarships at partner universities Application fee waivers for placing teams Expert mentorship and hands-on learning Recognition from leading global universities Participation certificates and networking opportunities Important Dates: Here's your roadmap from idea to finale. 15 October: Registrations &amp; Abstract Submissions Open 13 November: Abstract Submission Deadline 19 November: Shortlist Announcement 20 November &ndash; 2 December: Build Your Prototype 3&ndash;7 December: Expert Mentorship 9 December: Grand Finale Your First Step: Submit an Abstract Have an idea? Tell us about it! An abstract is simply a short summary of what you want to build. You don't need a finished product to get started. Just tell us: The Problem: What are you trying to solve? Your Solution: How do you plan to tackle it? The Impact: Why does your idea matter? Maximum Length: 1,000 words Submission Deadline: 13 November 2026 Shortlisted teams will move on to the prototyping phase, where they'll bring their ideas to life with expert support. Ready to Build the Future? You bring the ideas. We'll bring the platform, the mentorship, and the opportunity to make them real. Register, explore the challenges, and submit your abstract here:",
+    "organizer": "SEED Global Education Services Private Limited",
+    "venue": "Online",
+    "mode": "Online",
+    "city": null,
+    "state": "online",
+    "country": null,
+    "start_date": "2026-11-06T11:40:40+05:30",
+    "end_date": "2026-12-09T12:00:40+05:30",
+    "registration_deadline": "2026-12-09T12:00:40+05:30",
+    "min_team_size": 2,
+    "max_team_size": 3,
+    "solo_allowed": false,
+    "eligibility": "Open to college students & coders",
+    "prize_pool": "Prizes & Certificates",
+    "tracks": [
+      "All"
+    ],
+    "score": 40,
+    "matched_reasons": [
+      "🌐 **Accessible Online Mode** (+15 pts)",
+      "🤖 **AI & Software Tracks** (+25 pts) [AI, Ai Agents]"
+    ],
+    "is_nagpur_local": false,
+    "is_maharashtra": false,
+    "is_active": true,
+    "discovered_at": "2026-11-06T12:37:48.335074+00:00"
   }
 ]

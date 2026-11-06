@@ -2653,5 +2653,23 @@
     "last_notified": "2026-11-05T23:54:18.354048+00:00",
     "is_nagpur_local": false,
     "solo_allowed": true
+  },
+  "unstop:1798516": {
+    "title": "Logic Bumble – Coding & Debugging Challenge",
+    "url": "https://unstop.com/hackathons/logic-bumble-coding-debugging-challenge-army-institute-of-technology-ait-pune-1798516",
+    "score": 75,
+    "source": "Unstop",
+    "last_notified": "2026-11-06T12:37:58.486556+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:1798287": {
+    "title": "Seed Hackathon 2026",
+    "url": "https://unstop.com/hackathons/crp-seed-hackathon-2026-seed-global-education-services-private-limited-1798287",
+    "score": 40,
+    "source": "Unstop",
+    "last_notified": "2026-11-06T12:37:58.486556+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": false
   }
 }

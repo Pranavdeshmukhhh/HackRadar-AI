@@ -7,9 +7,9 @@
 ### 📊 Quick Metrics
 | Total Qualified | 📍 Nagpur Local | 👤 Solo-Friendly | 🌐 Online/Virtual | ⭐ High Priority (60+ pts) |
 |:---:|:---:|:---:|:---:|:---:|
-| **66** | **2** | **58** | **50** | **51** |
+| **68** | **2** | **58** | **51** | **51** |
 
-*Last Updated:* **2026-11-07 01:16 AM IST** (`2026-11-06 19:46 UTC`)
+*Last Updated:* **2026-11-07 05:23 AM IST** (`2026-11-06 23:53 UTC`)
 
 ---
 
@@ -80,7 +80,9 @@
 | **`50`** | [Taskforge](https://taskforge.devpost.com/) | 🌐 Online | ✅ Solo | `Oct 17 - Nov 24, 2026` | Beginner Friendly, Quantum | Devpost | [Register](https://taskforge.devpost.com/) |
 | **`40`** | [Singularity](https://unstop.com/hackathons/singularity-keshav-mahavidyalaya-kmv-university-of-delhi-du-delhi-1786997) | 🏢 hybrid | 👥 Team | `2026-11-10T23:59:00+05:30` | Engineering Students, Pos... | Unstop | [Register](https://unstop.com/hackathons/singularity-keshav-mahavidyalaya-kmv-university-of-delhi-du-delhi-1786997) |
 | **`40`** | [Srujan 2026 - 1.5 Lakh Mega Hackathon In association with L&T Edutech - Online Round is Free, No Rs 1200 Charged in it](https://unstop.com/hackathons/srujan-2026-15-lakh-mega-hackathon-in-association-with-lt-bk-birla-college-1768041) | 🏢 hybrid | 👥 Team | `2026-11-15T23:59:00+05:30` | Engineering Students, Pos... | Unstop | [Register](https://unstop.com/hackathons/srujan-2026-15-lakh-mega-hackathon-in-association-with-lt-bk-birla-college-1768041) |
+| **`40`** | [Hackrush 2026](https://unstop.com/hackathons/hackrush-2026-igdtuw-delhi-1799179) | 🌐 Online | 👥 Team | `2026-11-17T00:00:00+05:30` | Engineering Students, Pos... | Unstop | [Register](https://unstop.com/hackathons/hackrush-2026-igdtuw-delhi-1799179) |
 | **`40`** | [13th Protocol: An AI Hackathon 2026](https://unstop.com/hackathons/13th-protocol-an-ai-hackathon-2026-voyager-coding-club-1794890) | 🏢 hybrid | 👥 Team | `2026-11-18T00:00:00+05:30` | Engineering Students, Pos... | Unstop | [Register](https://unstop.com/hackathons/13th-protocol-an-ai-hackathon-2026-voyager-coding-club-1794890) |
+| **`40`** | [Exora 2.0 : Unveil The Build](https://unstop.com/hackathons/exora-20-unveil-the-build-abes-engineering-college-1799143) | 🏢 hybrid | 👥 Team | `2026-11-22T00:00:00+05:30` | Engineering Students, Pos... | Unstop | [Register](https://unstop.com/hackathons/exora-20-unveil-the-build-abes-engineering-college-1799143) |
 | **`40`** | [VYTRON'26](https://unstop.com/hackathons/vytron26-droidecks-1786652) | 🌐 Online | 👥 Team | `2026-11-25T00:00:00+05:30` | All | Unstop | [Register](https://unstop.com/hackathons/vytron26-droidecks-1786652) |
 | **`40`** | [Seed Hackathon 2026](https://unstop.com/hackathons/crp-seed-hackathon-2026-seed-global-education-services-private-limited-1798287) | 🌐 Online | 👥 Team | `2026-12-09T12:00:40+05:30` | All | Unstop | [Register](https://unstop.com/hackathons/crp-seed-hackathon-2026-seed-global-education-services-private-limited-1798287) |
 
@@ -907,7 +909,20 @@
 👉 **[Direct Link to Apply](https://unstop.com/hackathons/srujan-2026-15-lakh-mega-hackathon-in-association-with-lt-bk-birla-college-1768041)**
 
 ---
-### 64. [13th Protocol: An AI Hackathon 2026](https://unstop.com/hackathons/13th-protocol-an-ai-hackathon-2026-voyager-coding-club-1794890)
+### 64. [Hackrush 2026](https://unstop.com/hackathons/hackrush-2026-igdtuw-delhi-1799179)
+- **Platform:** `Unstop` | **Priority Score:** `40/100` | **Mode:** `Online`
+- **Venue / Location:** 🌐 Online / Virtual
+- **Participation:** 👥 Teams Only (3-6 members)
+- **Registration Deadline:** `2026-11-17T00:00:00+05:30`
+- **Prize Pool:** `Prizes & Certificates`
+- **Tracks:** Engineering Students, Postgraduate, Undergraduate, Management, Medical, Law, Arts, Commerce, Sciences & Others
+- **Organizer:** Indira Gandhi Delhi Technical University for Women (IGDTUW), Delhi
+- **Match Factors:** 🌐 **Accessible Online Mode** (+15 pts) • 🤖 **AI & Software Tracks** (+25 pts) [AI, Artificial Intelligence, Machine Learning]
+
+👉 **[Direct Link to Apply](https://unstop.com/hackathons/hackrush-2026-igdtuw-delhi-1799179)**
+
+---
+### 65. [13th Protocol: An AI Hackathon 2026](https://unstop.com/hackathons/13th-protocol-an-ai-hackathon-2026-voyager-coding-club-1794890)
 - **Platform:** `Unstop` | **Priority Score:** `40/100` | **Mode:** `In-Person`
 - **Venue / Location:** 🏢 In-Person (hybrid)
 - **Participation:** 👥 Teams Only (2-4 members)
@@ -920,7 +935,20 @@
 👉 **[Direct Link to Apply](https://unstop.com/hackathons/13th-protocol-an-ai-hackathon-2026-voyager-coding-club-1794890)**
 
 ---
-### 65. [VYTRON'26](https://unstop.com/hackathons/vytron26-droidecks-1786652)
+### 66. [Exora 2.0 : Unveil The Build](https://unstop.com/hackathons/exora-20-unveil-the-build-abes-engineering-college-1799143)
+- **Platform:** `Unstop` | **Priority Score:** `40/100` | **Mode:** `In-Person`
+- **Venue / Location:** 🏢 In-Person (hybrid)
+- **Participation:** 👥 Teams Only (2-4 members)
+- **Registration Deadline:** `2026-11-22T00:00:00+05:30`
+- **Prize Pool:** `Prizes & Certificates`
+- **Tracks:** Engineering Students, Postgraduate, Undergraduate, Management, Medical, Law, Arts, Commerce, Sciences & Others
+- **Organizer:** ABES Engineering College
+- **Match Factors:** 🌐 **Accessible In-Person Mode** (+15 pts) • 🤖 **AI & Software Tracks** (+25 pts) [AI, Open Innovation, Cybersecurity]
+
+👉 **[Direct Link to Apply](https://unstop.com/hackathons/exora-20-unveil-the-build-abes-engineering-college-1799143)**
+
+---
+### 67. [VYTRON'26](https://unstop.com/hackathons/vytron26-droidecks-1786652)
 - **Platform:** `Unstop` | **Priority Score:** `40/100` | **Mode:** `Online`
 - **Venue / Location:** 🌐 Online / Virtual
 - **Participation:** 👥 Teams Only (2-4 members)
@@ -933,7 +961,7 @@
 👉 **[Direct Link to Apply](https://unstop.com/hackathons/vytron26-droidecks-1786652)**
 
 ---
-### 66. [Seed Hackathon 2026](https://unstop.com/hackathons/crp-seed-hackathon-2026-seed-global-education-services-private-limited-1798287)
+### 68. [Seed Hackathon 2026](https://unstop.com/hackathons/crp-seed-hackathon-2026-seed-global-education-services-private-limited-1798287)
 - **Platform:** `Unstop` | **Priority Score:** `40/100` | **Mode:** `Online`
 - **Venue / Location:** 🌐 Online / Virtual
 - **Participation:** 👥 Teams Only (2-3 members)

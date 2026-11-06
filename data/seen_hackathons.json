@@ -2680,5 +2680,23 @@
     "last_notified": "2026-11-06T19:46:37.816092+00:00",
     "is_nagpur_local": false,
     "solo_allowed": true
+  },
+  "unstop:1799179": {
+    "title": "Hackrush 2026",
+    "url": "https://unstop.com/hackathons/hackrush-2026-igdtuw-delhi-1799179",
+    "score": 40,
+    "source": "Unstop",
+    "last_notified": "2026-11-06T23:53:41.601584+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": false
+  },
+  "unstop:1799143": {
+    "title": "Exora 2.0 : Unveil The Build",
+    "url": "https://unstop.com/hackathons/exora-20-unveil-the-build-abes-engineering-college-1799143",
+    "score": 40,
+    "source": "Unstop",
+    "last_notified": "2026-11-06T23:53:41.601584+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": false
   }
 }

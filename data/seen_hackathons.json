@@ -2671,5 +2671,14 @@
     "last_notified": "2026-11-06T12:37:58.486556+00:00",
     "is_nagpur_local": false,
     "solo_allowed": false
+  },
+  "unstop:1798702": {
+    "title": "CodeDia 2026",
+    "url": "https://unstop.com/hackathons/code-dia-2026-lovely-professional-university-lpu-punjab-1798702",
+    "score": 75,
+    "source": "Unstop",
+    "last_notified": "2026-11-06T19:46:37.816092+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
   }
 }

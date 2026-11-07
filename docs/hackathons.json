@@ -33,7 +33,7 @@
     "is_nagpur_local": true,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-07T16:42:33.092217+00:00"
+    "discovered_at": "2026-11-07T20:37:20.922325+00:00"
   },
   {
     "id": "unstop:1788753",
@@ -72,7 +72,7 @@
     "is_nagpur_local": true,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-07T16:42:26.305102+00:00"
+    "discovered_at": "2026-11-07T20:37:12.953377+00:00"
   },
   {
     "id": "unstop:1794522",
@@ -107,7 +107,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": true,
     "is_active": true,
-    "discovered_at": "2026-11-07T16:42:26.306729+00:00"
+    "discovered_at": "2026-11-07T20:37:12.954103+00:00"
   },
   {
     "id": "unstop:1799765",
@@ -146,7 +146,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": true,
     "is_active": true,
-    "discovered_at": "2026-11-07T16:42:24.620604+00:00"
+    "discovered_at": "2026-11-07T20:37:10.719312+00:00"
   },
   {
     "id": "unstop:1799762",
@@ -185,7 +185,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": true,
     "is_active": true,
-    "discovered_at": "2026-11-07T16:42:24.621472+00:00"
+    "discovered_at": "2026-11-07T20:37:10.719908+00:00"
   },
   {
     "id": "unstop:1799761",
@@ -223,7 +223,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": true,
     "is_active": true,
-    "discovered_at": "2026-11-07T16:42:24.620637+00:00"
+    "discovered_at": "2026-11-07T20:37:10.719332+00:00"
   },
   {
     "id": "college:mindsparkorg",
@@ -259,41 +259,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": true,
     "is_active": true,
-    "discovered_at": "2026-11-07T16:42:33.098028+00:00"
-  },
-  {
-    "id": "unstop:1795047",
-    "source": "Unstop",
-    "title": "IBM Db2Hack 2026 ",
-    "url": "https://unstop.com/hackathons/db2hack-2026-build-ai-applications-on-ibm-db2-gl-bajaj-group-of-institutions-mathura-uttar-pradesh-1795047",
-    "description": "Db2Hack 2026&nbsp; Organised by: IBM Db2 TechX In Association With: IBM, Institution's Innovation Council (IIC), GL Bajaj Group of Institutions, Mathura, and NexaSphere Opportunity Mode: Online Participation Mode: Individual (Solo Only) Registration Fee: Free Final Submission Deadline: 10 November 2026, 5:00 PM IST Results Announcement: 11 November 2026 About Db2Hack 2026 Ready to build something meaningful with AI and enterprise databases? Db2Hack 2026 is an online hackathon that challenges students, developers, and AI enthusiasts to build practical AI-powered applications using IBM Db2. Participants will explore how enterprise databases can power modern AI applications by combining IBM Db2 with frameworks such as LangChain, LlamaIndex, Haystack, CrewAI, and Langflow. You can build solutions involving Retrieval-Augmented Generation (RAG), intelligent AI agents, vector search, document intelligence, text-to-SQL, and AI-powered analytics. No prior IBM Db2 experience is required. Whether you are exploring AI for the first time or already building intelligent applications, this is an opportunity to learn, experiment, and demonstrate your skills through a working project. The goal is simple: Build. Innovate. Submit. Make your AI idea work with IBM Db2. Challenge Tracks and Technologies Participants must integrate IBM Db2 into their solution and use at least ONE of the following supported AI frameworks: LangChain LlamaIndex Haystack CrewAI Langflow You may combine multiple frameworks when required by your project architecture. Suggested Project Directions AI-powered RAG applications Intelligent AI agents and agentic workflows Database-powered conversational applications Semantic search and vector search Natural Language to SQL (Text-to-SQL) Document intelligence and information extraction AI-powered data analytics These are suggested directions, not restrictions. Participants are encouraged to identify real-world problems and develop original, practical solutions. Eligibility Criteria Db2Hack 2026 is open to: Students from any college or university. Software developers and fresh graduates. Working professionals. AI, machine learning, and technology enthusiasts. Participation is strictly individual. Each participant must register and submit their own project. Team submissions are not permitted. Registration is free, and prior experience with IBM Db2 is not mandatory. Participation Process Follow these steps to participate: Register: Complete your registration on Unstop and register through the official Luma event page by 8 November 2026. Join the Community: Join the official WhatsApp community. This is mandatory for receiving announcements, workshop updates, technical resources, and submission instructions. Set Up Your Environment: Install the IBM Db2 Developer Extension for VS Code and set up IBM Db2 Community Edition. Build Your Project: Develop an AI-powered application using IBM Db2 and at least one supported AI framework. Submit Your Work: Complete both the GitHub Pull Request and Google Form submission before the final deadline. Hackathon Rounds Round 1: Ideation &amp; Architecture Participants propose an innovative project using IBM Db2 and Agentic AI. The proposal should identify a real-world problem, explain the proposed solution, and describe the intended technical approach. Proposal submission should include: Project title and problem statement. Proposed solution and key features. Selected Agentic AI framework. IBM Db2 connector and intended integration. Proposed system architecture and workflow. Expected impact and use case. Participants must upload their proposal as a PDF or PPT through the designated submission field. Round 2: Build &amp; Final Submission Participants develop a functional implementation of their proposed solution, demonstrating meaningful IBM Db2 integration with their selected AI framework. Final submission must include: Working project and complete source code. Project documentation, including setup and execution instructions. System architecture and implementation details. Screenshots demonstrating the application. A demo video showcasing the working solution. GitHub Submission: Participants must fork the official repository, follow its submission template, add their project, and raise a Pull Request (PR) against the original repository. Google Form: Participants must submit their GitHub PR link through the official Google Form. Both the GitHub PR and Google Form submission are mandatory. Submission Guidelines All participants must complete the following requirements: Submit the project through a Pull Request to the official GitHub repository. Follow the repository's submission template and documentation guidelines. Include working source code, setup instructions, and project documentation. Submit the GitHub PR URL through the official Google Form. Share the project use case on LinkedIn and tag the organising team. Final Submission Deadline: 10 November 2026, 5:00 PM IST. Incomplete submissions or submissions received after the deadline may not qualify for evaluation. Evaluation Criteria Projects will be evaluated based on the following criteria: IBM Db2 Integration &amp; Depth (30%): Meaningful use of IBM Db2, including database connectivity, data operations, and relevant capabilities. Innovation &amp; Impact (25%): Originality, problem relevance, practical usefulness, and potential impact. Technical Architecture &amp; AI Integration (20%): Quality of system architecture and effective use of the selected AI framework. Reproducibility &amp; Code Quality (15%): Code organisation, implementation quality, and ease of setup and execution. Documentation &amp; Presentation (10%): Clarity of project documentation and demonstration. Rewards and Recognition Top 3 Participants Trophy IBM Db2 Kit Certificate of Excellence Top 10 Participants IBM Db2 Goodies Certificate of Merit Projects with High Potential Selected projects with strong potential may receive an opportunity to contribute their use cases to the IBM Db2 GitHub Organisation. All participants get an opportunity to showcase their technical skills through a practical project built on an enterprise database. Workshops and Technical Support The on-campus IBM Db2 TechX Summit and hands-on workshop at GL Bajaj, Mathura, took place on 30 October 2026. Additional online support will include: Live online technical workshop. Online doubt-solving session. Guidance on IBM Db2 setup and configuration. Assistance with AI frameworks and project integration. Guidance on GitHub submissions and documentation. Dates and joining details for upcoming online sessions will be announced through the official WhatsApp community. Important Dates Event Date Hackathon Begins 28 October 2026 On-campus Db2 TechX Summit 30 October 2026 Luma Registration Deadline 8 November 2026 Final Project Submission 10 November 2026, 5:00 PM IST Results Announcement 11 November 2026 All deadlines follow Indian Standard Time (IST). Important Instructions Participation is strictly individual. Team submissions are not allowed. Registration is free. Unstop and Luma registration must be completed. Joining the official WhatsApp community is mandatory. Every project must use IBM Db2 and at least one supported AI framework. Both GitHub PR and Google Form submissions are compulsory. Follow the official GitHub repository template and submission guidelines. Do not include passwords, API keys, or other sensitive credentials in your public repository. Late or incomplete submissions may be disqualified. Official Resources Event Website: https://ibmdb2techxsummit.glbajajgroup.ac.in/ Unstop Registration: Available through the official event listing. Luma Registration: https://luma.com/68jmineh WhatsApp Community: https://chat.whatsapp.com/L5EwLpFMmqa179MsOgi9fu GitHub Submission Repository: https://github.com/KunalGolaIBM/IBM_Db2_TechX_Project_Submission Final Submission Google Form: https://forms.gle/n8GQL4tg7Yzftwu39 Learning Resources and Tutorials: Available on the official event website. Ready to Build? Turn your ideas into working AI applications. Explore enterprise database capabilities, experiment with modern AI frameworks, and build something that solves a real-world problem. Build. Innovate. Submit. See you at Db2Hack 2026!",
-    "organizer": "GL Bajaj Group of Institutions, Mathura, Uttar Pradesh",
-    "venue": "Online",
-    "mode": "Online",
-    "city": null,
-    "state": "online",
-    "country": null,
-    "start_date": "2026-10-28T00:00:00+05:30",
-    "end_date": "2026-11-10T19:00:00+05:30",
-    "registration_deadline": "2026-11-10T17:00:00+05:30",
-    "min_team_size": 1,
-    "max_team_size": 1,
-    "solo_allowed": true,
-    "eligibility": "Open to college students & coders",
-    "prize_pool": "Prizes & Certificates",
-    "tracks": [
-      "All"
-    ],
-    "score": 75,
-    "matched_reasons": [
-      "🌐 **Accessible Online Mode** (+15 pts)",
-      "👤 **Solo Eligible (1 Member)** (+35 pts)",
-      "🤖 **AI & Software Tracks** (+25 pts) [AI, Machine Learning, Agentic Ai]"
-    ],
-    "is_nagpur_local": false,
-    "is_maharashtra": false,
-    "is_active": true,
-    "discovered_at": "2026-11-07T16:42:26.306663+00:00"
+    "discovered_at": "2026-11-07T20:37:20.682676+00:00"
   },
   {
     "id": "unstop:1798516",
@@ -327,7 +293,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": true,
     "is_active": true,
-    "discovered_at": "2026-11-07T16:42:26.304601+00:00"
+    "discovered_at": "2026-11-07T20:37:12.953087+00:00"
   },
   {
     "id": "unstop:1791467",
@@ -367,7 +333,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-07T16:42:28.312168+00:00"
+    "discovered_at": "2026-11-07T20:37:14.906966+00:00"
   },
   {
     "id": "unstop:1793112",
@@ -407,7 +373,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-07T16:42:26.307159+00:00"
+    "discovered_at": "2026-11-07T20:37:12.954338+00:00"
   },
   {
     "id": "unstop:1785416",
@@ -447,7 +413,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-07T16:42:28.313606+00:00"
+    "discovered_at": "2026-11-07T20:37:14.907675+00:00"
   },
   {
     "id": "unstop:1791573",
@@ -487,7 +453,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-07T16:42:26.307222+00:00"
+    "discovered_at": "2026-11-07T20:37:12.954373+00:00"
   },
   {
     "id": "unstop:1799509",
@@ -525,7 +491,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-07T16:42:24.621728+00:00"
+    "discovered_at": "2026-11-07T20:37:10.720066+00:00"
   },
   {
     "id": "unstop:1799475",
@@ -563,7 +529,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-07T16:42:26.303461+00:00"
+    "discovered_at": "2026-11-07T20:37:12.952323+00:00"
   },
   {
     "id": "unstop:1792269",
@@ -603,7 +569,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-07T16:42:26.307508+00:00"
+    "discovered_at": "2026-11-07T20:37:12.954534+00:00"
   },
   {
     "id": "unstop:1799510",
@@ -641,7 +607,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-07T16:42:24.621641+00:00"
+    "discovered_at": "2026-11-07T20:37:10.720014+00:00"
   },
   {
     "id": "unstop:1799543",
@@ -679,7 +645,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-07T16:42:24.621570+00:00"
+    "discovered_at": "2026-11-07T20:37:10.719973+00:00"
   },
   {
     "id": "unstop:1792758",
@@ -714,7 +680,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-07T16:42:26.306337+00:00"
+    "discovered_at": "2026-11-07T20:37:12.953766+00:00"
   },
   {
     "id": "unstop:1779479",
@@ -752,7 +718,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-07T16:42:26.307411+00:00"
+    "discovered_at": "2026-11-07T20:37:12.954477+00:00"
   },
   {
     "id": "unstop:1800358",
@@ -786,7 +752,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-07T16:42:24.620717+00:00"
+    "discovered_at": "2026-11-07T20:37:10.718754+00:00"
   },
   {
     "id": "unstop:1799767",
@@ -824,7 +790,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-07T16:42:24.620565+00:00"
+    "discovered_at": "2026-11-07T20:37:10.719287+00:00"
   },
   {
     "id": "unstop:1799092",
@@ -862,7 +828,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-07T16:42:24.620104+00:00"
+    "discovered_at": "2026-11-07T20:37:10.719014+00:00"
   },
   {
     "id": "unstop:1800324",
@@ -896,7 +862,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-07T16:42:24.619615+00:00"
+    "discovered_at": "2026-11-07T20:37:10.719756+00:00"
   },
   {
     "id": "unstop:1798702",
@@ -936,7 +902,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-07T16:42:26.304567+00:00"
+    "discovered_at": "2026-11-07T20:37:12.953069+00:00"
   },
   {
     "id": "unstop:1797543",
@@ -970,7 +936,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-07T16:42:26.304825+00:00"
+    "discovered_at": "2026-11-07T20:37:12.953221+00:00"
   },
   {
     "id": "unstop:1782683",
@@ -1004,7 +970,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-07T16:42:28.313080+00:00"
+    "discovered_at": "2026-11-07T20:37:14.907505+00:00"
   },
   {
     "id": "unstop:1790680",
@@ -1041,7 +1007,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-07T16:42:28.312299+00:00"
+    "discovered_at": "2026-11-07T20:37:14.907048+00:00"
   },
   {
     "id": "unstop:1791313",
@@ -1079,7 +1045,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-07T16:42:28.312899+00:00"
+    "discovered_at": "2026-11-07T20:37:14.907408+00:00"
   },
   {
     "id": "unstop:1792826",
@@ -1113,7 +1079,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-07T16:42:26.306989+00:00"
+    "discovered_at": "2026-11-07T20:37:12.954249+00:00"
   },
   {
     "id": "unstop:1792025",
@@ -1147,7 +1113,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-07T16:42:26.305291+00:00"
+    "discovered_at": "2026-11-07T20:37:12.953488+00:00"
   },
   {
     "id": "unstop:1795775",
@@ -1187,7 +1153,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-07T16:42:26.303877+00:00"
+    "discovered_at": "2026-11-07T20:37:12.952580+00:00"
   },
   {
     "id": "unstop:1794889",
@@ -1227,7 +1193,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-07T16:42:26.305429+00:00"
+    "discovered_at": "2026-11-07T20:37:12.953564+00:00"
   },
   {
     "id": "unstop:1799800",
@@ -1265,7 +1231,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": true,
     "is_active": true,
-    "discovered_at": "2026-11-07T16:42:24.620376+00:00"
+    "discovered_at": "2026-11-07T20:37:10.719174+00:00"
   },
   {
     "id": "unstop:1800395",
@@ -1299,7 +1265,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-07T16:42:24.619339+00:00"
+    "discovered_at": "2026-11-07T20:37:10.718698+00:00"
   },
   {
     "id": "hackerearth:contextcon-remember-everything",
@@ -1335,7 +1301,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-07T16:42:31.625502+00:00"
+    "discovered_at": "2026-11-07T20:37:18.838374+00:00"
   },
   {
     "id": "devpost:30740",
@@ -1371,7 +1337,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-07T16:42:30.750290+00:00"
+    "discovered_at": "2026-11-07T20:37:17.819076+00:00"
   },
   {
     "id": "devpost:30764",
@@ -1407,7 +1373,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-07T16:42:30.750313+00:00"
+    "discovered_at": "2026-11-07T20:37:17.819092+00:00"
   },
   {
     "id": "devpost:31060",
@@ -1443,50 +1409,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-07T16:42:30.881908+00:00"
-  },
-  {
-    "id": "devpost:31787",
-    "source": "Devpost",
-    "title": "GenHacks",
-    "url": "https://genhacks-open.devpost.com/",
-    "description": "Devpost hackathon. about 2 months left",
-    "organizer": "Shail & Sharaf",
-    "venue": "Online",
-    "mode": "Online",
-    "city": null,
-    "state": null,
-    "country": null,
-    "start_date": null,
-    "end_date": null,
-    "registration_deadline": "Nov 01 - Dec 26, 2026",
-    "min_team_size": 1,
-    "max_team_size": null,
-    "solo_allowed": true,
-    "eligibility": "Global Devpost Participants",
-    "prize_pool": "$CAD 1,050",
-    "tracks": [
-      "Beginner Friendly",
-      "IoT",
-      "Machine Learning/AI"
-    ],
-    "score": 75,
-    "matched_reasons": [
-      "🌐 **Accessible Online Mode** (+15 pts)",
-      "👤 **Solo Eligible (1 Member)** (+35 pts)",
-      "🤖 **AI & Software Tracks** (+25 pts) [AI, Machine Learning]"
-    ],
-    "is_nagpur_local": false,
-    "is_maharashtra": false,
-    "is_active": true,
-    "discovered_at": "2026-11-07T16:42:30.881936+00:00"
+    "discovered_at": "2026-11-07T20:37:18.012550+00:00"
   },
   {
     "id": "devpost:31489",
     "source": "Devpost",
     "title": "EthnoHack",
     "url": "https://ethnohack2026.devpost.com/",
-    "description": "Devpost hackathon. about 16 hours left",
+    "description": "Devpost hackathon. about 12 hours left",
     "organizer": "ETHCSTWIN",
     "venue": "Online",
     "mode": "Online",
@@ -1515,7 +1445,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-07T16:42:30.750335+00:00"
+    "discovered_at": "2026-11-07T20:37:17.819106+00:00"
   },
   {
     "id": "devpost:31642",
@@ -1551,7 +1481,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-07T16:42:30.750269+00:00"
+    "discovered_at": "2026-11-07T20:37:17.819053+00:00"
   },
   {
     "id": "devpost:31083",
@@ -1587,7 +1517,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-07T16:42:30.671303+00:00"
+    "discovered_at": "2026-11-07T20:37:17.647607+00:00"
   },
   {
     "id": "devpost:31480",
@@ -1623,7 +1553,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-07T16:42:30.881901+00:00"
+    "discovered_at": "2026-11-07T20:37:18.012541+00:00"
   },
   {
     "id": "hackerearth:mks-inc-hackathon",
@@ -1659,7 +1589,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-07T16:42:31.625488+00:00"
+    "discovered_at": "2026-11-07T20:37:18.838366+00:00"
   },
   {
     "id": "hackerearth:ibm-z-day",
@@ -1695,7 +1625,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-07T16:42:31.625462+00:00"
+    "discovered_at": "2026-11-07T20:37:18.838341+00:00"
   },
   {
     "id": "devpost:31302",
@@ -1731,7 +1661,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-07T16:42:30.671233+00:00"
+    "discovered_at": "2026-11-07T20:37:17.647555+00:00"
   },
   {
     "id": "devpost:31659",
@@ -1767,7 +1697,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-07T16:42:30.671296+00:00"
+    "discovered_at": "2026-11-07T20:37:17.647612+00:00"
   },
   {
     "id": "devpost:31666",
@@ -1803,14 +1733,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-07T16:42:30.881929+00:00"
+    "discovered_at": "2026-11-07T20:37:18.012563+00:00"
   },
   {
     "id": "devpost:31664",
     "source": "Devpost",
     "title": "Herhack",
     "url": "https://herhack.devpost.com/",
-    "description": "Devpost hackathon. 4 days left",
+    "description": "Devpost hackathon. 3 days left",
     "organizer": "Echelon institute of technology",
     "venue": "Online",
     "mode": "Online",
@@ -1839,14 +1769,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-07T16:42:30.881892+00:00"
+    "discovered_at": "2026-11-07T20:37:18.012536+00:00"
   },
   {
     "id": "devpost:31789",
     "source": "Devpost",
     "title": "STEM2Connect AI Hackathon",
     "url": "https://stem2connect-online-hackathon.devpost.com/",
-    "description": "Devpost hackathon. 15 days left",
+    "description": "Devpost hackathon. 14 days left",
     "organizer": "STEM2Connect",
     "venue": "Online",
     "mode": "Online",
@@ -1875,7 +1805,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-07T16:42:30.750326+00:00"
+    "discovered_at": "2026-11-07T20:37:17.819099+00:00"
   },
   {
     "id": "devpost:31796",
@@ -1911,7 +1841,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-07T16:42:30.750342+00:00"
+    "discovered_at": "2026-11-07T20:37:17.819110+00:00"
   },
   {
     "id": "devpost:30789",
@@ -1947,14 +1877,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-07T16:42:30.671316+00:00"
+    "discovered_at": "2026-11-07T20:37:17.647621+00:00"
   },
   {
     "id": "devpost:31552",
     "source": "Devpost",
     "title": "UGREEN Hackathon 2026 on AI NAS",
     "url": "https://ugreenhackathon.devpost.com/",
-    "description": "Devpost hackathon. 9 days left",
+    "description": "Devpost hackathon. 8 days left",
     "organizer": "UGREEN",
     "venue": "Online",
     "mode": "Online",
@@ -1983,14 +1913,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-07T16:42:30.671288+00:00"
+    "discovered_at": "2026-11-07T20:37:17.647602+00:00"
   },
   {
     "id": "devpost:31572",
     "source": "Devpost",
     "title": "Codegeist 2026: Build with context. Ship with confidence.",
     "url": "https://codegeist2026.devpost.com/",
-    "description": "Devpost hackathon. about 2 months left",
+    "description": "Devpost hackathon. about 1 month left",
     "organizer": "Atlassian",
     "venue": "Online",
     "mode": "Online",
@@ -2019,7 +1949,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-07T16:42:30.671280+00:00"
+    "discovered_at": "2026-11-07T20:37:17.647597+00:00"
   },
   {
     "id": "devpost:31907",
@@ -2055,7 +1985,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-07T16:42:30.750320+00:00"
+    "discovered_at": "2026-11-07T20:37:17.819096+00:00"
   },
   {
     "id": "devpost:31667",
@@ -2091,7 +2021,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-07T16:42:30.671259+00:00"
+    "discovered_at": "2026-11-07T20:37:17.647581+00:00"
   },
   {
     "id": "devpost:31187",
@@ -2127,7 +2057,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-07T16:42:30.881881+00:00"
+    "discovered_at": "2026-11-07T20:37:18.012527+00:00"
   },
   {
     "id": "devpost:31024",
@@ -2163,7 +2093,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-07T16:42:30.671271+00:00"
+    "discovered_at": "2026-11-07T20:37:17.647590+00:00"
   },
   {
     "id": "unstop:1793796",
@@ -2203,7 +2133,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": true,
     "is_active": true,
-    "discovered_at": "2026-11-07T16:42:26.304247+00:00"
+    "discovered_at": "2026-11-07T20:37:12.952806+00:00"
   },
   {
     "id": "unstop:1792835",
@@ -2236,14 +2166,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-07T16:42:28.312391+00:00"
+    "discovered_at": "2026-11-07T20:37:14.907107+00:00"
   },
   {
     "id": "unstop:1778710",
     "source": "Unstop",
     "title": "Roboforge",
     "url": "https://unstop.com/hackathons/roboforge-maharaja-surajmal-institute-of-technology-msit-new-delhi-1778710",
-    "description": "RoboForge &ndash; Open Innovation Hackathon By E-Yantra, MSIT Imagine it. Pitch it. Build it. Show it. RoboForge is an open-innovation hackathon where students turn bold ideas into working prototypes. Explore innovation across Hardware &amp; Physical Systems and Software &amp; Intelligent Systems, with the freedom to build solutions that go beyond predefined problem statements. Innovation Tracks: Hardware &amp; Physical Systems: Robotics &amp; Automation IoT &amp; Embedded Systems Electronics &amp; Hardware Innovation Software &amp; Intelligent Systems: AI, ML &amp; Intelligent Applications Simulation, Digital Twins &amp; Virtual Robotics Software Engineering &amp; Emerging Technologies Bring your own idea, explore your interests, and build something innovative. Cross-track and hardware&ndash;software integrated projects are highly encouraged. How It Works: 1. Idea Submission: Register and submit a PPT outlining your idea, technical approach, and proposed prototype. 2. Shortlisting: Projects will be evaluated, and selected teams will advance to the next round. 3. Build &amp; Showcase: Develop and demonstrate your working hardware prototype, software application, simulation, or integrated solution at MSIT. Event Details: Final Showcase: 16 November 2026 Venue: MSIT Seminar Hall &ndash; 406 Participation: Free No fixed themes. Just your ideas and your innovation. RoboForge &ndash; Where Ideas Take Shape.",
+    "description": "RoboForge &ndash; Open Innovation Hackathon By E-Yantra, MSIT Imagine it. Pitch it. Build it. Show it. RoboForge is an open-innovation hackathon where students turn bold ideas into working prototypes. Explore innovation across Hardware &amp; Physical Systems and Software &amp; Intelligent Systems, with the freedom to build solutions that go beyond predefined problem statements. Innovation Tracks: Hardware &amp; Physical Systems: Robotics &amp; Automation IoT &amp; Embedded Systems Electronics &amp; Hardware Innovation Software &amp; Intelligent Systems: AI, ML &amp; Intelligent Applications Simulation, Digital Twins &amp; Virtual Robotics Software Engineering &amp; Emerging Technologies Bring your own idea, explore your interests, and build something innovative. Cross-track and hardware&ndash;software integrated projects are highly encouraged. How It Works: 1. Idea Submission: Register and submit a PPT outlining your idea, technical approach, and proposed prototype. 2. Shortlisting: Projects will be evaluated, and selected teams will advance to the next round. 3. Build &amp; Showcase: Develop and demonstrate your working hardware prototype, software application, simulation, or integrated solution at MSIT. Event Details: Final Showcase: 16 November 2026 Venue: MSIT Seminar Hall &ndash; 406 Participation: Free No fixed themes. Just your ideas and your innovation. Join the official WhatsApp QnA group:&nbsp; https://chat.whatsapp.com/CurzCIkvbIfHjQDCcIzAKP?s=cl&amp;p=a&amp;iam=2 RoboForge &ndash; Where Ideas Take Shape.",
     "organizer": "Maharaja Surajmal Institute of Technology (MSIT), New Delhi",
     "venue": "offline",
     "mode": "In-Person",
@@ -2269,7 +2199,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-07T16:42:24.621310+00:00"
+    "discovered_at": "2026-11-07T20:37:10.719795+00:00"
   },
   {
     "id": "unstop:1772221",
@@ -2308,7 +2238,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-07T16:42:26.304410+00:00"
+    "discovered_at": "2026-11-07T20:37:12.952909+00:00"
   },
   {
     "id": "unstop:1771951",
@@ -2347,7 +2277,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-07T16:42:28.313963+00:00"
+    "discovered_at": "2026-11-07T20:37:14.907888+00:00"
   },
   {
     "id": "unstop:1781454",
@@ -2386,7 +2316,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-07T16:42:26.306070+00:00"
+    "discovered_at": "2026-11-07T20:37:12.953613+00:00"
   },
   {
     "id": "unstop:1793341",
@@ -2425,40 +2355,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-07T16:42:26.306926+00:00"
-  },
-  {
-    "id": "unstop:1786387",
-    "source": "Unstop",
-    "title": "CODE SHIFT 2026",
-    "url": "https://unstop.com/hackathons/code-shift-2026-infotechiezz-1786387",
-    "description": "CODE SHIFT 2026&nbsp;&nbsp; Organised by InfoTechiezz&nbsp; &nbsp;x&nbsp; Shortfundly OTT Marketplace &nbsp; Shift Your Thinking. Solve Differently. CODE SHIFT 2026 is an online coding competition designed to test students' programming knowledge, logical reasoning, and problem-solving abilities. Participants will compete in a single round featuring two DSA problems, providing an opportunity to demonstrate their coding skills and algorithmic thinking. Competition Format Competition Type: Online Coding Challenge Total Rounds: 1 Round Name: Algorithm Clash Total Problems: 2 DSA Questions Duration: 90 min Registration Fee: Free Mode: Online Round 1 &mdash; Algorithm Clash Participants will solve 2 coding problems within the allotted time. Solutions will be evaluated based on correctness, test cases passed, and the official judging criteria. Eligibility Criteria Second-year college students. Pre-final-year college students. Eligible students from Tamil Nadu. Participants should have basic programming knowledge and an interest in problem-solving. Participation Type: Individual. Rules and Guidelines Participants must register through the official Unstop opportunity page. The competition consists of 2 DSA problems in a single round. Solutions must be submitted within the allotted time. Only valid submissions through the designated coding platform will be considered. Plagiarism, copied code, or unfair practices may result in disqualification. Participants must follow the competition instructions. Organiser decisions regarding evaluation and results will be final. Rewards and Recognition Top 2 Performers &mdash; Free Internship Opportunity! The Top 2 performers will receive an opportunity to pursue a free internship with InfoTechiezz , subject to the organiser's eligibility criteria and applicable terms. This is an opportunity to gain practical experience, strengthen technical skills, and explore real-world learning opportunities. Top 3 Performers &mdash; Exciting Prizes! The Top 3 participants will receive exciting prizes in recognition of their outstanding coding performance, problem-solving abilities, and achievements in CODE SHIFT 2026. Why Participate? Test your coding and algorithmic thinking skills. Compete with students from different institutions. Improve your problem-solving abilities. Gain competitive programming experience. Earn recognition for your performance. Skills to Be Assessed Data Structures and Algorithms (DSA). Problem Solving. Logical Reasoning. Programming Fundamentals. Algorithm Design. Code Optimization. Bonus Rewards &amp; Exclusive Benefits Follow InfoTechiezz on its official platforms to discover additional coding preparation resources, community activities, and learning opportunities. Participants who complete the applicable social-media follow and subscription requirements may become eligible for additional benefits. How to Claim Bonus Benefits: Follow InfoTechiezz on its official social media platforms. Subscribe to the InfoTechiezz YouTube channel. Take screenshots as proof of completion. Send your screenshots to admin@infotechiezz.com . Wait for verification by the organiser. Additional benefits are subject to verification and availability. What You May Get After verification, eligible participants may receive: Tips and strategies for coding rounds. Coding tricks and shortcuts. Guidance on approaching algorithmic problems. Additional DSA practice resources. Special coding preparation content. Learning resources to improve programming skills. Extra Learning Benefits Subscribe to the InfoTechiezz YouTube channel for: Coding tutorials. Data Structures and Algorithms preparation. Problem-solving strategies. Programming tips and techniques. Competitive programming guidance. Coding contest preparation resources. Future Premium Contest Benefits Active community members may receive additional benefits in upcoming contests, subject to availability and applicable terms. Potential benefits include: Exclusive coupon codes. Discounted entry passes for eligible future contests. Priority reward opportunities. Premium coding preparation materials. Access to selected learning resources. These benefits are not guaranteed and may vary by contest. Refer &amp; Earn Invite your friends to follow InfoTechiezz and participate in the Reverse Coding Challenge 2026 . Share the opportunity with fellow students, developers, and coding enthusiasts. Eligible referrals may unlock surprise rewards and exclusive benefits, subject to the organiser's referral rules and verification. Stay Connected with InfoTechiezz Follow our official platforms for coding preparation content, contest announcements, results, learning resources, and future opportunities. Website https://www.infotechiezz.com/ YouTube https://www.youtube.com/@InfoTechiezz Instagram https://www.instagram.com/infotechiezz/ LinkedIn https://www.linkedin.com/in/infotechiezz/ WhatsApp Channel https://whatsapp.com/channel/0029Vb7QJZG8fewpER7N8U0V X (Twitter) https://x.com/infotechiezz Contact Email: admin@infotechiezz.com &nbsp; Ready to Take the Challenge? Prepare your logic, sharpen your coding skills, and get ready to compete. Register now. Solve smart. Climb the leaderboard. Earn your recognition. InfoTechiezz&nbsp; x&nbsp; Shortfundly OTT Marketplace&nbsp; &mdash; Learn. Code. Compete. Grow. &nbsp;",
-    "organizer": "InfoTechiezz",
-    "venue": "Online",
-    "mode": "Online",
-    "city": null,
-    "state": "online",
-    "country": null,
-    "start_date": "2026-10-30T00:00:00+05:30",
-    "end_date": "2026-11-08T23:00:00+05:30",
-    "registration_deadline": "2026-11-07T23:00:00+05:30",
-    "min_team_size": 1,
-    "max_team_size": 1,
-    "solo_allowed": true,
-    "eligibility": "Open to college students & coders",
-    "prize_pool": "Prizes & Certificates",
-    "tracks": [
-      "All"
-    ],
-    "score": 50,
-    "matched_reasons": [
-      "🌐 **Accessible Online Mode** (+15 pts)",
-      "👤 **Solo Eligible (1 Member)** (+35 pts)"
-    ],
-    "is_nagpur_local": false,
-    "is_maharashtra": false,
-    "is_active": true,
-    "discovered_at": "2026-11-07T16:42:28.313361+00:00"
+    "discovered_at": "2026-11-07T20:37:12.954213+00:00"
   },
   {
     "id": "unstop:1795134",
@@ -2497,7 +2394,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-07T16:42:26.303708+00:00"
+    "discovered_at": "2026-11-07T20:37:12.952480+00:00"
   },
   {
     "id": "unstop:1799782",
@@ -2534,7 +2431,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-07T16:42:24.620156+00:00"
+    "discovered_at": "2026-11-07T20:37:10.719043+00:00"
   },
   {
     "id": "unstop:1799780",
@@ -2571,7 +2468,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-07T16:42:24.620203+00:00"
+    "discovered_at": "2026-11-07T20:37:10.719071+00:00"
   },
   {
     "id": "unstop:1799778",
@@ -2608,7 +2505,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-07T16:42:24.620252+00:00"
+    "discovered_at": "2026-11-07T20:37:10.719099+00:00"
   },
   {
     "id": "unstop:1799776",
@@ -2645,7 +2542,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-07T16:42:24.620300+00:00"
+    "discovered_at": "2026-11-07T20:37:10.719127+00:00"
   },
   {
     "id": "unstop:1799791",
@@ -2682,7 +2579,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-07T16:42:24.620424+00:00"
+    "discovered_at": "2026-11-07T20:37:10.719202+00:00"
   },
   {
     "id": "unstop:1799788",
@@ -2719,7 +2616,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-07T16:42:24.620469+00:00"
+    "discovered_at": "2026-11-07T20:37:10.719229+00:00"
   },
   {
     "id": "unstop:1799790",
@@ -2756,7 +2653,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-07T16:42:24.620518+00:00"
+    "discovered_at": "2026-11-07T20:37:10.719258+00:00"
   },
   {
     "id": "unstop:1793392",
@@ -2789,7 +2686,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-07T16:42:26.307042+00:00"
+    "discovered_at": "2026-11-07T20:37:12.954279+00:00"
   },
   {
     "id": "devpost:31108",
@@ -2824,14 +2721,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-07T16:42:30.881860+00:00"
+    "discovered_at": "2026-11-07T20:37:18.012505+00:00"
   },
   {
     "id": "devpost:30500",
     "source": "Devpost",
     "title": "DSH Hacks V2 ($100k+ in prizes!)",
     "url": "https://dsh-hacks-v2.devpost.com/",
-    "description": "Devpost hackathon. 8 days left",
+    "description": "Devpost hackathon. 7 days left",
     "organizer": "STEMise",
     "venue": "Online",
     "mode": "Online",
@@ -2859,14 +2756,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-07T16:42:30.671309+00:00"
+    "discovered_at": "2026-11-07T20:37:17.647617+00:00"
   },
   {
     "id": "devpost:31627",
     "source": "Devpost",
     "title": "Next Byte Hacks V5",
     "url": "https://next-byte-hacks-v5.devpost.com/",
-    "description": "Devpost hackathon. about 5 hours left",
+    "description": "Devpost hackathon. about 1 hour left",
     "organizer": "Next Byte Hacks",
     "venue": "Online",
     "mode": "Online",
@@ -2894,7 +2791,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-07T16:42:30.750299+00:00"
+    "discovered_at": "2026-11-07T20:37:17.819082+00:00"
   },
   {
     "id": "devpost:31773",
@@ -2928,7 +2825,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-07T16:42:30.750306+00:00"
+    "discovered_at": "2026-11-07T20:37:17.819087+00:00"
   },
   {
     "id": "devpost:31795",
@@ -2963,7 +2860,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-07T16:42:30.881921+00:00"
+    "discovered_at": "2026-11-07T20:37:18.012559+00:00"
   },
   {
     "id": "devpost:31798",
@@ -2997,7 +2894,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-07T16:42:30.881915+00:00"
+    "discovered_at": "2026-11-07T20:37:18.012554+00:00"
   },
   {
     "id": "unstop:1800147",
@@ -3036,7 +2933,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-07T16:42:24.620909+00:00"
+    "discovered_at": "2026-11-07T20:37:10.719453+00:00"
   },
   {
     "id": "unstop:1786997",
@@ -3075,7 +2972,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-07T16:42:26.306208+00:00"
+    "discovered_at": "2026-11-07T20:37:12.953693+00:00"
   },
   {
     "id": "unstop:1799179",
@@ -3114,7 +3011,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-07T16:42:24.621254+00:00"
+    "discovered_at": "2026-11-07T20:37:12.952984+00:00"
   },
   {
     "id": "unstop:1794890",
@@ -3149,7 +3046,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-07T16:42:26.305715+00:00"
+    "discovered_at": "2026-11-07T20:37:12.953921+00:00"
   },
   {
     "id": "unstop:1794529",
@@ -3183,7 +3080,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-07T16:42:24.621020+00:00"
+    "discovered_at": "2026-11-07T20:37:10.719523+00:00"
   },
   {
     "id": "unstop:1799143",
@@ -3222,7 +3119,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-07T16:42:24.621147+00:00"
+    "discovered_at": "2026-11-07T20:37:10.719593+00:00"
   },
   {
     "id": "unstop:1786652",
@@ -3255,7 +3152,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-07T16:42:26.305526+00:00"
+    "discovered_at": "2026-11-07T20:37:12.953820+00:00"
   },
   {
     "id": "unstop:1798287",
@@ -3288,6 +3185,6 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-07T16:42:26.304758+00:00"
+    "discovered_at": "2026-11-07T20:37:12.953182+00:00"
   }
 ]

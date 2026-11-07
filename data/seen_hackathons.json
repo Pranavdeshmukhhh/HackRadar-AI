@@ -2869,5 +2869,59 @@
     "last_notified": "2026-11-07T10:51:38.509010+00:00",
     "is_nagpur_local": false,
     "solo_allowed": false
+  },
+  "unstop:1800358": {
+    "title": "HierroCTF 2026 – Capture The Flag (CTF) Competition",
+    "url": "https://unstop.com/hackathons/hierroctf-2026-capture-the-flag-ctf-competition-hierroshield-pvt-ltd-1800358",
+    "score": 75,
+    "source": "Unstop",
+    "last_notified": "2026-11-07T16:42:36.097888+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:1800324": {
+    "title": "Agentware | 72-Hour Hackathon",
+    "url": "https://unstop.com/hackathons/agentware-72-hour-hackathon-hackathon-raptors-1800324",
+    "score": 75,
+    "source": "Unstop",
+    "last_notified": "2026-11-07T16:42:36.097888+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:1800395": {
+    "title": "Galuxium Nexus V3: The Global AI, Autonomous Systems & Venture SaaS Championship",
+    "url": "https://unstop.com/hackathons/galuxium-nexus-v3-the-global-ai-autonomous-systems-venture-saas-championship-galuxium-1800395",
+    "score": 75,
+    "source": "Unstop",
+    "last_notified": "2026-11-07T16:42:36.097888+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "hackerearth:contextcon-remember-everything": {
+    "title": "ContextCon: Remember Everything",
+    "url": "https://www.hackerearth.com/challenges/hackathon/contextcon-remember-everything/",
+    "score": 75,
+    "source": "HackerEarth",
+    "last_notified": "2026-11-07T16:42:36.097888+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "devpost:31787": {
+    "title": "GenHacks",
+    "url": "https://genhacks-open.devpost.com/",
+    "score": 75,
+    "source": "Devpost",
+    "last_notified": "2026-11-07T16:42:36.097888+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:1800147": {
+    "title": "HackSphere - Build and learn (Aayam XI)",
+    "url": "https://unstop.com/hackathons/hacksphere-build-and-learn-aayam-xi-national-institute-of-technology-nit-agartala-1800147",
+    "score": 40,
+    "source": "Unstop",
+    "last_notified": "2026-11-07T16:42:36.097888+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": false
   }
 }

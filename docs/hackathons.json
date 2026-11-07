@@ -33,7 +33,7 @@
     "is_nagpur_local": true,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-07T03:56:35.600265+00:00"
+    "discovered_at": "2026-11-07T10:51:30.427850+00:00"
   },
   {
     "id": "unstop:1788753",
@@ -72,7 +72,7 @@
     "is_nagpur_local": true,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-07T03:56:26.174922+00:00"
+    "discovered_at": "2026-11-07T10:51:23.586149+00:00"
   },
   {
     "id": "unstop:1794522",
@@ -107,7 +107,123 @@
     "is_nagpur_local": false,
     "is_maharashtra": true,
     "is_active": true,
-    "discovered_at": "2026-11-07T03:56:26.175909+00:00"
+    "discovered_at": "2026-11-07T10:51:23.587081+00:00"
+  },
+  {
+    "id": "unstop:1799762",
+    "source": "Unstop",
+    "title": "Project Jupyter",
+    "url": "https://unstop.com/hackathons/project-jupyter-solutions-2k27-army-institute-of-technology-pune-1799762",
+    "description": "All that you need to know about Project Jupyter Event Overview Purpose: Project Jupyter brings together developers, designers, and problem-solvers to build innovative solutions using Artificial Intelligence and Machine Learning . The event encourages participants to develop creative and impactful projects that address real-world challenges across various domains such as healthcare, education, environment, sustainability, smart cities, and social welfare. Participants are free to work on any project idea or problem statement , whether it is a global challenge or a local community problem they have identified. The key focus is to create technology-driven solutions with AI/ML integration that demonstrate innovation and practical impact. Goal: To develop AI/ML-powered projects and intelligent systems that solve real-world problems, promote technological innovation, and showcase practical applications of emerging technologies. Why You Should Join Collaborate: Work alongside innovators, developers, and designers who are passionate about building cutting edge AI and ML based solutions . Mentorship: Gain valuable insights and guidance from industry experts and mentors in the fields of Artificial Intelligence, Machine Learning, and software development. Recognition &amp; Prizes: The best projects will be featured and rewarded with exciting prizes , along with opportunities for further development and exposure. Impact: Your solution could contribute to real-world change by solving meaningful problems through technology. How to Get Involved Register Now: Don&rsquo;t miss the opportunity to be part of a community of innovators working on AI-driven projects and impactful technological solutions.",
+    "organizer": "Army Institute of technology, Pune",
+    "venue": "Online",
+    "mode": "Online",
+    "city": null,
+    "state": "online",
+    "country": null,
+    "start_date": "2026-11-07T00:00:00+05:30",
+    "end_date": "2027-03-10T12:00:00+05:30",
+    "registration_deadline": "2027-03-01T00:00:00+05:30",
+    "min_team_size": 1,
+    "max_team_size": 1,
+    "solo_allowed": true,
+    "eligibility": "Undergraduate / Postgraduate & Engineering students",
+    "prize_pool": "Prizes & Certificates",
+    "tracks": [
+      "Engineering Students",
+      "Postgraduate",
+      "Undergraduate",
+      "Management",
+      "Arts, Commerce, Sciences & Others"
+    ],
+    "score": 100,
+    "matched_reasons": [
+      "🏢 **Maharashtra Proximity** (+25 pts) [Pune]",
+      "🌐 **Accessible Online Mode** (+15 pts)",
+      "👤 **Solo Eligible (1 Member)** (+35 pts)",
+      "🤖 **AI & Software Tracks** (+25 pts) [AI, Artificial Intelligence, Machine Learning]"
+    ],
+    "is_nagpur_local": false,
+    "is_maharashtra": true,
+    "is_active": true,
+    "discovered_at": "2026-11-07T10:51:21.271556+00:00"
+  },
+  {
+    "id": "unstop:1799765",
+    "source": "Unstop",
+    "title": "Crackhunt",
+    "url": "https://unstop.com/hackathons/crackhunt-solutions-2k27-army-institute-of-technology-pune-1799765",
+    "description": "All that you need to know about Crackhunt Description: Crackhunt is a cybersecurity-based gaming event organized by the ISDF Club at AIT The event focuses on problem-solving and security challenges Any violation of the rules will result in disqualification Rules: The duration of the event is 3 hours; any levels completed outside this window will not be counted Attacking servers of any kind, including DDoS attacks or scripting attacks, will lead to immediate disqualification Sharing puzzle answers is strictly prohibited Multiple logins using the same ID will result in disqualification Posting puzzles or levels on public forums, messaging boards, or similar platforms is not allowed Use of LLMs and AI tools is not permitted The event will be hosted on the official event website Additional Information: Participants may contact the organizing team for any queries or doubts",
+    "organizer": "Army Institute of technology, Pune",
+    "venue": "Online",
+    "mode": "Online",
+    "city": null,
+    "state": "online",
+    "country": null,
+    "start_date": "2026-11-07T00:00:00+05:30",
+    "end_date": "2027-03-05T17:15:00+05:30",
+    "registration_deadline": "2027-03-01T00:00:00+05:30",
+    "min_team_size": 1,
+    "max_team_size": 1,
+    "solo_allowed": true,
+    "eligibility": "Undergraduate / Postgraduate & Engineering students",
+    "prize_pool": "Prizes & Certificates",
+    "tracks": [
+      "Engineering Students",
+      "Postgraduate",
+      "Undergraduate",
+      "Management",
+      "Arts, Commerce, Sciences & Others"
+    ],
+    "score": 100,
+    "matched_reasons": [
+      "🏢 **Maharashtra Proximity** (+25 pts) [Pune]",
+      "🌐 **Accessible Online Mode** (+15 pts)",
+      "👤 **Solo Eligible (1 Member)** (+35 pts)",
+      "🤖 **AI & Software Tracks** (+25 pts) [AI, Cybersecurity]"
+    ],
+    "is_nagpur_local": false,
+    "is_maharashtra": true,
+    "is_active": true,
+    "discovered_at": "2026-11-07T10:51:21.271642+00:00"
+  },
+  {
+    "id": "unstop:1799761",
+    "source": "Unstop",
+    "title": "SQL Mania",
+    "url": "https://unstop.com/hackathons/sql-mania-solutions-2k27-army-institute-of-technology-pune-1799761",
+    "description": "All that you need to know about SQL Mania SQL Mania is an offline competitive SQL event designed to evaluate participants&rsquo; database knowledge, analytical thinking, and real-world query writing skills. Participants will work on a structured relational database and solve industry-inspired problem statements using SQL queries within a fixed time limit. The competition emphasizes accuracy, efficiency, optimization, and clean query structuring &mdash; reflecting real-world backend development and data engineering scenarios. This event is ideal for students interested in: Data Analytics Backend Development Database Management Systems (DBMS) Software Engineering Eligibility: Individual Participation Open exclusively to Engineering Students",
+    "organizer": "Army Institute of technology, Pune",
+    "venue": "offline",
+    "mode": "In-Person",
+    "city": null,
+    "state": "offline",
+    "country": null,
+    "start_date": "2026-11-07T00:00:00+05:30",
+    "end_date": "2027-03-05T12:00:00+05:30",
+    "registration_deadline": "2027-03-01T00:00:00+05:30",
+    "min_team_size": 1,
+    "max_team_size": 1,
+    "solo_allowed": true,
+    "eligibility": "Undergraduate / Postgraduate & Engineering students",
+    "prize_pool": "Prizes & Certificates",
+    "tracks": [
+      "Engineering Students",
+      "Postgraduate",
+      "Undergraduate",
+      "Management",
+      "Arts, Commerce, Sciences & Others"
+    ],
+    "score": 85,
+    "matched_reasons": [
+      "🏢 **Maharashtra Proximity** (+25 pts) [Pune]",
+      "👤 **Solo Eligible (1 Member)** (+35 pts)",
+      "🤖 **AI & Software Tracks** (+25 pts) [Software Engineering, Backend]"
+    ],
+    "is_nagpur_local": false,
+    "is_maharashtra": true,
+    "is_active": true,
+    "discovered_at": "2026-11-07T10:51:21.271674+00:00"
   },
   {
     "id": "college:mindsparkorg",
@@ -143,7 +259,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": true,
     "is_active": true,
-    "discovered_at": "2026-11-07T03:56:35.402423+00:00"
+    "discovered_at": "2026-11-07T10:51:30.618458+00:00"
   },
   {
     "id": "unstop:1795047",
@@ -177,7 +293,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-07T03:56:26.176447+00:00"
+    "discovered_at": "2026-11-07T10:51:23.587692+00:00"
   },
   {
     "id": "unstop:1798516",
@@ -211,7 +327,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": true,
     "is_active": true,
-    "discovered_at": "2026-11-07T03:56:26.173684+00:00"
+    "discovered_at": "2026-11-07T10:51:21.272764+00:00"
   },
   {
     "id": "unstop:1791467",
@@ -251,7 +367,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-07T03:56:26.176043+00:00"
+    "discovered_at": "2026-11-07T10:51:23.588676+00:00"
   },
   {
     "id": "unstop:1793112",
@@ -266,7 +382,7 @@
     "state": "online",
     "country": null,
     "start_date": "2026-11-03T00:00:00+05:30",
-    "end_date": "2026-11-21T10:00:00+05:30",
+    "end_date": "2026-11-15T21:00:00+05:30",
     "registration_deadline": "2026-11-13T00:00:00+05:30",
     "min_team_size": 1,
     "max_team_size": 1,
@@ -291,7 +407,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-07T03:56:26.176847+00:00"
+    "discovered_at": "2026-11-07T10:51:23.588074+00:00"
   },
   {
     "id": "unstop:1785416",
@@ -331,7 +447,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-07T03:56:28.601537+00:00"
+    "discovered_at": "2026-11-07T10:51:25.861959+00:00"
   },
   {
     "id": "unstop:1791573",
@@ -371,7 +487,83 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-07T03:56:26.176903+00:00"
+    "discovered_at": "2026-11-07T10:51:23.588128+00:00"
+  },
+  {
+    "id": "unstop:1799509",
+    "source": "Unstop",
+    "title": "AI Builder Hackathon",
+    "url": "https://unstop.com/hackathons/ai-builder-hackathon-product-space-1799509",
+    "description": "Overview: Date: 14th Nov, 2026 Registrations: &nbsp;Now Open Kickoff Session: 14th Nov (Saturday), 2026 This is a&nbsp; hands-on, build-first hackathon &nbsp;created for individuals who want to&nbsp; launch a real AI product , not just present ideas or mockups. What You&rsquo;ll Do: During this one day, participants will: Conceptualize, build, and launch a&nbsp;complete agentic AI solution Work on&nbsp;practical, real-world challenges Go through the entire product journey: Identifying the problem Designing system architecture Integrating tools and APIs Delivering a functional end product The core focus is on building&nbsp;AI agents ready for real-world use&nbsp;that can: Think and make decisions. Interact with tools. Execute tasks independently. By the end, you&rsquo;ll walk away with a&nbsp;working AI product&nbsp;that can be: Added to your portfolio. Demonstrated in interviews. Expanded into real-world use cases. Participation Guidelines: You can join&nbsp;individually or in teams (up to 2 members recommended). All development must happen&nbsp;within the hackathon timeframe. You are free to use&nbsp;AI tools, APIs, and frameworks. Participants must clearly&nbsp;document their process&nbsp;(problem &rarr; solution &rarr; architecture). A&nbsp;functional prototype or live demo is required. Submission Requirements: A&nbsp; demo video or live working product. Access to the&nbsp; codebase (GitHub or equivalent). A brief explanation of your solution. Rules &amp; Evaluation: ️&nbsp; Rules: Fully pre-built solutions are&nbsp;not allowed&nbsp;(starter templates are acceptable). Any form of&nbsp;copying or plagiarism will result in disqualification. Teams must clearly specify their actual contribution vs. AI-generated output. Submissions must be&nbsp;fully working products, not just designs or presentations. All entries must be submitted&nbsp;before the deadline.",
+    "organizer": "Product Space",
+    "venue": "Online",
+    "mode": "Online",
+    "city": null,
+    "state": "online",
+    "country": null,
+    "start_date": "2026-11-07T00:00:00+05:30",
+    "end_date": "2026-11-14T23:59:00+05:30",
+    "registration_deadline": "2026-11-14T11:00:00+05:30",
+    "min_team_size": 1,
+    "max_team_size": 2,
+    "solo_allowed": true,
+    "eligibility": "Undergraduate / Postgraduate & Engineering students",
+    "prize_pool": "Prizes & Certificates",
+    "tracks": [
+      "Engineering Students",
+      "Postgraduate",
+      "Undergraduate",
+      "Management",
+      "Arts, Commerce, Sciences & Others"
+    ],
+    "score": 75,
+    "matched_reasons": [
+      "🌐 **Accessible Online Mode** (+15 pts)",
+      "👤 **Solo Eligible (1 Member)** (+35 pts)",
+      "🤖 **AI & Software Tracks** (+25 pts) [AI, Agentic Ai, Ai Agents]"
+    ],
+    "is_nagpur_local": false,
+    "is_maharashtra": false,
+    "is_active": true,
+    "discovered_at": "2026-11-07T10:51:21.271855+00:00"
+  },
+  {
+    "id": "unstop:1799475",
+    "source": "Unstop",
+    "title": "AI Product Buildathon",
+    "url": "https://unstop.com/hackathons/ai-product-buildathon-product-space-1799475",
+    "description": "Overview: Date: 14th, 2026 Registrations: &nbsp;Now Open Kickoff Session: 14th Nov (Saturday), 2026 This is a&nbsp; hands-on, build-first hackathon &nbsp;created for individuals who want to&nbsp; launch a real AI product , not just present ideas or mockups. What You&rsquo;ll Do: During this one day, participants will: Conceptualize, build, and launch a&nbsp;complete agentic AI solution Work on&nbsp;practical, real-world challenges Go through the entire product journey: Identifying the problem Designing system architecture Integrating tools and APIs Delivering a functional end product The core focus is on building&nbsp;AI agents ready for real-world use&nbsp;that can: Think and make decisions. Interact with tools. Execute tasks independently. By the end, you&rsquo;ll walk away with a&nbsp;working AI product&nbsp;that can be: Added to your portfolio. Demonstrated in interviews. Expanded into real-world use cases. Participation Guidelines: You can join&nbsp;individually or in teams (up to 2 members recommended). All development must happen&nbsp;within the hackathon timeframe. You are free to use&nbsp;AI tools, APIs, and frameworks. Participants must clearly&nbsp;document their process&nbsp;(problem &rarr; solution &rarr; architecture). A&nbsp;functional prototype or live demo is required. Submission Requirements: A&nbsp; demo video or live working product. Access to the&nbsp; codebase (GitHub or equivalent). A brief explanation of your solution. Rules &amp; Evaluation: ️&nbsp; Rules: Fully pre-built solutions are&nbsp;not allowed&nbsp;(starter templates are acceptable). Any form of&nbsp;copying or plagiarism will result in disqualification. Teams must clearly specify their actual contribution vs. AI-generated output. Submissions must be&nbsp;fully working products, not just designs or presentations. All entries must be submitted&nbsp;before the deadline.",
+    "organizer": "Product Space",
+    "venue": "Online",
+    "mode": "Online",
+    "city": null,
+    "state": "online",
+    "country": null,
+    "start_date": "2026-11-07T00:00:00+05:30",
+    "end_date": "2026-11-14T23:59:00+05:30",
+    "registration_deadline": "2026-11-14T11:00:00+05:30",
+    "min_team_size": 1,
+    "max_team_size": 2,
+    "solo_allowed": true,
+    "eligibility": "Undergraduate / Postgraduate & Engineering students",
+    "prize_pool": "Prizes & Certificates",
+    "tracks": [
+      "Engineering Students",
+      "Postgraduate",
+      "Undergraduate",
+      "Management",
+      "Arts, Commerce, Sciences & Others"
+    ],
+    "score": 75,
+    "matched_reasons": [
+      "🌐 **Accessible Online Mode** (+15 pts)",
+      "👤 **Solo Eligible (1 Member)** (+35 pts)",
+      "🤖 **AI & Software Tracks** (+25 pts) [AI, Agentic Ai, Ai Agents]"
+    ],
+    "is_nagpur_local": false,
+    "is_maharashtra": false,
+    "is_active": true,
+    "discovered_at": "2026-11-07T10:51:21.271936+00:00"
   },
   {
     "id": "unstop:1792269",
@@ -411,7 +603,83 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-07T03:56:28.599442+00:00"
+    "discovered_at": "2026-11-07T10:51:23.588389+00:00"
+  },
+  {
+    "id": "unstop:1799510",
+    "source": "Unstop",
+    "title": "Gen-AI Product Hackathon",
+    "url": "https://unstop.com/hackathons/gen-ai-product-hackathon-product-space-1799510",
+    "description": "Overview Date: 14th Nov 2026 (Saturday) Registrations: Now Open Kickoff Session: 14th Nov 2026 (Saturday) This is a one-day, hands-on hackathon for individuals who want to build and launch a working AI product. What You&rsquo;ll Do During the hackathon, participants will conceptualize, build, and demonstrate an agentic AI solution to a practical, real-world challenge. You&rsquo;ll work through the complete product development process: Identify the problem. Design the system architecture. Integrate tools and APIs. Build and demonstrate a functional end product. The core focus is on building AI agents that can: Reason and make decisions. Interact with tools. Execute tasks independently. By the end of the day, you&rsquo;ll have a working prototype that you can add to your portfolio, demonstrate in interviews, and develop further for real-world use. Participation Guidelines Join individually or in a team. Teams of up to two members are recommended. All development must take place within the hackathon timeframe on 31st October 2026. You may use AI tools, APIs, and frameworks. Clearly document your process, including the problem, solution, and architecture. A functional prototype or live demo is required. Submission Requirements Submit the following before the announced deadline on 31st October 2026: A demo video or access to a live working product. Access to the codebase through GitHub or an equivalent platform. A brief explanation of your solution. Rules Fully pre-built solutions are not allowed. Starter templates are acceptable. Copying or plagiarism will result in disqualification. Clearly distinguish your contribution from AI-generated output. Submissions must demonstrate working functionality. Designs or presentations alone will not qualify. All entries must be submitted before the deadline.",
+    "organizer": "Product Space",
+    "venue": "Online",
+    "mode": "Online",
+    "city": null,
+    "state": "online",
+    "country": null,
+    "start_date": "2026-11-07T00:00:00+05:30",
+    "end_date": "2026-11-14T23:59:00+05:30",
+    "registration_deadline": "2026-11-14T23:59:00+05:30",
+    "min_team_size": 1,
+    "max_team_size": 2,
+    "solo_allowed": true,
+    "eligibility": "Undergraduate / Postgraduate & Engineering students",
+    "prize_pool": "Prizes & Certificates",
+    "tracks": [
+      "Engineering Students",
+      "Postgraduate",
+      "Undergraduate",
+      "Management",
+      "Arts, Commerce, Sciences & Others"
+    ],
+    "score": 75,
+    "matched_reasons": [
+      "🌐 **Accessible Online Mode** (+15 pts)",
+      "👤 **Solo Eligible (1 Member)** (+35 pts)",
+      "🤖 **AI & Software Tracks** (+25 pts) [AI, Agentic Ai, Ai Agents]"
+    ],
+    "is_nagpur_local": false,
+    "is_maharashtra": false,
+    "is_active": true,
+    "discovered_at": "2026-11-07T10:51:21.272606+00:00"
+  },
+  {
+    "id": "unstop:1799543",
+    "source": "Unstop",
+    "title": "Data Analytics Hackathon",
+    "url": "https://unstop.com/hackathons/data-analytics-hackathon-gradient-learnings-1799543",
+    "description": "This is a build-and-analysis-focused&nbsp; Data Analytics Hackathon &nbsp;designed for students, aspiring analysts, data professionals, and problem-solvers who want to turn raw data into meaningful insights and actionable recommendations. What You'll Do: On 14th November &nbsp;participants will work with a real-world dataset provided by the organizers and perform an end-to-end data analysis by: Understanding the business problem and dataset. Cleaning, transforming, and preparing the data. Exploring patterns, trends, and relationships. Performing quantitative and statistical analysis. Building meaningful visualizations and dashboards. Identifying key insights and actionable recommendations. Presenting your analysis and findings. The challenge is centered around using&nbsp; data to solve real-world problems &nbsp;by turning raw datasets into clear insights and data-driven decisions. By the end of the Hackathon, you'll have a complete analysis project that can be showcased in your portfolio, discussed during interviews, or further developed into a real-world analytics solution. Who Can Participate? Individuals and teams are welcome. Recommended team size: Max 2 members &amp; Individualy can also Participate.&nbsp; Beginners and experienced analysts can participate. Participants can use Python, SQL, Excel, Power BI, Tableau, and other analytics tools. Project Requirements: Every team must: Perform the analysis using the dataset provided during the event. Clearly document the analysis process and methodology. Explain the problem statement, approach, findings, and recommendations. Submit a complete and functional analysis with supporting visualizations. Submission Checklist: To complete your submission, provide: Final analysis report or presentation. Dashboard and/or data visualizations. Source code/notebook or analysis file, where applicable. Brief explanation of the methodology and key findings. Key insights and actionable recommendations. Rules &amp; Judging Criteria: Event Rules: Participants must use the dataset provided by the organizers. Pre-built analyses or previously completed projects are not permitted. External tools, libraries, and publicly available resources may be used. Any form of plagiarism or unauthorized copying will result in disqualification. Participants must disclose the use of AI tools in their analysis or submission. All submissions must be completed and submitted before the official deadline. Evaluation Areas: Projects will be assessed based on: Data cleaning and preparation. Analytical approach and problem-solving. Quality and accuracy of insights. Data visualization and storytelling. Depth of analysis. Business relevance and actionable recommendations. Overall presentation and completeness. Turn data into insights, uncover the story behind the numbers, and show how analytics can drive better decisions.",
+    "organizer": "Gradient Learnings",
+    "venue": "Online",
+    "mode": "Online",
+    "city": null,
+    "state": "online",
+    "country": null,
+    "start_date": "2026-11-07T08:00:00+05:30",
+    "end_date": "2026-11-15T23:59:00+05:30",
+    "registration_deadline": "2026-11-15T11:00:00+05:30",
+    "min_team_size": 1,
+    "max_team_size": 2,
+    "solo_allowed": true,
+    "eligibility": "Undergraduate / Postgraduate & Engineering students",
+    "prize_pool": "Prizes & Certificates",
+    "tracks": [
+      "Engineering Students",
+      "Postgraduate",
+      "Undergraduate",
+      "Management",
+      "Arts, Commerce, Sciences & Others"
+    ],
+    "score": 75,
+    "matched_reasons": [
+      "🌐 **Accessible Online Mode** (+15 pts)",
+      "👤 **Solo Eligible (1 Member)** (+35 pts)",
+      "🤖 **AI & Software Tracks** (+25 pts) [AI]"
+    ],
+    "is_nagpur_local": false,
+    "is_maharashtra": false,
+    "is_active": true,
+    "discovered_at": "2026-11-07T10:51:21.271770+00:00"
   },
   {
     "id": "unstop:1792758",
@@ -446,7 +714,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-07T03:56:26.175038+00:00"
+    "discovered_at": "2026-11-07T10:51:23.587412+00:00"
   },
   {
     "id": "unstop:1779479",
@@ -484,7 +752,83 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-07T03:56:28.599327+00:00"
+    "discovered_at": "2026-11-07T10:51:23.588302+00:00"
+  },
+  {
+    "id": "unstop:1799767",
+    "source": "Unstop",
+    "title": "Expanding Horizons 8.0 Software",
+    "url": "https://unstop.com/hackathons/expanding-horizons-80-software-expanding-horizon-80-motilal-nehru-national-institute-of-technology-1799767",
+    "description": "Expanding Horizon 8.0 &ndash; Software Organized by: Student Mentorship Program (SMP), MNNIT Allahabad Expanding Horizon 8.0 &ndash; Software is an initiative by the Student Mentorship Program (SMP), MNNIT Allahabad, aimed at helping aspiring software engineers prepare for the upcoming internship season. The assessment focuses on evaluating participants' programming skills, data structures and algorithms, logical reasoning, and problem-solving abilities. It provides an opportunity to challenge oneself through coding problems inspired by the technical assessments commonly encountered during software internship recruitment. Objectives Strengthen programming and coding proficiency. Evaluate understanding of Data Structures and Algorithms. Improve logical thinking and algorithmic problem-solving. Develop the ability to solve problems efficiently under time constraints. Assess technical preparation for software engineering internships. Guidelines The assessment will be conducted online through Unstop. Participants must attempt the questions within the stipulated time. Submissions will be evaluated based on correctness and predefined evaluation criteria. Plagiarism, code sharing, or any unfair means are strictly prohibited. The decision of the organizing team will be final. Learn. Code. Compete. Get Internship Ready!",
+    "organizer": "Motilal Nehru National Institute of Technology",
+    "venue": "Online",
+    "mode": "Online",
+    "city": null,
+    "state": "online",
+    "country": null,
+    "start_date": "2026-11-07T00:00:00+05:30",
+    "end_date": "2026-11-21T00:00:00+05:30",
+    "registration_deadline": "2026-11-21T00:00:00+05:30",
+    "min_team_size": 1,
+    "max_team_size": 1,
+    "solo_allowed": true,
+    "eligibility": "Undergraduate / Postgraduate & Engineering students",
+    "prize_pool": "Prizes & Certificates",
+    "tracks": [
+      "Engineering Students",
+      "Postgraduate",
+      "Undergraduate",
+      "Management",
+      "Arts, Commerce, Sciences & Others"
+    ],
+    "score": 75,
+    "matched_reasons": [
+      "🌐 **Accessible Online Mode** (+15 pts)",
+      "👤 **Solo Eligible (1 Member)** (+35 pts)",
+      "🤖 **AI & Software Tracks** (+25 pts) [Software Engineering]"
+    ],
+    "is_nagpur_local": false,
+    "is_maharashtra": false,
+    "is_active": true,
+    "discovered_at": "2026-11-07T10:51:21.271604+00:00"
+  },
+  {
+    "id": "unstop:1799092",
+    "source": "Unstop",
+    "title": "AI Vibeathon 2026 | PromptWars × Echo Engineers",
+    "url": "https://unstop.com/hackathons/ai-vibeathon-2026-promptwars-echo-engineers-echo-engineers-1799092",
+    "description": "About AI VIBEATHON 2026 AI VIBEATHON 2026 is an AI-focused innovation and hackathon event organized by Echo Engineers in collaboration with PromptWars . The event brings together students, developers, innovators, and technology enthusiasts to explore the possibilities of Artificial Intelligence and build creative solutions to real-world challenges. Participants will get an opportunity to showcase their problem-solving skills, experiment with modern AI tools, collaborate with talented individuals, and turn their ideas into working prototypes. The event will follow a two-stage format: Online Preliminary Round: Participants will compete in an online challenge designed to test their technical knowledge, creativity, problem-solving skills, and understanding of AI. Offline Grand Finale: Selected teams will participate in an intensive 8-hour hackathon, where they will build and present their innovative solutions. Whether you are an experienced developer or someone passionate about exploring AI, AI VIBEATHON 2026 is your opportunity to learn, create, and compete. Think beyond prompts. Build beyond possibilities.",
+    "organizer": "ECHO ENGINEERS",
+    "venue": "hybrid",
+    "mode": "In-Person",
+    "city": null,
+    "state": "hybrid",
+    "country": null,
+    "start_date": "2026-11-06T00:00:00+05:30",
+    "end_date": "2026-11-28T17:27:00+05:30",
+    "registration_deadline": "2026-11-25T00:00:00+05:30",
+    "min_team_size": 1,
+    "max_team_size": 4,
+    "solo_allowed": true,
+    "eligibility": "Open to college students & coders",
+    "prize_pool": "Prizes & Certificates",
+    "tracks": [
+      "Engineering Students",
+      "Postgraduate",
+      "Undergraduate",
+      "Management",
+      "Arts, Commerce, Sciences & Others"
+    ],
+    "score": 75,
+    "matched_reasons": [
+      "🌐 **Accessible In-Person Mode** (+15 pts)",
+      "👤 **Solo Eligible (1 Member)** (+35 pts)",
+      "🤖 **AI & Software Tracks** (+25 pts) [AI, Artificial Intelligence]"
+    ],
+    "is_nagpur_local": false,
+    "is_maharashtra": false,
+    "is_active": true,
+    "discovered_at": "2026-11-07T10:51:21.271009+00:00"
   },
   {
     "id": "unstop:1798702",
@@ -518,7 +862,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-07T03:56:26.173651+00:00"
+    "discovered_at": "2026-11-07T10:51:21.272735+00:00"
   },
   {
     "id": "unstop:1797543",
@@ -552,7 +896,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-07T03:56:26.174675+00:00"
+    "discovered_at": "2026-11-07T10:51:23.585886+00:00"
   },
   {
     "id": "unstop:1782683",
@@ -586,7 +930,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-07T03:56:28.600608+00:00"
+    "discovered_at": "2026-11-07T10:51:25.861129+00:00"
   },
   {
     "id": "unstop:1790680",
@@ -623,7 +967,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-07T03:56:28.599843+00:00"
+    "discovered_at": "2026-11-07T10:51:23.588796+00:00"
   },
   {
     "id": "unstop:1791313",
@@ -661,7 +1005,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-07T03:56:28.600438+00:00"
+    "discovered_at": "2026-11-07T10:51:25.860949+00:00"
   },
   {
     "id": "unstop:1792826",
@@ -695,7 +1039,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-07T03:56:26.176697+00:00"
+    "discovered_at": "2026-11-07T10:51:23.587941+00:00"
   },
   {
     "id": "unstop:1792025",
@@ -729,7 +1073,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-07T03:56:26.175205+00:00"
+    "discovered_at": "2026-11-07T10:51:23.586349+00:00"
   },
   {
     "id": "unstop:1795775",
@@ -769,7 +1113,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-07T03:56:26.174133+00:00"
+    "discovered_at": "2026-11-07T10:51:23.585121+00:00"
   },
   {
     "id": "unstop:1794889",
@@ -809,7 +1153,45 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-07T03:56:26.175337+00:00"
+    "discovered_at": "2026-11-07T10:51:23.586493+00:00"
+  },
+  {
+    "id": "unstop:1799800",
+    "source": "Unstop",
+    "title": "Solidworks",
+    "url": "https://unstop.com/hackathons/solidworks-solutions-2k27-army-institute-of-technology-pune-1799800",
+    "description": "All that You Need to Know About Solidworks If you are someone who loves designing or dreams of innovating an out-of-the-box utility one day, then this is the place for you. SOLIDWORKS aims to test the design and imaginative capability of the contestant. This is a platform where the participant can show off all their CAD skills. The participant will be required to create a 3D model of a given problem statement in the allotted time. Guidelines: Time Allocated: &nbsp;2 hours. Round 2 will be followed by a 10-minute explanation session with judges where the participants will have to explain the approach to the part/assembly modeled and will be judged accordingly. Participants will be evaluated based on: Number of parts successfully modeled and assembled. Constraining of parts in the assembly. Whether sub-assemblies were used and why. Appropriateness of the constraints used for assembly. Participants must create a Word/PDF file illustrating different views of the assembly, exploded views of the assembly, dimensions, and work history (timeline) and save the files (Sldprt/Sldasm files) with the proper name format for submission. Submission Guidelines: Participants are supposed to submit the following files: Word/PDF file. SolidWorks file (Sldprt/Sldasm). Files should have the following name format for submission: Qno_Team-name_round &nbsp;(e.g., Q2_alpha_round1.pdf and Q1_alpha_round2.sldprt, where \"alpha\" is the team name). Participating teams have to mail their files (Word/PDF and SolidWorks files) in a single mail. Rules: Any misbehavior of a participant during the event/rounds may lead to disqualification. Absent participants will be automatically disqualified. All the rights are reserved with the Event Organizer Committee. In case of any disputes, the final wording will remain with the organizers. The decision of the judges is final. Only entries submitted within the specified deadline will be considered for evaluation. Link for the meet will be provided via email. Team Size: &nbsp;1",
+    "organizer": "Army Institute of technology, Pune",
+    "venue": "Online",
+    "mode": "Online",
+    "city": null,
+    "state": "online",
+    "country": null,
+    "start_date": "2026-11-07T00:00:00+05:30",
+    "end_date": "2027-03-04T19:00:00+05:30",
+    "registration_deadline": "2027-03-01T00:00:00+05:30",
+    "min_team_size": 1,
+    "max_team_size": 1,
+    "solo_allowed": true,
+    "eligibility": "Undergraduate / Postgraduate & Engineering students",
+    "prize_pool": "Prizes & Certificates",
+    "tracks": [
+      "Engineering Students",
+      "Postgraduate",
+      "Undergraduate",
+      "Management",
+      "Arts, Commerce, Sciences & Others"
+    ],
+    "score": 75,
+    "matched_reasons": [
+      "🏢 **Maharashtra Proximity** (+25 pts) [Pune]",
+      "🌐 **Accessible Online Mode** (+15 pts)",
+      "👤 **Solo Eligible (1 Member)** (+35 pts)"
+    ],
+    "is_nagpur_local": false,
+    "is_maharashtra": true,
+    "is_active": true,
+    "discovered_at": "2026-11-07T10:51:21.271319+00:00"
   },
   {
     "id": "devpost:30740",
@@ -845,7 +1227,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-07T03:56:32.748182+00:00"
+    "discovered_at": "2026-11-07T10:51:28.268774+00:00"
   },
   {
     "id": "devpost:30764",
@@ -881,14 +1263,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-07T03:56:32.748204+00:00"
+    "discovered_at": "2026-11-07T10:51:28.268797+00:00"
   },
   {
     "id": "devpost:31060",
     "source": "Devpost",
     "title": "Agentic Hackathon",
     "url": "https://agentic-hackathon.devpost.com/",
-    "description": "Devpost hackathon. 4 days left",
+    "description": "Devpost hackathon. 3 days left",
     "organizer": "Devin",
     "venue": "Online",
     "mode": "Online",
@@ -917,14 +1299,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-07T03:56:32.907596+00:00"
+    "discovered_at": "2026-11-07T10:51:28.379139+00:00"
   },
   {
     "id": "devpost:31489",
     "source": "Devpost",
     "title": "EthnoHack",
     "url": "https://ethnohack2026.devpost.com/",
-    "description": "Devpost hackathon. 1 day left",
+    "description": "Devpost hackathon. about 23 hours left",
     "organizer": "ETHCSTWIN",
     "venue": "Online",
     "mode": "Online",
@@ -953,7 +1335,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-07T03:56:32.748226+00:00"
+    "discovered_at": "2026-11-07T10:51:28.268819+00:00"
   },
   {
     "id": "devpost:31642",
@@ -989,7 +1371,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-07T03:56:32.748161+00:00"
+    "discovered_at": "2026-11-07T10:51:28.268758+00:00"
   },
   {
     "id": "devpost:31083",
@@ -1025,7 +1407,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-07T03:56:32.624341+00:00"
+    "discovered_at": "2026-11-07T10:51:28.164608+00:00"
   },
   {
     "id": "devpost:31480",
@@ -1061,7 +1443,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-07T03:56:32.907588+00:00"
+    "discovered_at": "2026-11-07T10:51:28.379132+00:00"
   },
   {
     "id": "hackerearth:mks-inc-hackathon",
@@ -1097,7 +1479,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-07T03:56:33.724210+00:00"
+    "discovered_at": "2026-11-07T10:51:29.155196+00:00"
   },
   {
     "id": "hackerearth:ibm-z-day",
@@ -1133,14 +1515,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-07T03:56:33.724185+00:00"
+    "discovered_at": "2026-11-07T10:51:29.155171+00:00"
   },
   {
     "id": "devpost:31302",
     "source": "Devpost",
     "title": "PayPal AI Hackathon",
     "url": "https://paypalaihackathon.devpost.com/",
-    "description": "Devpost hackathon. 6 days left",
+    "description": "Devpost hackathon. 5 days left",
     "organizer": "PayPal",
     "venue": "Online",
     "mode": "Online",
@@ -1169,14 +1551,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-07T03:56:32.624275+00:00"
+    "discovered_at": "2026-11-07T10:51:28.164545+00:00"
   },
   {
     "id": "devpost:31659",
     "source": "Devpost",
     "title": "Learn AR with SPECS",
     "url": "https://learn-specs.devpost.com/",
-    "description": "Devpost hackathon. 3 days left",
+    "description": "Devpost hackathon. 2 days left",
     "organizer": "Devpost",
     "venue": "Online",
     "mode": "Online",
@@ -1205,7 +1587,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-07T03:56:32.624335+00:00"
+    "discovered_at": "2026-11-07T10:51:28.164601+00:00"
   },
   {
     "id": "devpost:31666",
@@ -1241,7 +1623,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-07T03:56:32.907616+00:00"
+    "discovered_at": "2026-11-07T10:51:28.379160+00:00"
   },
   {
     "id": "devpost:31664",
@@ -1277,7 +1659,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-07T03:56:32.907579+00:00"
+    "discovered_at": "2026-11-07T10:51:28.379124+00:00"
   },
   {
     "id": "devpost:31789",
@@ -1313,7 +1695,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-07T03:56:32.748211+00:00"
+    "discovered_at": "2026-11-07T10:51:28.268810+00:00"
   },
   {
     "id": "devpost:31796",
@@ -1349,7 +1731,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-07T03:56:32.748233+00:00"
+    "discovered_at": "2026-11-07T10:51:28.268826+00:00"
   },
   {
     "id": "devpost:30789",
@@ -1385,7 +1767,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-07T03:56:32.624356+00:00"
+    "discovered_at": "2026-11-07T10:51:28.164624+00:00"
   },
   {
     "id": "devpost:31552",
@@ -1421,14 +1803,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-07T03:56:32.624327+00:00"
+    "discovered_at": "2026-11-07T10:51:28.164594+00:00"
   },
   {
     "id": "devpost:26475",
     "source": "Devpost",
     "title": "Dakar Bitcoin Hack by BTrust",
     "url": "https://dakar-bitcoin-hack-2026.devpost.com/",
-    "description": "Devpost hackathon. 14 days left",
+    "description": "Devpost hackathon. 13 days left",
     "organizer": "Dakar Bitcoin Days",
     "venue": "Online",
     "mode": "Online",
@@ -1457,7 +1839,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-07T03:56:32.907623+00:00"
+    "discovered_at": "2026-11-07T10:51:28.379168+00:00"
   },
   {
     "id": "devpost:31572",
@@ -1493,14 +1875,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-07T03:56:32.624321+00:00"
+    "discovered_at": "2026-11-07T10:51:28.164587+00:00"
   },
   {
     "id": "devpost:31907",
     "source": "Devpost",
     "title": "Build Your First AI App",
     "url": "https://build-your-first-ai-app.devpost.com/",
-    "description": "Devpost hackathon. 21 days left",
+    "description": "Devpost hackathon. 20 days left",
     "organizer": "Yasir Insights",
     "venue": "Online",
     "mode": "Online",
@@ -1529,14 +1911,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-07T03:56:32.748217+00:00"
+    "discovered_at": "2026-11-07T10:51:28.268804+00:00"
   },
   {
     "id": "devpost:31667",
     "source": "Devpost",
     "title": "Kiroween 2026",
     "url": "https://kiroween.devpost.com/",
-    "description": "Devpost hackathon. 28 days left",
+    "description": "Devpost hackathon. 27 days left",
     "organizer": "Kiro",
     "venue": "Online",
     "mode": "Online",
@@ -1565,7 +1947,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-07T03:56:32.624301+00:00"
+    "discovered_at": "2026-11-07T10:51:28.164567+00:00"
   },
   {
     "id": "devpost:31187",
@@ -1601,14 +1983,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-07T03:56:32.907568+00:00"
+    "discovered_at": "2026-11-07T10:51:28.379113+00:00"
   },
   {
     "id": "devpost:31024",
     "source": "Devpost",
     "title": "Meta VR Start Developer Competition 2026",
     "url": "https://start-developer-competition-26.devpost.com/",
-    "description": "Devpost hackathon. 12 days left",
+    "description": "Devpost hackathon. 11 days left",
     "organizer": "Meta",
     "venue": "Online",
     "mode": "Online",
@@ -1637,7 +2019,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-07T03:56:32.624312+00:00"
+    "discovered_at": "2026-11-07T10:51:28.164578+00:00"
   },
   {
     "id": "unstop:1793796",
@@ -1677,7 +2059,40 @@
     "is_nagpur_local": false,
     "is_maharashtra": true,
     "is_active": true,
-    "discovered_at": "2026-11-07T03:56:26.174471+00:00"
+    "discovered_at": "2026-11-07T10:51:23.585500+00:00"
+  },
+  {
+    "id": "unstop:1778710",
+    "source": "Unstop",
+    "title": "Roboforge",
+    "url": "https://unstop.com/hackathons/roboforge-maharaja-surajmal-institute-of-technology-msit-new-delhi-1778710",
+    "description": "RoboForge &ndash; Open Innovation Hackathon By E-Yantra, MSIT Imagine it. Pitch it. Build it. Show it. RoboForge is an open-innovation hackathon where students turn bold ideas into working prototypes. Explore innovation across Hardware &amp; Physical Systems and Software &amp; Intelligent Systems, with the freedom to build solutions that go beyond predefined problem statements. Innovation Tracks: Hardware &amp; Physical Systems: Robotics &amp; Automation IoT &amp; Embedded Systems Electronics &amp; Hardware Innovation Software &amp; Intelligent Systems: AI, ML &amp; Intelligent Applications Simulation, Digital Twins &amp; Virtual Robotics Software Engineering &amp; Emerging Technologies Bring your own idea, explore your interests, and build something innovative. Cross-track and hardware&ndash;software integrated projects are highly encouraged. How It Works: 1. Idea Submission: Register and submit a PPT outlining your idea, technical approach, and proposed prototype. 2. Shortlisting: Projects will be evaluated, and selected teams will advance to the next round. 3. Build &amp; Showcase: Develop and demonstrate your working hardware prototype, software application, simulation, or integrated solution at MSIT. Event Details: Final Showcase: 16 November 2026 Venue: MSIT Seminar Hall &ndash; 406 Participation: Free No fixed themes. Just your ideas and your innovation. RoboForge &ndash; Where Ideas Take Shape.",
+    "organizer": "Maharaja Surajmal Institute of Technology (MSIT), New Delhi",
+    "venue": "offline",
+    "mode": "In-Person",
+    "city": null,
+    "state": "offline",
+    "country": null,
+    "start_date": "2026-10-26T00:00:00+05:30",
+    "end_date": "2026-11-16T15:00:00+05:30",
+    "registration_deadline": "2026-11-09T00:00:00+05:30",
+    "min_team_size": 1,
+    "max_team_size": 4,
+    "solo_allowed": true,
+    "eligibility": "Open to college students & coders",
+    "prize_pool": "Prizes & Certificates",
+    "tracks": [
+      "All"
+    ],
+    "score": 60,
+    "matched_reasons": [
+      "👤 **Solo Eligible (1 Member)** (+35 pts)",
+      "🤖 **AI & Software Tracks** (+25 pts) [AI, ML, Software Engineering]"
+    ],
+    "is_nagpur_local": false,
+    "is_maharashtra": false,
+    "is_active": true,
+    "discovered_at": "2026-11-07T10:51:21.272445+00:00"
   },
   {
     "id": "unstop:1792835",
@@ -1710,7 +2125,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-07T03:56:28.599939+00:00"
+    "discovered_at": "2026-11-07T10:51:23.588880+00:00"
   },
   {
     "id": "unstop:1772221",
@@ -1749,7 +2164,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-07T03:56:26.174615+00:00"
+    "discovered_at": "2026-11-07T10:51:23.585661+00:00"
   },
   {
     "id": "unstop:1771951",
@@ -1788,7 +2203,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-07T03:56:28.601914+00:00"
+    "discovered_at": "2026-11-07T10:51:25.862316+00:00"
   },
   {
     "id": "unstop:1781454",
@@ -1827,7 +2242,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-07T03:56:26.175984+00:00"
+    "discovered_at": "2026-11-07T10:51:23.587157+00:00"
   },
   {
     "id": "unstop:1793341",
@@ -1866,7 +2281,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-07T03:56:26.176618+00:00"
+    "discovered_at": "2026-11-07T10:51:23.587859+00:00"
   },
   {
     "id": "unstop:1786387",
@@ -1899,7 +2314,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-07T03:56:28.600897+00:00"
+    "discovered_at": "2026-11-07T10:51:25.861405+00:00"
   },
   {
     "id": "unstop:1795134",
@@ -1938,7 +2353,266 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-07T03:56:26.173963+00:00"
+    "discovered_at": "2026-11-07T10:51:21.272853+00:00"
+  },
+  {
+    "id": "unstop:1799782",
+    "source": "Unstop",
+    "title": "Expanding Horizons 8.0  CIVIL",
+    "url": "https://unstop.com/hackathons/expanding-horizons-80-civil-expanding-horizon-80-motilal-nehru-national-institute-of-technology-1799782",
+    "description": "Expanding Horizon 8.0 &ndash; Civil Engineering Organized by: Student Mentorship Program (SMP), MNNIT Allahabad Expanding Horizon 8.0 &ndash; Civil Engineering is an initiative by the Student Mentorship Program (SMP), MNNIT Allahabad, aimed at helping aspiring civil engineers evaluate their technical knowledge and prepare for upcoming internship opportunities. The assessment covers important concepts across core Civil Engineering subjects, encouraging participants to apply theoretical knowledge, develop analytical abilities, and approach engineering problems systematically. Objectives Evaluate fundamentals of Structural Engineering. Assess understanding of Geotechnical Engineering. Strengthen concepts in Fluid Mechanics and Hydraulics. Test knowledge of Transportation Engineering. Evaluate understanding of Environmental Engineering and Building Materials. Encourage technical reasoning and practical problem-solving. Guidelines The assessment will be conducted online through Unstop. Participants must complete the assessment within the stipulated time. Answers will be evaluated based on predefined criteria. Plagiarism and any form of unfair practice are strictly prohibited. The decision of the organizing team will be final. Build Your Fundamentals. Engineer Your Future!",
+    "organizer": "Motilal Nehru National Institute of Technology",
+    "venue": "Online",
+    "mode": "Online",
+    "city": null,
+    "state": "online",
+    "country": null,
+    "start_date": "2026-11-07T00:00:00+05:30",
+    "end_date": "2026-11-22T10:18:36+05:30",
+    "registration_deadline": "2026-11-21T00:00:00+05:30",
+    "min_team_size": 1,
+    "max_team_size": 1,
+    "solo_allowed": true,
+    "eligibility": "Undergraduate / Postgraduate & Engineering students",
+    "prize_pool": "Prizes & Certificates",
+    "tracks": [
+      "Engineering Students",
+      "Postgraduate",
+      "Undergraduate",
+      "Management",
+      "Arts, Commerce, Sciences & Others"
+    ],
+    "score": 50,
+    "matched_reasons": [
+      "🌐 **Accessible Online Mode** (+15 pts)",
+      "👤 **Solo Eligible (1 Member)** (+35 pts)"
+    ],
+    "is_nagpur_local": false,
+    "is_maharashtra": false,
+    "is_active": true,
+    "discovered_at": "2026-11-07T10:51:21.271057+00:00"
+  },
+  {
+    "id": "unstop:1799780",
+    "source": "Unstop",
+    "title": "Expanding Horizons 8.0  EE",
+    "url": "https://unstop.com/hackathons/expanding-horizons-80-ee-expanding-horizon-80-motilal-nehru-national-institute-of-technology-1799780",
+    "description": "Expanding Horizon 8.0 &ndash; Electrical Engineering (EE) Organized by: Student Mentorship Program (SMP), MNNIT Allahabad Expanding Horizon 8.0 &ndash; EE is an initiative by the Student Mentorship Program (SMP), MNNIT Allahabad, designed to help aspiring electrical engineers assess and strengthen their technical preparation for the upcoming internship season. The assessment focuses on fundamental concepts and problem-solving abilities across major areas of Electrical Engineering, providing participants with an opportunity to evaluate their conceptual clarity and technical aptitude. Objectives Evaluate fundamentals of Electrical Machines. Strengthen understanding of Power Systems. Assess knowledge of Electrical Circuits and Network Theory. Test concepts related to Control Systems. Evaluate understanding of Power Electronics. Encourage analytical and application-based problem-solving. Guidelines The assessment will be conducted online through Unstop. Participants must complete the assessment within the stipulated time. Submissions will be evaluated based on predefined criteria. Any unfair practice or plagiarism is strictly prohibited. The decision of the organizing team will be final. Power Your Knowledge. Strengthen Your Fundamentals.",
+    "organizer": "Motilal Nehru National Institute of Technology",
+    "venue": "Online",
+    "mode": "Online",
+    "city": null,
+    "state": "online",
+    "country": null,
+    "start_date": "2026-11-07T00:00:00+05:30",
+    "end_date": "2026-11-21T22:50:35+05:30",
+    "registration_deadline": "2026-11-21T00:00:00+05:30",
+    "min_team_size": 1,
+    "max_team_size": 1,
+    "solo_allowed": true,
+    "eligibility": "Undergraduate / Postgraduate & Engineering students",
+    "prize_pool": "Prizes & Certificates",
+    "tracks": [
+      "Engineering Students",
+      "Postgraduate",
+      "Undergraduate",
+      "Management",
+      "Arts, Commerce, Sciences & Others"
+    ],
+    "score": 50,
+    "matched_reasons": [
+      "🌐 **Accessible Online Mode** (+15 pts)",
+      "👤 **Solo Eligible (1 Member)** (+35 pts)"
+    ],
+    "is_nagpur_local": false,
+    "is_maharashtra": false,
+    "is_active": true,
+    "discovered_at": "2026-11-07T10:51:21.271103+00:00"
+  },
+  {
+    "id": "unstop:1799778",
+    "source": "Unstop",
+    "title": "Expanding Horizons 8.0  ECE",
+    "url": "https://unstop.com/hackathons/expanding-horizons-80-ece-expanding-horizon-80-motilal-nehru-national-institute-of-technology-1799778",
+    "description": "Expanding Horizon 8.0 &ndash; Electronics and Communication Engineering (ECE) Organized by: Student Mentorship Program (SMP), MNNIT Allahabad Expanding Horizon 8.0 &ndash; ECE is an initiative by the Student Mentorship Program (SMP), MNNIT Allahabad, aimed at helping students strengthen their core electronics and communication concepts and prepare for upcoming internship opportunities. The assessment focuses on evaluating fundamental technical knowledge, conceptual understanding, and analytical problem-solving skills across important areas of Electronics and Communication Engineering. Objectives Strengthen fundamentals of electronic circuits and devices. Evaluate knowledge of Analog and Digital Electronics. Assess understanding of Signals and Systems. Test concepts related to Communication Systems. Encourage analytical thinking and application-based problem-solving. Help participants identify areas for technical improvement. Guidelines The assessment will be conducted online through Unstop. Participants must attempt the questions within the stipulated time. Answers will be evaluated according to predefined assessment criteria. Unfair means, plagiarism, or collaboration during the assessment are prohibited. The decision of the organizing team will be final. Strengthen Your Concepts. Test Your Knowledge. Expand Your Horizons!",
+    "organizer": "Motilal Nehru National Institute of Technology",
+    "venue": "Online",
+    "mode": "Online",
+    "city": null,
+    "state": "online",
+    "country": null,
+    "start_date": "2026-11-07T00:00:00+05:30",
+    "end_date": "2026-11-21T11:24:22+05:30",
+    "registration_deadline": "2026-11-21T00:00:00+05:30",
+    "min_team_size": 1,
+    "max_team_size": 1,
+    "solo_allowed": true,
+    "eligibility": "Undergraduate / Postgraduate & Engineering students",
+    "prize_pool": "Prizes & Certificates",
+    "tracks": [
+      "Engineering Students",
+      "Postgraduate",
+      "Undergraduate",
+      "Management",
+      "Arts, Commerce, Sciences & Others"
+    ],
+    "score": 50,
+    "matched_reasons": [
+      "🌐 **Accessible Online Mode** (+15 pts)",
+      "👤 **Solo Eligible (1 Member)** (+35 pts)"
+    ],
+    "is_nagpur_local": false,
+    "is_maharashtra": false,
+    "is_active": true,
+    "discovered_at": "2026-11-07T10:51:21.271151+00:00"
+  },
+  {
+    "id": "unstop:1799776",
+    "source": "Unstop",
+    "title": "Expanding Horizons 8.0 Consultancy",
+    "url": "https://unstop.com/hackathons/expanding-horizons-80-consultancy-expanding-horizon-80-motilal-nehru-national-institute-of-technology-1799776",
+    "description": "Expanding Horizon 8.0 &ndash; Electronics and Communication Engineering (ECE) Organized by: Student Mentorship Program (SMP), MNNIT Allahabad Expanding Horizon 8.0 &ndash; ECE is an initiative by the Student Mentorship Program (SMP), MNNIT Allahabad, aimed at helping students strengthen their core electronics and communication concepts and prepare for upcoming internship opportunities. The assessment focuses on evaluating fundamental technical knowledge, conceptual understanding, and analytical problem-solving skills across important areas of Electronics and Communication Engineering. Objectives Strengthen fundamentals of electronic circuits and devices. Evaluate knowledge of Analog and Digital Electronics. Assess understanding of Signals and Systems. Test concepts related to Communication Systems. Encourage analytical thinking and application-based problem-solving. Help participants identify areas for technical improvement. Guidelines The assessment will be conducted online through Unstop. Participants must attempt the questions within the stipulated time. Answers will be evaluated according to predefined assessment criteria. Unfair means, plagiarism, or collaboration during the assessment are prohibited. The decision of the organizing team will be final. Strengthen Your Concepts. Test Your Knowledge. Expand Your Horizons!",
+    "organizer": "Motilal Nehru National Institute of Technology",
+    "venue": "Online",
+    "mode": "Online",
+    "city": null,
+    "state": "online",
+    "country": null,
+    "start_date": "2026-11-07T00:00:00+05:30",
+    "end_date": "2026-11-21T00:00:00+05:30",
+    "registration_deadline": "2026-11-21T00:00:00+05:30",
+    "min_team_size": 1,
+    "max_team_size": 1,
+    "solo_allowed": true,
+    "eligibility": "Undergraduate / Postgraduate & Engineering students",
+    "prize_pool": "Prizes & Certificates",
+    "tracks": [
+      "Engineering Students",
+      "Postgraduate",
+      "Undergraduate",
+      "Management",
+      "Arts, Commerce, Sciences & Others"
+    ],
+    "score": 50,
+    "matched_reasons": [
+      "🌐 **Accessible Online Mode** (+15 pts)",
+      "👤 **Solo Eligible (1 Member)** (+35 pts)"
+    ],
+    "is_nagpur_local": false,
+    "is_maharashtra": false,
+    "is_active": true,
+    "discovered_at": "2026-11-07T10:51:21.271200+00:00"
+  },
+  {
+    "id": "unstop:1799791",
+    "source": "Unstop",
+    "title": "Expanding Horizons 8.0 Chemical",
+    "url": "https://unstop.com/hackathons/expanding-horizons-80-chemical-expanding-horizon-80-motilal-nehru-national-institute-of-technology-1799791",
+    "description": "Expanding Horizon 8.0 &ndash; Chemical Engineering Organized by: Student Mentorship Program (SMP), MNNIT Allahabad Expanding Horizon 8.0 &ndash; Chemical Engineering is an initiative by the Student Mentorship Program (SMP), MNNIT Allahabad, designed to help aspiring chemical engineers evaluate their technical knowledge and prepare for upcoming internship opportunities. The assessment focuses on core Chemical Engineering concepts, testing participants' understanding of engineering principles, analytical abilities, and problem-solving skills across important subject areas. Objectives Evaluate fundamentals of Chemical Process Calculations. Assess understanding of Fluid Mechanics. Test concepts related to Heat and Mass Transfer. Strengthen knowledge of Chemical Reaction Engineering. Evaluate understanding of Thermodynamics. Assess concepts of Process Control and Process Equipment Design. Encourage analytical thinking and engineering problem-solving. Guidelines The assessment will be conducted online through Unstop. Participants must complete the assessment within the stipulated time. Submissions will be evaluated based on predefined criteria. Any form of unfair practice or plagiarism is strictly prohibited. The decision of the organizing team will be final. Understand Processes. Solve Challenges. Engineer Excellence!",
+    "organizer": "Motilal Nehru National Institute of Technology",
+    "venue": "Online",
+    "mode": "Online",
+    "city": null,
+    "state": "online",
+    "country": null,
+    "start_date": "2026-11-07T00:00:00+05:30",
+    "end_date": "2026-11-23T21:12:24+05:30",
+    "registration_deadline": "2026-11-21T00:00:00+05:30",
+    "min_team_size": 1,
+    "max_team_size": 1,
+    "solo_allowed": true,
+    "eligibility": "Undergraduate / Postgraduate & Engineering students",
+    "prize_pool": "Prizes & Certificates",
+    "tracks": [
+      "Engineering Students",
+      "Postgraduate",
+      "Undergraduate",
+      "Management",
+      "Arts, Commerce, Sciences & Others"
+    ],
+    "score": 50,
+    "matched_reasons": [
+      "🌐 **Accessible Online Mode** (+15 pts)",
+      "👤 **Solo Eligible (1 Member)** (+35 pts)"
+    ],
+    "is_nagpur_local": false,
+    "is_maharashtra": false,
+    "is_active": true,
+    "discovered_at": "2026-11-07T10:51:21.271374+00:00"
+  },
+  {
+    "id": "unstop:1799788",
+    "source": "Unstop",
+    "title": "Expanding Horizons 8.0  Mechanical",
+    "url": "https://unstop.com/hackathons/expanding-horizons-80-mechanical-expanding-horizon-80-motilal-nehru-national-institute-of-technology-1799788",
+    "description": "Expanding Horizon 8.0 &ndash; Mechanical Engineering Organized by: Student Mentorship Program (SMP), MNNIT Allahabad Expanding Horizon 8.0 &ndash; Mechanical Engineering is an initiative by the Student Mentorship Program (SMP), MNNIT Allahabad, designed to help aspiring mechanical engineers evaluate their technical understanding and prepare for the upcoming internship season. The assessment focuses on core Mechanical Engineering concepts, testing participants' conceptual clarity, technical aptitude, and ability to apply engineering principles to solve problems. Objectives Evaluate fundamentals of Engineering Mechanics. Assess understanding of Thermodynamics and Heat Transfer. Test knowledge of Fluid Mechanics. Strengthen concepts in Manufacturing Processes. Evaluate understanding of Theory of Machines and Machine Design. Encourage analytical thinking and application-based problem-solving. Guidelines The assessment will be conducted online through Unstop. Participants must attempt all questions within the stipulated time. Submissions will be evaluated according to predefined criteria. Any unfair means or plagiarism is strictly prohibited. The decision of the organizing team will be final. Think. Design. Engineer. Excel!",
+    "organizer": "Motilal Nehru National Institute of Technology",
+    "venue": "Online",
+    "mode": "Online",
+    "city": null,
+    "state": "online",
+    "country": null,
+    "start_date": "2026-11-07T00:00:00+05:30",
+    "end_date": "2026-11-22T21:54:43+05:30",
+    "registration_deadline": "2026-11-21T00:00:00+05:30",
+    "min_team_size": 1,
+    "max_team_size": 1,
+    "solo_allowed": true,
+    "eligibility": "Undergraduate / Postgraduate & Engineering students",
+    "prize_pool": "Prizes & Certificates",
+    "tracks": [
+      "Engineering Students",
+      "Postgraduate",
+      "Undergraduate",
+      "Management",
+      "Arts, Commerce, Sciences & Others"
+    ],
+    "score": 50,
+    "matched_reasons": [
+      "🌐 **Accessible Online Mode** (+15 pts)",
+      "👤 **Solo Eligible (1 Member)** (+35 pts)"
+    ],
+    "is_nagpur_local": false,
+    "is_maharashtra": false,
+    "is_active": true,
+    "discovered_at": "2026-11-07T10:51:21.271434+00:00"
+  },
+  {
+    "id": "unstop:1799790",
+    "source": "Unstop",
+    "title": "Expanding Horizons 8.0   BIOTECH",
+    "url": "https://unstop.com/hackathons/expanding-horizons-80-biotech-expanding-horizon-80-motilal-nehru-national-institute-of-technology-1799790",
+    "description": "Expanding Horizon 8.0 &ndash; Biotechnology Organized by: Student Mentorship Program (SMP), MNNIT Allahabad Expanding Horizon 8.0 &ndash; Biotechnology is an initiative by the Student Mentorship Program (SMP), MNNIT Allahabad, aimed at helping aspiring biotechnologists assess their subject knowledge and strengthen their preparation for upcoming internship opportunities. The assessment focuses on fundamental and interdisciplinary concepts of Biotechnology, encouraging participants to demonstrate their scientific understanding, analytical abilities, and application of biological principles. Objectives Evaluate fundamentals of Molecular Biology and Genetics. Assess understanding of Biochemistry and Microbiology. Test concepts related to Cell Biology. Strengthen knowledge of Genetic Engineering and Biotechnology. Evaluate understanding of Bioprocess Engineering. Encourage scientific reasoning and application-based problem-solving. Guidelines The assessment will be conducted online through Unstop. Participants must complete the assessment within the stipulated time. Answers will be evaluated according to predefined criteria. Plagiarism or any form of unfair practice is strictly prohibited. The decision of the organizing team will be final. Explore Science. Apply Knowledge. Expand Possibilities!",
+    "organizer": "Motilal Nehru National Institute of Technology",
+    "venue": "Online",
+    "mode": "Online",
+    "city": null,
+    "state": "online",
+    "country": null,
+    "start_date": "2026-11-07T00:00:00+05:30",
+    "end_date": "2026-11-23T09:33:04+05:30",
+    "registration_deadline": "2026-11-21T00:00:00+05:30",
+    "min_team_size": 1,
+    "max_team_size": 1,
+    "solo_allowed": true,
+    "eligibility": "Undergraduate / Postgraduate & Engineering students",
+    "prize_pool": "Prizes & Certificates",
+    "tracks": [
+      "Engineering Students",
+      "Postgraduate",
+      "Undergraduate",
+      "Management",
+      "Arts, Commerce, Sciences & Others"
+    ],
+    "score": 50,
+    "matched_reasons": [
+      "🌐 **Accessible Online Mode** (+15 pts)",
+      "👤 **Solo Eligible (1 Member)** (+35 pts)"
+    ],
+    "is_nagpur_local": false,
+    "is_maharashtra": false,
+    "is_active": true,
+    "discovered_at": "2026-11-07T10:51:21.271489+00:00"
   },
   {
     "id": "unstop:1793392",
@@ -1971,7 +2645,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-07T03:56:26.176743+00:00"
+    "discovered_at": "2026-11-07T10:51:23.587986+00:00"
   },
   {
     "id": "unstop:1786992",
@@ -2004,7 +2678,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": true,
     "is_active": true,
-    "discovered_at": "2026-11-07T03:56:28.601232+00:00"
+    "discovered_at": "2026-11-07T10:51:25.861736+00:00"
   },
   {
     "id": "devpost:31108",
@@ -2039,7 +2713,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-07T03:56:32.907548+00:00"
+    "discovered_at": "2026-11-07T10:51:28.379093+00:00"
   },
   {
     "id": "devpost:30500",
@@ -2074,14 +2748,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-07T03:56:32.624349+00:00"
+    "discovered_at": "2026-11-07T10:51:28.164616+00:00"
   },
   {
     "id": "devpost:31627",
     "source": "Devpost",
     "title": "Next Byte Hacks V5",
     "url": "https://next-byte-hacks-v5.devpost.com/",
-    "description": "Devpost hackathon. about 19 hours left",
+    "description": "Devpost hackathon. about 11 hours left",
     "organizer": "Next Byte Hacks",
     "venue": "Online",
     "mode": "Online",
@@ -2109,14 +2783,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-07T03:56:32.748190+00:00"
+    "discovered_at": "2026-11-07T10:51:28.268783+00:00"
   },
   {
     "id": "devpost:31773",
     "source": "Devpost",
     "title": "LaunchPad Hacks",
     "url": "https://launchpad-hacks.devpost.com/",
-    "description": "Devpost hackathon. 14 days left",
+    "description": "Devpost hackathon. 13 days left",
     "organizer": "Hack4TodayOrg",
     "venue": "Online",
     "mode": "Online",
@@ -2143,14 +2817,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-07T03:56:32.748198+00:00"
+    "discovered_at": "2026-11-07T10:51:28.268790+00:00"
   },
   {
     "id": "devpost:31795",
     "source": "Devpost",
     "title": "AccessED Hacks",
     "url": "https://accessed-hacks.devpost.com/",
-    "description": "Devpost hackathon. 14 days left",
+    "description": "Devpost hackathon. 13 days left",
     "organizer": "AccessEDnpo",
     "venue": "Online",
     "mode": "Online",
@@ -2178,7 +2852,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-07T03:56:32.907609+00:00"
+    "discovered_at": "2026-11-07T10:51:28.379152+00:00"
   },
   {
     "id": "devpost:31798",
@@ -2212,7 +2886,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-07T03:56:32.907603+00:00"
+    "discovered_at": "2026-11-07T10:51:28.379146+00:00"
   },
   {
     "id": "unstop:1786997",
@@ -2251,46 +2925,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-07T03:56:26.176160+00:00"
-  },
-  {
-    "id": "unstop:1768041",
-    "source": "Unstop",
-    "title": "Srujan 2026 - 1.5 Lakh Mega Hackathon In association with L&T Edutech - Online Round is Free, No Rs 1200 Charged in it",
-    "url": "https://unstop.com/hackathons/srujan-2026-15-lakh-mega-hackathon-in-association-with-lt-bk-birla-college-1768041",
-    "description": "Visit our Hackathon Website for Free Registrations Tracks T1: AI, Cybersecurity &amp; Digital Trust T2: Smart Infrastructure &amp; IOT T3: Sustainability, AgriTech &amp; Social Impact Initial registration and Round 1 (Online) are 100% Free. Shortlisted teams advancing to Round 2 (Offline) will be required to pay a nominal offline event fee of ₹1200 per team. Eligibility Participants must be currently enrolled students (UG, PG, diploma or equivalent) at a recognised institution in India. Participants must be 18 or older on 18 Dec 2026, with a guardian-consent arrangement is approved by the organisers. Team size is 2 to 4 members. Solo entries are not accepted. Cross-college teams are allowed. A person may be in only one team. Duplicate registrations disqualify every team involved. Organising committee members, judges, mentors, and their immediate family are not eligible to compete. Participants from the host college may compete but cannot be volunteers or coordinators. Each member needs a valid Unstop profile with accurate details. Team Rules Each team has one Team Leader, who is the single point of contact for all communication. Team composition is frozen at the end of Round 1. Teams may not merge, split or transfer their place to another team. Teams may use Unstop's team-matching feature only until registration closes. Structure &amp; Submissions The hackathon consists of a single comprehensive online judging round followed by the finals. Submit your complete project on Unstop: GitHub repo, 3-min demo video, 1-page technical note, and signed AI-use declaration. AI tools may be used for assistance, but teams must disclose which tools they used. Entirely AI-generated projects without understanding lead to disqualification. Any IoT equipment brought by participants is their own responsibility. The college and organizing team will not be responsible for any damage, accidental loss, or mishandling of participant-owned IoT equipment.",
-    "organizer": "Bk birla College",
-    "venue": "hybrid",
-    "mode": "In-Person",
-    "city": null,
-    "state": "hybrid",
-    "country": null,
-    "start_date": "2026-10-15T11:59:00+05:30",
-    "end_date": "2026-12-19T09:01:00+05:30",
-    "registration_deadline": "2026-11-15T23:59:00+05:30",
-    "min_team_size": 2,
-    "max_team_size": 4,
-    "solo_allowed": false,
-    "eligibility": "Undergraduate / Postgraduate & Engineering students",
-    "prize_pool": "Prizes & Certificates",
-    "tracks": [
-      "Engineering Students",
-      "Postgraduate",
-      "Undergraduate",
-      "Management",
-      "Medical",
-      "Law",
-      "Arts, Commerce, Sciences & Others"
-    ],
-    "score": 40,
-    "matched_reasons": [
-      "🌐 **Accessible In-Person Mode** (+15 pts)",
-      "🤖 **AI & Software Tracks** (+25 pts) [AI, Cybersecurity]"
-    ],
-    "is_nagpur_local": false,
-    "is_maharashtra": false,
-    "is_active": true,
-    "discovered_at": "2026-11-07T03:56:28.602006+00:00"
+    "discovered_at": "2026-11-07T10:51:23.587300+00:00"
   },
   {
     "id": "unstop:1799179",
@@ -2329,7 +2964,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-07T03:56:26.173515+00:00"
+    "discovered_at": "2026-11-07T10:51:21.272389+00:00"
   },
   {
     "id": "unstop:1794890",
@@ -2364,7 +2999,41 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-07T03:56:26.175590+00:00"
+    "discovered_at": "2026-11-07T10:51:23.586769+00:00"
+  },
+  {
+    "id": "unstop:1794529",
+    "source": "Unstop",
+    "title": "DecodeX '26 - Enter the Mission. Decode the Unknown",
+    "url": "https://unstop.com/hackathons/decodex-26-enter-the-mission-decode-the-unknown-bms-institute-of-technology-and-management-bmsitm-bangalore-1794529",
+    "description": "DecodeX '26 &ndash; Enter the Mission. Decode the Unknown DecodeX '26 is a national-level signal processing competition in the style of a CTF (Capture the Flag), participants decode hidden messages and secrets buried inside real-world signals, using filtering, spectral analysis, demodulation, and machine learning. Every flag is earned by actually working with the data. What to Expect: Challenges on real world signals: Audio, biomedical, radar and sensor data, with puzzles that need real signal processing, not guesswork. Hands-on problem solving: Each challenge hides a flag inside a signal or dataset. Participants identify what they're dealing with, pick the right signal processing or ML technique, and extract the answer. Rising difficulty : Start with approachable puzzles and work up to harder multi-stage ones. Event Objectives: Promote the practical application of signal processing concepts through hands-on challenges beyond the classroom. Introduce students to Capture The Flag (CTF)-style competitions in the field of signal processing. Develop analytical thinking, problem-solving abilities, and teamwork skills through time-bound challenges. Provide a platform for students from colleges across India to compete, collaborate, and network. Encourage exploration of emerging technologies such as AI/ML applications in signal processing, biomedical signals, and radar sensing. Foster connections between students, industry sponsors, and the wider IEEE community. Challenge Domains: Audio Processing Biomedical Signals Radar Signals Sensor Data Competition Format: Mission 1 - The Infiltration - Online CTF Open to students pursuing a bachelor's degree across India. Duration: 2 hours Participants solve signal-processing-based CTF challenges. Top 30 teams qualify to the next stage Mission 2 - The TakeOver - Offline Grand Finale Venue: BMS Institute of Technology &amp; Management, Bengaluru. Finalists will face more challenging CTF problems. Event Dates: 22 nd Nov, 2026: Online Qualifier 27 th&nbsp; - 28 th&nbsp; Nov, 2026: Offline Finale Organised by: IEEE Signal Processing Society BMS Institute of Technology &amp; Management Student Branch Chapter Guidelines: Team Formation: Teams must consist of 2&ndash;4 members. Teams from different colleges are allowed. Inter-specialization teams are allowed. Prize Pool: ₹50,000 Eligibility Criteria: Open to all students currently pursuing their bachelor's in India, irrespective of their college or specialization.",
+    "organizer": "BMS Institute of Technology and Management (BMSITM), Bangalore",
+    "venue": "hybrid",
+    "mode": "In-Person",
+    "city": null,
+    "state": "hybrid",
+    "country": null,
+    "start_date": "2026-11-08T00:00:00+05:30",
+    "end_date": "2026-11-28T09:00:00+05:30",
+    "registration_deadline": "2026-11-20T23:59:00+05:30",
+    "min_team_size": 2,
+    "max_team_size": 4,
+    "solo_allowed": false,
+    "eligibility": "Undergraduate / Postgraduate & Engineering students",
+    "prize_pool": "Prizes & Certificates",
+    "tracks": [
+      "Engineering Students",
+      "Undergraduate"
+    ],
+    "score": 40,
+    "matched_reasons": [
+      "🌐 **Accessible In-Person Mode** (+15 pts)",
+      "🤖 **AI & Software Tracks** (+25 pts) [AI, Machine Learning, ML]"
+    ],
+    "is_nagpur_local": false,
+    "is_maharashtra": false,
+    "is_active": true,
+    "discovered_at": "2026-11-07T10:51:21.272146+00:00"
   },
   {
     "id": "unstop:1799143",
@@ -2403,7 +3072,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-07T03:56:26.173403+00:00"
+    "discovered_at": "2026-11-07T10:51:21.272282+00:00"
   },
   {
     "id": "unstop:1786652",
@@ -2436,7 +3105,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-07T03:56:26.175423+00:00"
+    "discovered_at": "2026-11-07T10:51:23.586588+00:00"
   },
   {
     "id": "unstop:1798287",
@@ -2469,6 +3138,6 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-07T03:56:26.173861+00:00"
+    "discovered_at": "2026-11-07T10:51:23.585820+00:00"
   }
 ]

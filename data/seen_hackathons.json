@@ -2698,5 +2698,176 @@
     "last_notified": "2026-11-06T23:53:41.601584+00:00",
     "is_nagpur_local": false,
     "solo_allowed": false
+  },
+  "unstop:1799762": {
+    "title": "Project Jupyter",
+    "url": "https://unstop.com/hackathons/project-jupyter-solutions-2k27-army-institute-of-technology-pune-1799762",
+    "score": 100,
+    "source": "Unstop",
+    "last_notified": "2026-11-07T10:51:38.509010+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:1799765": {
+    "title": "Crackhunt",
+    "url": "https://unstop.com/hackathons/crackhunt-solutions-2k27-army-institute-of-technology-pune-1799765",
+    "score": 100,
+    "source": "Unstop",
+    "last_notified": "2026-11-07T10:51:38.509010+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:1799761": {
+    "title": "SQL Mania",
+    "url": "https://unstop.com/hackathons/sql-mania-solutions-2k27-army-institute-of-technology-pune-1799761",
+    "score": 85,
+    "source": "Unstop",
+    "last_notified": "2026-11-07T10:51:38.509010+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:1799509": {
+    "title": "AI Builder Hackathon",
+    "url": "https://unstop.com/hackathons/ai-builder-hackathon-product-space-1799509",
+    "score": 75,
+    "source": "Unstop",
+    "last_notified": "2026-11-07T10:51:38.509010+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:1799475": {
+    "title": "AI Product Buildathon",
+    "url": "https://unstop.com/hackathons/ai-product-buildathon-product-space-1799475",
+    "score": 75,
+    "source": "Unstop",
+    "last_notified": "2026-11-07T10:51:38.509010+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:1799510": {
+    "title": "Gen-AI Product Hackathon",
+    "url": "https://unstop.com/hackathons/gen-ai-product-hackathon-product-space-1799510",
+    "score": 75,
+    "source": "Unstop",
+    "last_notified": "2026-11-07T10:51:38.509010+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:1799543": {
+    "title": "Data Analytics Hackathon",
+    "url": "https://unstop.com/hackathons/data-analytics-hackathon-gradient-learnings-1799543",
+    "score": 75,
+    "source": "Unstop",
+    "last_notified": "2026-11-07T10:51:38.509010+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:1799767": {
+    "title": "Expanding Horizons 8.0 Software",
+    "url": "https://unstop.com/hackathons/expanding-horizons-80-software-expanding-horizon-80-motilal-nehru-national-institute-of-technology-1799767",
+    "score": 75,
+    "source": "Unstop",
+    "last_notified": "2026-11-07T10:51:38.509010+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:1799092": {
+    "title": "AI Vibeathon 2026 | PromptWars × Echo Engineers",
+    "url": "https://unstop.com/hackathons/ai-vibeathon-2026-promptwars-echo-engineers-echo-engineers-1799092",
+    "score": 75,
+    "source": "Unstop",
+    "last_notified": "2026-11-07T10:51:38.509010+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:1799800": {
+    "title": "Solidworks",
+    "url": "https://unstop.com/hackathons/solidworks-solutions-2k27-army-institute-of-technology-pune-1799800",
+    "score": 75,
+    "source": "Unstop",
+    "last_notified": "2026-11-07T10:51:38.509010+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:1778710": {
+    "title": "Roboforge",
+    "url": "https://unstop.com/hackathons/roboforge-maharaja-surajmal-institute-of-technology-msit-new-delhi-1778710",
+    "score": 60,
+    "source": "Unstop",
+    "last_notified": "2026-11-07T10:51:38.509010+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:1799782": {
+    "title": "Expanding Horizons 8.0  CIVIL",
+    "url": "https://unstop.com/hackathons/expanding-horizons-80-civil-expanding-horizon-80-motilal-nehru-national-institute-of-technology-1799782",
+    "score": 50,
+    "source": "Unstop",
+    "last_notified": "2026-11-07T10:51:38.509010+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:1799780": {
+    "title": "Expanding Horizons 8.0  EE",
+    "url": "https://unstop.com/hackathons/expanding-horizons-80-ee-expanding-horizon-80-motilal-nehru-national-institute-of-technology-1799780",
+    "score": 50,
+    "source": "Unstop",
+    "last_notified": "2026-11-07T10:51:38.509010+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:1799778": {
+    "title": "Expanding Horizons 8.0  ECE",
+    "url": "https://unstop.com/hackathons/expanding-horizons-80-ece-expanding-horizon-80-motilal-nehru-national-institute-of-technology-1799778",
+    "score": 50,
+    "source": "Unstop",
+    "last_notified": "2026-11-07T10:51:38.509010+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:1799776": {
+    "title": "Expanding Horizons 8.0 Consultancy",
+    "url": "https://unstop.com/hackathons/expanding-horizons-80-consultancy-expanding-horizon-80-motilal-nehru-national-institute-of-technology-1799776",
+    "score": 50,
+    "source": "Unstop",
+    "last_notified": "2026-11-07T10:51:38.509010+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:1799791": {
+    "title": "Expanding Horizons 8.0 Chemical",
+    "url": "https://unstop.com/hackathons/expanding-horizons-80-chemical-expanding-horizon-80-motilal-nehru-national-institute-of-technology-1799791",
+    "score": 50,
+    "source": "Unstop",
+    "last_notified": "2026-11-07T10:51:38.509010+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:1799788": {
+    "title": "Expanding Horizons 8.0  Mechanical",
+    "url": "https://unstop.com/hackathons/expanding-horizons-80-mechanical-expanding-horizon-80-motilal-nehru-national-institute-of-technology-1799788",
+    "score": 50,
+    "source": "Unstop",
+    "last_notified": "2026-11-07T10:51:38.509010+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:1799790": {
+    "title": "Expanding Horizons 8.0   BIOTECH",
+    "url": "https://unstop.com/hackathons/expanding-horizons-80-biotech-expanding-horizon-80-motilal-nehru-national-institute-of-technology-1799790",
+    "score": 50,
+    "source": "Unstop",
+    "last_notified": "2026-11-07T10:51:38.509010+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:1794529": {
+    "title": "DecodeX '26 - Enter the Mission. Decode the Unknown",
+    "url": "https://unstop.com/hackathons/decodex-26-enter-the-mission-decode-the-unknown-bms-institute-of-technology-and-management-bmsitm-bangalore-1794529",
+    "score": 40,
+    "source": "Unstop",
+    "last_notified": "2026-11-07T10:51:38.509010+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": false
   }
 }

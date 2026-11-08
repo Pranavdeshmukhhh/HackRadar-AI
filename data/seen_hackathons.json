@@ -2923,5 +2923,14 @@
     "last_notified": "2026-11-07T16:42:36.097888+00:00",
     "is_nagpur_local": false,
     "solo_allowed": false
+  },
+  "devpost:31146": {
+    "title": "Sheridan Datathon 2026",
+    "url": "https://sheridandatathon2026.devpost.com/",
+    "score": 60,
+    "source": "Devpost",
+    "last_notified": "2026-11-08T00:06:58.621705+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
   }
 }

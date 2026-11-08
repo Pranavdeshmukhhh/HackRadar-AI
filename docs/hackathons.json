@@ -33,7 +33,7 @@
     "is_nagpur_local": true,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-08T06:51:28.316378+00:00"
+    "discovered_at": "2026-11-08T13:59:31.222964+00:00"
   },
   {
     "id": "unstop:1788753",
@@ -72,7 +72,7 @@
     "is_nagpur_local": true,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-08T06:51:19.713552+00:00"
+    "discovered_at": "2026-11-08T13:59:24.186844+00:00"
   },
   {
     "id": "unstop:1794522",
@@ -107,7 +107,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": true,
     "is_active": true,
-    "discovered_at": "2026-11-08T06:51:17.674235+00:00"
+    "discovered_at": "2026-11-08T13:59:22.206417+00:00"
   },
   {
     "id": "unstop:1799765",
@@ -146,7 +146,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": true,
     "is_active": true,
-    "discovered_at": "2026-11-08T06:51:19.710979+00:00"
+    "discovered_at": "2026-11-08T13:59:22.207906+00:00"
   },
   {
     "id": "unstop:1799762",
@@ -185,7 +185,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": true,
     "is_active": true,
-    "discovered_at": "2026-11-08T06:51:19.712167+00:00"
+    "discovered_at": "2026-11-08T13:59:24.185585+00:00"
   },
   {
     "id": "unstop:1799761",
@@ -223,7 +223,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": true,
     "is_active": true,
-    "discovered_at": "2026-11-08T06:51:19.711043+00:00"
+    "discovered_at": "2026-11-08T13:59:24.185636+00:00"
   },
   {
     "id": "college:mindsparkorg",
@@ -259,7 +259,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": true,
     "is_active": true,
-    "discovered_at": "2026-11-08T06:51:27.924436+00:00"
+    "discovered_at": "2026-11-08T13:59:31.000600+00:00"
   },
   {
     "id": "unstop:1789431",
@@ -293,7 +293,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-08T06:51:17.672123+00:00"
+    "discovered_at": "2026-11-08T13:59:22.206457+00:00"
   },
   {
     "id": "unstop:1798516",
@@ -327,7 +327,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": true,
     "is_active": true,
-    "discovered_at": "2026-11-08T06:51:19.713026+00:00"
+    "discovered_at": "2026-11-08T13:59:24.186345+00:00"
   },
   {
     "id": "unstop:1791467",
@@ -367,7 +367,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-08T06:51:21.849240+00:00"
+    "discovered_at": "2026-11-08T13:59:26.232848+00:00"
   },
   {
     "id": "unstop:1793112",
@@ -407,7 +407,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-08T06:51:21.848414+00:00"
+    "discovered_at": "2026-11-08T13:59:26.232159+00:00"
   },
   {
     "id": "unstop:1785416",
@@ -447,7 +447,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-08T06:51:21.850564+00:00"
+    "discovered_at": "2026-11-08T13:59:26.233996+00:00"
   },
   {
     "id": "unstop:1791573",
@@ -487,7 +487,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-08T06:51:21.848503+00:00"
+    "discovered_at": "2026-11-08T13:59:26.232222+00:00"
   },
   {
     "id": "unstop:1800891",
@@ -521,7 +521,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-08T06:51:17.672380+00:00"
+    "discovered_at": "2026-11-08T13:59:22.206545+00:00"
   },
   {
     "id": "unstop:1792269",
@@ -561,7 +561,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-08T06:51:21.848852+00:00"
+    "discovered_at": "2026-11-08T13:59:26.232505+00:00"
   },
   {
     "id": "unstop:1799510",
@@ -599,7 +599,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-08T06:51:19.712400+00:00"
+    "discovered_at": "2026-11-08T13:59:24.185840+00:00"
   },
   {
     "id": "unstop:1799509",
@@ -637,7 +637,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-08T06:51:19.712554+00:00"
+    "discovered_at": "2026-11-08T13:59:24.185942+00:00"
   },
   {
     "id": "unstop:1799475",
@@ -675,7 +675,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-08T06:51:19.712672+00:00"
+    "discovered_at": "2026-11-08T13:59:24.186039+00:00"
   },
   {
     "id": "unstop:1799543",
@@ -713,42 +713,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-08T06:51:19.712302+00:00"
-  },
-  {
-    "id": "unstop:1792758",
-    "source": "Unstop",
-    "title": "SupeRR Selector Season 2: Help Shape Rajasthan Royals' IPL 2027 Auction Strategy",
-    "url": "https://unstop.com/hackathons/crp-superr-selector-season-2-help-shape-rajasthan-royals-ipl-2027-auction-strategy-rajasthan-royals-1792758",
-    "description": "SupeRR Selector is back. Rajasthan Royals invites students, data enthusiasts, analysts and cricket fans from across the country to step into the shoes of a modern talent scout, one who blends cricketing instinct with the power of data. Participants get access to exclusive RR data that rarely leaves a franchise's war room, and use analytics, machine learning models and interactive dashboards to make the kind of calls RR makes ahead of an auction. Season 1 drew 7,500+ participants from 39 nationalities. The winners backed Vignesh Puthur in their strategy, and RR went on to bid for and sign him at the IPL 2026 auction. Your idea could be next. This season, Round 1 asks you to dig into uncapped talent from domestic leagues and help RR find the top 10 youngest uncapped players worth backing. The top 16 will be flown to Mumbai to work with the Royals Analytics team, and one winner will be at the IPL 2027 auction in Goa, pitching to Kumar Sangakkara and Giles Lindsay. Eligibility: Students, early working professionals and everyone else are welcome to apply. Round Descriptions &amp; Guidelines:&nbsp; Round 1: Find the Youngest Uncapped Stars Analyse the data pack of uncapped domestic players, along with public data, and submit your top 10 picks and rationale as a PDF, PPT or dashboard. Round 2: In-Person Hackathon by Royals Analytics The top 16 work on a more detailed challenge in Mumbai. Round 3: IPL 2027 Auction Finale The Round 2 winner attends the IPL 2027 auction in Goa and presents to Kumar Sangakkara and Giles Lindsay. Rules: Participation is individual only; no teams. You're welcome to use AI tools for research, analysis and building your case. The insights, picks and recommendations in your final submission must be your own; copied or wholly AI-generated submissions may be disqualified. Only one submission per participant is allowed. The data pack is for use in this competition only and must not be shared or published. The decision of the Rajasthan Royals and Unstop evaluation panel will be final and binding. Shortlisted participants must be available to travel to Mumbai and, if selected, to Goa for the auction. Shortlisted participants must carry a valid government photo ID for travel. Rewards and Prizes: Winner: A fully sponsored trip to Goa to be present at the IPL 2027 auction with Rajasthan Royals, and the chance to present your strategy to Kumar Sangakkara and Giles Lindsay. Certificate included. Top 16 Finalists from Round 2: An all-expenses-paid trip to Mumbai, including travel and stay, plus an exclusive Rajasthan Royals merch kit, along with mentorship from RR team. Opportunity to work with Rajasthan Royals on a live project or internship basis (*subject to eligibility). Certificate included. Top 25 Participants of Round 1: An additional 25 participants, beyond the top 16, will receive an exclusive Rajasthan Royals merch kit. Participation Certificate: All Round 1 participants will get a Certificate of Participation.",
-    "organizer": "Rajasthan Royals",
-    "venue": "hybrid",
-    "mode": "In-Person",
-    "city": null,
-    "state": "hybrid",
-    "country": null,
-    "start_date": "2026-11-05T13:15:12+05:30",
-    "end_date": "2026-12-07T21:50:01+05:30",
-    "registration_deadline": "2026-11-16T23:59:12+05:30",
-    "min_team_size": 1,
-    "max_team_size": 1,
-    "solo_allowed": true,
-    "eligibility": "Undergraduate / Postgraduate & Engineering students",
-    "prize_pool": "Prizes & Certificates",
-    "tracks": [
-      "Case Study",
-      "All"
-    ],
-    "score": 75,
-    "matched_reasons": [
-      "🌐 **Accessible In-Person Mode** (+15 pts)",
-      "👤 **Solo Eligible (1 Member)** (+35 pts)",
-      "🤖 **AI & Software Tracks** (+25 pts) [AI, Machine Learning]"
-    ],
-    "is_nagpur_local": false,
-    "is_maharashtra": false,
-    "is_active": true,
-    "discovered_at": "2026-11-08T06:51:19.714376+00:00"
+    "discovered_at": "2026-11-08T13:59:24.185755+00:00"
   },
   {
     "id": "unstop:1779479",
@@ -786,7 +751,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-08T06:51:21.848722+00:00"
+    "discovered_at": "2026-11-08T13:59:26.232401+00:00"
   },
   {
     "id": "unstop:1800358",
@@ -820,7 +785,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-08T06:51:17.673314+00:00"
+    "discovered_at": "2026-11-08T13:59:22.206262+00:00"
   },
   {
     "id": "unstop:1799767",
@@ -858,14 +823,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-08T06:51:17.675095+00:00"
+    "discovered_at": "2026-11-08T13:59:22.207863+00:00"
   },
   {
     "id": "unstop:1799092",
     "source": "Unstop",
     "title": "AI Vibeathon 2026 | PromptWars × Echo Engineers",
     "url": "https://unstop.com/hackathons/ai-vibeathon-2026-promptwars-echo-engineers-echo-engineers-1799092",
-    "description": "About AI VIBEATHON 2026 AI VIBEATHON 2026 is an AI-focused innovation and hackathon event organized by Echo Engineers in collaboration with PromptWars . Join WhatsApp group for updates WhatsApp The event brings together students, developers, innovators, and technology enthusiasts to explore the possibilities of Artificial Intelligence and build creative solutions to real-world challenges. Participants will get an opportunity to showcase their problem-solving skills, experiment with modern AI tools, collaborate with talented individuals, and turn their ideas into working prototypes. The event will follow a two-stage format: Online Preliminary Round: Participants will compete in an online challenge designed to test their technical knowledge, creativity, problem-solving skills, and understanding of AI. Offline Grand Finale: Selected teams will participate in an intensive 8-hour hackathon, where they will build and present their innovative solutions. Whether you are an experienced developer or someone passionate about exploring AI, AI VIBEATHON 2026 is your opportunity to learn, create, and compete. Think beyond prompts. Build beyond possibilities.",
+    "description": "AI VIBEATHON 2026 About AI VIBEATHON 2026 AI VIBEATHON 2026 is an&nbsp; Open Innovation approach with AI-focused innovation and hackathon event organized by Echo Engineers in collaboration with PromptWars . The event brings together students, developers, innovators, and technology enthusiasts to explore the possibilities of Artificial Intelligence and develop innovative solutions to real-world challenges. Participants will get an opportunity to experiment with modern AI technologies, showcase their technical skills, collaborate with like-minded individuals, and transform their ideas into functional projects. The competition follows a two-stage format: an Online Preliminary Round and an Offline Grand Finale , providing opportunities for participants from across the country to showcase their talent, regardless of their location. Think beyond prompts. Build beyond possibilities. Event Details Event: AI VIBEATHON 2026 Organizers: Echo Engineers in collaboration with PromptWars Date: 25 November &ndash; 28 November 2026 Mode: Online + Offline Offline Venue: Delhi, venue to be announced Duration: 8 Hours (Offline Grand Finale) Eligibility: Students and Working Professionals Team Size: 1&ndash;4 Members Total Prize Pool: ₹50,000 Participation: Certificates for all participants Stages and Timelines Registration This is the first step of your journey! Participants must register through Unstop, either individually or as a team of 2&ndash;4 members. Ensure that all registration details are accurate. After registration, participants are encouraged to join the official WhatsApp group to receive important announcements, submission guidelines, and competition updates. Round 1 &ndash; Online Preliminary Round Date: 25 November 2026 Time: 12:00 AM &ndash; 9:00 PM IST Mode: Online The first round will be conducted entirely online, allowing participants from different colleges, universities, and locations to participate without travelling. Registered teams will be required to develop and submit their projects through the PromptWars portal within the given timeframe. Detailed submission instructions, portal access, and other necessary information will be communicated through the official WhatsApp group. Submission Requirements: Participants must submit their projects through the designated PromptWars portal. A public and accessible GitHub repository link containing the project source code is mandatory. A live demo or deployment link is optional but recommended. Teams must provide all required project details and supporting information. Submissions must be completed within the specified deadline. Incomplete, inaccessible, or late submissions may not be considered for evaluation. Shortlisting: All submissions will be evaluated by the organizing and judging panel. Selected teams will be shortlisted for the Offline Grand Finale in Delhi. Online Round Rewards &ndash; ₹10,000 Winner: ₹5,000 1st Runner-up: ₹3,500 2nd Runner-up: ₹1,500 The online round winners and other shortlisted teams will remain eligible to participate in the Offline Grand Finale. Round 2 &ndash; Offline Grand Finale Date: 28 November 2026 Time: 9:00 AM &ndash; 5:00 PM IST Mode: Offline Venue: Delhi (To Be Announced) The shortlisted teams will be invited to participate in the Offline Grand Finale. During this intensive 8-hour hackathon, participants will get the opportunity to refine their existing projects, improve their implementations, incorporate new ideas, and finalize their solutions. Teams will be expected to: Work on and enhance their submitted projects. Refine their technical implementation and overall functionality. Develop and finalize their working prototypes. Present their projects before the judging panel. Explain their approach, innovation, technical implementation, and potential impact. Following the presentations, the judging panel will evaluate the projects, and the final results and winners will be announced. Offline Grand Finale Rewards &ndash; ₹40,000 Winner: ₹25,000 1st Runner-up: ₹10,000 2nd Runner-up: ₹5,000 General Rules and Regulations All submitted work must be original and developed by the participating team. Open-source libraries, frameworks, APIs, and development tools may be used with proper attribution. AI-assisted development is permitted unless otherwise specified. Plagiarism, copied submissions, or intellectual property violations will result in immediate disqualification. Participants must ensure that their GitHub repositories and submitted project links are accessible for evaluation. Participants are responsible for completing their submissions within the specified deadlines. Teams must maintain professionalism and follow the event's code of conduct. Participants are expected to follow all instructions communicated by the organizing committee. Decisions made by the organizing committee and judging panel will be final and binding. Evaluation Criteria Projects will be assessed based on their overall contribution toward rebuilding civilization and their potential to create meaningful real-world impact. The judging panel will consider the following parameters: Innovation: Originality, creativity, and uniqueness of the proposed solution. Technical Feasibility: Practical implementation, technical depth, and functionality. Scalability: Potential to expand and serve a larger number of users or applications. Problem Fit &amp; Impact: Relevance to the problem statement and potential real-world contribution. Resilience: Reliability, adaptability, and ability to perform under challenging conditions. Presentation: Clarity of communication, demonstration, and explanation of the solution. What's in It for You? Participating in AI VIBEATHON 2026 gives you an opportunity to: Compete for a total prize pool of ₹50,000 . Win cash prizes in both online and offline rounds. Showcase your innovation and technical expertise. Work with modern AI technologies and development tools. Connect with developers, innovators, and technology enthusiasts. Present your solutions before an expert judging panel. Gain practical experience through an intensive hackathon environment. Receive a Certificate of Participation . Whether you are an experienced developer or someone passionate about exploring Artificial Intelligence, this is your opportunity to turn ideas into impactful solutions. Important Links and Updates Official WhatsApp Group: https://chat.whatsapp.com/FkrCq24ckqwBM4PjjoErAW All important announcements, submission instructions, portal details, and event updates will be shared through the official WhatsApp group. Make sure you join the group after registration so you don't miss any important information. Register. Innovate. Build. Compete.",
     "organizer": "ECHO ENGINEERS",
     "venue": "hybrid",
     "mode": "In-Person",
@@ -873,7 +838,7 @@
     "state": "hybrid",
     "country": null,
     "start_date": "2026-11-06T00:00:00+05:30",
-    "end_date": "2026-11-28T17:27:00+05:30",
+    "end_date": "2026-11-28T17:00:00+05:30",
     "registration_deadline": "2026-11-25T00:00:00+05:30",
     "min_team_size": 1,
     "max_team_size": 4,
@@ -891,12 +856,12 @@
     "matched_reasons": [
       "🌐 **Accessible In-Person Mode** (+15 pts)",
       "👤 **Solo Eligible (1 Member)** (+35 pts)",
-      "🤖 **AI & Software Tracks** (+25 pts) [AI, Artificial Intelligence]"
+      "🤖 **AI & Software Tracks** (+25 pts) [AI, Artificial Intelligence, Open Innovation]"
     ],
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-08T06:51:17.673807+00:00"
+    "discovered_at": "2026-11-08T13:59:22.207251+00:00"
   },
   {
     "id": "unstop:1800324",
@@ -930,7 +895,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-08T06:51:17.674546+00:00"
+    "discovered_at": "2026-11-08T13:59:24.185292+00:00"
   },
   {
     "id": "unstop:1798702",
@@ -970,7 +935,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-08T06:51:19.712848+00:00"
+    "discovered_at": "2026-11-08T13:59:24.186191+00:00"
   },
   {
     "id": "unstop:1797543",
@@ -1004,41 +969,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-08T06:51:19.713284+00:00"
-  },
-  {
-    "id": "unstop:1782683",
-    "source": "Unstop",
-    "title": "CTF - Capture The Flag",
-    "url": "https://unstop.com/hackathons/ctf-capture-the-flag-iit-madras-1782683",
-    "description": "Welcome to the CTF SHASTRAA 2027 Details: A nationwide Capture The Flag (CTF) competition for cybersecurity enthusiasts of every skill level. Whether you&rsquo;re an experienced hacker or a curious beginner, this event is designed for you. The competition follows a Jeopardy-style CTF format , and participants may form teams of up to 2 members . Event Stages Prelims: A beginner-friendly online CTF challenge. Finals: Qualified teams from the Prelims will be invited to compete offline at IIT Madras , racing to capture flags in a high-energy, competitive environment. Challenge Categories The following categories will be featured in both stages: Web Exploitation OSINT Reverse Engineering Binary Exploitation Forensics Cryptography &nbsp;",
-    "organizer": "Indian Institute of Technology (IIT), Madras",
-    "venue": "Online",
-    "mode": "Online",
-    "city": null,
-    "state": "online",
-    "country": null,
-    "start_date": "2026-10-28T00:00:00+05:30",
-    "end_date": "2027-01-06T15:47:00+05:30",
-    "registration_deadline": "2026-12-01T00:00:00+05:30",
-    "min_team_size": 1,
-    "max_team_size": 2,
-    "solo_allowed": true,
-    "eligibility": "Open to college students & coders",
-    "prize_pool": "Prizes & Certificates",
-    "tracks": [
-      "All"
-    ],
-    "score": 75,
-    "matched_reasons": [
-      "🌐 **Accessible Online Mode** (+15 pts)",
-      "👤 **Solo Eligible (1 Member)** (+35 pts)",
-      "🤖 **AI & Software Tracks** (+25 pts) [Cybersecurity]"
-    ],
-    "is_nagpur_local": false,
-    "is_maharashtra": false,
-    "is_active": true,
-    "discovered_at": "2026-11-08T06:51:21.850289+00:00"
+    "discovered_at": "2026-11-08T13:59:24.186569+00:00"
   },
   {
     "id": "unstop:1790680",
@@ -1075,7 +1006,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-08T06:51:21.849395+00:00"
+    "discovered_at": "2026-11-08T13:59:26.232974+00:00"
   },
   {
     "id": "unstop:1791313",
@@ -1113,7 +1044,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-08T06:51:21.850095+00:00"
+    "discovered_at": "2026-11-08T13:59:26.233626+00:00"
   },
   {
     "id": "unstop:1792826",
@@ -1147,7 +1078,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-08T06:51:21.848207+00:00"
+    "discovered_at": "2026-11-08T13:59:26.231982+00:00"
   },
   {
     "id": "unstop:1792025",
@@ -1181,7 +1112,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-08T06:51:19.713785+00:00"
+    "discovered_at": "2026-11-08T13:59:24.188043+00:00"
   },
   {
     "id": "unstop:1795775",
@@ -1221,7 +1152,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-08T06:51:19.713607+00:00"
+    "discovered_at": "2026-11-08T13:59:24.187858+00:00"
   },
   {
     "id": "unstop:1794889",
@@ -1261,7 +1192,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-08T06:51:19.713904+00:00"
+    "discovered_at": "2026-11-08T13:59:24.188180+00:00"
   },
   {
     "id": "unstop:1799800",
@@ -1299,7 +1230,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": true,
     "is_active": true,
-    "discovered_at": "2026-11-08T06:51:17.674864+00:00"
+    "discovered_at": "2026-11-08T13:59:22.207655+00:00"
   },
   {
     "id": "unstop:1801200",
@@ -1314,7 +1245,7 @@
     "state": "hybrid",
     "country": null,
     "start_date": "2026-11-07T00:00:00+05:30",
-    "end_date": "2027-03-01T11:50:00+05:30",
+    "end_date": "2027-03-06T12:00:00+05:30",
     "registration_deadline": "2027-03-01T11:50:00+05:30",
     "min_team_size": 1,
     "max_team_size": 1,
@@ -1333,7 +1264,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": true,
     "is_active": true,
-    "discovered_at": "2026-11-08T06:51:17.672030+00:00"
+    "discovered_at": "2026-11-08T13:59:22.205439+00:00"
   },
   {
     "id": "unstop:1800395",
@@ -1367,7 +1298,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-08T06:51:17.673215+00:00"
+    "discovered_at": "2026-11-08T13:59:22.206179+00:00"
   },
   {
     "id": "hackerearth:contextcon-remember-everything",
@@ -1403,7 +1334,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-08T06:51:25.896044+00:00"
+    "discovered_at": "2026-11-08T13:59:29.225117+00:00"
   },
   {
     "id": "devpost:30740",
@@ -1439,7 +1370,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-08T06:51:24.749383+00:00"
+    "discovered_at": "2026-11-08T13:59:28.227659+00:00"
   },
   {
     "id": "devpost:30764",
@@ -1475,14 +1406,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-08T06:51:24.749398+00:00"
+    "discovered_at": "2026-11-08T13:59:28.227675+00:00"
   },
   {
     "id": "devpost:31060",
     "source": "Devpost",
     "title": "Agentic Hackathon",
     "url": "https://agentic-hackathon.devpost.com/",
-    "description": "Devpost hackathon. 3 days left",
+    "description": "Devpost hackathon. 2 days left",
     "organizer": "Devin",
     "venue": "Online",
     "mode": "Online",
@@ -1511,43 +1442,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-08T06:51:24.916787+00:00"
-  },
-  {
-    "id": "devpost:31489",
-    "source": "Devpost",
-    "title": "EthnoHack",
-    "url": "https://ethnohack2026.devpost.com/",
-    "description": "Devpost hackathon. about 7 hours left",
-    "organizer": "ETHCSTWIN",
-    "venue": "Online",
-    "mode": "Online",
-    "city": null,
-    "state": null,
-    "country": null,
-    "start_date": null,
-    "end_date": null,
-    "registration_deadline": "Nov 02 - 08, 2026",
-    "min_team_size": 1,
-    "max_team_size": null,
-    "solo_allowed": true,
-    "eligibility": "Global Devpost Participants",
-    "prize_pool": "€ 8,000",
-    "tracks": [
-      "Databases",
-      "Health",
-      "Machine Learning/AI"
-    ],
-    "score": 75,
-    "matched_reasons": [
-      "🌐 **Accessible Online Mode** (+15 pts)",
-      "👤 **Solo Eligible (1 Member)** (+35 pts)",
-      "🤖 **AI & Software Tracks** (+25 pts) [AI, Machine Learning]"
-    ],
-    "is_nagpur_local": false,
-    "is_maharashtra": false,
-    "is_active": true,
-    "discovered_at": "2026-11-08T06:51:24.749415+00:00"
+    "discovered_at": "2026-11-08T13:59:28.385387+00:00"
   },
   {
     "id": "devpost:31642",
@@ -1583,7 +1478,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-08T06:51:24.749374+00:00"
+    "discovered_at": "2026-11-08T13:59:28.227650+00:00"
   },
   {
     "id": "devpost:31083",
@@ -1619,7 +1514,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-08T06:51:24.620375+00:00"
+    "discovered_at": "2026-11-08T13:59:28.055739+00:00"
   },
   {
     "id": "devpost:31480",
@@ -1655,7 +1550,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-08T06:51:24.916779+00:00"
+    "discovered_at": "2026-11-08T13:59:28.385372+00:00"
   },
   {
     "id": "hackerearth:mks-inc-hackathon",
@@ -1691,7 +1586,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-08T06:51:25.896029+00:00"
+    "discovered_at": "2026-11-08T13:59:29.225103+00:00"
   },
   {
     "id": "hackerearth:ibm-z-day",
@@ -1727,14 +1622,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-08T06:51:25.896002+00:00"
+    "discovered_at": "2026-11-08T13:59:29.225078+00:00"
   },
   {
     "id": "devpost:31302",
     "source": "Devpost",
     "title": "PayPal AI Hackathon",
     "url": "https://paypalaihackathon.devpost.com/",
-    "description": "Devpost hackathon. 5 days left",
+    "description": "Devpost hackathon. 4 days left",
     "organizer": "PayPal",
     "venue": "Online",
     "mode": "Online",
@@ -1763,7 +1658,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-08T06:51:24.620307+00:00"
+    "discovered_at": "2026-11-08T13:59:28.055676+00:00"
   },
   {
     "id": "devpost:31659",
@@ -1799,7 +1694,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-08T06:51:24.620382+00:00"
+    "discovered_at": "2026-11-08T13:59:28.055746+00:00"
   },
   {
     "id": "devpost:31664",
@@ -1835,7 +1730,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-08T06:51:24.916771+00:00"
+    "discovered_at": "2026-11-08T13:59:28.385380+00:00"
   },
   {
     "id": "devpost:31789",
@@ -1871,14 +1766,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-08T06:51:24.749423+00:00"
+    "discovered_at": "2026-11-08T13:59:28.227688+00:00"
   },
   {
     "id": "devpost:31796",
     "source": "Devpost",
     "title": "SafeSpace Hacks",
     "url": "https://safespace-hacks.devpost.com/",
-    "description": "Devpost hackathon. 15 days left",
+    "description": "Devpost hackathon. 14 days left",
     "organizer": "SafeSpace",
     "venue": "Online",
     "mode": "Online",
@@ -1907,7 +1802,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-08T06:51:24.916722+00:00"
+    "discovered_at": "2026-11-08T13:59:28.227701+00:00"
   },
   {
     "id": "devpost:30789",
@@ -1943,7 +1838,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-08T06:51:24.749352+00:00"
+    "discovered_at": "2026-11-08T13:59:28.227600+00:00"
   },
   {
     "id": "devpost:31552",
@@ -1979,7 +1874,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-08T06:51:24.620368+00:00"
+    "discovered_at": "2026-11-08T13:59:28.055731+00:00"
   },
   {
     "id": "devpost:31572",
@@ -2015,14 +1910,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-08T06:51:24.620360+00:00"
+    "discovered_at": "2026-11-08T13:59:28.055723+00:00"
   },
   {
     "id": "devpost:31907",
     "source": "Devpost",
     "title": "Build Your First AI App",
     "url": "https://build-your-first-ai-app.devpost.com/",
-    "description": "Devpost hackathon. 20 days left",
+    "description": "Devpost hackathon. 19 days left",
     "organizer": "Yasir Insights",
     "venue": "Online",
     "mode": "Online",
@@ -2051,14 +1946,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-08T06:51:24.749405+00:00"
+    "discovered_at": "2026-11-08T13:59:28.227681+00:00"
   },
   {
     "id": "devpost:31667",
     "source": "Devpost",
     "title": "Kiroween 2026",
     "url": "https://kiroween.devpost.com/",
-    "description": "Devpost hackathon. 27 days left",
+    "description": "Devpost hackathon. 26 days left",
     "organizer": "Kiro",
     "venue": "Online",
     "mode": "Online",
@@ -2087,7 +1982,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-08T06:51:24.620339+00:00"
+    "discovered_at": "2026-11-08T13:59:28.055702+00:00"
   },
   {
     "id": "devpost:31187",
@@ -2123,14 +2018,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-08T06:51:24.916753+00:00"
+    "discovered_at": "2026-11-08T13:59:28.385362+00:00"
   },
   {
     "id": "devpost:31024",
     "source": "Devpost",
     "title": "Meta VR Start Developer Competition 2026",
     "url": "https://start-developer-competition-26.devpost.com/",
-    "description": "Devpost hackathon. 11 days left",
+    "description": "Devpost hackathon. 10 days left",
     "organizer": "Meta",
     "venue": "Online",
     "mode": "Online",
@@ -2159,14 +2054,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-08T06:51:24.620352+00:00"
+    "discovered_at": "2026-11-08T13:59:28.055714+00:00"
   },
   {
     "id": "unstop:1793796",
     "source": "Unstop",
     "title": "VYOM - National Level Hackathon Cum Project Competition",
     "url": "https://unstop.com/hackathons/vyom-national-level-hackathon-cum-project-competition-government-college-of-engineering-geca-aurangabad-1793796",
-    "description": "About VYOM Edition 1 (2026&ndash;27) VYOM Edition 1 (2026&ndash;27) is a premier National-Level Hardware + Software Hackathon cum Project Expo organized by Government College of Engineering, Chhatrapati Sambhajinagar (GECCS) in association with the Center of Excellence (CoE) &ndash; TSSIP and the Ankur Incubation Center Foundation (AICF). Designed to bridge academic theory with industrial execution, VYOM challenges student innovators across the nation to build scalable hardware prototypes, robust software architectures, or integrated hybrid solutions across 10 specialized technology domains. Eligibility &amp; Team Formation Guidelines Eligible Participants: Open to all undergraduate and postgraduate engineering, technology, and science students currently enrolled in any recognized institute or university across India. Team Size: 2 to 5 members per team (including one designated Team Leader). Individual participation is not permitted. Inter-College Teams: Allowed. Students from different colleges or universities can collaborate and form a team. Inter-Specialization / Inter-Department Teams: Allowed and strongly encouraged. Students from different engineering branches (e.g., ENTC, CSE, Mechanical, Electrical, Civil, AI/DS) and different academic years can form a single team, especially for hybrid Hardware + Software solutions. One Team Per Participant: A student can be a member of only one team. Multiple registrations by the same individual across different teams will lead to disqualification. Valid Identification: All team members must possess a valid college photo ID card for verification during screening and offline participation. Competition Tracks &amp; 10 Innovation Domains Teams may participate in the Hardware Track, the Software Track, or combine both Hardware and Software to build an integrated hybrid project. Hardware Innovation Track (4 Domains) Domain 1: Robotics, Drones &amp; Autonomous Systems Domain 2: IoT, Embedded Systems &amp; Smart Edge Devices Domain 3: Clean Energy, EV Tech &amp; Sustainable Hardware Domain 4: Industrial Automation, Mechatronics &amp; Smart Manufacturing Software Innovation Track (6 Domains) Domain 5: Artificial Intelligence, Machine Learning &amp; Computer Vision Domain 6: FinTech, Blockchain &amp; Cybersecurity Domain 7: HealthTech, MedTech &amp; Assistive Digital Solutions Domain 8: AgriTech, Rural Innovation &amp; Smart Cities Domain 9: EdTech, SaaS &amp; Developer Productivity Tools Domain 10: Open Innovation &amp; Next-Gen Cloud/Web Platforms Number of Problem Statements: 10 Thematic Domain Tracks + Open Innovation. Teams can either address real-world industrial challenges aligned with any of the 10 specified domains or propose an original problem statement under their selected domain. Competition Process, Format &amp; Duration of Rounds VYOM Edition 1 follows a structured 3-Phase / 3-Round format: Round 1: Idea &amp; Proposal Submission (Online) Duration: 2 November 2026 &ndash; 25 November 2026 (Submission window open 24x7 until deadline). Registration Fee for Round 1: 100% Free. Format &amp; Deliverables: Teams register online, select their primary domain (Hardware, Software, or Hybrid), and submit a structured project proposal/abstract (PDF/PPT format) using the official template. The submission must cover the problem statement, proposed technical architecture, block diagram/workflow, component/tech-stack list, feasibility, and expected real-world impact. Shortlisting: Proposals are evaluated by domain experts on novelty, technical feasibility, and societal/industrial relevance. Round 2: Prototype Preparation, Mentorship &amp; Virtual Screening (Online) Duration: 1 December 2026 &ndash; 17 December 2026 (2.5-week preparation and mentoring window, culminating in a 10&ndash;15 minute live virtual screening session per team). Registration Fee for Round 2: 100% Free. Format &amp; Deliverables: Shortlisted teams from Round 1 refine their designs and build an initial Proof-of-Concept (PoC), simulation, CAD/circuit model, or early software build. Each team presents their progress live via video conferencing before an expert screening panel (7-minute demonstration + 5-minute Q&amp;A). Finalist Selection: Top-performing teams across all 10 domains are shortlisted for the Grand Finale at the GECCS campus. Round 3: On-Campus Grand Finale &mdash; 16-Hour Buildathon &amp; Project Expo (Offline) Venue: Government College of Engineering, Chhatrapati Sambhajinagar (GECCS Campus). Registration Fee for Round 3 Finalists: ₹500 per team (Applicable only to shortlisted teams qualifying for the offline Round 3 Grand Finale). Duration: 16-Hour Continuous Buildathon Sprint followed by a Full-Day Live Project Expo &amp; Final Jury Pitch. Software Track Format: Teams engage in an intensive 16-hour on-campus coding sprint to build, integrate, and deploy their working application, followed by live demonstration and code review. Hardware &amp; Hybrid Track Format: Teams utilize the pre-finale fabrication window (18 December &ndash; 31 December 2026) to assemble core hardware rigs and use the 16-hour on-campus window for system integration, sensor calibration, stress testing, and live exhibition at the Project Expo. Evaluation Criteria (100-Point Rubric) All projects are evaluated by an independent jury of industry specialists, startup founders, and senior faculty across five weighted parameters: Innovation, Novelty &amp; Problem Relevance: 20 Marks Technical Complexity, Architecture &amp; Engineering Depth: 25 Marks Working Prototype / Execution Quality &amp; Live Demo: 25 Marks Scalability, Commercial Viability &amp; Real-World Impact: 15 Marks Presentation, Documentation &amp; Q&amp;A Defense: 15 Marks Official Rules &amp; Regulations Originality Mandate: All projects must be original work conceived and developed by the participating team. Plagiarism, submitting pre-built commercial products, or copying existing repositories without transparent attribution will result in immediate disqualification. Round 3 Finalist Fee: Entry to Round 1 and Round 2 is completely free. Teams that qualify for the offline Round 3 Grand Finale are required to pay a nominal registration fee of ₹500 per team to confirm their participation and on-campus slot. Cross-Track Flexibility: Teams are explicitly permitted to combine Hardware and Software components in a single project; however, they must select the primary domain that best represents their core innovation during registration. Team Lock-In: Once Round 1 closes, changes to team members or substitution of participants are strictly prohibited without prior written approval from the organizing committee. Open-Source &amp; AI Usage (Software Track): Use of open-source libraries, public APIs, and standard frameworks is permitted, provided all dependencies are declared. While core architectural boilerplates can be planned in advance, the primary functional build and integration must be executed and verifiable during the hackathon. Version Control (Software Track): Teams must maintain an active Git repository initialized for the competition to allow evaluators to inspect commit histories and code authenticity. BYOD &ndash; Bring Your Own Device/Components (Hardware Track): Teams are responsible for bringing their own microcontrollers, sensors, actuators, custom PCBs, soldering kits, and specialized tools. Standard AC power outlets, high-speed internet/Wi-Fi, and worktables are provided at the venue. Safety Compliance (Hardware Track): Projects involving high-voltage circuits, lithium-polymer (LiPo) batteries, flammable materials, or autonomous drones must strictly adhere to campus lab safety protocols and undergo a mandatory safety check prior to powering on. Discipline &amp; Ethics: Participants must maintain professional decorum, wear official event ID badges at all times on campus, and treat fellow participants, mentors, jury members, and institutional property with respect. Intellectual Property (IP): Participating student teams retain full ownership and intellectual property rights over their codebases, designs, and prototypes. Promising projects will receive fast-track pre-incubation support and mentorship opportunities through AICF and CoE &ndash; TSSIP. Organizer Rights &amp; Binding Decisions: The organizing committee reserves the right to modify or update competition rules, schedules, round structures, and operational guidelines at any stage if required. All evaluation scores and decisions made by the judging panel and organizing committee are final and binding.",
+    "description": "About VYOM Edition 1 (2026&ndash;27) VYOM Edition 1 (2026&ndash;27) is a premier National-Level Hardware + Software Hackathon cum Project Expo organized by Government College of Engineering, Chhatrapati Sambhajinagar (GECCS) in association with the Center of Excellence (CoE) &ndash; TSSIP and the Ankur Incubation Center Foundation (AICF). Designed to bridge academic theory with industrial execution, VYOM challenges student innovators across the nation to build scalable hardware prototypes, robust software architectures, or integrated hybrid solutions across 10 specialized technology domains. Eligibility &amp; Team Formation Guidelines Eligible Participants: Open to all undergraduate and postgraduate engineering, technology, and science students currently enrolled in any recognized institute or university across India. Team Size: 2 to 5 members per team (including one designated Team Leader). Individual participation is not permitted. Inter-College Teams: Allowed. Students from different colleges or universities can collaborate and form a team. Inter-Specialization / Inter-Department Teams: Allowed and strongly encouraged. Students from different engineering branches (e.g., ENTC, CSE, Mechanical, Electrical, Civil, AI/DS) and different academic years can form a single team, especially for hybrid Hardware + Software solutions. One Team Per Participant: A student can be a member of only one team. Multiple registrations by the same individual across different teams will lead to disqualification. Valid Identification: All team members must possess a valid college photo ID card for verification during screening and offline participation. Competition Tracks &amp; 10 Innovation Domains Teams may participate in the Hardware Track, the Software Track, or combine both Hardware and Software to build an integrated hybrid project. Hardware Innovation Track (4 Domains) Domain 1: Robotics, Drones &amp; Autonomous Systems Domain 2: IoT, Embedded Systems &amp; Smart Edge Devices Domain 3: Clean Energy, EV Tech &amp; Sustainable Hardware Domain 4: Industrial Automation, Mechatronics &amp; Smart Manufacturing Software Innovation Track (6 Domains) Domain 5: Artificial Intelligence, Machine Learning &amp; Computer Vision Domain 6: FinTech, Blockchain &amp; Cybersecurity Domain 7: HealthTech, MedTech &amp; Assistive Digital Solutions Domain 8: AgriTech, Rural Innovation &amp; Smart Cities Domain 9: EdTech, SaaS &amp; Developer Productivity Tools Domain 10: Open Innovation &amp; Next-Gen Cloud/Web Platforms Number of Problem Statements: 10 Thematic Domain Tracks + Open Innovation. Teams can either address real-world industrial challenges aligned with any of the 10 specified domains or propose an original problem statement under their selected domain. Competition Process, Format &amp; Duration of Rounds VYOM Edition 1 follows a structured 3-Phase / 3-Round format: Round 1: Idea &amp; Proposal Submission (Online) Duration: 2 November 2026 &ndash; 25 November 2026 (Submission window open 24x7 until deadline). Registration Fee for Round 1: 100% Free. Format &amp; Deliverables: Teams register online, select their primary domain (Hardware, Software, or Hybrid), and submit a structured project proposal/abstract (PDF/PPT format) using the official template. The submission must cover the problem statement, proposed technical architecture, block diagram/workflow, component/tech-stack list, feasibility, and expected real-world impact. Shortlisting: Proposals are evaluated by domain experts on novelty, technical feasibility, and societal/industrial relevance. Round 2: Prototype Preparation, Mentorship &amp; Virtual Screening (Online) Duration: 1 December 2026 &ndash; 17 December 2026 (2.5-week preparation and mentoring window, culminating in a 10&ndash;15 minute live virtual screening session per team). Registration Fee for Round 2: 100% Free. Format &amp; Deliverables: Shortlisted teams from Round 1 refine their designs and build an initial Proof-of-Concept (PoC), simulation, CAD/circuit model, or early software build. Each team presents their progress live via video conferencing before an expert screening panel (7-minute demonstration + 5-minute Q&amp;A). Finalist Selection: Top-performing teams across all 10 domains are shortlisted for the Grand Finale at the GECCS campus. Round 3: On-Campus Grand Finale &mdash; 16-Hour Buildathon &amp; Project Expo (Offline) Venue: Government College of Engineering, Chhatrapati Sambhajinagar (GECCS Campus). Registration Fee for Round 3 Finalists: ₹1000 per team (Applicable only to shortlisted teams qualifying for the offline Round 3 Grand Finale). Duration: 12-Hour Continuous Buildathon Sprint followed by a Full-Day Live Project Expo &amp; Final Jury Pitch. Software Track Format: Teams engage in an intensive 16-hour on-campus coding sprint to build, integrate, and deploy their working application, followed by live demonstration and code review. Hardware &amp; Hybrid Track Format: Teams utilize the pre-finale fabrication window (18 December &ndash; 31 December 2026) to assemble core hardware rigs and use the 16-hour on-campus window for system integration, sensor calibration, stress testing, and live exhibition at the Project Expo. Evaluation Criteria (100-Point Rubric) All projects are evaluated by an independent jury of industry specialists, startup founders, and senior faculty across five weighted parameters: Innovation, Novelty &amp; Problem Relevance: 20 Marks Technical Complexity, Architecture &amp; Engineering Depth: 25 Marks Working Prototype / Execution Quality &amp; Live Demo: 25 Marks Scalability, Commercial Viability &amp; Real-World Impact: 15 Marks Presentation, Documentation &amp; Q&amp;A Defense: 15 Marks Official Rules &amp; Regulations Originality Mandate: All projects must be original work conceived and developed by the participating team. Plagiarism, submitting pre-built commercial products, or copying existing repositories without transparent attribution will result in immediate disqualification. Round 3 Finalist Fee: Entry to Round 1 and Round 2 is completely free. Teams that qualify for the offline Round 3 Grand Finale are required to pay a nominal registration fee of ₹500 per team to confirm their participation and on-campus slot. Cross-Track Flexibility: Teams are explicitly permitted to combine Hardware and Software components in a single project; however, they must select the primary domain that best represents their core innovation during registration. Team Lock-In: Once Round 1 closes, changes to team members or substitution of participants are strictly prohibited without prior written approval from the organizing committee. Open-Source &amp; AI Usage (Software Track): Use of open-source libraries, public APIs, and standard frameworks is permitted, provided all dependencies are declared. While core architectural boilerplates can be planned in advance, the primary functional build and integration must be executed and verifiable during the hackathon. Version Control (Software Track): Teams must maintain an active Git repository initialized for the competition to allow evaluators to inspect commit histories and code authenticity. BYOD &ndash; Bring Your Own Device/Components (Hardware Track): Teams are responsible for bringing their own microcontrollers, sensors, actuators, custom PCBs, soldering kits, and specialized tools. Standard AC power outlets, high-speed internet/Wi-Fi, and worktables are provided at the venue. Safety Compliance (Hardware Track): Projects involving high-voltage circuits, lithium-polymer (LiPo) batteries, flammable materials, or autonomous drones must strictly adhere to campus lab safety protocols and undergo a mandatory safety check prior to powering on. Discipline &amp; Ethics: Participants must maintain professional decorum, wear official event ID badges at all times on campus, and treat fellow participants, mentors, jury members, and institutional property with respect. Intellectual Property (IP): Participating student teams retain full ownership and intellectual property rights over their codebases, designs, and prototypes. Promising projects will receive fast-track pre-incubation support and mentorship opportunities through AICF and CoE &ndash; TSSIP. Organizer Rights &amp; Binding Decisions: The organizing committee reserves the right to modify or update competition rules, schedules, round structures, and operational guidelines at any stage if required. All evaluation scores and decisions made by the judging panel and organizing committee are final and binding.",
     "organizer": "Government College of Engineering (GECA), Aurangabad",
     "venue": "hybrid",
     "mode": "In-Person",
@@ -2199,7 +2094,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": true,
     "is_active": true,
-    "discovered_at": "2026-11-08T06:51:19.711914+00:00"
+    "discovered_at": "2026-11-08T13:59:24.187360+00:00"
   },
   {
     "id": "unstop:1792835",
@@ -2232,7 +2127,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-08T06:51:21.849511+00:00"
+    "discovered_at": "2026-11-08T13:59:26.233099+00:00"
   },
   {
     "id": "unstop:1778710",
@@ -2265,7 +2160,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-08T06:51:17.674618+00:00"
+    "discovered_at": "2026-11-08T13:59:24.185364+00:00"
   },
   {
     "id": "unstop:1772221",
@@ -2304,7 +2199,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-08T06:51:19.714056+00:00"
+    "discovered_at": "2026-11-08T13:59:24.187537+00:00"
   },
   {
     "id": "unstop:1771951",
@@ -2343,7 +2238,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-08T06:51:21.850989+00:00"
+    "discovered_at": "2026-11-08T13:59:26.234358+00:00"
   },
   {
     "id": "unstop:1800857",
@@ -2382,7 +2277,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-08T06:51:17.672606+00:00"
+    "discovered_at": "2026-11-08T13:59:22.205779+00:00"
   },
   {
     "id": "unstop:1781454",
@@ -2421,7 +2316,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-08T06:51:19.714135+00:00"
+    "discovered_at": "2026-11-08T13:59:24.187657+00:00"
   },
   {
     "id": "unstop:1793341",
@@ -2460,14 +2355,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-08T06:51:19.715037+00:00"
+    "discovered_at": "2026-11-08T13:59:24.188932+00:00"
   },
   {
     "id": "devpost:31146",
     "source": "Devpost",
     "title": "Sheridan Datathon 2026",
     "url": "https://sheridandatathon2026.devpost.com/",
-    "description": "Devpost hackathon. about 10 hours left",
+    "description": "Devpost hackathon. about 3 hours left",
     "organizer": "GDG on Campus Sheridan College",
     "venue": "Sheridan College Hazel McCallion Campus",
     "mode": "In-Person",
@@ -2495,7 +2390,40 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-08T06:51:24.916761+00:00"
+    "discovered_at": "2026-11-08T13:59:28.385352+00:00"
+  },
+  {
+    "id": "unstop:1782942",
+    "source": "Unstop",
+    "title": "CodeHive Community Duel Night",
+    "url": "https://unstop.com/hackathons/codehive-community-duel-night-code-hive-1782942",
+    "description": "CodeHive Community Duel Night ️ Coding doesn't have to be a solo activity. Join us for the CodeHive Community Duel Night &mdash; a free online event where developers come together to challenge each other in real-time 1v1 coding duels. Pick your language, face off against another coder, and solve problems under pressure. Whether you're looking to sharpen your problem-solving skills, test yourself against other developers, or simply experience a different way to practise coding, this is your chance to get involved. What to expect: ️ Live 1v1 coding duels &mdash; challenge another developer and solve coding problems head-to-head. Real-time coding &mdash; compete directly on CodeHive. Meet fellow developers &mdash; connect with people who enjoy coding and problem-solving. Completely free &mdash; no entry fee, no paid registration. Who can participate? Students, aspiring developers, and anyone who enjoys solving coding problems are welcome. Bring your competitive spirit and a willingness to learn. ️ IMPORTANT: Complete Your CodeHive Registration Registering on Unstop expresses your interest in the event. However, your participation is confirmed only after you create an account on CodeHive. Follow these steps: Visit https://www.thecodehive.tech/ Create your free CodeHive account. Log in and make sure you can access the platform. You're ready for the Community Duel Night! Already have a CodeHive account? Just log in. Please don't wait until the event day to create your account. Complete this step beforehand so we can finalize the participant list. Questions? Join our Discord community: https://discord.gg/uexTQKs9f How to participate: Register for the event on Unstop. Create your account on CodeHive. Complete a test duel before the event so you're familiar with the platform. Watch your email for the confirmed date, time, and joining instructions. Date and time: To be announced based on participant availability. Ready to take your coding practice beyond solving problems alone? Join us and experience coding as a multiplayer activity. See you on CodeHive!",
+    "organizer": "Code Hive",
+    "venue": "Online",
+    "mode": "Online",
+    "city": null,
+    "state": "online",
+    "country": null,
+    "start_date": "2026-10-28T00:00:00+05:30",
+    "end_date": "2026-11-11T00:00:00+05:30",
+    "registration_deadline": "2026-11-11T00:00:00+05:30",
+    "min_team_size": 1,
+    "max_team_size": 1,
+    "solo_allowed": true,
+    "eligibility": "Open to college students & coders",
+    "prize_pool": "Prizes & Certificates",
+    "tracks": [
+      "All"
+    ],
+    "score": 50,
+    "matched_reasons": [
+      "🌐 **Accessible Online Mode** (+15 pts)",
+      "👤 **Solo Eligible (1 Member)** (+35 pts)"
+    ],
+    "is_nagpur_local": false,
+    "is_maharashtra": false,
+    "is_active": true,
+    "discovered_at": "2026-11-08T13:59:22.206355+00:00"
   },
   {
     "id": "unstop:1795134",
@@ -2534,7 +2462,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-08T06:51:19.711327+00:00"
+    "discovered_at": "2026-11-08T13:59:22.208114+00:00"
   },
   {
     "id": "unstop:1799782",
@@ -2571,7 +2499,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-08T06:51:17.673865+00:00"
+    "discovered_at": "2026-11-08T13:59:22.207304+00:00"
   },
   {
     "id": "unstop:1799780",
@@ -2608,7 +2536,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-08T06:51:17.673922+00:00"
+    "discovered_at": "2026-11-08T13:59:22.207353+00:00"
   },
   {
     "id": "unstop:1799778",
@@ -2645,7 +2573,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-08T06:51:17.673981+00:00"
+    "discovered_at": "2026-11-08T13:59:22.207403+00:00"
   },
   {
     "id": "unstop:1799776",
@@ -2682,7 +2610,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-08T06:51:17.674038+00:00"
+    "discovered_at": "2026-11-08T13:59:22.207454+00:00"
   },
   {
     "id": "unstop:1799791",
@@ -2719,7 +2647,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-08T06:51:17.674923+00:00"
+    "discovered_at": "2026-11-08T13:59:22.207708+00:00"
   },
   {
     "id": "unstop:1799788",
@@ -2756,7 +2684,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-08T06:51:17.674980+00:00"
+    "discovered_at": "2026-11-08T13:59:22.207757+00:00"
   },
   {
     "id": "unstop:1799790",
@@ -2793,7 +2721,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-08T06:51:17.675039+00:00"
+    "discovered_at": "2026-11-08T13:59:22.207811+00:00"
   },
   {
     "id": "unstop:1800924",
@@ -2830,7 +2758,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-08T06:51:17.672450+00:00"
+    "discovered_at": "2026-11-08T13:59:22.205660+00:00"
   },
   {
     "id": "unstop:1793392",
@@ -2863,7 +2791,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-08T06:51:21.848289+00:00"
+    "discovered_at": "2026-11-08T13:59:26.232054+00:00"
   },
   {
     "id": "unstop:1799281",
@@ -2904,7 +2832,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-08T06:51:17.672259+00:00"
+    "discovered_at": "2026-11-08T13:59:22.205577+00:00"
   },
   {
     "id": "devpost:31108",
@@ -2939,7 +2867,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-08T06:51:24.916745+00:00"
+    "discovered_at": "2026-11-08T13:59:28.385331+00:00"
   },
   {
     "id": "devpost:30500",
@@ -2974,14 +2902,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-08T06:51:24.620390+00:00"
+    "discovered_at": "2026-11-08T13:59:28.055753+00:00"
   },
   {
     "id": "devpost:31773",
     "source": "Devpost",
     "title": "LaunchPad Hacks",
     "url": "https://launchpad-hacks.devpost.com/",
-    "description": "Devpost hackathon. 13 days left",
+    "description": "Devpost hackathon. 12 days left",
     "organizer": "Hack4TodayOrg",
     "venue": "Online",
     "mode": "Online",
@@ -3008,14 +2936,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-08T06:51:24.749391+00:00"
+    "discovered_at": "2026-11-08T13:59:28.227667+00:00"
   },
   {
     "id": "devpost:31795",
     "source": "Devpost",
     "title": "AccessED Hacks",
     "url": "https://accessed-hacks.devpost.com/",
-    "description": "Devpost hackathon. 13 days left",
+    "description": "Devpost hackathon. 12 days left",
     "organizer": "AccessEDnpo",
     "venue": "Online",
     "mode": "Online",
@@ -3043,7 +2971,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-08T06:51:24.916802+00:00"
+    "discovered_at": "2026-11-08T13:59:28.385408+00:00"
   },
   {
     "id": "devpost:31798",
@@ -3077,7 +3005,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-08T06:51:24.916795+00:00"
+    "discovered_at": "2026-11-08T13:59:28.385401+00:00"
   },
   {
     "id": "unstop:1800147",
@@ -3116,7 +3044,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-08T06:51:17.672972+00:00"
+    "discovered_at": "2026-11-08T13:59:22.205972+00:00"
   },
   {
     "id": "unstop:1786997",
@@ -3155,7 +3083,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-08T06:51:19.714262+00:00"
+    "discovered_at": "2026-11-08T13:59:24.187795+00:00"
   },
   {
     "id": "unstop:1799179",
@@ -3194,7 +3122,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-08T06:51:19.712057+00:00"
+    "discovered_at": "2026-11-08T13:59:24.184986+00:00"
   },
   {
     "id": "unstop:1794890",
@@ -3229,14 +3157,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-08T06:51:19.714640+00:00"
+    "discovered_at": "2026-11-08T13:59:24.188465+00:00"
   },
   {
     "id": "unstop:1794529",
     "source": "Unstop",
     "title": "DecodeX '26 - Enter the Mission. Decode the Unknown",
     "url": "https://unstop.com/hackathons/decodex-26-enter-the-mission-decode-the-unknown-bms-institute-of-technology-and-management-bmsitm-bangalore-1794529",
-    "description": "DecodeX '26 &ndash; Enter the Mission. Decode the Unknown DecodeX '26 is a national-level signal processing competition in the style of a CTF (Capture the Flag), participants decode hidden messages and secrets buried inside real-world signals, using filtering, spectral analysis, demodulation, and machine learning. Every flag is earned by actually working with the data. What to Expect: Challenges on real world signals: Audio, biomedical, radar and sensor data, with puzzles that need real signal processing, not guesswork. Hands-on problem solving: Each challenge hides a flag inside a signal or dataset. Participants identify what they're dealing with, pick the right signal processing or ML technique, and extract the answer. Rising difficulty : Start with approachable puzzles and work up to harder multi-stage ones. Event Objectives: Promote the practical application of signal processing concepts through hands-on challenges beyond the classroom. Introduce students to Capture The Flag (CTF)-style competitions in the field of signal processing. Develop analytical thinking, problem-solving abilities, and teamwork skills through time-bound challenges. Provide a platform for students from colleges across India to compete, collaborate, and network. Encourage exploration of emerging technologies such as AI/ML applications in signal processing, biomedical signals, and radar sensing. Foster connections between students, industry sponsors, and the wider IEEE community. Challenge Domains: Audio Processing Biomedical Signals Radar Signals Sensor Data Competition Format: Mission 1 - The Infiltration - Online CTF Open to students pursuing a bachelor's degree across India. Duration: 2 hours Participants solve signal-processing-based CTF challenges. Top 30 teams qualify to the next stage Mission 2 - The TakeOver - Offline Grand Finale Venue: BMS Institute of Technology &amp; Management, Bengaluru. Finalists will face more challenging CTF problems. Event Dates: 22 nd Nov, 2026: Online Qualifier 27 th&nbsp; - 28 th&nbsp; Nov, 2026: Offline Finale Organised by: IEEE Signal Processing Society BMS Institute of Technology &amp; Management Student Branch Chapter Guidelines: Team Formation: Teams must consist of 2&ndash;4 members. Teams from different colleges are allowed. Inter-specialization teams are allowed. Prize Pool: ₹50,000 Eligibility Criteria: Open to all students currently pursuing their bachelor's in India, irrespective of their college or specialization.",
+    "description": "DecodeX '26 &ndash; Enter the Mission. Decode the Unknown DecodeX '26 is a national-level signal processing competition in the style of a CTF (Capture the Flag), participants decode hidden messages and secrets buried inside real-world signals, using filtering, spectral analysis, demodulation, and machine learning. Every flag is earned by actually working with the data. Website:&nbsp; decodex-bmsit.tech What to Expect: Challenges on real world signals: Audio, biomedical, radar and sensor data, with puzzles that need real signal processing, not guesswork. Hands-on problem solving: Each challenge hides a flag inside a signal or dataset. Participants identify what they're dealing with, pick the right signal processing or ML technique, and extract the answer. Rising difficulty : Start with approachable puzzles and work up to harder multi-stage ones. Event Objectives: Promote the practical application of signal processing concepts through hands-on challenges beyond the classroom. Introduce students to Capture The Flag (CTF)-style competitions in the field of signal processing. Develop analytical thinking, problem-solving abilities, and teamwork skills through time-bound challenges. Provide a platform for students from colleges across India to compete, collaborate, and network. Encourage exploration of emerging technologies such as AI/ML applications in signal processing, biomedical signals, and radar sensing. Foster connections between students, industry sponsors, and the wider IEEE community. Challenge Domains: Audio Processing Biomedical Signals Radar Signals Sensor Data Competition Format: Mission 1 - The Infiltration - Online CTF Open to students pursuing a bachelor's degree across India. Duration: 2 hours Participants solve signal-processing-based CTF challenges. Top 30 teams qualify to the next stage Mission 2 - The TakeOver - Offline Grand Finale Venue: BMS Institute of Technology &amp; Management, Bengaluru. Finalists will face more challenging CTF problems. Event Dates: 22 nd Nov, 2026: Online Qualifier 27 th&nbsp; - 28 th&nbsp; Nov, 2026: Offline Finale Organised by: IEEE Signal Processing Society BMS Institute of Technology &amp; Management Student Branch Chapter Guidelines: Team Formation: Teams must consist of 2&ndash;4 members. Teams from different colleges are allowed. Inter-specialization teams are allowed. Prize Pool: ₹50,000 Eligibility Criteria: Open to all students currently pursuing their bachelor's in India, irrespective of their college or specialization.",
     "organizer": "BMS Institute of Technology and Management (BMSITM), Bangalore",
     "venue": "hybrid",
     "mode": "In-Person",
@@ -3263,7 +3191,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-08T06:51:17.674168+00:00"
+    "discovered_at": "2026-11-08T13:59:22.207559+00:00"
   },
   {
     "id": "unstop:1799143",
@@ -3302,7 +3230,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-08T06:51:19.711197+00:00"
+    "discovered_at": "2026-11-08T13:59:22.208025+00:00"
   },
   {
     "id": "unstop:1786652",
@@ -3335,7 +3263,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-08T06:51:19.714462+00:00"
+    "discovered_at": "2026-11-08T13:59:24.188278+00:00"
   },
   {
     "id": "unstop:1798287",
@@ -3368,6 +3296,6 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-08T06:51:19.713217+00:00"
+    "discovered_at": "2026-11-08T13:59:24.186503+00:00"
   }
 ]

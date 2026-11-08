@@ -33,7 +33,7 @@
     "is_nagpur_local": true,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-08T00:06:57.965488+00:00"
+    "discovered_at": "2026-11-08T06:51:28.316378+00:00"
   },
   {
     "id": "unstop:1788753",
@@ -72,7 +72,7 @@
     "is_nagpur_local": true,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-08T00:06:49.176646+00:00"
+    "discovered_at": "2026-11-08T06:51:19.713552+00:00"
   },
   {
     "id": "unstop:1794522",
@@ -107,7 +107,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": true,
     "is_active": true,
-    "discovered_at": "2026-11-08T00:06:49.178020+00:00"
+    "discovered_at": "2026-11-08T06:51:17.674235+00:00"
   },
   {
     "id": "unstop:1799765",
@@ -146,7 +146,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": true,
     "is_active": true,
-    "discovered_at": "2026-11-08T00:06:47.539420+00:00"
+    "discovered_at": "2026-11-08T06:51:19.710979+00:00"
   },
   {
     "id": "unstop:1799762",
@@ -185,7 +185,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": true,
     "is_active": true,
-    "discovered_at": "2026-11-08T00:06:47.539962+00:00"
+    "discovered_at": "2026-11-08T06:51:19.712167+00:00"
   },
   {
     "id": "unstop:1799761",
@@ -223,7 +223,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": true,
     "is_active": true,
-    "discovered_at": "2026-11-08T00:06:47.539454+00:00"
+    "discovered_at": "2026-11-08T06:51:19.711043+00:00"
   },
   {
     "id": "college:mindsparkorg",
@@ -259,7 +259,41 @@
     "is_nagpur_local": false,
     "is_maharashtra": true,
     "is_active": true,
-    "discovered_at": "2026-11-08T00:06:57.778188+00:00"
+    "discovered_at": "2026-11-08T06:51:27.924436+00:00"
+  },
+  {
+    "id": "unstop:1789431",
+    "source": "Unstop",
+    "title": "AI Vibeathon 2026: 24-Hour AI Hackathon",
+    "url": "https://unstop.com/hackathons/ai-vibeathon-2026-24-hour-ai-hackathon-dotrepo-1789431",
+    "description": "Overview VIBEATHON 2026: The 24-Hour AI Buildathon 24 Hours. ₹1,00,000 Prize Pool. $15,000 in Opus AI Credits. Build innovative AI-powered solutions, compete with talented developers, and turn your ideas into working products! Rewards for Top 3 Teams ₹1,00,000 Total Prize Pool Paid Internship Opportunities Product Incubation Opportunities Letters of Recommendation Benefits for Every Eligible Participant $15,000 Opus AI Credits $700 AxZire Platform Credits Verifiable Digital Certificate Competition Highlights Duration: 24 Hours Format: 100% Online Rounds: 3 Team Size: 1&ndash;4 Members 24 HOURS. UNLIMITED IDEAS. ONE EPIC BUILDATHON. Don't just use AI. Build with AI!",
+    "organizer": "DotRepo",
+    "venue": "Online",
+    "mode": "Online",
+    "city": null,
+    "state": "online",
+    "country": null,
+    "start_date": "2026-11-07T23:59:00+05:30",
+    "end_date": "2026-12-20T21:00:00+05:30",
+    "registration_deadline": "2026-11-11T00:01:00+05:30",
+    "min_team_size": 1,
+    "max_team_size": 4,
+    "solo_allowed": true,
+    "eligibility": "Open to college students & coders",
+    "prize_pool": "Prizes & Certificates",
+    "tracks": [
+      "All"
+    ],
+    "score": 75,
+    "matched_reasons": [
+      "🌐 **Accessible Online Mode** (+15 pts)",
+      "👤 **Solo Eligible (1 Member)** (+35 pts)",
+      "🤖 **AI & Software Tracks** (+25 pts) [AI]"
+    ],
+    "is_nagpur_local": false,
+    "is_maharashtra": false,
+    "is_active": true,
+    "discovered_at": "2026-11-08T06:51:17.672123+00:00"
   },
   {
     "id": "unstop:1798516",
@@ -293,7 +327,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": true,
     "is_active": true,
-    "discovered_at": "2026-11-08T00:06:49.176150+00:00"
+    "discovered_at": "2026-11-08T06:51:19.713026+00:00"
   },
   {
     "id": "unstop:1791467",
@@ -333,7 +367,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-08T00:06:51.363235+00:00"
+    "discovered_at": "2026-11-08T06:51:21.849240+00:00"
   },
   {
     "id": "unstop:1793112",
@@ -373,7 +407,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-08T00:06:49.178418+00:00"
+    "discovered_at": "2026-11-08T06:51:21.848414+00:00"
   },
   {
     "id": "unstop:1785416",
@@ -413,7 +447,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-08T00:06:51.364425+00:00"
+    "discovered_at": "2026-11-08T06:51:21.850564+00:00"
   },
   {
     "id": "unstop:1791573",
@@ -453,34 +487,30 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-08T00:06:49.178477+00:00"
+    "discovered_at": "2026-11-08T06:51:21.848503+00:00"
   },
   {
-    "id": "unstop:1799509",
+    "id": "unstop:1800891",
     "source": "Unstop",
-    "title": "AI Builder Hackathon",
-    "url": "https://unstop.com/hackathons/ai-builder-hackathon-product-space-1799509",
-    "description": "Overview: Date: 14th Nov, 2026 Registrations: &nbsp;Now Open Kickoff Session: 14th Nov (Saturday), 2026 This is a&nbsp; hands-on, build-first hackathon &nbsp;created for individuals who want to&nbsp; launch a real AI product , not just present ideas or mockups. What You&rsquo;ll Do: During this one day, participants will: Conceptualize, build, and launch a&nbsp;complete agentic AI solution Work on&nbsp;practical, real-world challenges Go through the entire product journey: Identifying the problem Designing system architecture Integrating tools and APIs Delivering a functional end product The core focus is on building&nbsp;AI agents ready for real-world use&nbsp;that can: Think and make decisions. Interact with tools. Execute tasks independently. By the end, you&rsquo;ll walk away with a&nbsp;working AI product&nbsp;that can be: Added to your portfolio. Demonstrated in interviews. Expanded into real-world use cases. Participation Guidelines: You can join&nbsp;individually or in teams (up to 2 members recommended). All development must happen&nbsp;within the hackathon timeframe. You are free to use&nbsp;AI tools, APIs, and frameworks. Participants must clearly&nbsp;document their process&nbsp;(problem &rarr; solution &rarr; architecture). A&nbsp;functional prototype or live demo is required. Submission Requirements: A&nbsp; demo video or live working product. Access to the&nbsp; codebase (GitHub or equivalent). A brief explanation of your solution. Rules &amp; Evaluation: ️&nbsp; Rules: Fully pre-built solutions are&nbsp;not allowed&nbsp;(starter templates are acceptable). Any form of&nbsp;copying or plagiarism will result in disqualification. Teams must clearly specify their actual contribution vs. AI-generated output. Submissions must be&nbsp;fully working products, not just designs or presentations. All entries must be submitted&nbsp;before the deadline.",
+    "title": "NextGen AI Hackathon",
+    "url": "https://unstop.com/hackathons/nextgen-ai-hackathon-product-space-1800891",
+    "description": "Overview: Date: 14th Nov, 2026 Registrations: &nbsp;Now Open Kickoff Session: 14th Nov (Saturday), 2026 ( Mandatory) Join the WhatsApp Group for All Hackathon Updates &amp; Details: https://chat.whatsapp.com/FWkOZgbMnqB3sKVOLnqOcD?s=cl&amp;p=a&amp;iam=2 This is a&nbsp; hands-on, build-first hackathon &nbsp;created for individuals who want to&nbsp; launch a real AI product , not just present ideas or mockups. What You&rsquo;ll Do: During this one day, participants will: Conceptualize, build, and launch a&nbsp;complete agentic AI solution Work on&nbsp;practical, real-world challenges Go through the entire product journey: Identifying the problem Designing system architecture Integrating tools and APIs Delivering a functional end product The core focus is on building&nbsp;AI agents ready for real-world use&nbsp;that can: Think and make decisions. Interact with tools. Execute tasks independently. By the end, you&rsquo;ll walk away with a&nbsp;working AI product&nbsp;that can be: Added to your portfolio. Demonstrated in interviews. Expanded into real-world use cases. Participation Guidelines: You can join&nbsp;individually or in teams (up to 2 members recommended). All development must happen&nbsp;within the hackathon timeframe. You are free to use&nbsp;AI tools, APIs, and frameworks. Participants must clearly&nbsp;document their process&nbsp;(problem &rarr; solution &rarr; architecture). A&nbsp;functional prototype or live demo is required. Submission Requirements: A&nbsp; demo video or live working product. Access to the&nbsp; codebase (GitHub or equivalent). A brief explanation of your solution. Rules &amp; Evaluation: ️&nbsp; Rules: Fully pre-built solutions are&nbsp;not allowed&nbsp;(starter templates are acceptable). Any form of&nbsp;copying or plagiarism will result in disqualification. Teams must clearly specify their actual contribution vs. AI-generated output. Submissions must be&nbsp;fully working products, not just designs or presentations. All entries must be submitted&nbsp;before the deadline.",
     "organizer": "Product Space",
     "venue": "Online",
     "mode": "Online",
     "city": null,
     "state": "online",
     "country": null,
-    "start_date": "2026-11-07T00:00:00+05:30",
+    "start_date": "2026-11-08T06:20:00+05:30",
     "end_date": "2026-11-14T23:59:00+05:30",
     "registration_deadline": "2026-11-14T11:00:00+05:30",
     "min_team_size": 1,
     "max_team_size": 2,
     "solo_allowed": true,
-    "eligibility": "Undergraduate / Postgraduate & Engineering students",
+    "eligibility": "Open to college students & coders",
     "prize_pool": "Prizes & Certificates",
     "tracks": [
-      "Engineering Students",
-      "Postgraduate",
-      "Undergraduate",
-      "Management",
-      "Arts, Commerce, Sciences & Others"
+      "All"
     ],
     "score": 75,
     "matched_reasons": [
@@ -491,52 +521,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-08T00:06:47.540228+00:00"
-  },
-  {
-    "id": "unstop:1799475",
-    "source": "Unstop",
-    "title": "AI Product Buildathon",
-    "url": "https://unstop.com/hackathons/ai-product-buildathon-product-space-1799475",
-    "description": "Overview: Date: 14th, 2026 Registrations: &nbsp;Now Open Kickoff Session: 14th Nov (Saturday), 2026 This is a&nbsp; hands-on, build-first hackathon &nbsp;created for individuals who want to&nbsp; launch a real AI product , not just present ideas or mockups. What You&rsquo;ll Do: During this one day, participants will: Conceptualize, build, and launch a&nbsp;complete agentic AI solution Work on&nbsp;practical, real-world challenges Go through the entire product journey: Identifying the problem Designing system architecture Integrating tools and APIs Delivering a functional end product The core focus is on building&nbsp;AI agents ready for real-world use&nbsp;that can: Think and make decisions. Interact with tools. Execute tasks independently. By the end, you&rsquo;ll walk away with a&nbsp;working AI product&nbsp;that can be: Added to your portfolio. Demonstrated in interviews. Expanded into real-world use cases. Participation Guidelines: You can join&nbsp;individually or in teams (up to 2 members recommended). All development must happen&nbsp;within the hackathon timeframe. You are free to use&nbsp;AI tools, APIs, and frameworks. Participants must clearly&nbsp;document their process&nbsp;(problem &rarr; solution &rarr; architecture). A&nbsp;functional prototype or live demo is required. Submission Requirements: A&nbsp; demo video or live working product. Access to the&nbsp; codebase (GitHub or equivalent). A brief explanation of your solution. Rules &amp; Evaluation: ️&nbsp; Rules: Fully pre-built solutions are&nbsp;not allowed&nbsp;(starter templates are acceptable). Any form of&nbsp;copying or plagiarism will result in disqualification. Teams must clearly specify their actual contribution vs. AI-generated output. Submissions must be&nbsp;fully working products, not just designs or presentations. All entries must be submitted&nbsp;before the deadline.",
-    "organizer": "Product Space",
-    "venue": "Online",
-    "mode": "Online",
-    "city": null,
-    "state": "online",
-    "country": null,
-    "start_date": "2026-11-07T00:00:00+05:30",
-    "end_date": "2026-11-14T23:59:00+05:30",
-    "registration_deadline": "2026-11-14T11:00:00+05:30",
-    "min_team_size": 1,
-    "max_team_size": 2,
-    "solo_allowed": true,
-    "eligibility": "Undergraduate / Postgraduate & Engineering students",
-    "prize_pool": "Prizes & Certificates",
-    "tracks": [
-      "Engineering Students",
-      "Postgraduate",
-      "Undergraduate",
-      "Management",
-      "Arts, Commerce, Sciences & Others"
-    ],
-    "score": 75,
-    "matched_reasons": [
-      "🌐 **Accessible Online Mode** (+15 pts)",
-      "👤 **Solo Eligible (1 Member)** (+35 pts)",
-      "🤖 **AI & Software Tracks** (+25 pts) [AI, Agentic Ai, Ai Agents]"
-    ],
-    "is_nagpur_local": false,
-    "is_maharashtra": false,
-    "is_active": true,
-    "discovered_at": "2026-11-08T00:06:47.540306+00:00"
+    "discovered_at": "2026-11-08T06:51:17.672380+00:00"
   },
   {
     "id": "unstop:1792269",
     "source": "Unstop",
     "title": "Agentic AI Hackathon",
     "url": "https://unstop.com/hackathons/agentic-ai-hackathon-product-space-1792269",
-    "description": "Overview: Date: 14th, 2026 Registrations: &nbsp;Now Open Kickoff Session: 14th Nov (Saturday), 2026 This is a&nbsp; hands-on, build-first hackathon &nbsp;created for individuals who want to&nbsp; launch a real AI product , not just present ideas or mockups. What You&rsquo;ll Do: During this one day, participants will: Conceptualize, build, and launch a&nbsp;complete agentic AI solution Work on&nbsp;practical, real-world challenges Go through the entire product journey: Identifying the problem Designing system architecture Integrating tools and APIs Delivering a functional end product The core focus is on building&nbsp;AI agents ready for real-world use&nbsp;that can: Think and make decisions. Interact with tools. Execute tasks independently. By the end, you&rsquo;ll walk away with a&nbsp;working AI product&nbsp;that can be: Added to your portfolio. Demonstrated in interviews. Expanded into real-world use cases. Participation Guidelines: You can join&nbsp;individually or in teams (up to 2 members recommended). All development must happen&nbsp;within the hackathon timeframe. You are free to use&nbsp;AI tools, APIs, and frameworks. Participants must clearly&nbsp;document their process&nbsp;(problem &rarr; solution &rarr; architecture). A&nbsp;functional prototype or live demo is required. Submission Requirements: A&nbsp; demo video or live working product. Access to the&nbsp; codebase (GitHub or equivalent). A brief explanation of your solution. Rules &amp; Evaluation: ️&nbsp; Rules: Fully pre-built solutions are&nbsp;not allowed&nbsp;(starter templates are acceptable). Any form of&nbsp;copying or plagiarism will result in disqualification. Teams must clearly specify their actual contribution vs. AI-generated output. Submissions must be&nbsp;fully working products, not just designs or presentations. All entries must be submitted&nbsp;before the deadline.",
+    "description": "Overview: Date: 14th Nov, 2026 Registrations: &nbsp;Now Open Kickoff Session: 14th Nov (Saturday), 2026 [ Mandatory ] Join the WhatsApp Group for All Hackathon Updates &amp; Details: https://chat.whatsapp.com/FWkOZgbMnqB3sKVOLnqOcD?s=cl&amp;p=a&amp;iam=2 This is a&nbsp; hands-on, build-first hackathon &nbsp;created for individuals who want to&nbsp; launch a real AI product , not just present ideas or mockups. What You&rsquo;ll Do: During this one day, participants will: Conceptualize, build, and launch a&nbsp;complete agentic AI solution Work on&nbsp;practical, real-world challenges Go through the entire product journey: Identifying the problem Designing system architecture Integrating tools and APIs Delivering a functional end product The core focus is on building&nbsp;AI agents ready for real-world use&nbsp;that can: Think and make decisions. Interact with tools. Execute tasks independently. By the end, you&rsquo;ll walk away with a&nbsp;working AI product&nbsp;that can be: Added to your portfolio. Demonstrated in interviews. Expanded into real-world use cases. Participation Guidelines: You can join&nbsp;individually or in teams (up to 2 members recommended). All development must happen&nbsp;within the hackathon timeframe. You are free to use&nbsp;AI tools, APIs, and frameworks. Participants must clearly&nbsp;document their process&nbsp;(problem &rarr; solution &rarr; architecture). A&nbsp;functional prototype or live demo is required. Submission Requirements: A&nbsp; demo video or live working product. Access to the&nbsp; codebase (GitHub or equivalent). A brief explanation of your solution. Rules &amp; Evaluation: ️&nbsp; Rules: Fully pre-built solutions are&nbsp;not allowed&nbsp;(starter templates are acceptable). Any form of&nbsp;copying or plagiarism will result in disqualification. Teams must clearly specify their actual contribution vs. AI-generated output. Submissions must be&nbsp;fully working products, not just designs or presentations. All entries must be submitted&nbsp;before the deadline.",
     "organizer": "Product Space",
     "venue": "Online",
     "mode": "Online",
@@ -569,14 +561,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-08T00:06:49.178746+00:00"
+    "discovered_at": "2026-11-08T06:51:21.848852+00:00"
   },
   {
     "id": "unstop:1799510",
     "source": "Unstop",
     "title": "Gen-AI Product Hackathon",
     "url": "https://unstop.com/hackathons/gen-ai-product-hackathon-product-space-1799510",
-    "description": "Overview Date: 14th Nov 2026 (Saturday) Registrations: Now Open Kickoff Session: 14th Nov 2026 (Saturday) This is a one-day, hands-on hackathon for individuals who want to build and launch a working AI product. What You&rsquo;ll Do During the hackathon, participants will conceptualize, build, and demonstrate an agentic AI solution to a practical, real-world challenge. You&rsquo;ll work through the complete product development process: Identify the problem. Design the system architecture. Integrate tools and APIs. Build and demonstrate a functional end product. The core focus is on building AI agents that can: Reason and make decisions. Interact with tools. Execute tasks independently. By the end of the day, you&rsquo;ll have a working prototype that you can add to your portfolio, demonstrate in interviews, and develop further for real-world use. Participation Guidelines Join individually or in a team. Teams of up to two members are recommended. All development must take place within the hackathon timeframe on 31st October 2026. You may use AI tools, APIs, and frameworks. Clearly document your process, including the problem, solution, and architecture. A functional prototype or live demo is required. Submission Requirements Submit the following before the announced deadline on 31st October 2026: A demo video or access to a live working product. Access to the codebase through GitHub or an equivalent platform. A brief explanation of your solution. Rules Fully pre-built solutions are not allowed. Starter templates are acceptable. Copying or plagiarism will result in disqualification. Clearly distinguish your contribution from AI-generated output. Submissions must demonstrate working functionality. Designs or presentations alone will not qualify. All entries must be submitted before the deadline.",
+    "description": "Overview Date: 14th Nov 2026 (Saturday) Registrations: Now Open Kickoff Session: 14th Nov 2026 (Saturday) [ Mandatory ] Join the WhatsApp Group for All Hackathon Updates &amp; Details: https://chat.whatsapp.com/FWkOZgbMnqB3sKVOLnqOcD?s=cl&amp;p=a&amp;iam=2 This is a one-day, hands-on hackathon for individuals who want to build and launch a working AI product. What You&rsquo;ll Do During the hackathon, participants will conceptualize, build, and demonstrate an agentic AI solution to a practical, real-world challenge. You&rsquo;ll work through the complete product development process: Identify the problem. Design the system architecture. Integrate tools and APIs. Build and demonstrate a functional end product. The core focus is on building AI agents that can: Reason and make decisions. Interact with tools. Execute tasks independently. By the end of the day, you&rsquo;ll have a working prototype that you can add to your portfolio, demonstrate in interviews, and develop further for real-world use. Participation Guidelines Join individually or in a team. Teams of up to two members are recommended. All development must take place within the hackathon timeframe on 31st October 2026. You may use AI tools, APIs, and frameworks. Clearly document your process, including the problem, solution, and architecture. A functional prototype or live demo is required. Submission Requirements Submit the following before the announced deadline on 31st October 2026: A demo video or access to a live working product. Access to the codebase through GitHub or an equivalent platform. A brief explanation of your solution. Rules Fully pre-built solutions are not allowed. Starter templates are acceptable. Copying or plagiarism will result in disqualification. Clearly distinguish your contribution from AI-generated output. Submissions must demonstrate working functionality. Designs or presentations alone will not qualify. All entries must be submitted before the deadline.",
     "organizer": "Product Space",
     "venue": "Online",
     "mode": "Online",
@@ -607,14 +599,90 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-08T00:06:47.540132+00:00"
+    "discovered_at": "2026-11-08T06:51:19.712400+00:00"
+  },
+  {
+    "id": "unstop:1799509",
+    "source": "Unstop",
+    "title": "AI Builder Hackathon",
+    "url": "https://unstop.com/hackathons/ai-builder-hackathon-product-space-1799509",
+    "description": "Overview: Date: 14th Nov, 2026 Registrations: &nbsp;Now Open Kickoff Session: 14th Nov (Saturday), 2026 [ Mandatory ] Join the WhatsApp Group for All Hackathon Updates &amp; Details: https://chat.whatsapp.com/FWkOZgbMnqB3sKVOLnqOcD?s=cl&amp;p=a&amp;iam=2 This is a&nbsp; hands-on, build-first hackathon &nbsp;created for individuals who want to&nbsp; launch a real AI product , not just present ideas or mockups. What You&rsquo;ll Do: During this one day, participants will: Conceptualize, build, and launch a&nbsp;complete agentic AI solution Work on&nbsp;practical, real-world challenges Go through the entire product journey: Identifying the problem Designing system architecture Integrating tools and APIs Delivering a functional end product The core focus is on building&nbsp;AI agents ready for real-world use&nbsp;that can: Think and make decisions. Interact with tools. Execute tasks independently. By the end, you&rsquo;ll walk away with a&nbsp;working AI product&nbsp;that can be: Added to your portfolio. Demonstrated in interviews. Expanded into real-world use cases. Participation Guidelines: You can join&nbsp;individually or in teams (up to 2 members recommended). All development must happen&nbsp;within the hackathon timeframe. You are free to use&nbsp;AI tools, APIs, and frameworks. Participants must clearly&nbsp;document their process&nbsp;(problem &rarr; solution &rarr; architecture). A&nbsp;functional prototype or live demo is required. Submission Requirements: A&nbsp; demo video or live working product. Access to the&nbsp; codebase (GitHub or equivalent). A brief explanation of your solution. Rules &amp; Evaluation: ️&nbsp; Rules: Fully pre-built solutions are&nbsp;not allowed&nbsp;(starter templates are acceptable). Any form of&nbsp;copying or plagiarism will result in disqualification. Teams must clearly specify their actual contribution vs. AI-generated output. Submissions must be&nbsp;fully working products, not just designs or presentations. All entries must be submitted&nbsp;before the deadline.",
+    "organizer": "Product Space",
+    "venue": "Online",
+    "mode": "Online",
+    "city": null,
+    "state": "online",
+    "country": null,
+    "start_date": "2026-11-07T00:00:00+05:30",
+    "end_date": "2026-11-14T23:59:00+05:30",
+    "registration_deadline": "2026-11-14T23:59:00+05:30",
+    "min_team_size": 1,
+    "max_team_size": 2,
+    "solo_allowed": true,
+    "eligibility": "Undergraduate / Postgraduate & Engineering students",
+    "prize_pool": "Prizes & Certificates",
+    "tracks": [
+      "Engineering Students",
+      "Postgraduate",
+      "Undergraduate",
+      "Management",
+      "Arts, Commerce, Sciences & Others"
+    ],
+    "score": 75,
+    "matched_reasons": [
+      "🌐 **Accessible Online Mode** (+15 pts)",
+      "👤 **Solo Eligible (1 Member)** (+35 pts)",
+      "🤖 **AI & Software Tracks** (+25 pts) [AI, Agentic Ai, Ai Agents]"
+    ],
+    "is_nagpur_local": false,
+    "is_maharashtra": false,
+    "is_active": true,
+    "discovered_at": "2026-11-08T06:51:19.712554+00:00"
+  },
+  {
+    "id": "unstop:1799475",
+    "source": "Unstop",
+    "title": "AI Product Buildathon",
+    "url": "https://unstop.com/hackathons/ai-product-buildathon-product-space-1799475",
+    "description": "Overview: Date: 14th Nov, 2026 Registrations: &nbsp;Now Open Kickoff Session: 14th Nov (Saturday), 2026 [ Mandatory ] Join the WhatsApp Group for All Hackathon Updates &amp; Details: https://chat.whatsapp.com/FWkOZgbMnqB3sKVOLnqOcD?s=cl&amp;p=a&amp;iam=2 This is a&nbsp; hands-on, build-first hackathon &nbsp;created for individuals who want to&nbsp; launch a real AI product , not just present ideas or mockups. What You&rsquo;ll Do: During this one day, participants will: Conceptualize, build, and launch a&nbsp;complete agentic AI solution Work on&nbsp;practical, real-world challenges Go through the entire product journey: Identifying the problem Designing system architecture Integrating tools and APIs Delivering a functional end product The core focus is on building&nbsp;AI agents ready for real-world use&nbsp;that can: Think and make decisions. Interact with tools. Execute tasks independently. By the end, you&rsquo;ll walk away with a&nbsp;working AI product&nbsp;that can be: Added to your portfolio. Demonstrated in interviews. Expanded into real-world use cases. Participation Guidelines: You can join&nbsp;individually or in teams (up to 2 members recommended). All development must happen&nbsp;within the hackathon timeframe. You are free to use&nbsp;AI tools, APIs, and frameworks. Participants must clearly&nbsp;document their process&nbsp;(problem &rarr; solution &rarr; architecture). A&nbsp;functional prototype or live demo is required. Submission Requirements: A&nbsp; demo video or live working product. Access to the&nbsp; codebase (GitHub or equivalent). A brief explanation of your solution. Rules &amp; Evaluation: ️&nbsp; Rules: Fully pre-built solutions are&nbsp;not allowed&nbsp;(starter templates are acceptable). Any form of&nbsp;copying or plagiarism will result in disqualification. Teams must clearly specify their actual contribution vs. AI-generated output. Submissions must be&nbsp;fully working products, not just designs or presentations. All entries must be submitted&nbsp;before the deadline.",
+    "organizer": "Product Space",
+    "venue": "Online",
+    "mode": "Online",
+    "city": null,
+    "state": "online",
+    "country": null,
+    "start_date": "2026-11-07T00:00:00+05:30",
+    "end_date": "2026-11-14T23:59:00+05:30",
+    "registration_deadline": "2026-11-14T23:59:00+05:30",
+    "min_team_size": 1,
+    "max_team_size": 2,
+    "solo_allowed": true,
+    "eligibility": "Undergraduate / Postgraduate & Engineering students",
+    "prize_pool": "Prizes & Certificates",
+    "tracks": [
+      "Engineering Students",
+      "Postgraduate",
+      "Undergraduate",
+      "Management",
+      "Arts, Commerce, Sciences & Others"
+    ],
+    "score": 75,
+    "matched_reasons": [
+      "🌐 **Accessible Online Mode** (+15 pts)",
+      "👤 **Solo Eligible (1 Member)** (+35 pts)",
+      "🤖 **AI & Software Tracks** (+25 pts) [AI, Agentic Ai, Ai Agents]"
+    ],
+    "is_nagpur_local": false,
+    "is_maharashtra": false,
+    "is_active": true,
+    "discovered_at": "2026-11-08T06:51:19.712672+00:00"
   },
   {
     "id": "unstop:1799543",
     "source": "Unstop",
     "title": "Data Analytics Hackathon",
     "url": "https://unstop.com/hackathons/data-analytics-hackathon-gradient-learnings-1799543",
-    "description": "This is a build-and-analysis-focused&nbsp; Data Analytics Hackathon &nbsp;designed for students, aspiring analysts, data professionals, and problem-solvers who want to turn raw data into meaningful insights and actionable recommendations. What You'll Do: On 14th November &nbsp;participants will work with a real-world dataset provided by the organizers and perform an end-to-end data analysis by: Understanding the business problem and dataset. Cleaning, transforming, and preparing the data. Exploring patterns, trends, and relationships. Performing quantitative and statistical analysis. Building meaningful visualizations and dashboards. Identifying key insights and actionable recommendations. Presenting your analysis and findings. The challenge is centered around using&nbsp; data to solve real-world problems &nbsp;by turning raw datasets into clear insights and data-driven decisions. By the end of the Hackathon, you'll have a complete analysis project that can be showcased in your portfolio, discussed during interviews, or further developed into a real-world analytics solution. Who Can Participate? Individuals and teams are welcome. Recommended team size: Max 2 members &amp; Individualy can also Participate.&nbsp; Beginners and experienced analysts can participate. Participants can use Python, SQL, Excel, Power BI, Tableau, and other analytics tools. Project Requirements: Every team must: Perform the analysis using the dataset provided during the event. Clearly document the analysis process and methodology. Explain the problem statement, approach, findings, and recommendations. Submit a complete and functional analysis with supporting visualizations. Submission Checklist: To complete your submission, provide: Final analysis report or presentation. Dashboard and/or data visualizations. Source code/notebook or analysis file, where applicable. Brief explanation of the methodology and key findings. Key insights and actionable recommendations. Rules &amp; Judging Criteria: Event Rules: Participants must use the dataset provided by the organizers. Pre-built analyses or previously completed projects are not permitted. External tools, libraries, and publicly available resources may be used. Any form of plagiarism or unauthorized copying will result in disqualification. Participants must disclose the use of AI tools in their analysis or submission. All submissions must be completed and submitted before the official deadline. Evaluation Areas: Projects will be assessed based on: Data cleaning and preparation. Analytical approach and problem-solving. Quality and accuracy of insights. Data visualization and storytelling. Depth of analysis. Business relevance and actionable recommendations. Overall presentation and completeness. Turn data into insights, uncover the story behind the numbers, and show how analytics can drive better decisions.",
+    "description": "This is a build-and-analysis-focused&nbsp; Data Analytics Hackathon &nbsp;designed for students, aspiring analysts, data professionals, and problem-solvers who want to turn raw data into meaningful insights and actionable recommendations. [ Mandatory ] Join the WhatsApp Group for All Hackathon Updates &amp; Details: https://chat.whatsapp.com/JcWz4eFNe8O0dlYedm4A8s?s=cl&amp;p=a&amp;iam=2 On 15th November &nbsp;participants will work with a real-world dataset provided by the organizers and perform an end-to-end data analysis by: Understanding the business problem and dataset. Cleaning, transforming, and preparing the data. Exploring patterns, trends, and relationships. Performing quantitative and statistical analysis. Building meaningful visualizations and dashboards. Identifying key insights and actionable recommendations. Presenting your analysis and findings. The challenge is centered around using&nbsp; data to solve real-world problems &nbsp;by turning raw datasets into clear insights and data-driven decisions. By the end of the Hackathon, you'll have a complete analysis project that can be showcased in your portfolio, discussed during interviews, or further developed into a real-world analytics solution. Who Can Participate? Individuals and teams are welcome. Recommended team size: Max 2 members &amp; Individualy can also Participate.&nbsp; Beginners and experienced analysts can participate. Participants can use Python, SQL, Excel, Power BI, Tableau, and other analytics tools. Project Requirements: Every team must: Perform the analysis using the dataset provided during the event. Clearly document the analysis process and methodology. Explain the problem statement, approach, findings, and recommendations. Submit a complete and functional analysis with supporting visualizations. Submission Checklist: To complete your submission, provide: Final analysis report or presentation. Dashboard and/or data visualizations. Source code/notebook or analysis file, where applicable. Brief explanation of the methodology and key findings. Key insights and actionable recommendations. Rules &amp; Judging Criteria: Event Rules: Participants must use the dataset provided by the organizers. Pre-built analyses or previously completed projects are not permitted. External tools, libraries, and publicly available resources may be used. Any form of plagiarism or unauthorized copying will result in disqualification. Participants must disclose the use of AI tools in their analysis or submission. All submissions must be completed and submitted before the official deadline. Evaluation Areas: Projects will be assessed based on: Data cleaning and preparation. Analytical approach and problem-solving. Quality and accuracy of insights. Data visualization and storytelling. Depth of analysis. Business relevance and actionable recommendations. Overall presentation and completeness. Turn data into insights, uncover the story behind the numbers, and show how analytics can drive better decisions.",
     "organizer": "Gradient Learnings",
     "venue": "Online",
     "mode": "Online",
@@ -623,7 +691,7 @@
     "country": null,
     "start_date": "2026-11-07T08:00:00+05:30",
     "end_date": "2026-11-15T23:59:00+05:30",
-    "registration_deadline": "2026-11-15T11:00:00+05:30",
+    "registration_deadline": "2026-11-15T23:59:00+05:30",
     "min_team_size": 1,
     "max_team_size": 2,
     "solo_allowed": true,
@@ -645,7 +713,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-08T00:06:47.540060+00:00"
+    "discovered_at": "2026-11-08T06:51:19.712302+00:00"
   },
   {
     "id": "unstop:1792758",
@@ -680,7 +748,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-08T00:06:49.177445+00:00"
+    "discovered_at": "2026-11-08T06:51:19.714376+00:00"
   },
   {
     "id": "unstop:1779479",
@@ -718,7 +786,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-08T00:06:49.178654+00:00"
+    "discovered_at": "2026-11-08T06:51:21.848722+00:00"
   },
   {
     "id": "unstop:1800358",
@@ -752,7 +820,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-08T00:06:47.538414+00:00"
+    "discovered_at": "2026-11-08T06:51:17.673314+00:00"
   },
   {
     "id": "unstop:1799767",
@@ -790,7 +858,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-08T00:06:47.539380+00:00"
+    "discovered_at": "2026-11-08T06:51:17.675095+00:00"
   },
   {
     "id": "unstop:1799092",
@@ -828,7 +896,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-08T00:06:47.538801+00:00"
+    "discovered_at": "2026-11-08T06:51:17.673807+00:00"
   },
   {
     "id": "unstop:1800324",
@@ -862,7 +930,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-08T00:06:47.539705+00:00"
+    "discovered_at": "2026-11-08T06:51:17.674546+00:00"
   },
   {
     "id": "unstop:1798702",
@@ -902,7 +970,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-08T00:06:49.175996+00:00"
+    "discovered_at": "2026-11-08T06:51:19.712848+00:00"
   },
   {
     "id": "unstop:1797543",
@@ -936,7 +1004,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-08T00:06:49.176387+00:00"
+    "discovered_at": "2026-11-08T06:51:19.713284+00:00"
   },
   {
     "id": "unstop:1782683",
@@ -970,7 +1038,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-08T00:06:51.364118+00:00"
+    "discovered_at": "2026-11-08T06:51:21.850289+00:00"
   },
   {
     "id": "unstop:1790680",
@@ -1007,7 +1075,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-08T00:06:51.363367+00:00"
+    "discovered_at": "2026-11-08T06:51:21.849395+00:00"
   },
   {
     "id": "unstop:1791313",
@@ -1045,7 +1113,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-08T00:06:51.363954+00:00"
+    "discovered_at": "2026-11-08T06:51:21.850095+00:00"
   },
   {
     "id": "unstop:1792826",
@@ -1079,7 +1147,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-08T00:06:49.178268+00:00"
+    "discovered_at": "2026-11-08T06:51:21.848207+00:00"
   },
   {
     "id": "unstop:1792025",
@@ -1113,7 +1181,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-08T00:06:49.176945+00:00"
+    "discovered_at": "2026-11-08T06:51:19.713785+00:00"
   },
   {
     "id": "unstop:1795775",
@@ -1153,7 +1221,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-08T00:06:49.176704+00:00"
+    "discovered_at": "2026-11-08T06:51:19.713607+00:00"
   },
   {
     "id": "unstop:1794889",
@@ -1193,7 +1261,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-08T00:06:49.177079+00:00"
+    "discovered_at": "2026-11-08T06:51:19.713904+00:00"
   },
   {
     "id": "unstop:1799800",
@@ -1231,7 +1299,41 @@
     "is_nagpur_local": false,
     "is_maharashtra": true,
     "is_active": true,
-    "discovered_at": "2026-11-08T00:06:47.539176+00:00"
+    "discovered_at": "2026-11-08T06:51:17.674864+00:00"
+  },
+  {
+    "id": "unstop:1801200",
+    "source": "Unstop",
+    "title": "Code Red",
+    "url": "https://unstop.com/hackathons/code-red-solutions-2k27-army-institute-of-technology-ait-pune-1801200",
+    "description": "About: Are you a good problem solver? Or someone who knows how to deal with things in the most optimal way? CodeRed is an event where the participants are required to crack the code by sprinting against the time. This event aims to test the problem-solving and aptitude of the participants and encourage them to code. Rules: The contestants need to solve the problem and write the code in C++ only. The code should pass all the test cases. The contestants with the most points will be selected as winners. Individual participation. Team Size: 1",
+    "organizer": "Army Institute of Technology (AIT), Pune",
+    "venue": "hybrid",
+    "mode": "In-Person",
+    "city": null,
+    "state": "hybrid",
+    "country": null,
+    "start_date": "2026-11-07T00:00:00+05:30",
+    "end_date": "2027-03-01T11:50:00+05:30",
+    "registration_deadline": "2027-03-01T11:50:00+05:30",
+    "min_team_size": 1,
+    "max_team_size": 1,
+    "solo_allowed": true,
+    "eligibility": "Open to college students & coders",
+    "prize_pool": "Prizes & Certificates",
+    "tracks": [
+      "All"
+    ],
+    "score": 75,
+    "matched_reasons": [
+      "🏢 **Maharashtra Proximity** (+25 pts) [Pune]",
+      "🌐 **Accessible In-Person Mode** (+15 pts)",
+      "👤 **Solo Eligible (1 Member)** (+35 pts)"
+    ],
+    "is_nagpur_local": false,
+    "is_maharashtra": true,
+    "is_active": true,
+    "discovered_at": "2026-11-08T06:51:17.672030+00:00"
   },
   {
     "id": "unstop:1800395",
@@ -1265,7 +1367,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-08T00:06:47.538331+00:00"
+    "discovered_at": "2026-11-08T06:51:17.673215+00:00"
   },
   {
     "id": "hackerearth:contextcon-remember-everything",
@@ -1301,7 +1403,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-08T00:06:55.965148+00:00"
+    "discovered_at": "2026-11-08T06:51:25.896044+00:00"
   },
   {
     "id": "devpost:30740",
@@ -1337,7 +1439,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-08T00:06:54.621489+00:00"
+    "discovered_at": "2026-11-08T06:51:24.749383+00:00"
   },
   {
     "id": "devpost:30764",
@@ -1373,7 +1475,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-08T00:06:54.621505+00:00"
+    "discovered_at": "2026-11-08T06:51:24.749398+00:00"
   },
   {
     "id": "devpost:31060",
@@ -1409,50 +1511,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-08T00:06:54.790089+00:00"
-  },
-  {
-    "id": "devpost:31787",
-    "source": "Devpost",
-    "title": "GenHacks",
-    "url": "https://genhacks-open.devpost.com/",
-    "description": "Devpost hackathon. about 2 months left",
-    "organizer": "Shail & Sharaf",
-    "venue": "Online",
-    "mode": "Online",
-    "city": null,
-    "state": null,
-    "country": null,
-    "start_date": null,
-    "end_date": null,
-    "registration_deadline": "Nov 01 - Dec 26, 2026",
-    "min_team_size": 1,
-    "max_team_size": null,
-    "solo_allowed": true,
-    "eligibility": "Global Devpost Participants",
-    "prize_pool": "$CAD 1,050",
-    "tracks": [
-      "Beginner Friendly",
-      "IoT",
-      "Machine Learning/AI"
-    ],
-    "score": 75,
-    "matched_reasons": [
-      "🌐 **Accessible Online Mode** (+15 pts)",
-      "👤 **Solo Eligible (1 Member)** (+35 pts)",
-      "🤖 **AI & Software Tracks** (+25 pts) [AI, Machine Learning]"
-    ],
-    "is_nagpur_local": false,
-    "is_maharashtra": false,
-    "is_active": true,
-    "discovered_at": "2026-11-08T00:06:54.790109+00:00"
+    "discovered_at": "2026-11-08T06:51:24.916787+00:00"
   },
   {
     "id": "devpost:31489",
     "source": "Devpost",
     "title": "EthnoHack",
     "url": "https://ethnohack2026.devpost.com/",
-    "description": "Devpost hackathon. about 13 hours left",
+    "description": "Devpost hackathon. about 7 hours left",
     "organizer": "ETHCSTWIN",
     "venue": "Online",
     "mode": "Online",
@@ -1481,7 +1547,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-08T00:06:54.621525+00:00"
+    "discovered_at": "2026-11-08T06:51:24.749415+00:00"
   },
   {
     "id": "devpost:31642",
@@ -1517,7 +1583,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-08T00:06:54.621468+00:00"
+    "discovered_at": "2026-11-08T06:51:24.749374+00:00"
   },
   {
     "id": "devpost:31083",
@@ -1553,7 +1619,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-08T00:06:54.401112+00:00"
+    "discovered_at": "2026-11-08T06:51:24.620375+00:00"
   },
   {
     "id": "devpost:31480",
@@ -1589,7 +1655,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-08T00:06:54.790081+00:00"
+    "discovered_at": "2026-11-08T06:51:24.916779+00:00"
   },
   {
     "id": "hackerearth:mks-inc-hackathon",
@@ -1625,7 +1691,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-08T00:06:55.965135+00:00"
+    "discovered_at": "2026-11-08T06:51:25.896029+00:00"
   },
   {
     "id": "hackerearth:ibm-z-day",
@@ -1661,7 +1727,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-08T00:06:55.965106+00:00"
+    "discovered_at": "2026-11-08T06:51:25.896002+00:00"
   },
   {
     "id": "devpost:31302",
@@ -1697,14 +1763,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-08T00:06:54.401049+00:00"
+    "discovered_at": "2026-11-08T06:51:24.620307+00:00"
   },
   {
     "id": "devpost:31659",
     "source": "Devpost",
     "title": "Learn AR with SPECS",
     "url": "https://learn-specs.devpost.com/",
-    "description": "Devpost hackathon. 2 days left",
+    "description": "Devpost hackathon. 1 day left",
     "organizer": "Devpost",
     "venue": "Online",
     "mode": "Online",
@@ -1733,7 +1799,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-08T00:06:54.401118+00:00"
+    "discovered_at": "2026-11-08T06:51:24.620382+00:00"
   },
   {
     "id": "devpost:31664",
@@ -1769,7 +1835,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-08T00:06:54.790065+00:00"
+    "discovered_at": "2026-11-08T06:51:24.916771+00:00"
   },
   {
     "id": "devpost:31789",
@@ -1805,7 +1871,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-08T00:06:54.621516+00:00"
+    "discovered_at": "2026-11-08T06:51:24.749423+00:00"
   },
   {
     "id": "devpost:31796",
@@ -1841,7 +1907,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-08T00:06:54.621538+00:00"
+    "discovered_at": "2026-11-08T06:51:24.916722+00:00"
   },
   {
     "id": "devpost:30789",
@@ -1877,7 +1943,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-08T00:06:54.401130+00:00"
+    "discovered_at": "2026-11-08T06:51:24.749352+00:00"
   },
   {
     "id": "devpost:31552",
@@ -1913,7 +1979,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-08T00:06:54.401105+00:00"
+    "discovered_at": "2026-11-08T06:51:24.620368+00:00"
   },
   {
     "id": "devpost:31572",
@@ -1949,7 +2015,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-08T00:06:54.401098+00:00"
+    "discovered_at": "2026-11-08T06:51:24.620360+00:00"
   },
   {
     "id": "devpost:31907",
@@ -1985,7 +2051,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-08T00:06:54.621511+00:00"
+    "discovered_at": "2026-11-08T06:51:24.749405+00:00"
   },
   {
     "id": "devpost:31667",
@@ -2021,7 +2087,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-08T00:06:54.401077+00:00"
+    "discovered_at": "2026-11-08T06:51:24.620339+00:00"
   },
   {
     "id": "devpost:31187",
@@ -2057,7 +2123,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-08T00:06:54.790054+00:00"
+    "discovered_at": "2026-11-08T06:51:24.916753+00:00"
   },
   {
     "id": "devpost:31024",
@@ -2093,7 +2159,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-08T00:06:54.401089+00:00"
+    "discovered_at": "2026-11-08T06:51:24.620352+00:00"
   },
   {
     "id": "unstop:1793796",
@@ -2133,7 +2199,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": true,
     "is_active": true,
-    "discovered_at": "2026-11-08T00:06:49.175565+00:00"
+    "discovered_at": "2026-11-08T06:51:19.711914+00:00"
   },
   {
     "id": "unstop:1792835",
@@ -2166,7 +2232,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-08T00:06:51.363459+00:00"
+    "discovered_at": "2026-11-08T06:51:21.849511+00:00"
   },
   {
     "id": "unstop:1778710",
@@ -2199,7 +2265,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-08T00:06:47.539767+00:00"
+    "discovered_at": "2026-11-08T06:51:17.674618+00:00"
   },
   {
     "id": "unstop:1772221",
@@ -2238,7 +2304,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-08T00:06:49.175728+00:00"
+    "discovered_at": "2026-11-08T06:51:19.714056+00:00"
   },
   {
     "id": "unstop:1771951",
@@ -2277,7 +2343,46 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-08T00:06:51.364777+00:00"
+    "discovered_at": "2026-11-08T06:51:21.850989+00:00"
+  },
+  {
+    "id": "unstop:1800857",
+    "source": "Unstop",
+    "title": "Agentic AI in BFSI Hackathon",
+    "url": "https://unstop.com/hackathons/agentic-ai-in-bfsi-hackathon-iit-bombay-1800857",
+    "description": "About Agentic AI in BFSI: Hackathon 2026 is a national hackathon by Perfios, one of India's largest SaaS TechFin companies serving over 1,000 financial institutions globally, in association with Techfest, IIT Bombay. Under the theme AI Native Applications for BFSI, teams prototype AI-backed systems that can perceive, reason, decide and act across real-world financial workflows. Participants pick one of two banking domains, Debt Collections or Fraud Detection &amp; Prevention, and its problem statement, and are judged on the rigor of their technical plan in Round 1 and on a working prototype at the finals at Techfest, IIT Bombay, Asia's largest science and technology festival. No prior BFSI experience is needed. Structure Eligibility: Open to all students with a valid ID from their educational institution. No prior BFSI experience is needed. Cross-institutional teams are encouraged. Team size: Maximum 4 members per team. The competition runs in two rounds, with Round 2 as an in-person prototype demo at Techfest, IIT Bombay. Domains &amp; problems: Teams choose one domain and its problem statement. Theme 1, Debt Collections, has Problem 1: Paralinguistic State Detection from Voice, Not Transcript, where teams build an acoustic model that estimates borrower emotional state (arousal, valence, discrete states, commitment credibility) from speech alone, plus a decision layer that guarantees distressed borrowers are handed to a human and never pressured. Theme 2, Fraud Detection &amp; Prevention, has Problem 2: Know Your Agent (KYA), where teams build a real-time system that detects whether a non-human agent is involved in a banking session, produces an explainable Agent Trust Score, and recommends allow, step-up authentication, hold, or block. Round 1 - Ideation Round (Online Abstract) Teams submit a 600-900 word abstract (plus an optional 1-page architecture diagram) covering the problem chosen, understanding of the challenge, proposed approach and agent architecture, how it maps to the Minimum Viable scope, stretch ambitions, expected impact, novelty, evaluation plan, responsible design (fairness, privacy, explainability, safety), and feasibility and risks. No code or prototype is required at this stage; only the Team Leader may submit, and multiple submissions are not accepted. Perfios evaluates submissions and shortlists the most promising ideas based on creativity, feasibility, and relevance. Round 2 - Prototype &amp; Demo (Finals) Shortlisted teams build a working prototype covering the Minimum Viable scope of their problem (and any stretch goals attempted) and present it at IIT Bombay to a panel of Perfios judges. Each team gets 20 minutes for presentation and live demo, followed by 5 minutes of Q&amp;A. Finalists submit a code repository with README, a technical report (max 6 pages), a results summary table against every success metric, and a demo video (max 3 minutes) as a backup. Winners are selected on innovation, technical depth, prototype quality, and real-world applicability. Timeline Submission link opens - 15th November 2026 Registration closes - 25th November 2026 Round 1 submission deadline - 30th November 2026 Shortlist announcement - 4th December 2026 Finals at IIT Bombay - 15th-18th December 2026 Rewards And Prizes INR 1,00,000 for the top 3 winners. Certificates for all participants who qualify for Round 2.",
+    "organizer": "Indian Institute of Technology (IIT), Bombay",
+    "venue": "offline",
+    "mode": "In-Person",
+    "city": null,
+    "state": "offline",
+    "country": null,
+    "start_date": "2026-11-08T00:00:00+05:30",
+    "end_date": "2026-11-25T00:00:00+05:30",
+    "registration_deadline": "2026-11-25T00:00:00+05:30",
+    "min_team_size": 1,
+    "max_team_size": 4,
+    "solo_allowed": true,
+    "eligibility": "Undergraduate / Postgraduate & Engineering students",
+    "prize_pool": "Prizes & Certificates",
+    "tracks": [
+      "Engineering Students",
+      "Postgraduate",
+      "Undergraduate",
+      "Management",
+      "Medical",
+      "Law",
+      "Arts, Commerce, Sciences & Others"
+    ],
+    "score": 60,
+    "matched_reasons": [
+      "👤 **Solo Eligible (1 Member)** (+35 pts)",
+      "🤖 **AI & Software Tracks** (+25 pts) [AI, Agentic Ai]"
+    ],
+    "is_nagpur_local": false,
+    "is_maharashtra": false,
+    "is_active": true,
+    "discovered_at": "2026-11-08T06:51:17.672606+00:00"
   },
   {
     "id": "unstop:1781454",
@@ -2316,7 +2421,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-08T00:06:49.177165+00:00"
+    "discovered_at": "2026-11-08T06:51:19.714135+00:00"
   },
   {
     "id": "unstop:1793341",
@@ -2355,14 +2460,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-08T00:06:49.178199+00:00"
+    "discovered_at": "2026-11-08T06:51:19.715037+00:00"
   },
   {
     "id": "devpost:31146",
     "source": "Devpost",
     "title": "Sheridan Datathon 2026",
     "url": "https://sheridandatathon2026.devpost.com/",
-    "description": "Devpost hackathon. about 17 hours left",
+    "description": "Devpost hackathon. about 10 hours left",
     "organizer": "GDG on Campus Sheridan College",
     "venue": "Sheridan College Hazel McCallion Campus",
     "mode": "In-Person",
@@ -2390,7 +2495,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-08T00:06:54.790073+00:00"
+    "discovered_at": "2026-11-08T06:51:24.916761+00:00"
   },
   {
     "id": "unstop:1795134",
@@ -2429,7 +2534,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-08T00:06:49.175084+00:00"
+    "discovered_at": "2026-11-08T06:51:19.711327+00:00"
   },
   {
     "id": "unstop:1799782",
@@ -2466,7 +2571,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-08T00:06:47.538851+00:00"
+    "discovered_at": "2026-11-08T06:51:17.673865+00:00"
   },
   {
     "id": "unstop:1799780",
@@ -2503,7 +2608,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-08T00:06:47.538899+00:00"
+    "discovered_at": "2026-11-08T06:51:17.673922+00:00"
   },
   {
     "id": "unstop:1799778",
@@ -2540,7 +2645,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-08T00:06:47.538947+00:00"
+    "discovered_at": "2026-11-08T06:51:17.673981+00:00"
   },
   {
     "id": "unstop:1799776",
@@ -2577,7 +2682,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-08T00:06:47.538992+00:00"
+    "discovered_at": "2026-11-08T06:51:17.674038+00:00"
   },
   {
     "id": "unstop:1799791",
@@ -2614,7 +2719,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-08T00:06:47.539235+00:00"
+    "discovered_at": "2026-11-08T06:51:17.674923+00:00"
   },
   {
     "id": "unstop:1799788",
@@ -2651,7 +2756,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-08T00:06:47.539281+00:00"
+    "discovered_at": "2026-11-08T06:51:17.674980+00:00"
   },
   {
     "id": "unstop:1799790",
@@ -2688,7 +2793,44 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-08T00:06:47.539332+00:00"
+    "discovered_at": "2026-11-08T06:51:17.675039+00:00"
+  },
+  {
+    "id": "unstop:1800924",
+    "source": "Unstop",
+    "title": "ELUCode - 8",
+    "url": "https://unstop.com/hackathons/elucode-8-edulinkup-1800924",
+    "description": "Overview: ELUCode is a fast-paced 2-hour competitive coding contest by EduLinkUp designed to challenge your problem-solving ability, algorithmic thinking, and coding speed. The contest brings together students and developers from across the community to compete on a set of carefully curated problems ranging from logical puzzles to algorithmic challenges. Participants will face multiple problems of varying difficulty levels, testing their understanding of data structures, algorithms, logic building, and efficient coding practices. Whether you are a beginner exploring competitive programming or an experienced coder looking to sharpen your skills, ELUCode provides a platform to learn, compete, and showcase your abilities. Top performers will be recognised through special achievement badges and certificates within the EduLinkUp ecosystem. Scoring: Each challenge carries a predefined score, based on its difficulty level. A participant&rsquo;s score for a challenge depends on the number of test cases successfully passed by their submission. Submissions are automatically evaluated against hidden and visible test cases to ensure correctness and efficiency. The overall leaderboard is determined by the total score obtained across all challenges. If two or more participants achieve the same score, the tie will be broken based on the sum of time of the first correct solution for all the problems. The participant who reaches the score earlier will rank higher.",
+    "organizer": "EduLinkUp",
+    "venue": "Online",
+    "mode": "Online",
+    "city": null,
+    "state": "online",
+    "country": null,
+    "start_date": "2026-11-08T01:07:51+05:30",
+    "end_date": "2026-11-21T21:00:51+05:30",
+    "registration_deadline": "2026-11-21T21:00:51+05:30",
+    "min_team_size": 1,
+    "max_team_size": 1,
+    "solo_allowed": true,
+    "eligibility": "Undergraduate / Postgraduate & Engineering students",
+    "prize_pool": "Prizes & Certificates",
+    "tracks": [
+      "Engineering Students",
+      "Postgraduate",
+      "Undergraduate",
+      "Management",
+      "Arts, Commerce, Sciences & Others"
+    ],
+    "score": 50,
+    "matched_reasons": [
+      "🌐 **Accessible Online Mode** (+15 pts)",
+      "👤 **Solo Eligible (1 Member)** (+35 pts)"
+    ],
+    "is_nagpur_local": false,
+    "is_maharashtra": false,
+    "is_active": true,
+    "discovered_at": "2026-11-08T06:51:17.672450+00:00"
   },
   {
     "id": "unstop:1793392",
@@ -2721,7 +2863,48 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-08T00:06:49.178319+00:00"
+    "discovered_at": "2026-11-08T06:51:21.848289+00:00"
+  },
+  {
+    "id": "unstop:1799281",
+    "source": "Unstop",
+    "title": "Adaption Dataset Challenge",
+    "url": "https://unstop.com/hackathons/adaption-dataset-challenge-hackyard-technologies-pvt-limited-1799281",
+    "description": "Overview The Adaption Dataset Challenge is an online challenge run by Hackyard with Adaption Labs. Every builder gets the same task: improve one dataset using Adaption, then show the before and after on an evaluation agreed with Adaption. Registration is open now. The challenge task will be announced soon. Dates Registration: open now until Dec 6, 2026 Challenge launches and submissions open: Nov 16, 2026 Submissions close: Dec 6, 2026 Verification and judging: Dec 7 to 13, 2026 Dates are planned and may change. Exact times, with a timezone, will be announced. What you get Every registered builder: $500 in Adaption Platform credits that don't expire, plus 3 months of Adaption Plus (starts when you claim the credits). Every participant: a participation certificate. Prizes 1st place: $100 cash, 2 VIP swag boxes, $1,000 in Adaption credits per team member and a winner's certificate. 2nd place: $1,000 in Adaption credits per team member, swag boxes and a winner's certificate. 3rd place: $1,000 in Adaption credits per team member, swag boxes and a winner's certificate. Credits have no cash value and can't be transferred. Only submissions that use Adaption in their tool stack are eligible for the cash prize. How to register Register first. Registration is open now and stays open until Dec 6, 2026. The challenge launches and project submissions open on Nov 16. We use the email you register with to issue your Adaption credits, so register with the email you want the credits on. How to claim credits After you register, sign up at Adaption Labs with the same email you registered with. Adaption whitelists registered emails within one business day of receiving them and sends you one email when your credits are ready. What you build Improve a dataset for one shared task using Adaption, measure it before and after on an evaluation agreed with Adaption, and show the difference. You submit a project link and a short note on how you used Adaption. The task, the metric and where to submit will be announced. Judging Hackyard runs judging. Adaption verifies signups and dataset runs, and a judge from Adaption's team sits on the final round. Judging criteria will be announced. Rules The challenge runs online and is open to developers internationally. Participants must be 18 or older, as required by Adaption's terms of service. You keep ownership of what you build. Adaption won't use your registration email for marketing and won't share or sell it. Questions: hello@hackyard.org",
+    "organizer": "Hackyard Technologies Pvt limited",
+    "venue": "Online",
+    "mode": "Online",
+    "city": null,
+    "state": "online",
+    "country": null,
+    "start_date": "2026-11-07T00:00:00+05:30",
+    "end_date": "2026-12-06T23:59:00+05:30",
+    "registration_deadline": "2026-12-06T23:59:00+05:30",
+    "min_team_size": 1,
+    "max_team_size": 4,
+    "solo_allowed": true,
+    "eligibility": "Undergraduate / Postgraduate & Engineering students",
+    "prize_pool": "Prizes & Certificates",
+    "tracks": [
+      "Experienced Professionals",
+      "Engineering Students",
+      "Postgraduate",
+      "Undergraduate",
+      "Fresher",
+      "Management",
+      "Medical",
+      "Law",
+      "Arts, Commerce, Sciences & Others"
+    ],
+    "score": 50,
+    "matched_reasons": [
+      "🌐 **Accessible Online Mode** (+15 pts)",
+      "👤 **Solo Eligible (1 Member)** (+35 pts)"
+    ],
+    "is_nagpur_local": false,
+    "is_maharashtra": false,
+    "is_active": true,
+    "discovered_at": "2026-11-08T06:51:17.672259+00:00"
   },
   {
     "id": "devpost:31108",
@@ -2756,7 +2939,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-08T00:06:54.790031+00:00"
+    "discovered_at": "2026-11-08T06:51:24.916745+00:00"
   },
   {
     "id": "devpost:30500",
@@ -2791,7 +2974,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-08T00:06:54.401124+00:00"
+    "discovered_at": "2026-11-08T06:51:24.620390+00:00"
   },
   {
     "id": "devpost:31773",
@@ -2825,7 +3008,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-08T00:06:54.621498+00:00"
+    "discovered_at": "2026-11-08T06:51:24.749391+00:00"
   },
   {
     "id": "devpost:31795",
@@ -2860,7 +3043,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-08T00:06:54.790102+00:00"
+    "discovered_at": "2026-11-08T06:51:24.916802+00:00"
   },
   {
     "id": "devpost:31798",
@@ -2894,7 +3077,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-08T00:06:54.790095+00:00"
+    "discovered_at": "2026-11-08T06:51:24.916795+00:00"
   },
   {
     "id": "unstop:1800147",
@@ -2933,7 +3116,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-08T00:06:47.538098+00:00"
+    "discovered_at": "2026-11-08T06:51:17.672972+00:00"
   },
   {
     "id": "unstop:1786997",
@@ -2972,7 +3155,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-08T00:06:49.177321+00:00"
+    "discovered_at": "2026-11-08T06:51:19.714262+00:00"
   },
   {
     "id": "unstop:1799179",
@@ -3011,7 +3194,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-08T00:06:49.175847+00:00"
+    "discovered_at": "2026-11-08T06:51:19.712057+00:00"
   },
   {
     "id": "unstop:1794890",
@@ -3046,7 +3229,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-08T00:06:49.177715+00:00"
+    "discovered_at": "2026-11-08T06:51:19.714640+00:00"
   },
   {
     "id": "unstop:1794529",
@@ -3080,7 +3263,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-08T00:06:47.539099+00:00"
+    "discovered_at": "2026-11-08T06:51:17.674168+00:00"
   },
   {
     "id": "unstop:1799143",
@@ -3119,7 +3302,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-08T00:06:49.174961+00:00"
+    "discovered_at": "2026-11-08T06:51:19.711197+00:00"
   },
   {
     "id": "unstop:1786652",
@@ -3152,7 +3335,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-08T00:06:49.177539+00:00"
+    "discovered_at": "2026-11-08T06:51:19.714462+00:00"
   },
   {
     "id": "unstop:1798287",
@@ -3185,6 +3368,6 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-08T00:06:49.176322+00:00"
+    "discovered_at": "2026-11-08T06:51:19.713217+00:00"
   }
 ]

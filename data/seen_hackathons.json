@@ -2932,5 +2932,59 @@
     "last_notified": "2026-11-08T00:06:58.621705+00:00",
     "is_nagpur_local": false,
     "solo_allowed": true
+  },
+  "unstop:1789431": {
+    "title": "AI Vibeathon 2026: 24-Hour AI Hackathon",
+    "url": "https://unstop.com/hackathons/ai-vibeathon-2026-24-hour-ai-hackathon-dotrepo-1789431",
+    "score": 75,
+    "source": "Unstop",
+    "last_notified": "2026-11-08T06:51:31.751087+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:1800891": {
+    "title": "NextGen AI Hackathon",
+    "url": "https://unstop.com/hackathons/nextgen-ai-hackathon-product-space-1800891",
+    "score": 75,
+    "source": "Unstop",
+    "last_notified": "2026-11-08T06:51:31.751087+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:1801200": {
+    "title": "Code Red",
+    "url": "https://unstop.com/hackathons/code-red-solutions-2k27-army-institute-of-technology-ait-pune-1801200",
+    "score": 75,
+    "source": "Unstop",
+    "last_notified": "2026-11-08T06:51:31.751087+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:1800857": {
+    "title": "Agentic AI in BFSI Hackathon",
+    "url": "https://unstop.com/hackathons/agentic-ai-in-bfsi-hackathon-iit-bombay-1800857",
+    "score": 60,
+    "source": "Unstop",
+    "last_notified": "2026-11-08T06:51:31.751087+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:1800924": {
+    "title": "ELUCode - 8",
+    "url": "https://unstop.com/hackathons/elucode-8-edulinkup-1800924",
+    "score": 50,
+    "source": "Unstop",
+    "last_notified": "2026-11-08T06:51:31.751087+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:1799281": {
+    "title": "Adaption Dataset Challenge",
+    "url": "https://unstop.com/hackathons/adaption-dataset-challenge-hackyard-technologies-pvt-limited-1799281",
+    "score": 50,
+    "source": "Unstop",
+    "last_notified": "2026-11-08T06:51:31.751087+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
   }
 }

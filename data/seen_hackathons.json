@@ -2986,5 +2986,14 @@
     "last_notified": "2026-11-08T06:51:31.751087+00:00",
     "is_nagpur_local": false,
     "solo_allowed": true
+  },
+  "devpost:30357": {
+    "title": "HackCamp 2026",
+    "url": "https://hackcamp-2026.devpost.com/",
+    "score": 60,
+    "source": "Devpost",
+    "last_notified": "2026-11-08T18:42:48.287366+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
   }
 }

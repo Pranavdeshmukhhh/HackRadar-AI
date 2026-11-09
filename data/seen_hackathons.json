@@ -2995,5 +2995,32 @@
     "last_notified": "2026-11-08T18:42:48.287366+00:00",
     "is_nagpur_local": false,
     "solo_allowed": true
+  },
+  "unstop:1802089": {
+    "title": "She Code ",
+    "url": "https://unstop.com/hackathons/she-code-solutions-2k27-army-institute-of-technology-pune-1802089",
+    "score": 75,
+    "source": "Unstop",
+    "last_notified": "2026-11-09T10:43:40.103991+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "devpost:31495": {
+    "title": "IceHacks",
+    "url": "https://icehacks.devpost.com/",
+    "score": 50,
+    "source": "Devpost",
+    "last_notified": "2026-11-09T10:43:40.103991+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:1802400": {
+    "title": "Rewired (Tech Hackathon)",
+    "url": "https://unstop.com/hackathons/rewired-tech-hackathon-road-to-milky-way-bangalore-masters-union-school-of-business-1802400",
+    "score": 40,
+    "source": "Unstop",
+    "last_notified": "2026-11-09T10:43:40.103991+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": false
   }
 }

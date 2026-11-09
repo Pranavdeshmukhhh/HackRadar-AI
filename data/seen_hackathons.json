@@ -3022,5 +3022,32 @@
     "last_notified": "2026-11-09T10:43:40.103991+00:00",
     "is_nagpur_local": false,
     "solo_allowed": false
+  },
+  "unstop:1802169": {
+    "title": "Housing Fintech Challenge",
+    "url": "https://unstop.com/hackathons/hero-housing-fintech-challenge-iit-bombay-1802169",
+    "score": 75,
+    "source": "Unstop",
+    "last_notified": "2026-11-09T21:14:18.207035+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:1802090": {
+    "title": "CSS Battle",
+    "url": "https://unstop.com/hackathons/css-battle-solutions-2k27-army-institute-of-technology-ait-pune-1802090",
+    "score": 75,
+    "source": "Unstop",
+    "last_notified": "2026-11-09T21:14:18.207035+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:1803074": {
+    "title": "IDEATHON- FutureX: Innovating for Global Challenges",
+    "url": "https://unstop.com/hackathons/ideathon-futurex-innovating-for-global-challenges-skill2career-1803074",
+    "score": 40,
+    "source": "Unstop",
+    "last_notified": "2026-11-09T21:14:18.207035+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": false
   }
 }

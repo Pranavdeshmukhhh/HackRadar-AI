@@ -3058,5 +3058,41 @@
     "last_notified": "2026-11-10T03:54:57.720855+00:00",
     "is_nagpur_local": false,
     "solo_allowed": true
+  },
+  "unstop:1800629": {
+    "title": "HackKumbh 2026 : Tech For Humanity",
+    "url": "https://unstop.com/hackathons/hackkumbh-2026-tech-for-humanity-yeshwantrao-chavan-college-of-engineering-ycce-nagpur-1800629",
+    "score": 70,
+    "source": "Unstop",
+    "last_notified": "2026-11-10T11:58:50.005559+00:00",
+    "is_nagpur_local": true,
+    "solo_allowed": false
+  },
+  "unstop:1794884": {
+    "title": "BuildSprint",
+    "url": "https://unstop.com/hackathons/buildsprint-workelate-1794884",
+    "score": 75,
+    "source": "Unstop",
+    "last_notified": "2026-11-10T11:58:50.005559+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:1803912": {
+    "title": "Code to Cart: AI x E-commerce Hackathon | KartAI X CodeXcelerate",
+    "url": "https://unstop.com/hackathons/code-to-cart-ai-x-e-commerce-hackathon-kartai-x-codexcelerate-kartai-1803912",
+    "score": 75,
+    "source": "Unstop",
+    "last_notified": "2026-11-10T11:58:50.005559+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:1799091": {
+    "title": "Hacksmart 2.0",
+    "url": "https://unstop.com/hackathons/hacksmart-20-geek-room-1799091",
+    "score": 50,
+    "source": "Unstop",
+    "last_notified": "2026-11-10T11:58:50.005559+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
   }
 }

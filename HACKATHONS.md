@@ -9,7 +9,7 @@
 |:---:|:---:|:---:|:---:|:---:|
 | **96** | **2** | **84** | **72** | **69** |
 
-*Last Updated:* **2026-11-10 02:44 AM IST** (`2026-11-09 21:14 UTC`)
+*Last Updated:* **2026-11-10 09:24 AM IST** (`2026-11-10 03:54 UTC`)
 
 ---
 
@@ -62,10 +62,10 @@
 | **`75`** | [AWS MSP AI Hackathon](https://aws-agentic-msp.devpost.com/) | 🌐 Online | ✅ Solo | `Nov 02 - Dec 11, 2026` | Machine Learning/AI, Prod... | Devpost | [Register](https://aws-agentic-msp.devpost.com/) |
 | **`75`** | [QNX Global Hackathon](https://qnx.devpost.com/) | 🌐 Online | ✅ Solo | `Nov 02 - Dec 15, 2026` | IoT, Machine Learning/AI | Devpost | [Register](https://qnx.devpost.com/) |
 | **`75`** | [AI Agents for Founders Challenge — HETIC 2026](https://ai-agents-founders-hetic-26.devpost.com/) | 🌐 Online | ✅ Solo | `Nov 04 - Dec 18, 2026` | Low/No Code, Machine Lear... | Devpost | [Register](https://ai-agents-founders-hetic-26.devpost.com/) |
+| **`75`** | [Ctrl+V Hackathon](https://ctrl-v-hackathon-31831.devpost.com/) | 🌐 Online | ✅ Solo | `Nov 06 - 10, 2026` | Beginner Friendly, Machin... | Devpost | [Register](https://ctrl-v-hackathon-31831.devpost.com/) |
 | **`75`** | [MKS AI/ML Hackathon](https://www.hackerearth.com/challenges/competitive/mks-inc-hackathon/) | 🌐 Online | ✅ Solo | `Nov 15, 2026` | Software, AI/ML | HackerEarth | [Register](https://www.hackerearth.com/challenges/competitive/mks-inc-hackathon/) |
 | **`75`** | [IBM Z Day](https://www.hackerearth.com/challenges/hackathon/ibm-z-day/) | 🌐 Online | ✅ Solo | `Nov 18, 2026` | Software, AI/ML | HackerEarth | [Register](https://www.hackerearth.com/challenges/hackathon/ibm-z-day/) |
 | **`75`** | [PayPal AI Hackathon](https://paypalaihackathon.devpost.com/) | 🌐 Online | ✅ Solo | `Oct 01 - Nov 12, 2026` | Low/No Code, Machine Lear... | Devpost | [Register](https://paypalaihackathon.devpost.com/) |
-| **`75`** | [Learn AR with SPECS](https://learn-specs.devpost.com/) | 🌐 Online | ✅ Solo | `Oct 15 - Nov 09, 2026` | AR/VR, Machine Learning/AI | Devpost | [Register](https://learn-specs.devpost.com/) |
 | **`75`** | [Mathematics for systems security](https://mathematics-systems-security.devpost.com/) | 🌐 Online | ✅ Solo | `Oct 16 - Nov 15, 2026` | Communication, Cybersecurity | Devpost | [Register](https://mathematics-systems-security.devpost.com/) |
 | **`75`** | [Herhack](https://herhack.devpost.com/) | 🌐 Online | ✅ Solo | `Oct 17 - Nov 10, 2026` | Beginner Friendly, Blockc... | Devpost | [Register](https://herhack.devpost.com/) |
 | **`75`** | [STEM2Connect AI Hackathon](https://stem2connect-online-hackathon.devpost.com/) | 🌐 Online | ✅ Solo | `Oct 17 - Nov 21, 2026` | Beginner Friendly, Education | Devpost | [Register](https://stem2connect-online-hackathon.devpost.com/) |
@@ -106,7 +106,7 @@
 | **`40`** | [HackSphere - Build and learn (Aayam XI)](https://unstop.com/hackathons/hacksphere-build-and-learn-aayam-xi-national-institute-of-technology-nit-agartala-1800147) | 🏢 hybrid | 👥 Team | `2026-11-10T23:59:00+05:30` | Engineering Students, Pos... | Unstop | [Register](https://unstop.com/hackathons/hacksphere-build-and-learn-aayam-xi-national-institute-of-technology-nit-agartala-1800147) |
 | **`40`** | [Singularity](https://unstop.com/hackathons/singularity-keshav-mahavidyalaya-kmv-university-of-delhi-du-delhi-1786997) | 🏢 hybrid | 👥 Team | `2026-11-10T23:59:00+05:30` | Engineering Students, Pos... | Unstop | [Register](https://unstop.com/hackathons/singularity-keshav-mahavidyalaya-kmv-university-of-delhi-du-delhi-1786997) |
 | **`40`** | [Rewired (Tech Hackathon)](https://unstop.com/hackathons/rewired-tech-hackathon-road-to-milky-way-bangalore-masters-union-school-of-business-1802400) | 🏢 hybrid | 👥 Team | `2026-11-16T00:00:00+05:30` | Engineering Students, Pos... | Unstop | [Register](https://unstop.com/hackathons/rewired-tech-hackathon-road-to-milky-way-bangalore-masters-union-school-of-business-1802400) |
-| **`40`** | [HACKRUSH 2026](https://unstop.com/hackathons/hackrush-2026-igdtuw-delhi-1799179) | 🌐 Online | 👥 Team | `2026-11-17T00:00:00+05:30` | Engineering Students, Pos... | Unstop | [Register](https://unstop.com/hackathons/hackrush-2026-igdtuw-delhi-1799179) |
+| **`40`** | [HACKRUSH 2026](https://unstop.com/hackathons/hackrush-2026-igdtuw-delhi-1799179) | 🌐 Online | 👥 Team | `2026-11-17T00:00:00+05:30` | Experienced Professionals... | Unstop | [Register](https://unstop.com/hackathons/hackrush-2026-igdtuw-delhi-1799179) |
 | **`40`** | [13th Protocol: An AI Hackathon 2026](https://unstop.com/hackathons/13th-protocol-an-ai-hackathon-2026-voyager-coding-club-1794890) | 🏢 hybrid | 👥 Team | `2026-11-18T00:00:00+05:30` | All | Unstop | [Register](https://unstop.com/hackathons/13th-protocol-an-ai-hackathon-2026-voyager-coding-club-1794890) |
 | **`40`** | [DecodeX '26 - Enter the Mission. Decode the Unknown](https://unstop.com/hackathons/decodex-26-enter-the-mission-decode-the-unknown-bms-institute-of-technology-and-management-bmsitm-bangalore-1794529) | 🏢 hybrid | 👥 Team | `2026-11-20T23:59:00+05:30` | Engineering Students, Und... | Unstop | [Register](https://unstop.com/hackathons/decodex-26-enter-the-mission-decode-the-unknown-bms-institute-of-technology-and-management-bmsitm-bangalore-1794529) |
 | **`40`** | [Exora 2.0 : Unveil The Build](https://unstop.com/hackathons/exora-20-unveil-the-build-abes-engineering-college-1799143) | 🏢 hybrid | 👥 Team | `2026-11-22T00:00:00+05:30` | Experienced Professionals... | Unstop | [Register](https://unstop.com/hackathons/exora-20-unveil-the-build-abes-engineering-college-1799143) |
@@ -703,7 +703,20 @@
 👉 **[Direct Link to Apply](https://ai-agents-founders-hetic-26.devpost.com/)**
 
 ---
-### 46. [MKS AI/ML Hackathon](https://www.hackerearth.com/challenges/competitive/mks-inc-hackathon/)
+### 46. [Ctrl+V Hackathon](https://ctrl-v-hackathon-31831.devpost.com/)
+- **Platform:** `Devpost` | **Priority Score:** `75/100` | **Mode:** `Online`
+- **Venue / Location:** 🌐 Online / Virtual
+- **Participation:** 🟢 Solo Eligible (1 Member)
+- **Registration Deadline:** `Nov 06 - 10, 2026`
+- **Prize Pool:** `$ 28,000`
+- **Tracks:** Beginner Friendly, Machine Learning/AI, Social Good
+- **Organizer:** ADHAYAN
+- **Match Factors:** 🌐 **Accessible Online Mode** (+15 pts) • 👤 **Solo Eligible (1 Member)** (+35 pts) • 🤖 **AI & Software Tracks** (+25 pts) [AI, Machine Learning]
+
+👉 **[Direct Link to Apply](https://ctrl-v-hackathon-31831.devpost.com/)**
+
+---
+### 47. [MKS AI/ML Hackathon](https://www.hackerearth.com/challenges/competitive/mks-inc-hackathon/)
 - **Platform:** `HackerEarth` | **Priority Score:** `75/100` | **Mode:** `Online`
 - **Venue / Location:** 🌐 Online / Virtual
 - **Participation:** 🟢 Solo Eligible (1 Member)
@@ -716,7 +729,7 @@
 👉 **[Direct Link to Apply](https://www.hackerearth.com/challenges/competitive/mks-inc-hackathon/)**
 
 ---
-### 47. [IBM Z Day](https://www.hackerearth.com/challenges/hackathon/ibm-z-day/)
+### 48. [IBM Z Day](https://www.hackerearth.com/challenges/hackathon/ibm-z-day/)
 - **Platform:** `HackerEarth` | **Priority Score:** `75/100` | **Mode:** `Online`
 - **Venue / Location:** 🌐 Online / Virtual
 - **Participation:** 🟢 Solo Eligible (1 Member)
@@ -729,7 +742,7 @@
 👉 **[Direct Link to Apply](https://www.hackerearth.com/challenges/hackathon/ibm-z-day/)**
 
 ---
-### 48. [PayPal AI Hackathon](https://paypalaihackathon.devpost.com/)
+### 49. [PayPal AI Hackathon](https://paypalaihackathon.devpost.com/)
 - **Platform:** `Devpost` | **Priority Score:** `75/100` | **Mode:** `Online`
 - **Venue / Location:** 🌐 Online / Virtual
 - **Participation:** 🟢 Solo Eligible (1 Member)
@@ -740,19 +753,6 @@
 - **Match Factors:** 🌐 **Accessible Online Mode** (+15 pts) • 👤 **Solo Eligible (1 Member)** (+35 pts) • 🤖 **AI & Software Tracks** (+25 pts) [AI, Machine Learning]
 
 👉 **[Direct Link to Apply](https://paypalaihackathon.devpost.com/)**
-
----
-### 49. [Learn AR with SPECS](https://learn-specs.devpost.com/)
-- **Platform:** `Devpost` | **Priority Score:** `75/100` | **Mode:** `Online`
-- **Venue / Location:** 🌐 Online / Virtual
-- **Participation:** 🟢 Solo Eligible (1 Member)
-- **Registration Deadline:** `Oct 15 - Nov 09, 2026`
-- **Prize Pool:** `$ 2,500`
-- **Tracks:** AR/VR, Machine Learning/AI, Design
-- **Organizer:** Devpost
-- **Match Factors:** 🌐 **Accessible Online Mode** (+15 pts) • 👤 **Solo Eligible (1 Member)** (+35 pts) • 🤖 **AI & Software Tracks** (+25 pts) [AI, Machine Learning]
-
-👉 **[Direct Link to Apply](https://learn-specs.devpost.com/)**
 
 ---
 ### 50. [Mathematics for systems security](https://mathematics-systems-security.devpost.com/)
@@ -1281,7 +1281,7 @@
 - **Participation:** 👥 Teams Only (2-6 members)
 - **Registration Deadline:** `2026-11-17T00:00:00+05:30`
 - **Prize Pool:** `Prizes & Certificates`
-- **Tracks:** Engineering Students, Postgraduate, Undergraduate, Fresher, Management, Medical, Law, Arts, Commerce, Sciences & Others
+- **Tracks:** Experienced Professionals, Engineering Students, Postgraduate, Undergraduate, Fresher, Management, Medical, Law, Arts, Commerce, Sciences & Others
 - **Organizer:** Indira Gandhi Delhi Technical University for Women (IGDTUW), Delhi
 - **Match Factors:** 🌐 **Accessible Online Mode** (+15 pts) • 🤖 **AI & Software Tracks** (+25 pts) [AI, Artificial Intelligence, Machine Learning]
 

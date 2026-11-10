@@ -33,7 +33,7 @@
     "is_nagpur_local": true,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-09T21:14:16.224964+00:00"
+    "discovered_at": "2026-11-10T03:54:57.053614+00:00"
   },
   {
     "id": "unstop:1788753",
@@ -72,7 +72,7 @@
     "is_nagpur_local": true,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-09T21:14:08.067361+00:00"
+    "discovered_at": "2026-11-10T03:54:49.179377+00:00"
   },
   {
     "id": "unstop:1794522",
@@ -107,7 +107,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": true,
     "is_active": true,
-    "discovered_at": "2026-11-09T21:14:06.203623+00:00"
+    "discovered_at": "2026-11-10T03:54:47.020874+00:00"
   },
   {
     "id": "unstop:1799762",
@@ -146,7 +146,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": true,
     "is_active": true,
-    "discovered_at": "2026-11-09T21:14:08.065588+00:00"
+    "discovered_at": "2026-11-10T03:54:49.178140+00:00"
   },
   {
     "id": "unstop:1799765",
@@ -185,7 +185,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": true,
     "is_active": true,
-    "discovered_at": "2026-11-09T21:14:08.065621+00:00"
+    "discovered_at": "2026-11-10T03:54:49.178162+00:00"
   },
   {
     "id": "unstop:1799761",
@@ -223,7 +223,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": true,
     "is_active": true,
-    "discovered_at": "2026-11-09T21:14:08.065648+00:00"
+    "discovered_at": "2026-11-10T03:54:49.178180+00:00"
   },
   {
     "id": "college:mindsparkorg",
@@ -259,7 +259,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": true,
     "is_active": true,
-    "discovered_at": "2026-11-09T21:14:15.645394+00:00"
+    "discovered_at": "2026-11-10T03:54:56.725120+00:00"
   },
   {
     "id": "unstop:1798516",
@@ -293,7 +293,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": true,
     "is_active": true,
-    "discovered_at": "2026-11-09T21:14:08.066995+00:00"
+    "discovered_at": "2026-11-10T03:54:49.179119+00:00"
   },
   {
     "id": "unstop:1791467",
@@ -333,7 +333,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-09T21:14:09.701915+00:00"
+    "discovered_at": "2026-11-10T03:54:50.557824+00:00"
   },
   {
     "id": "unstop:1793112",
@@ -373,7 +373,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-09T21:14:09.701391+00:00"
+    "discovered_at": "2026-11-10T03:54:50.557490+00:00"
   },
   {
     "id": "unstop:1789431",
@@ -407,7 +407,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-09T21:14:06.203682+00:00"
+    "discovered_at": "2026-11-10T03:54:47.020917+00:00"
   },
   {
     "id": "unstop:1791573",
@@ -447,7 +447,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-09T21:14:09.701437+00:00"
+    "discovered_at": "2026-11-10T03:54:50.557519+00:00"
   },
   {
     "id": "unstop:1800891",
@@ -481,7 +481,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-09T21:14:06.203844+00:00"
+    "discovered_at": "2026-11-10T03:54:47.021027+00:00"
   },
   {
     "id": "unstop:1792269",
@@ -521,7 +521,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-09T21:14:09.701666+00:00"
+    "discovered_at": "2026-11-10T03:54:50.557661+00:00"
   },
   {
     "id": "unstop:1799510",
@@ -559,7 +559,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-09T21:14:08.065795+00:00"
+    "discovered_at": "2026-11-10T03:54:49.178280+00:00"
   },
   {
     "id": "unstop:1799509",
@@ -597,7 +597,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-09T21:14:08.065870+00:00"
+    "discovered_at": "2026-11-10T03:54:49.178333+00:00"
   },
   {
     "id": "unstop:1799475",
@@ -635,7 +635,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-09T21:14:08.065937+00:00"
+    "discovered_at": "2026-11-10T03:54:49.178381+00:00"
   },
   {
     "id": "unstop:1799543",
@@ -673,7 +673,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-09T21:14:08.065734+00:00"
+    "discovered_at": "2026-11-10T03:54:49.178237+00:00"
   },
   {
     "id": "unstop:1779479",
@@ -711,7 +711,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-09T21:14:09.701589+00:00"
+    "discovered_at": "2026-11-10T03:54:50.557608+00:00"
   },
   {
     "id": "unstop:1800358",
@@ -745,7 +745,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-09T21:14:08.064847+00:00"
+    "discovered_at": "2026-11-10T03:54:49.177628+00:00"
   },
   {
     "id": "unstop:1799767",
@@ -783,7 +783,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-09T21:14:06.203540+00:00"
+    "discovered_at": "2026-11-10T03:54:47.020813+00:00"
   },
   {
     "id": "unstop:1802169",
@@ -823,14 +823,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-09T21:14:06.202331+00:00"
+    "discovered_at": "2026-11-10T03:54:47.019956+00:00"
   },
   {
     "id": "unstop:1799092",
     "source": "Unstop",
     "title": "AI Vibeathon 1.0",
     "url": "https://unstop.com/hackathons/ai-vibeathon-2026-promptwars-echo-engineers-echo-engineers-1799092",
-    "description": "AI VIBEATHON 2026 About AI VIBEATHON 2026 AI VIBEATHON 2026 is an&nbsp; Open Innovation approach with AI-focused innovation and hackathon event organized by Echo Engineers . The event brings together students, developers, innovators, and technology enthusiasts to explore the possibilities of Artificial Intelligence and develop innovative solutions to real-world challenges. Participants will get an opportunity to experiment with modern AI technologies, showcase their technical skills, collaborate with like-minded individuals, and transform their ideas into functional projects. The competition follows a two-stage format: an Online Preliminary Round and an Offline Grand Finale , providing opportunities for participants from across the country to showcase their talent, regardless of their location. Think beyond prompts. Build beyond possibilities. Event Details Event: AI VIBEATHON 2026 Organizers: Echo Engineers&nbsp; Date: 25 November &ndash; 28 November 2026 Mode: Online + Offline Offline Venue: Delhi, venue to be announced Duration: 8 Hours (Offline Grand Finale) Eligibility: Students and Working Professionals Team Size: 1&ndash;4 Members Total Prize Pool: ₹50,000 Participation: Certificates for all participants Stages and Timelines Registration This is the first step of your journey! Participants must register through Unstop, either individually or as a team of 2&ndash;4 members. Ensure that all registration details are accurate. After registration, participants are encouraged to join the official WhatsApp group to receive important announcements, submission guidelines, and competition updates. Round 1 &ndash; Online Preliminary Round Date: 25 November 2026 Time: 12:00 AM &ndash; 9:00 PM IST Mode: Online The first round will be conducted entirely online, allowing participants from different colleges, universities, and locations to participate without travelling. Registered teams will be required to develop and submit their projects within the given timeframe. Detailed submission instructions, portal access, and other necessary information will be communicated through the official WhatsApp group. Submission Requirements: A public and accessible GitHub repository link containing the project source code is mandatory. A live demo or deployment link is optional but recommended. Teams must provide all required project details and supporting information. Submissions must be completed within the specified deadline. Incomplete, inaccessible, or late submissions may not be considered for evaluation. Shortlisting: All submissions will be evaluated by the organizing and judging panel. Selected teams will be shortlisted for the Offline Grand Finale in Delhi. Online Round Rewards &ndash; ₹10,000 Winner: ₹5,000 1st Runner-up: ₹3,500 2nd Runner-up: ₹1,500 The online round winners and other shortlisted teams will remain eligible to participate in the Offline Grand Finale. Round 2 &ndash; Offline Grand Finale Date: 28 November 2026 Time: 9:00 AM &ndash; 5:00 PM IST Mode: Offline Venue: Delhi (To Be Announced) The shortlisted teams will be invited to participate in the Offline Grand Finale. During this intensive 8-hour hackathon, participants will get the opportunity to refine their existing projects, improve their implementations, incorporate new ideas, and finalize their solutions. Teams will be expected to: Work on and enhance their submitted projects. Refine their technical implementation and overall functionality. Develop and finalize their working prototypes. Present their projects before the judging panel. Explain their approach, innovation, technical implementation, and potential impact. Following the presentations, the judging panel will evaluate the projects, and the final results and winners will be announced. Offline Grand Finale Rewards &ndash; ₹40,000 Winner: ₹25,000 1st Runner-up: ₹10,000 2nd Runner-up: ₹5,000 General Rules and Regulations All submitted work must be original and developed by the participating team. Open-source libraries, frameworks, APIs, and development tools may be used with proper attribution. AI-assisted development is permitted unless otherwise specified. Plagiarism, copied submissions, or intellectual property violations will result in immediate disqualification. Participants must ensure that their GitHub repositories and submitted project links are accessible for evaluation. Participants are responsible for completing their submissions within the specified deadlines. Teams must maintain professionalism and follow the event's code of conduct. Participants are expected to follow all instructions communicated by the organizing committee. Decisions made by the organizing committee and judging panel will be final and binding. Evaluation Criteria Projects will be assessed based on their overall contribution toward rebuilding civilization and their potential to create meaningful real-world impact. The judging panel will consider the following parameters: Innovation: Originality, creativity, and uniqueness of the proposed solution. Technical Feasibility: Practical implementation, technical depth, and functionality. Scalability: Potential to expand and serve a larger number of users or applications. Problem Fit &amp; Impact: Relevance to the problem statement and potential real-world contribution. Resilience: Reliability, adaptability, and ability to perform under challenging conditions. Presentation: Clarity of communication, demonstration, and explanation of the solution. What's in It for You? Participating in AI VIBEATHON 2026 gives you an opportunity to: Compete for a total prize pool of ₹50,000 . Win cash prizes in both online and offline rounds. Showcase your innovation and technical expertise. Work with modern AI technologies and development tools. Connect with developers, innovators, and technology enthusiasts. Present your solutions before an expert judging panel. Gain practical experience through an intensive hackathon environment. Receive a Certificate of Participation . Whether you are an experienced developer or someone passionate about exploring Artificial Intelligence, this is your opportunity to turn ideas into impactful solutions. Important Links and Updates Official WhatsApp Group: https://chat.whatsapp.com/FkrCq24ckqwBM4PjjoErAW All important announcements, submission instructions, portal details, and event updates will be shared through the official WhatsApp group. Make sure you join the group after registration so you don't miss any important information. Register. Innovate. Build. Compete.",
+    "description": "AI VIBEATHON 2026 About AI VIBEATHON 2026 AI VIBEATHON 2026 is an&nbsp; Open Innovation approach with AI-focused innovation and hackathon event organized by Echo Engineers . Important join on whatsapp &nbsp; The event brings together students, developers, innovators, and technology enthusiasts to explore the possibilities of Artificial Intelligence and develop innovative solutions to real-world challenges. Participants will get an opportunity to experiment with modern AI technologies, showcase their technical skills, collaborate with like-minded individuals, and transform their ideas into functional projects. The competition follows a two-stage format: an Online Preliminary Round and an Offline Grand Finale , providing opportunities for participants from across the country to showcase their talent, regardless of their location. Think beyond prompts. Build beyond possibilities. Event Details Event: AI VIBEATHON 2026 Organizers: Echo Engineers&nbsp; Date: 25 November &ndash; 28 November 2026 Mode: Online + Offline Offline Venue: Delhi, venue to be announced Duration: 8 Hours (Offline Grand Finale) Eligibility: Students and Working Professionals Team Size: 1&ndash;4 Members Total Prize Pool: ₹50,000 Participation: Certificates for all participants Stages and Timelines Registration This is the first step of your journey! Participants must register through Unstop, either individually or as a team of 2&ndash;4 members. Ensure that all registration details are accurate. After registration, participants are encouraged to join the official WhatsApp group to receive important announcements, submission guidelines, and competition updates. Round 1 &ndash; Online Preliminary Round Date: 25 November 2026 Time: 12:00 AM &ndash; 9:00 PM IST Mode: Online The first round will be conducted entirely online, allowing participants from different colleges, universities, and locations to participate without travelling. Registered teams will be required to develop and submit their projects within the given timeframe. Detailed submission instructions, portal access, and other necessary information will be communicated through the official WhatsApp group. Submission Requirements: A public and accessible GitHub repository link containing the project source code is mandatory. A live demo or deployment link is optional but recommended. Teams must provide all required project details and supporting information. Submissions must be completed within the specified deadline. Incomplete, inaccessible, or late submissions may not be considered for evaluation. Shortlisting: All submissions will be evaluated by the organizing and judging panel. Selected teams will be shortlisted for the Offline Grand Finale in Delhi. Online Round Rewards &ndash; ₹10,000 Winner: ₹5,000 1st Runner-up: ₹3,500 2nd Runner-up: ₹1,500 The online round winners and other shortlisted teams will remain eligible to participate in the Offline Grand Finale. Round 2 &ndash; Offline Grand Finale Date: 28 November 2026 Time: 9:00 AM &ndash; 5:00 PM IST Mode: Offline Venue: Delhi (To Be Announced) The shortlisted teams will be invited to participate in the Offline Grand Finale. During this intensive 8-hour hackathon, participants will get the opportunity to refine their existing projects, improve their implementations, incorporate new ideas, and finalize their solutions. Teams will be expected to: Work on and enhance their submitted projects. Refine their technical implementation and overall functionality. Develop and finalize their working prototypes. Present their projects before the judging panel. Explain their approach, innovation, technical implementation, and potential impact. Following the presentations, the judging panel will evaluate the projects, and the final results and winners will be announced. Offline Grand Finale Rewards &ndash; ₹40,000 Winner: ₹25,000 1st Runner-up: ₹10,000 2nd Runner-up: ₹5,000 General Rules and Regulations All submitted work must be original and developed by the participating team. Open-source libraries, frameworks, APIs, and development tools may be used with proper attribution. AI-assisted development is permitted unless otherwise specified. Plagiarism, copied submissions, or intellectual property violations will result in immediate disqualification. Participants must ensure that their GitHub repositories and submitted project links are accessible for evaluation. Participants are responsible for completing their submissions within the specified deadlines. Teams must maintain professionalism and follow the event's code of conduct. Participants are expected to follow all instructions communicated by the organizing committee. Decisions made by the organizing committee and judging panel will be final and binding. Evaluation Criteria Projects will be assessed based on their overall contribution toward rebuilding civilization and their potential to create meaningful real-world impact. The judging panel will consider the following parameters: Innovation: Originality, creativity, and uniqueness of the proposed solution. Technical Feasibility: Practical implementation, technical depth, and functionality. Scalability: Potential to expand and serve a larger number of users or applications. Problem Fit &amp; Impact: Relevance to the problem statement and potential real-world contribution. Resilience: Reliability, adaptability, and ability to perform under challenging conditions. Presentation: Clarity of communication, demonstration, and explanation of the solution. What's in It for You? Participating in AI VIBEATHON 2026 gives you an opportunity to: Compete for a total prize pool of ₹50,000 . Win cash prizes in both online and offline rounds. Showcase your innovation and technical expertise. Work with modern AI technologies and development tools. Connect with developers, innovators, and technology enthusiasts. Present your solutions before an expert judging panel. Gain practical experience through an intensive hackathon environment. Receive a Certificate of Participation . Whether you are an experienced developer or someone passionate about exploring Artificial Intelligence, this is your opportunity to turn ideas into impactful solutions. Important Links and Updates Official WhatsApp Group: https://chat.whatsapp.com/FkrCq24ckqwBM4PjjoErAW All important announcements, submission instructions, portal details, and event updates will be shared through the official WhatsApp group. Make sure you join the group after registration so you don't miss any important information. Register. Innovate. Build. Compete.️️️",
     "organizer": "ECHO ENGINEERS",
     "venue": "hybrid",
     "mode": "In-Person",
@@ -861,7 +861,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-09T21:14:08.065465+00:00"
+    "discovered_at": "2026-11-10T03:54:49.178050+00:00"
   },
   {
     "id": "unstop:1800324",
@@ -895,7 +895,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-09T21:14:08.065073+00:00"
+    "discovered_at": "2026-11-10T03:54:49.177779+00:00"
   },
   {
     "id": "unstop:1798702",
@@ -935,7 +935,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-09T21:14:08.066879+00:00"
+    "discovered_at": "2026-11-10T03:54:49.179033+00:00"
   },
   {
     "id": "unstop:1797543",
@@ -969,7 +969,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-09T21:14:08.067163+00:00"
+    "discovered_at": "2026-11-10T03:54:49.179237+00:00"
   },
   {
     "id": "unstop:1790680",
@@ -1006,7 +1006,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-09T21:14:09.702014+00:00"
+    "discovered_at": "2026-11-10T03:54:50.557889+00:00"
   },
   {
     "id": "unstop:1791313",
@@ -1044,7 +1044,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-09T21:14:09.702566+00:00"
+    "discovered_at": "2026-11-10T03:54:50.558253+00:00"
   },
   {
     "id": "unstop:1792826",
@@ -1078,7 +1078,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-09T21:14:09.701273+00:00"
+    "discovered_at": "2026-11-10T03:54:50.557408+00:00"
   },
   {
     "id": "unstop:1792025",
@@ -1112,7 +1112,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-09T21:14:08.067552+00:00"
+    "discovered_at": "2026-11-10T03:54:49.179506+00:00"
   },
   {
     "id": "unstop:1795775",
@@ -1152,7 +1152,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-09T21:14:08.067404+00:00"
+    "discovered_at": "2026-11-10T03:54:49.179406+00:00"
   },
   {
     "id": "unstop:1794889",
@@ -1192,7 +1192,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-09T21:14:09.700727+00:00"
+    "discovered_at": "2026-11-10T03:54:50.557020+00:00"
   },
   {
     "id": "unstop:1802090",
@@ -1226,7 +1226,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": true,
     "is_active": true,
-    "discovered_at": "2026-11-09T21:14:06.202819+00:00"
+    "discovered_at": "2026-11-10T03:54:47.020305+00:00"
   },
   {
     "id": "unstop:1802089",
@@ -1260,7 +1260,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": true,
     "is_active": true,
-    "discovered_at": "2026-11-09T21:14:06.202845+00:00"
+    "discovered_at": "2026-11-10T03:54:47.020323+00:00"
   },
   {
     "id": "unstop:1799800",
@@ -1298,7 +1298,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": true,
     "is_active": true,
-    "discovered_at": "2026-11-09T21:14:08.065531+00:00"
+    "discovered_at": "2026-11-10T03:54:49.178101+00:00"
   },
   {
     "id": "unstop:1801200",
@@ -1332,7 +1332,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": true,
     "is_active": true,
-    "discovered_at": "2026-11-09T21:14:06.203649+00:00"
+    "discovered_at": "2026-11-10T03:54:47.020893+00:00"
   },
   {
     "id": "unstop:1800395",
@@ -1366,7 +1366,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-09T21:14:06.204383+00:00"
+    "discovered_at": "2026-11-10T03:54:47.021418+00:00"
   },
   {
     "id": "hackerearth:contextcon-remember-everything",
@@ -1402,7 +1402,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-09T21:14:13.751016+00:00"
+    "discovered_at": "2026-11-10T03:54:55.007874+00:00"
   },
   {
     "id": "devpost:30740",
@@ -1438,7 +1438,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-09T21:14:12.688812+00:00"
+    "discovered_at": "2026-11-10T03:54:53.404261+00:00"
   },
   {
     "id": "devpost:30764",
@@ -1474,14 +1474,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-09T21:14:12.688849+00:00"
+    "discovered_at": "2026-11-10T03:54:53.580915+00:00"
   },
   {
     "id": "devpost:31060",
     "source": "Devpost",
     "title": "Agentic Hackathon",
     "url": "https://agentic-hackathon.devpost.com/",
-    "description": "Devpost hackathon. about 21 hours left",
+    "description": "Devpost hackathon. about 14 hours left",
     "organizer": "Devin",
     "venue": "Online",
     "mode": "Online",
@@ -1510,7 +1510,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-09T21:14:12.881921+00:00"
+    "discovered_at": "2026-11-10T03:54:53.877219+00:00"
   },
   {
     "id": "devpost:31787",
@@ -1546,7 +1546,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-09T21:14:12.881927+00:00"
+    "discovered_at": "2026-11-10T03:54:53.877223+00:00"
   },
   {
     "id": "devpost:31642",
@@ -1582,7 +1582,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-09T21:14:12.688831+00:00"
+    "discovered_at": "2026-11-10T03:54:53.580882+00:00"
   },
   {
     "id": "devpost:31083",
@@ -1618,7 +1618,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-09T21:14:12.500748+00:00"
+    "discovered_at": "2026-11-10T03:54:53.404250+00:00"
   },
   {
     "id": "devpost:31480",
@@ -1654,7 +1654,43 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-09T21:14:12.881908+00:00"
+    "discovered_at": "2026-11-10T03:54:53.580932+00:00"
+  },
+  {
+    "id": "devpost:31831",
+    "source": "Devpost",
+    "title": "Ctrl+V Hackathon",
+    "url": "https://ctrl-v-hackathon-31831.devpost.com/",
+    "description": "Devpost hackathon. about 18 hours left",
+    "organizer": "ADHAYAN",
+    "venue": "Online",
+    "mode": "Online",
+    "city": null,
+    "state": null,
+    "country": null,
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": "Nov 06 - 10, 2026",
+    "min_team_size": 1,
+    "max_team_size": null,
+    "solo_allowed": true,
+    "eligibility": "Global Devpost Participants",
+    "prize_pool": "$ 28,000",
+    "tracks": [
+      "Beginner Friendly",
+      "Machine Learning/AI",
+      "Social Good"
+    ],
+    "score": 75,
+    "matched_reasons": [
+      "🌐 **Accessible Online Mode** (+15 pts)",
+      "👤 **Solo Eligible (1 Member)** (+35 pts)",
+      "🤖 **AI & Software Tracks** (+25 pts) [AI, Machine Learning]"
+    ],
+    "is_nagpur_local": false,
+    "is_maharashtra": false,
+    "is_active": true,
+    "discovered_at": "2026-11-10T03:54:53.877242+00:00"
   },
   {
     "id": "hackerearth:mks-inc-hackathon",
@@ -1690,7 +1726,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-09T21:14:13.751006+00:00"
+    "discovered_at": "2026-11-10T03:54:55.007866+00:00"
   },
   {
     "id": "hackerearth:ibm-z-day",
@@ -1726,7 +1762,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-09T21:14:13.750981+00:00"
+    "discovered_at": "2026-11-10T03:54:55.007846+00:00"
   },
   {
     "id": "devpost:31302",
@@ -1762,50 +1798,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-09T21:14:12.500693+00:00"
-  },
-  {
-    "id": "devpost:31659",
-    "source": "Devpost",
-    "title": "Learn AR with SPECS",
-    "url": "https://learn-specs.devpost.com/",
-    "description": "Devpost hackathon. about 1 hour left",
-    "organizer": "Devpost",
-    "venue": "Online",
-    "mode": "Online",
-    "city": null,
-    "state": null,
-    "country": null,
-    "start_date": null,
-    "end_date": null,
-    "registration_deadline": "Oct 15 - Nov 09, 2026",
-    "min_team_size": 1,
-    "max_team_size": null,
-    "solo_allowed": true,
-    "eligibility": "Global Devpost Participants",
-    "prize_pool": "$ 2,500",
-    "tracks": [
-      "AR/VR",
-      "Machine Learning/AI",
-      "Design"
-    ],
-    "score": 75,
-    "matched_reasons": [
-      "🌐 **Accessible Online Mode** (+15 pts)",
-      "👤 **Solo Eligible (1 Member)** (+35 pts)",
-      "🤖 **AI & Software Tracks** (+25 pts) [AI, Machine Learning]"
-    ],
-    "is_nagpur_local": false,
-    "is_maharashtra": false,
-    "is_active": true,
-    "discovered_at": "2026-11-09T21:14:12.500743+00:00"
+    "discovered_at": "2026-11-10T03:54:53.404208+00:00"
   },
   {
     "id": "devpost:31666",
     "source": "Devpost",
     "title": "Mathematics for systems security",
     "url": "https://mathematics-systems-security.devpost.com/",
-    "description": "Devpost hackathon. 6 days left",
+    "description": "Devpost hackathon. 5 days left",
     "organizer": "Software Engineering Club (DEV)",
     "venue": "Online",
     "mode": "Online",
@@ -1834,7 +1834,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-09T21:14:12.881948+00:00"
+    "discovered_at": "2026-11-10T03:54:53.877238+00:00"
   },
   {
     "id": "devpost:31664",
@@ -1870,7 +1870,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-09T21:14:12.881915+00:00"
+    "discovered_at": "2026-11-10T03:54:53.877214+00:00"
   },
   {
     "id": "devpost:31789",
@@ -1906,7 +1906,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-09T21:14:12.688859+00:00"
+    "discovered_at": "2026-11-10T03:54:53.580919+00:00"
   },
   {
     "id": "devpost:31796",
@@ -1942,7 +1942,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-09T21:14:12.688864+00:00"
+    "discovered_at": "2026-11-10T03:54:53.580922+00:00"
   },
   {
     "id": "devpost:30789",
@@ -1978,7 +1978,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-09T21:14:12.500759+00:00"
+    "discovered_at": "2026-11-10T03:54:53.404258+00:00"
   },
   {
     "id": "devpost:31552",
@@ -2014,7 +2014,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-09T21:14:12.500732+00:00"
+    "discovered_at": "2026-11-10T03:54:53.404242+00:00"
   },
   {
     "id": "devpost:26475",
@@ -2050,7 +2050,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-09T21:14:12.881943+00:00"
+    "discovered_at": "2026-11-10T03:54:53.877234+00:00"
   },
   {
     "id": "devpost:31572",
@@ -2086,7 +2086,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-09T21:14:12.500738+00:00"
+    "discovered_at": "2026-11-10T03:54:53.404246+00:00"
   },
   {
     "id": "devpost:31907",
@@ -2122,7 +2122,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-09T21:14:12.688843+00:00"
+    "discovered_at": "2026-11-10T03:54:53.580907+00:00"
   },
   {
     "id": "devpost:31667",
@@ -2158,7 +2158,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-09T21:14:12.500717+00:00"
+    "discovered_at": "2026-11-10T03:54:53.404229+00:00"
   },
   {
     "id": "devpost:31187",
@@ -2194,7 +2194,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-09T21:14:12.881885+00:00"
+    "discovered_at": "2026-11-10T03:54:53.877192+00:00"
   },
   {
     "id": "devpost:31024",
@@ -2230,7 +2230,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-09T21:14:12.500726+00:00"
+    "discovered_at": "2026-11-10T03:54:53.404237+00:00"
   },
   {
     "id": "unstop:1793796",
@@ -2270,7 +2270,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": true,
     "is_active": true,
-    "discovered_at": "2026-11-09T21:14:08.066282+00:00"
+    "discovered_at": "2026-11-10T03:54:49.178623+00:00"
   },
   {
     "id": "unstop:1792835",
@@ -2303,7 +2303,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-09T21:14:09.702083+00:00"
+    "discovered_at": "2026-11-10T03:54:50.557934+00:00"
   },
   {
     "id": "unstop:1778710",
@@ -2336,7 +2336,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-09T21:14:08.065126+00:00"
+    "discovered_at": "2026-11-10T03:54:49.177816+00:00"
   },
   {
     "id": "unstop:1772221",
@@ -2375,7 +2375,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-09T21:14:08.066403+00:00"
+    "discovered_at": "2026-11-10T03:54:49.178708+00:00"
   },
   {
     "id": "unstop:1771951",
@@ -2414,7 +2414,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-09T21:14:09.702838+00:00"
+    "discovered_at": "2026-11-10T03:54:50.558429+00:00"
   },
   {
     "id": "unstop:1800857",
@@ -2453,7 +2453,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-09T21:14:06.203989+00:00"
+    "discovered_at": "2026-11-10T03:54:47.021132+00:00"
   },
   {
     "id": "unstop:1781454",
@@ -2492,7 +2492,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-09T21:14:08.066475+00:00"
+    "discovered_at": "2026-11-10T03:54:49.178752+00:00"
   },
   {
     "id": "unstop:1793341",
@@ -2531,7 +2531,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-09T21:14:09.701187+00:00"
+    "discovered_at": "2026-11-10T03:54:50.557346+00:00"
   },
   {
     "id": "unstop:1795134",
@@ -2570,7 +2570,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-09T21:14:08.066012+00:00"
+    "discovered_at": "2026-11-10T03:54:49.178433+00:00"
   },
   {
     "id": "unstop:1799782",
@@ -2607,7 +2607,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-09T21:14:06.203167+00:00"
+    "discovered_at": "2026-11-10T03:54:47.020557+00:00"
   },
   {
     "id": "unstop:1799780",
@@ -2644,7 +2644,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-09T21:14:06.203206+00:00"
+    "discovered_at": "2026-11-10T03:54:47.020585+00:00"
   },
   {
     "id": "unstop:1799778",
@@ -2681,7 +2681,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-09T21:14:06.203246+00:00"
+    "discovered_at": "2026-11-10T03:54:47.020613+00:00"
   },
   {
     "id": "unstop:1799776",
@@ -2718,7 +2718,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-09T21:14:06.203283+00:00"
+    "discovered_at": "2026-11-10T03:54:47.020639+00:00"
   },
   {
     "id": "unstop:1799791",
@@ -2755,7 +2755,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-09T21:14:06.203411+00:00"
+    "discovered_at": "2026-11-10T03:54:47.020732+00:00"
   },
   {
     "id": "unstop:1799788",
@@ -2792,7 +2792,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-09T21:14:06.203458+00:00"
+    "discovered_at": "2026-11-10T03:54:47.020757+00:00"
   },
   {
     "id": "unstop:1799790",
@@ -2829,7 +2829,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-09T21:14:06.203499+00:00"
+    "discovered_at": "2026-11-10T03:54:47.020785+00:00"
   },
   {
     "id": "unstop:1800924",
@@ -2866,7 +2866,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-09T21:14:06.203891+00:00"
+    "discovered_at": "2026-11-10T03:54:47.021059+00:00"
   },
   {
     "id": "unstop:1793392",
@@ -2899,7 +2899,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-09T21:14:09.701314+00:00"
+    "discovered_at": "2026-11-10T03:54:50.557436+00:00"
   },
   {
     "id": "unstop:1799281",
@@ -2940,7 +2940,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-09T21:14:06.203763+00:00"
+    "discovered_at": "2026-11-10T03:54:47.020972+00:00"
   },
   {
     "id": "devpost:31108",
@@ -2975,7 +2975,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-09T21:14:12.688869+00:00"
+    "discovered_at": "2026-11-10T03:54:53.580926+00:00"
   },
   {
     "id": "devpost:30500",
@@ -3010,7 +3010,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-09T21:14:12.500753+00:00"
+    "discovered_at": "2026-11-10T03:54:53.404254+00:00"
   },
   {
     "id": "devpost:31495",
@@ -3045,7 +3045,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-09T21:14:12.688854+00:00"
+    "discovered_at": "2026-11-10T03:54:53.580912+00:00"
   },
   {
     "id": "devpost:31773",
@@ -3079,7 +3079,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-09T21:14:12.688838+00:00"
+    "discovered_at": "2026-11-10T03:54:53.580903+00:00"
   },
   {
     "id": "devpost:31795",
@@ -3114,7 +3114,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-09T21:14:12.881933+00:00"
+    "discovered_at": "2026-11-10T03:54:53.877227+00:00"
   },
   {
     "id": "devpost:31798",
@@ -3148,7 +3148,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-09T21:14:12.881938+00:00"
+    "discovered_at": "2026-11-10T03:54:53.877230+00:00"
   },
   {
     "id": "unstop:1800147",
@@ -3187,7 +3187,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-09T21:14:06.204221+00:00"
+    "discovered_at": "2026-11-10T03:54:47.021301+00:00"
   },
   {
     "id": "unstop:1786997",
@@ -3226,7 +3226,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-09T21:14:09.702391+00:00"
+    "discovered_at": "2026-11-10T03:54:50.558145+00:00"
   },
   {
     "id": "unstop:1802400",
@@ -3265,7 +3265,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-09T21:14:06.202730+00:00"
+    "discovered_at": "2026-11-10T03:54:47.020240+00:00"
   },
   {
     "id": "unstop:1799179",
@@ -3288,6 +3288,7 @@
     "eligibility": "Undergraduate / Postgraduate & Engineering students",
     "prize_pool": "Prizes & Certificates",
     "tracks": [
+      "Experienced Professionals",
       "Engineering Students",
       "Postgraduate",
       "Undergraduate",
@@ -3305,7 +3306,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-09T21:14:08.066752+00:00"
+    "discovered_at": "2026-11-10T03:54:49.178947+00:00"
   },
   {
     "id": "unstop:1794890",
@@ -3338,7 +3339,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-09T21:14:09.700960+00:00"
+    "discovered_at": "2026-11-10T03:54:50.557188+00:00"
   },
   {
     "id": "unstop:1794529",
@@ -3372,7 +3373,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-09T21:14:06.203371+00:00"
+    "discovered_at": "2026-11-10T03:54:47.020704+00:00"
   },
   {
     "id": "unstop:1799143",
@@ -3412,7 +3413,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-09T21:14:08.066665+00:00"
+    "discovered_at": "2026-11-10T03:54:49.178887+00:00"
   },
   {
     "id": "unstop:1786652",
@@ -3445,7 +3446,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-09T21:14:09.700817+00:00"
+    "discovered_at": "2026-11-10T03:54:50.557080+00:00"
   },
   {
     "id": "unstop:1798287",
@@ -3478,7 +3479,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-09T21:14:08.067113+00:00"
+    "discovered_at": "2026-11-10T03:54:49.179203+00:00"
   },
   {
     "id": "unstop:1803074",
@@ -3511,6 +3512,6 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-09T21:14:06.202230+00:00"
+    "discovered_at": "2026-11-10T03:54:47.019878+00:00"
   }
 ]

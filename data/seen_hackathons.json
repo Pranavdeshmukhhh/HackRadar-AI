@@ -3049,5 +3049,14 @@
     "last_notified": "2026-11-09T21:14:18.207035+00:00",
     "is_nagpur_local": false,
     "solo_allowed": false
+  },
+  "devpost:31831": {
+    "title": "Ctrl+V Hackathon",
+    "url": "https://ctrl-v-hackathon-31831.devpost.com/",
+    "score": 75,
+    "source": "Devpost",
+    "last_notified": "2026-11-10T03:54:57.720855+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
   }
 }

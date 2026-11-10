@@ -3094,5 +3094,23 @@
     "last_notified": "2026-11-10T11:58:50.005559+00:00",
     "is_nagpur_local": false,
     "solo_allowed": true
+  },
+  "devpost:31973": {
+    "title": "Deck the Pixels",
+    "url": "https://deckthepixels.devpost.com/",
+    "score": 75,
+    "source": "Devpost",
+    "last_notified": "2026-11-10T19:26:37.665781+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:1787722": {
+    "title": "The Forge",
+    "url": "https://unstop.com/hackathons/the-forge-hoollow-1787722",
+    "score": 60,
+    "source": "Unstop",
+    "last_notified": "2026-11-10T19:26:37.665781+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
   }
 }

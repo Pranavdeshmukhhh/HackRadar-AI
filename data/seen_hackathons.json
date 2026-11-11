@@ -3121,5 +3121,23 @@
     "last_notified": "2026-11-11T07:24:54.987323+00:00",
     "is_nagpur_local": false,
     "solo_allowed": true
+  },
+  "devpost:31808": {
+    "title": "#BuildHybridAI 2026",
+    "url": "https://firebasehybridaihackathon.devpost.com/",
+    "score": 75,
+    "source": "Devpost",
+    "last_notified": "2026-11-11T22:23:54.735262+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "devpost:31644": {
+    "title": "Reddit’s Daily Games Hackathon",
+    "url": "https://redditgameofday2026.devpost.com/",
+    "score": 50,
+    "source": "Devpost",
+    "last_notified": "2026-11-11T22:23:54.735262+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
   }
 }

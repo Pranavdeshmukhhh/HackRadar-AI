@@ -3112,5 +3112,14 @@
     "last_notified": "2026-11-10T19:26:37.665781+00:00",
     "is_nagpur_local": false,
     "solo_allowed": true
+  },
+  "devpost:32079": {
+    "title": "Learn AR with SPECS",
+    "url": "https://learn-specs.devpost.com/",
+    "score": 75,
+    "source": "Devpost",
+    "last_notified": "2026-11-11T07:24:54.987323+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
   }
 }

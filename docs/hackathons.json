@@ -33,7 +33,7 @@
     "is_nagpur_local": true,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-11T07:24:54.294477+00:00"
+    "discovered_at": "2026-11-11T15:45:05.406083+00:00"
   },
   {
     "id": "unstop:1800629",
@@ -72,7 +72,7 @@
     "is_nagpur_local": true,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-11T07:24:43.928360+00:00"
+    "discovered_at": "2026-11-11T15:44:54.453606+00:00"
   },
   {
     "id": "unstop:1788753",
@@ -111,7 +111,7 @@
     "is_nagpur_local": true,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-11T07:24:48.117449+00:00"
+    "discovered_at": "2026-11-11T15:44:56.656313+00:00"
   },
   {
     "id": "unstop:1794522",
@@ -146,7 +146,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": true,
     "is_active": true,
-    "discovered_at": "2026-11-11T07:24:43.930037+00:00"
+    "discovered_at": "2026-11-11T15:44:54.455607+00:00"
   },
   {
     "id": "unstop:1799762",
@@ -185,7 +185,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": true,
     "is_active": true,
-    "discovered_at": "2026-11-11T07:24:46.394482+00:00"
+    "discovered_at": "2026-11-11T15:44:56.654703+00:00"
   },
   {
     "id": "unstop:1799765",
@@ -224,7 +224,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": true,
     "is_active": true,
-    "discovered_at": "2026-11-11T07:24:46.394556+00:00"
+    "discovered_at": "2026-11-11T15:44:56.654797+00:00"
   },
   {
     "id": "unstop:1799761",
@@ -262,7 +262,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": true,
     "is_active": true,
-    "discovered_at": "2026-11-11T07:24:46.394587+00:00"
+    "discovered_at": "2026-11-11T15:44:56.654836+00:00"
   },
   {
     "id": "college:mindsparkorg",
@@ -298,7 +298,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": true,
     "is_active": true,
-    "discovered_at": "2026-11-11T07:24:53.864799+00:00"
+    "discovered_at": "2026-11-11T15:45:05.142553+00:00"
   },
   {
     "id": "unstop:1798516",
@@ -332,7 +332,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": true,
     "is_active": true,
-    "discovered_at": "2026-11-11T07:24:46.395329+00:00"
+    "discovered_at": "2026-11-11T15:44:56.655825+00:00"
   },
   {
     "id": "unstop:1789431",
@@ -366,7 +366,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-11T07:24:43.930105+00:00"
+    "discovered_at": "2026-11-11T15:44:54.455692+00:00"
   },
   {
     "id": "unstop:1799543",
@@ -404,56 +404,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-11T07:24:46.394676+00:00"
-  },
-  {
-    "id": "unstop:1799179",
-    "source": "Unstop",
-    "title": "HACKRUSH 2026",
-    "url": "https://unstop.com/hackathons/hackrush-2026-igdtuw-delhi-1799179",
-    "description": "Overview Get ready to brainstorm, build, innovate and turn your ideas into impactful solutions! HACKRUSH 2026 is a national-level online hackathon organised by Tech4Hack, IGDTUW&nbsp; that brings together passionate innovators, developers, designers and problem-solvers from colleges across India. It is a platform to showcase technical skills, creativity, teamwork and the ability to solve real-world challenges. Whether you're a coder, designer, researcher or an aspiring entrepreneur, HACKRUSH 2026 gives you the opportunity to collaborate, build something meaningful and compete with talented minds from different institutions. Bring your ideas to life, push your boundaries and let your innovation do the talking! INNOVATE. COLLABORATE. ELEVATE. Tracks: Artificial Intelligence (AI) , Machine Learning (ML) &amp; Generative AI (Gen- AI) FinTech &amp; Blockchain HealthTech &amp; BioTech&nbsp; Cyber Security &amp; Digital Safety Smart Cities &amp; Sustainability&nbsp; Hackathon Tracks: Round 1: Idea / PPT Submission (9th - 16th November) : ONLINE Teams submit their problem statement, solution, business model, and impact presentation. The results of the Top 80 teams qualified for Round 2 will be declared on Tuesday, 18th November 2026.&nbsp; Round 2: Mentorship &amp; Refinement (19th-20th November) : ONLINE&nbsp; Selected teams receive mentorship and feedback to refine their ideas and execution plans. The results of the Top 30 teams qualified for Round 3 will be declared on Saturday, 21st November 2026.&nbsp; Round 3: Grand Finale &ndash; Prototype Presentation (22nd November) : ONLINE Teams present their working prototype, validation, business potential, and overall solution. The winners will be declared on Wednesday, 25th November 2026. Guidelines: Mode: Online Participation: Open to students from colleges and universities across India. Team Size: 2-6 members per team. Team Formation: Inter-college and inter-specialisation teams are allowed. Duration: Online . Problem Statements: Teams can select any problem statement of their choice from the 5 given Hackathon Tracks.&nbsp; &nbsp; &nbsp; Awards &amp; Recognition : 1st Prize : Internship Opportunity + Credits + Goodies 2nd Prize : Internship Opportunity + Credits + Goodies&nbsp; 3rd Prize : Internship Opportunity + Credits + Goodies Best Female Team : Goodies&nbsp; Most Promising Startup Idea : Goodies&nbsp; Certificates for all participants and finalists&nbsp; &nbsp; Rules: Plagiarism, copying or unauthorised areuse of another team's work will lead to disqualification Teams must maintain professional conduct throughout the event. Team members cannot be changed after the registration deadline without prior approval. Teams must ensure that their project documentation and presentation accurately represent their work. The organisers reserve the right to modify the schedule or guidelines if required. In case of any dispute, the organising committee's decision will be considered final.",
-    "organizer": "Indira Gandhi Delhi Technical University for Women (IGDTUW), Delhi",
-    "venue": "Online",
-    "mode": "Online",
-    "city": null,
-    "state": "online",
-    "country": null,
-    "start_date": "2026-11-09T00:00:00+05:30",
-    "end_date": "2026-11-25T17:00:00+05:30",
-    "registration_deadline": "2026-11-17T00:00:00+05:30",
-    "min_team_size": 1,
-    "max_team_size": 6,
-    "solo_allowed": true,
-    "eligibility": "Undergraduate / Postgraduate & Engineering students",
-    "prize_pool": "Prizes & Certificates",
-    "tracks": [
-      "Experienced Professionals",
-      "Engineering Students",
-      "Postgraduate",
-      "Undergraduate",
-      "Fresher",
-      "Management",
-      "Medical",
-      "Law",
-      "Arts, Commerce, Sciences & Others"
-    ],
-    "score": 75,
-    "matched_reasons": [
-      "🌐 **Accessible Online Mode** (+15 pts)",
-      "👤 **Solo Eligible (1 Member)** (+35 pts)",
-      "🤖 **AI & Software Tracks** (+25 pts) [AI, Artificial Intelligence, Machine Learning]"
-    ],
-    "is_nagpur_local": false,
-    "is_maharashtra": false,
-    "is_active": true,
-    "discovered_at": "2026-11-11T07:24:46.395097+00:00"
+    "discovered_at": "2026-11-11T15:44:56.654949+00:00"
   },
   {
     "id": "unstop:1794884",
     "source": "Unstop",
     "title": "BuildSprint",
     "url": "https://unstop.com/hackathons/buildsprint-workelate-1794884",
-    "description": "BUILDSprint 2026&ndash;28 | Solo Hiring Hackathon Presented by WorkElate Build. Solve. Ship. Get noticed. Are you ready to showcase your technical skills, solve real-world problems and compete for exciting career opportunities? WorkElate presents BuildSprint 2026&ndash;28 , a solo hiring hackathon designed to identify emerging software engineering talent through technical assessments, problem-solving, screening and an overnight coding challenge. This is your opportunity to demonstrate your engineering mindset, creativity, technical knowledge and ability to turn ideas into practical solutions. Compete individually. Win cash prizes. Get considered for internship and full-time career opportunities. Event Highlights Format: Hybrid &ndash; Online + Offline Participation: Individual only Selection Rounds: 4 Maximum Finalists: 12 Event Launch: 8 November 2026 Grand Finale: 18&ndash;19 November 2026 Final Venue: WorkElate Office, Hyderabad Eligibility Criteria Open to candidates pursuing or graduating from: Degrees: B.Tech and BCA Branches: Computer Science, Information Technology and relevant CS specializations. Graduation Years: 2026, 2027 and 2028. Relevant specializations include AI/ML, Data Science, Cybersecurity and other computing-related disciplines. Note: Individual participation only. Team registrations are not allowed. Competition Structure &ndash; 4 Rounds Round 1 &ndash; Online Technical Quiz An online timed quiz to evaluate your technical fundamentals and problem-solving abilities. Topics may include: Programming fundamentals and logical reasoning Data structures and algorithms Full-stack development concepts APIs, databases and system-design basics AI-assisted coding and prompt engineering Round 2 &ndash; 48-Hour Problem Statement Challenge Qualified candidates will receive a problem statement document from WorkElate. You will have 48 hours (2 days) to understand the problem and submit a proposal explaining your approach and proposed solution. Your submission will be evaluated on: Understanding of the problem Creativity and originality Technical reasoning Feasibility of the proposed solution Implementation approach and planning Clarity of presentation Important: This round focuses on your proposed solution and approach, not a fully developed application, unless specifically required in the problem statement instructions. Round 3 &ndash; Screening Round Shortlisted candidates will participate in a screening discussion with the WorkElate team. The screening will focus on: Understanding of your Round 2 submission Technical knowledge and reasoning Problem-solving approach Communication and explanation skills Ownership of your proposed solution The best-performing candidates will advance to the final round. Round 4 &ndash; Offline Solo Hackathon | Grand Finale Up to 12 shortlisted candidates will participate in an overnight individual hackathon at WorkElate's Hyderabad office. A fresh problem statement will be provided at the venue. Participants must independently develop and demonstrate their solutions within the allotted time. Final Schedule: Starts: 18 November 2026, 4:00 PM Ends: 19 November 2026, 7:00 AM Duration: 15 hours Venue: WorkElate Office, Hyderabad The final evaluation will consider problem understanding, functionality, engineering implementation, system-design decisions, code quality, testing and project demonstration. Prizes &amp; Internship Opportunities Position Cash Prize Internship 1st Prize ₹10,000 6-month internship 2nd Prize ₹5,000 6-month internship 3rd Prize ₹4,000 6-month internship Internship stipend: Proposed at ₹10,000 per month for six months, subject to the final internship offer and company terms. Additional Opportunity: The first-place winner may be considered for a Pre-Placement Offer (PPO) of up to ₹12 LPA , subject to performance, role availability and company requirements. This is not a guaranteed offer. Other exceptional candidates may also be considered for internship opportunities based on performance and hiring requirements. Skills We Are Looking For Programming and problem-solving Full-stack development fundamentals Frontend and backend concepts APIs and database management System-design fundamentals Software engineering practices AI coding assistants and prompt engineering Agentic AI development workflows Candidates may use their preferred programming languages and technology stacks. We value problem-solving ability, technical understanding and engineering decisions over familiarity with one particular framework. Important Dates Activity Date Event launch and registration 8 November 2026 Round 1 &ndash; Online Quiz 10&ndash;11 November 2026 Round 2 &ndash; Problem Statement Release 12 November 2026 Round 2 &ndash; 48-hour submission 12&ndash;14 November 2026 Round 2 evaluation 15 November 2026 Round 3 &ndash; Screening 16&ndash;17 November 2026 Finalist confirmation By 17 November 2026 Round 4 &ndash; Offline Grand Finale 18&ndash;19 November 2026 Exact assessment timings, submission deadlines and screening slots will be communicated to eligible candidates through their registered contact details and Unstop notifications. Participant Guidelines Participation is strictly individual; no teams are permitted. All submissions must be original. Plagiarism, impersonation or misrepresentation may lead to disqualification. Candidates must follow the instructions and deadlines for each round. AI development tools may be used where permitted, but candidates must disclose their usage and understand their submissions. Finalists must bring their own laptop, charger and required equipment. Shortlisting and rankings will be based on the announced evaluation criteria. Travel &amp; Resources The offline final will take place at WorkElate's office in Hyderabad. Travel to Hyderabad is self-sponsored. No travel reimbursement will be provided. Finalists must arrange their own travel to and from the venue. The exact venue address will be shared with confirmed finalists. Cloud credits, paid API access and paid AI subscriptions are not provided by default. Free or locally available alternatives will be available wherever applicable. About WorkElate BuildSprint 2026&ndash;28 is organized by WorkElate to discover, engage and recruit emerging software engineering talent. Website: https://www.workelate.com/ BUILDSPRINT 2026&ndash;28 Build. Solve. Ship. Get noticed. Organized by WorkElate",
+    "description": "BUILDSprint 2026&ndash;28 | Solo Hiring Hackathon Presented by WorkElate Build. Solve. Ship. Get noticed. Are you ready to showcase your technical skills, solve real-world problems and compete for exciting career opportunities? WorkElate presents BuildSprint 2026&ndash;28 , a solo hiring hackathon designed to identify emerging software engineering talent through technical assessments, problem-solving, screening and an overnight coding challenge. This is your opportunity to demonstrate your engineering mindset, creativity, technical knowledge and ability to turn ideas into practical solutions. Compete individually. Win cash prizes. Get considered for internship and full-time career opportunities. Event Highlights Format: Hybrid &ndash; Online + Offline Participation: Individual only Selection Rounds: 4 Maximum Finalists: 12 Event Launch: 8 November 2026 Grand Finale: 18&ndash;19 November 2026 Final Venue: WorkElate Office, Hyderabad Eligibility Criteria Open to candidates pursuing or graduating from: Degrees: B.Tech and BCA Branches: Computer Science, Information Technology and relevant CS specializations. Graduation Years: 2026, 2027 and 2028. Relevant specializations include AI/ML, Data Science, Cybersecurity and other computing-related disciplines. Note: Individual participation only. Team registrations are not allowed. Competition Structure &ndash; 4 Rounds Round 1 &ndash; Online Technical Quiz An online timed quiz to evaluate your technical fundamentals and problem-solving abilities. Topics may include: Programming fundamentals and logical reasoning Data structures and algorithms Full-stack development concepts APIs, databases and system-design basics AI-assisted coding and prompt engineering Round 2 &ndash; 48-Hour Problem Statement Challenge Qualified candidates will receive a problem statement document from WorkElate. You will have 48 hours (2 days) to understand the problem and submit a proposal explaining your approach and proposed solution. Your submission will be evaluated on: Understanding of the problem Creativity and originality Technical reasoning Feasibility of the proposed solution Implementation approach and planning Clarity of presentation Important: This round focuses on your proposed solution and approach, not a fully developed application, unless specifically required in the problem statement instructions. Round 3 &ndash; Screening Round Shortlisted candidates will participate in a screening discussion with the WorkElate team. The screening will focus on: Understanding of your Round 2 submission Technical knowledge and reasoning Problem-solving approach Communication and explanation skills Ownership of your proposed solution The best-performing candidates will advance to the final round. Round 4 &ndash; Offline Solo Hackathon | Grand Finale Up to 12 shortlisted candidates will participate in an overnight individual hackathon at WorkElate's Hyderabad office. A fresh problem statement will be provided at the venue. Participants must independently develop and demonstrate their solutions within the allotted time. Final Schedule: Starts: 18 November 2026, 4:00 PM Ends: 19 November 2026, 7:00 AM Duration: 15 hours Venue: WorkElate Office, Hyderabad The final evaluation will consider problem understanding, functionality, engineering implementation, system-design decisions, code quality, testing and project demonstration. Prizes &amp; Internship Opportunities Position Cash Prize Internship 1st Prize ₹20,000 6-month internship 2nd Prize ₹10,000 6-month internship 3rd Prize ₹5,000 6-month internship Internship stipend: Proposed at ₹10,000 per month for six months, subject to the final internship offer and company terms. Additional Opportunity: The first-place winner may be considered for a Pre-Placement Offer (PPO) of up to ₹12 LPA , subject to performance, role availability and company requirements. This is not a guaranteed offer. Other exceptional candidates may also be considered for internship opportunities based on performance and hiring requirements. Skills We Are Looking For Programming and problem-solving Full-stack development fundamentals Frontend and backend concepts APIs and database management System-design fundamentals Software engineering practices AI coding assistants and prompt engineering Agentic AI development workflows Candidates may use their preferred programming languages and technology stacks. We value problem-solving ability, technical understanding and engineering decisions over familiarity with one particular framework. Important Dates Activity Date Event launch and registration 8 November 2026 Round 1 &ndash; Online Quiz 10&ndash;11 November 2026 Round 2 &ndash; Problem Statement Release 12 November 2026 Round 2 &ndash; 48-hour submission 12&ndash;14 November 2026 Round 2 evaluation 15 November 2026 Round 3 &ndash; Screening 16&ndash;17 November 2026 Finalist confirmation By 17 November 2026 Round 4 &ndash; Offline Grand Finale 18&ndash;19 November 2026 Exact assessment timings, submission deadlines and screening slots will be communicated to eligible candidates through their registered contact details and Unstop notifications. Participant Guidelines Participation is strictly individual; no teams are permitted. All submissions must be original. Plagiarism, impersonation or misrepresentation may lead to disqualification. Candidates must follow the instructions and deadlines for each round. AI development tools may be used where permitted, but candidates must disclose their usage and understand their submissions. Finalists must bring their own laptop, charger and required equipment. Shortlisting and rankings will be based on the announced evaluation criteria. Travel &amp; Resources The offline final will take place at WorkElate's office in Hyderabad. Travel to Hyderabad is self-sponsored. No travel reimbursement will be provided. Finalists must arrange their own travel to and from the venue. The exact venue address will be shared with confirmed finalists. Cloud credits, paid API access and paid AI subscriptions are not provided by default. Free or locally available alternatives will be available wherever applicable. About WorkElate BuildSprint 2026&ndash;28 is organized by WorkElate to discover, engage and recruit emerging software engineering talent. Website: https://www.workelate.com/ BUILDSPRINT 2026&ndash;28 Build. Solve. Ship. Get noticed. Organized by WorkElate",
     "organizer": "Workelate",
     "venue": "hybrid",
     "mode": "In-Person",
@@ -481,7 +439,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-11T07:24:43.928577+00:00"
+    "discovered_at": "2026-11-11T15:44:54.453874+00:00"
   },
   {
     "id": "unstop:1800358",
@@ -515,7 +473,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-11T07:24:46.393419+00:00"
+    "discovered_at": "2026-11-11T15:44:56.653377+00:00"
   },
   {
     "id": "unstop:1799767",
@@ -553,7 +511,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-11T07:24:46.394523+00:00"
+    "discovered_at": "2026-11-11T15:44:56.654754+00:00"
   },
   {
     "id": "unstop:1800891",
@@ -587,7 +545,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-11T07:24:43.930265+00:00"
+    "discovered_at": "2026-11-11T15:44:54.455899+00:00"
   },
   {
     "id": "unstop:1799510",
@@ -625,7 +583,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-11T07:24:46.394738+00:00"
+    "discovered_at": "2026-11-11T15:44:56.655032+00:00"
   },
   {
     "id": "unstop:1799509",
@@ -663,7 +621,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-11T07:24:46.394813+00:00"
+    "discovered_at": "2026-11-11T15:44:56.655129+00:00"
   },
   {
     "id": "unstop:1799475",
@@ -701,7 +659,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-11T07:24:46.394892+00:00"
+    "discovered_at": "2026-11-11T15:44:56.655224+00:00"
   },
   {
     "id": "unstop:1802169",
@@ -741,7 +699,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-11T07:24:43.928738+00:00"
+    "discovered_at": "2026-11-11T15:44:54.454074+00:00"
   },
   {
     "id": "unstop:1803912",
@@ -775,7 +733,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-11T07:24:43.927975+00:00"
+    "discovered_at": "2026-11-11T15:44:54.453486+00:00"
   },
   {
     "id": "unstop:1800324",
@@ -809,7 +767,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-11T07:24:46.393645+00:00"
+    "discovered_at": "2026-11-11T15:44:56.653666+00:00"
   },
   {
     "id": "unstop:1798702",
@@ -849,7 +807,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-11T07:24:46.395218+00:00"
+    "discovered_at": "2026-11-11T15:44:56.655670+00:00"
   },
   {
     "id": "unstop:1797543",
@@ -883,7 +841,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-11T07:24:46.395500+00:00"
+    "discovered_at": "2026-11-11T15:44:56.656051+00:00"
   },
   {
     "id": "unstop:1792025",
@@ -917,7 +875,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-11T07:24:48.117691+00:00"
+    "discovered_at": "2026-11-11T15:44:58.162934+00:00"
   },
   {
     "id": "unstop:1795775",
@@ -957,7 +915,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-11T07:24:48.117531+00:00"
+    "discovered_at": "2026-11-11T15:44:58.162718+00:00"
   },
   {
     "id": "unstop:1799092",
@@ -995,7 +953,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-11T07:24:46.394094+00:00"
+    "discovered_at": "2026-11-11T15:44:56.654205+00:00"
   },
   {
     "id": "unstop:1794889",
@@ -1035,7 +993,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-11T07:24:48.117798+00:00"
+    "discovered_at": "2026-11-11T15:44:58.163074+00:00"
   },
   {
     "id": "unstop:1802090",
@@ -1069,7 +1027,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": true,
     "is_active": true,
-    "discovered_at": "2026-11-11T07:24:43.928668+00:00"
+    "discovered_at": "2026-11-11T15:44:54.453988+00:00"
   },
   {
     "id": "unstop:1802089",
@@ -1103,7 +1061,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": true,
     "is_active": true,
-    "discovered_at": "2026-11-11T07:24:43.928995+00:00"
+    "discovered_at": "2026-11-11T15:44:54.454394+00:00"
   },
   {
     "id": "unstop:1799800",
@@ -1141,7 +1099,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": true,
     "is_active": true,
-    "discovered_at": "2026-11-11T07:24:46.394384+00:00"
+    "discovered_at": "2026-11-11T15:44:56.654564+00:00"
   },
   {
     "id": "unstop:1801200",
@@ -1175,7 +1133,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": true,
     "is_active": true,
-    "discovered_at": "2026-11-11T07:24:43.930070+00:00"
+    "discovered_at": "2026-11-11T15:44:54.455650+00:00"
   },
   {
     "id": "unstop:1800395",
@@ -1209,7 +1167,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-11T07:24:46.393341+00:00"
+    "discovered_at": "2026-11-11T15:44:56.653269+00:00"
   },
   {
     "id": "hackerearth:contextcon-remember-everything",
@@ -1245,7 +1203,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-11T07:24:52.333558+00:00"
+    "discovered_at": "2026-11-11T15:45:03.407524+00:00"
   },
   {
     "id": "devpost:30740",
@@ -1281,7 +1239,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-11T07:24:51.204960+00:00"
+    "discovered_at": "2026-11-11T15:45:01.437827+00:00"
   },
   {
     "id": "devpost:30764",
@@ -1317,14 +1275,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-11T07:24:51.363251+00:00"
+    "discovered_at": "2026-11-11T15:45:02.411949+00:00"
   },
   {
     "id": "devpost:31060",
     "source": "Devpost",
     "title": "Agentic Hackathon",
     "url": "https://agentic-hackathon.devpost.com/",
-    "description": "Devpost hackathon. about 13 hours left",
+    "description": "Devpost hackathon. about 2 hours left",
     "organizer": "Devin",
     "venue": "Online",
     "mode": "Online",
@@ -1353,7 +1311,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-11T07:24:51.505017+00:00"
+    "discovered_at": "2026-11-11T15:45:02.608618+00:00"
   },
   {
     "id": "devpost:31787",
@@ -1389,7 +1347,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-11T07:24:51.505022+00:00"
+    "discovered_at": "2026-11-11T15:45:02.608626+00:00"
   },
   {
     "id": "devpost:31642",
@@ -1425,7 +1383,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-11T07:24:51.363205+00:00"
+    "discovered_at": "2026-11-11T15:45:02.411892+00:00"
   },
   {
     "id": "devpost:31083",
@@ -1461,7 +1419,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-11T07:24:51.204945+00:00"
+    "discovered_at": "2026-11-11T15:45:01.437806+00:00"
   },
   {
     "id": "devpost:31480",
@@ -1497,14 +1455,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-11T07:24:51.505011+00:00"
+    "discovered_at": "2026-11-11T15:45:02.608551+00:00"
   },
   {
     "id": "devpost:31973",
     "source": "Devpost",
     "title": "Deck the Pixels",
     "url": "https://deckthepixels.devpost.com/",
-    "description": "Devpost hackathon. 27 days left",
+    "description": "Devpost hackathon. 26 days left",
     "organizer": "Google",
     "venue": "Online",
     "mode": "Online",
@@ -1533,14 +1491,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-11T07:24:51.363237+00:00"
+    "discovered_at": "2026-11-11T15:45:02.411912+00:00"
   },
   {
     "id": "devpost:32079",
     "source": "Devpost",
     "title": "Learn AR with SPECS",
     "url": "https://learn-specs.devpost.com/",
-    "description": "Devpost hackathon. 27 days left",
+    "description": "Devpost hackathon. 26 days left",
     "organizer": "Devpost",
     "venue": "Online",
     "mode": "Online",
@@ -1569,7 +1527,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-11T07:24:51.505048+00:00"
+    "discovered_at": "2026-11-11T15:45:02.608633+00:00"
   },
   {
     "id": "hackerearth:mks-inc-hackathon",
@@ -1605,7 +1563,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-11T07:24:52.333547+00:00"
+    "discovered_at": "2026-11-11T15:45:03.407510+00:00"
   },
   {
     "id": "hackerearth:ibm-z-day",
@@ -1641,7 +1599,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-11T07:24:52.333524+00:00"
+    "discovered_at": "2026-11-11T15:45:03.407484+00:00"
   },
   {
     "id": "devpost:31302",
@@ -1677,7 +1635,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-11T07:24:51.204859+00:00"
+    "discovered_at": "2026-11-11T15:45:01.437744+00:00"
   },
   {
     "id": "devpost:31666",
@@ -1713,7 +1671,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-11T07:24:51.505043+00:00"
+    "discovered_at": "2026-11-11T15:45:02.608661+00:00"
   },
   {
     "id": "devpost:31789",
@@ -1749,14 +1707,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-11T07:24:51.363247+00:00"
+    "discovered_at": "2026-11-11T15:45:02.411943+00:00"
   },
   {
     "id": "devpost:31796",
     "source": "Devpost",
     "title": "SafeSpace Hacks",
     "url": "https://safespace-hacks.devpost.com/",
-    "description": "Devpost hackathon. 12 days left",
+    "description": "Devpost hackathon. 11 days left",
     "organizer": "SafeSpace",
     "venue": "Online",
     "mode": "Online",
@@ -1785,7 +1743,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-11T07:24:51.363255+00:00"
+    "discovered_at": "2026-11-11T15:45:02.411956+00:00"
   },
   {
     "id": "devpost:30789",
@@ -1821,7 +1779,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-11T07:24:51.204955+00:00"
+    "discovered_at": "2026-11-11T15:45:01.437820+00:00"
   },
   {
     "id": "devpost:31552",
@@ -1857,14 +1815,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-11T07:24:51.204934+00:00"
+    "discovered_at": "2026-11-11T15:45:01.437791+00:00"
   },
   {
     "id": "devpost:26475",
     "source": "Devpost",
     "title": "Dakar Bitcoin Hack by BTrust",
     "url": "https://dakar-bitcoin-hack-2026.devpost.com/",
-    "description": "Devpost hackathon. 10 days left",
+    "description": "Devpost hackathon. 9 days left",
     "organizer": "Dakar Bitcoin Days",
     "venue": "Online",
     "mode": "Online",
@@ -1893,7 +1851,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-11T07:24:51.505032+00:00"
+    "discovered_at": "2026-11-11T15:45:02.608647+00:00"
   },
   {
     "id": "devpost:31572",
@@ -1929,14 +1887,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-11T07:24:51.204940+00:00"
+    "discovered_at": "2026-11-11T15:45:01.437799+00:00"
   },
   {
     "id": "devpost:31907",
     "source": "Devpost",
     "title": "Build Your First AI App",
     "url": "https://build-your-first-ai-app.devpost.com/",
-    "description": "Devpost hackathon. 17 days left",
+    "description": "Devpost hackathon. 16 days left",
     "organizer": "Yasir Insights",
     "venue": "Online",
     "mode": "Online",
@@ -1965,14 +1923,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-11T07:24:51.363242+00:00"
+    "discovered_at": "2026-11-11T15:45:02.411936+00:00"
   },
   {
     "id": "devpost:31667",
     "source": "Devpost",
     "title": "Kiroween 2026",
     "url": "https://kiroween.devpost.com/",
-    "description": "Devpost hackathon. 24 days left",
+    "description": "Devpost hackathon. 23 days left",
     "organizer": "Kiro",
     "venue": "Online",
     "mode": "Online",
@@ -2001,14 +1959,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-11T07:24:51.204902+00:00"
+    "discovered_at": "2026-11-11T15:45:01.437771+00:00"
   },
   {
     "id": "devpost:31187",
     "source": "Devpost",
     "title": "STEMergent Hacks 2026",
     "url": "https://stemergent-hacks.devpost.com/",
-    "description": "Devpost hackathon. 5 days left",
+    "description": "Devpost hackathon. 4 days left",
     "organizer": "STEMergent",
     "venue": "Online",
     "mode": "Online",
@@ -2037,14 +1995,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-11T07:24:51.504988+00:00"
+    "discovered_at": "2026-11-11T15:45:02.608608+00:00"
   },
   {
     "id": "devpost:31024",
     "source": "Devpost",
     "title": "Meta VR Start Developer Competition 2026",
     "url": "https://start-developer-competition-26.devpost.com/",
-    "description": "Devpost hackathon. 8 days left",
+    "description": "Devpost hackathon. 7 days left",
     "organizer": "Meta",
     "venue": "Online",
     "mode": "Online",
@@ -2073,7 +2031,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-11T07:24:51.204927+00:00"
+    "discovered_at": "2026-11-11T15:45:01.437782+00:00"
   },
   {
     "id": "unstop:1793796",
@@ -2113,7 +2071,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": true,
     "is_active": true,
-    "discovered_at": "2026-11-11T07:24:43.929717+00:00"
+    "discovered_at": "2026-11-11T15:44:54.455322+00:00"
   },
   {
     "id": "unstop:1778710",
@@ -2146,7 +2104,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-11T07:24:46.393700+00:00"
+    "discovered_at": "2026-11-11T15:44:56.653735+00:00"
   },
   {
     "id": "unstop:1772221",
@@ -2185,7 +2143,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-11T07:24:43.929858+00:00"
+    "discovered_at": "2026-11-11T15:44:54.455485+00:00"
   },
   {
     "id": "unstop:1771951",
@@ -2224,7 +2182,48 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-11T07:24:48.118280+00:00"
+    "discovered_at": "2026-11-11T15:44:58.163689+00:00"
+  },
+  {
+    "id": "unstop:1799179",
+    "source": "Unstop",
+    "title": "HACKRUSH 2026",
+    "url": "https://unstop.com/hackathons/hackrush-2026-igdtuw-delhi-1799179",
+    "description": "Overview Get ready to brainstorm, build, innovate and turn your ideas into impactful solutions! HACKRUSH 2026 is a national-level online hackathon organised by Tech4Hack, IGDTUW&nbsp; that brings together passionate innovators, developers, designers and problem-solvers from colleges across India. It is a platform to showcase technical skills, creativity, teamwork and the ability to solve real-world challenges. Whether you're a coder, designer, researcher or an aspiring entrepreneur, HACKRUSH 2026 gives you the opportunity to collaborate, build something meaningful and compete with talented minds from different institutions. Bring your ideas to life, push your boundaries and let your innovation do the talking! INNOVATE. COLLABORATE. ELEVATE. Tracks: Artificial Intelligence (AI) , Machine Learning (ML) &amp; Generative AI (Gen- AI) FinTech &amp; Blockchain HealthTech &amp; BioTech&nbsp; Cyber Security &amp; Digital Safety Smart Cities &amp; Sustainability&nbsp; Important Dates: Round 1: Idea / PPT Submission (9th November - 6th December) : ONLINE Teams submit their problem statement, solution, business model, and impact presentation. The results of the Top 80 teams qualified for Round 2 will be declared on Sunday, 13th December 2026.&nbsp; Round 2: Mentorship &amp; Refinement (24th-26th December) : ONLINE&nbsp; Selected teams receive mentorship and feedback to refine their ideas and execution plans. The results of the Top 30 teams qualified for Round 3 will be declared on Sunday, 27th December 2026.&nbsp; Round 3: Grand Finale (30th December) : OFFLINE &nbsp;A spectacular award ceremony, exciting celebrations, and a fun-filled day to remember!&nbsp; Guidelines: Mode: Online Participation: Open to students from colleges and universities across India. Team Size: 2-6 members per team. Team Formation: Inter-college and inter-specialisation teams are allowed. Duration: Online . Problem Statements: Teams can select any problem statement of their choice from the 5 given Hackathon Tracks.&nbsp; &nbsp; &nbsp; Awards &amp; Recognition : 1st Prize : Internship Opportunity + Credits + Goodies 2nd Prize : Internship Opportunity + Credits + Goodies&nbsp; 3rd Prize : Internship Opportunity + Credits + Goodies Best Female Team : Goodies&nbsp; Most Promising Startup Idea : Goodies&nbsp; Certificates for all participants and finalists&nbsp; &nbsp; Rules: Plagiarism, copying or unauthorised areuse of another team's work will lead to disqualification Teams must maintain professional conduct throughout the event. Team members cannot be changed after the registration deadline without prior approval. Teams must ensure that their project documentation and presentation accurately represent their work. The organisers reserve the right to modify the schedule or guidelines if required. In case of any dispute, the organising committee's decision will be considered final.",
+    "organizer": "Indira Gandhi Delhi Technical University for Women (IGDTUW), Delhi",
+    "venue": "offline",
+    "mode": "In-Person",
+    "city": null,
+    "state": "offline",
+    "country": null,
+    "start_date": "2026-11-09T00:00:00+05:30",
+    "end_date": "2026-12-30T16:00:00+05:30",
+    "registration_deadline": "2026-11-17T00:00:00+05:30",
+    "min_team_size": 1,
+    "max_team_size": 6,
+    "solo_allowed": true,
+    "eligibility": "Undergraduate / Postgraduate & Engineering students",
+    "prize_pool": "Prizes & Certificates",
+    "tracks": [
+      "Experienced Professionals",
+      "Engineering Students",
+      "Postgraduate",
+      "Undergraduate",
+      "Fresher",
+      "Management",
+      "Medical",
+      "Law",
+      "Arts, Commerce, Sciences & Others"
+    ],
+    "score": 60,
+    "matched_reasons": [
+      "👤 **Solo Eligible (1 Member)** (+35 pts)",
+      "🤖 **AI & Software Tracks** (+25 pts) [AI, Artificial Intelligence, Machine Learning]"
+    ],
+    "is_nagpur_local": false,
+    "is_maharashtra": false,
+    "is_active": true,
+    "discovered_at": "2026-11-11T15:44:56.655491+00:00"
   },
   {
     "id": "unstop:1800857",
@@ -2263,7 +2262,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-11T07:24:43.930411+00:00"
+    "discovered_at": "2026-11-11T15:44:54.456092+00:00"
   },
   {
     "id": "unstop:1787722",
@@ -2296,7 +2295,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-11T07:24:43.927752+00:00"
+    "discovered_at": "2026-11-11T15:44:54.452877+00:00"
   },
   {
     "id": "unstop:1781454",
@@ -2335,7 +2334,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-11T07:24:48.118115+00:00"
+    "discovered_at": "2026-11-11T15:44:58.163455+00:00"
   },
   {
     "id": "unstop:1795134",
@@ -2374,7 +2373,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-11T07:24:43.929427+00:00"
+    "discovered_at": "2026-11-11T15:44:54.454958+00:00"
   },
   {
     "id": "unstop:1799780",
@@ -2411,7 +2410,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-11T07:24:43.929262+00:00"
+    "discovered_at": "2026-11-11T15:44:54.454741+00:00"
   },
   {
     "id": "unstop:1799791",
@@ -2448,7 +2447,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-11T07:24:43.929305+00:00"
+    "discovered_at": "2026-11-11T15:44:54.454798+00:00"
   },
   {
     "id": "unstop:1799790",
@@ -2485,7 +2484,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-11T07:24:43.929347+00:00"
+    "discovered_at": "2026-11-11T15:44:54.454855+00:00"
   },
   {
     "id": "unstop:1799782",
@@ -2522,7 +2521,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-11T07:24:46.394136+00:00"
+    "discovered_at": "2026-11-11T15:44:56.654257+00:00"
   },
   {
     "id": "unstop:1799778",
@@ -2559,7 +2558,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-11T07:24:46.394178+00:00"
+    "discovered_at": "2026-11-11T15:44:56.654308+00:00"
   },
   {
     "id": "unstop:1799776",
@@ -2596,7 +2595,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-11T07:24:46.394222+00:00"
+    "discovered_at": "2026-11-11T15:44:56.654361+00:00"
   },
   {
     "id": "unstop:1799788",
@@ -2633,7 +2632,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-11T07:24:46.394423+00:00"
+    "discovered_at": "2026-11-11T15:44:56.654629+00:00"
   },
   {
     "id": "unstop:1800924",
@@ -2670,7 +2669,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-11T07:24:43.930311+00:00"
+    "discovered_at": "2026-11-11T15:44:54.455961+00:00"
   },
   {
     "id": "unstop:1799281",
@@ -2711,7 +2710,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-11T07:24:43.930187+00:00"
+    "discovered_at": "2026-11-11T15:44:54.455804+00:00"
   },
   {
     "id": "unstop:1799091",
@@ -2744,7 +2743,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-11T07:24:43.927847+00:00"
+    "discovered_at": "2026-11-11T15:44:54.453359+00:00"
   },
   {
     "id": "devpost:31108",
@@ -2779,7 +2778,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-11T07:24:51.363260+00:00"
+    "discovered_at": "2026-11-11T15:45:02.411963+00:00"
   },
   {
     "id": "devpost:30500",
@@ -2814,14 +2813,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-11T07:24:51.204950+00:00"
+    "discovered_at": "2026-11-11T15:45:01.437813+00:00"
   },
   {
     "id": "devpost:31495",
     "source": "Devpost",
     "title": "IceHacks",
     "url": "https://icehacks.devpost.com/",
-    "description": "Devpost hackathon. 5 days left",
+    "description": "Devpost hackathon. 4 days left",
     "organizer": "CodeStarters",
     "venue": "Online",
     "mode": "Online",
@@ -2849,14 +2848,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-11T07:24:51.363232+00:00"
+    "discovered_at": "2026-11-11T15:45:02.411921+00:00"
   },
   {
     "id": "devpost:31773",
     "source": "Devpost",
     "title": "LaunchPad Hacks (Judges + Sponsors Needed)",
     "url": "https://launchpad-hacks.devpost.com/",
-    "description": "Devpost hackathon. 24 days left",
+    "description": "Devpost hackathon. 23 days left",
     "organizer": "Hack4TodayOrg",
     "venue": "Online",
     "mode": "Online",
@@ -2883,14 +2882,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-11T07:24:51.363226+00:00"
+    "discovered_at": "2026-11-11T15:45:02.411929+00:00"
   },
   {
     "id": "devpost:31795",
     "source": "Devpost",
     "title": "AccessED Hacks",
     "url": "https://accessed-hacks.devpost.com/",
-    "description": "Devpost hackathon. 10 days left",
+    "description": "Devpost hackathon. 9 days left",
     "organizer": "AccessEDnpo",
     "venue": "Online",
     "mode": "Online",
@@ -2918,14 +2917,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-11T07:24:51.505028+00:00"
+    "discovered_at": "2026-11-11T15:45:02.608640+00:00"
   },
   {
     "id": "devpost:31798",
     "source": "Devpost",
     "title": "Taskforge",
     "url": "https://taskforge.devpost.com/",
-    "description": "Devpost hackathon. 14 days left",
+    "description": "Devpost hackathon. 13 days left",
     "organizer": "HackathonForEveryone",
     "venue": "Online",
     "mode": "Online",
@@ -2952,14 +2951,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-11T07:24:51.505037+00:00"
+    "discovered_at": "2026-11-11T15:45:02.608654+00:00"
   },
   {
     "id": "unstop:1802400",
     "source": "Unstop",
     "title": "Rewired (Tech Hackathon)",
     "url": "https://unstop.com/hackathons/rewired-tech-hackathon-road-to-milky-way-bangalore-masters-union-school-of-business-1802400",
-    "description": "Event Description: Rewired is a build-and-pitch hackathon. Teams pick a real problem from this year's theme, turn it into a working prototype in 7 hours and pitch it to a jury. It rewards problem sharpness, sound execution, original thinking and the ability to explain why the idea matters to a real user. Coders, designers and business minds are all welcome. Theme: The Invisible City Every city runs on things nobody sees: voices no system understands, people who keep everything working but never appear in any database, waste nobody counts, and needs nobody says out loud. Find something real that the city overlooks, and build technology that makes it heard, seen, counted or said. Event Design: Team size: 2 to 4 members. Eligibility: Open to currently enrolled students from any college or university with a valid college ID. Teams may be cross-college. One person, one team. Equipment: Participants must bring their own laptops, chargers, an extension board and any hardware they use. Power at every desk, Wi-Fi, meals and water are provided at the venue. The Gravity Well: At the start of the Offline Round, each team chooses 1 out of 2 envelopes. It reveals a real-world constraint that the team has to build around.&nbsp; Tools: Any language, framework, platform, API, library or AI tool may be used, provided it is declared. Competition Rounds: Online Round Topic: Restaurants, bakeries, supermarkets and households regularly have surplus food, while people nearby may struggle to afford meals. The challenge is often coordination, timing and safe distribution. Solve this challenge and submit the deliverables listed below for the online round selections.&nbsp; Challenge: Bridge the gap between those with excess food and those without access to it.&nbsp; Deliverable: One Concept Brief PDF of up to 2 pages (team, problem with real evidence, target user, proposed solution, tech approach, expected impact, and a 12-hour build plan) and one pitch video of up to 2 minutes in which at least two members appear and speak.&nbsp; Language: English or Hindi. Videos must have subtitles in English or Hindi. Format: PDF for the brief. .mp4, .mpeg, .avi or .mov for the video. Submission: Upload the brief and video to a Google Drive folder named \"Rewired_Team_Name_MWRTMB\" set to \"Anyone with the link can view\", and submit the Drive link, repository link and Orbit on Unstop. Inaccessible link: &nbsp; If the link cannot be opened at the time of judging, it will be at the discretion of the OC whether the submission will be considered or not. Shortlisting: The Top 20 teams move to the Offline Round. Offline Round &ndash; 19 November 2026 Duration: Exactly 7 hours of build time, from 10:00 AM to 5:00 PM. The clock runs through meals and check-ins. Build window: All code, design and assets must be created inside the build window. Push the tags checkpoint-1 by 11:30 AM, checkpoint-2 by 2:30 PM and final by 5:00 PM. GitHub's server push times are the official record. Checkpoints: Each team is assigned one mentor for the day, who holds two check-ins of about 20 minutes during the build. Checkpoints are not scored. Problem Case: A new problem case will be presented to the team at the venue on the day of the offline round.&nbsp; Submission: Before 5:00 PM, submit the repository link and final commit, a demo link, a mandatory demo video of up to 2 minutes and a completed README through the Google Form provided at the start. Name the Drive folder \"REWIRED_TeamID_MWRTMB\" and set links to \"Anyone with the link can view\". Event Horizon Crossing: At 5:00 PM code is frozen. No pushes, Drive changes or redeployments after this point. The recorded final commit is what is judged. Final pitch: All teams pitch to one of four judging panels for 5 minutes, followed by 3 minutes of Q&amp;A. The top teams from each panel go to the Final Orbit and pitch again to the Grand Jury for the top two places. Declarations: Declare all open-source libraries, templates, APIs, datasets and AI tools used, and confirm that the project was built by your team inside the build window through the google form that will be shared at the start. Rules: Original work: The project must be built by the team inside the build window. Pre-existing projects, old code and borrowed products are not allowed. Open-source libraries, public APIs, templates, UI kits and official project generators are allowed if declared. AI: AI-assisted tools are allowed if declared. Any judge may ask any member to explain any part of the project. If a team cannot explain a core part, its Technical execution score is capped at 10/25. Prototype: Slide-only submissions are not allowed. A working prototype, even a partial one, is required for the Offline Round. If a live demo fails, the team may use its demo video within its pitch time. Team changes: Team members cannot be changed after the Online Round closes. A shortlisted team may replace or drop one member only with written OC approval. Data and IP: Teams must not use confidential or scraped personal data. Teams retain the IP of what they build. Milkyway may feature submissions for promotion with credit to the team.&nbsp; Pitch time: Pitches over 5 minutes will be cut off by the timekeeper. Conduct: Teams must follow the Code of Conduct and venue rules. Any harassment, sabotage, interference with another team or misuse of the network leads to immediate disqualification. Penalties: All violations will be dealt with under the General Rules, at the discretion of the OC, as set out in the \"Penalties and Disqualification\" section. Any other consequences will be taken at the discretion of the OC. Any changes to these rules will be informed to the participants prior to the event. Prizes: Results will be announced on stage and through mails to all the Participants. 1st place: ₹12,000 and direct entry to the Milkyway Finale. 2nd place: ₹8,000. Note: Participants shall refer to the General Rules and the Event Horizon Official Participant Rulebook for further details.",
+    "description": "Note: This Event is happening in Bangalore! Event Description: Rewired is a build-and-pitch hackathon. Teams pick a real problem from this year's theme, turn it into a working prototype in 7 hours and pitch it to a jury. It rewards problem sharpness, sound execution, original thinking and the ability to explain why the idea matters to a real user. Coders, designers and business minds are all welcome. Theme: The Invisible City Every city runs on things nobody sees: voices no system understands, people who keep everything working but never appear in any database, waste nobody counts, and needs nobody says out loud. Find something real that the city overlooks, and build technology that makes it heard, seen, counted or said. Event Design: Team size: 2 to 4 members. Eligibility: Open to currently enrolled students from any college or university with a valid college ID. Teams may be cross-college. One person, one team. Equipment: Participants must bring their own laptops, chargers, an extension board and any hardware they use. Power at every desk, Wi-Fi, meals and water are provided at the venue. The Gravity Well: At the start of the Offline Round, each team chooses 1 out of 2 envelopes. It reveals a real-world constraint that the team has to build around.&nbsp; Tools: Any language, framework, platform, API, library or AI tool may be used, provided it is declared. Competition Rounds: Online Round Topic: Restaurants, bakeries, supermarkets and households regularly have surplus food, while people nearby may struggle to afford meals. The challenge is often coordination, timing and safe distribution. Solve this challenge and submit the deliverables listed below for the online round selections.&nbsp; Challenge: Bridge the gap between those with excess food and those without access to it.&nbsp; Deliverable: One Concept Brief PDF of up to 2 pages (team, problem with real evidence, target user, proposed solution, tech approach, expected impact, and a 12-hour build plan) and one pitch video of up to 2 minutes in which at least two members appear and speak.&nbsp; Language: English or Hindi. Videos must have subtitles in English or Hindi. Format: PDF for the brief. .mp4, .mpeg, .avi or .mov for the video. Submission: Upload the brief and video to a Google Drive folder named \"Rewired_Team_Name_MWRTMB\" set to \"Anyone with the link can view\", and submit the Drive link, repository link and Orbit on Unstop. Inaccessible link: &nbsp; If the link cannot be opened at the time of judging, it will be at the discretion of the OC whether the submission will be considered or not. Shortlisting: The Top 20 teams move to the Offline Round. Offline Round &ndash; 19 November 2026 Duration: Exactly 7 hours of build time, from 10:00 AM to 5:00 PM. The clock runs through meals and check-ins. Build window: All code, design and assets must be created inside the build window. Push the tags checkpoint-1 by 11:30 AM, checkpoint-2 by 2:30 PM and final by 5:00 PM. GitHub's server push times are the official record. Checkpoints: Each team is assigned one mentor for the day, who holds two check-ins of about 20 minutes during the build. Checkpoints are not scored. Problem Case: A new problem case will be presented to the team at the venue on the day of the offline round.&nbsp; Submission: Before 5:00 PM, submit the repository link and final commit, a demo link, a mandatory demo video of up to 2 minutes and a completed README through the Google Form provided at the start. Name the Drive folder \"REWIRED_TeamID_MWRTMB\" and set links to \"Anyone with the link can view\". Event Horizon Crossing: At 5:00 PM code is frozen. No pushes, Drive changes or redeployments after this point. The recorded final commit is what is judged. Final pitch: All teams pitch to one of four judging panels for 5 minutes, followed by 3 minutes of Q&amp;A. The top teams from each panel go to the Final Orbit and pitch again to the Grand Jury for the top two places. Declarations: Declare all open-source libraries, templates, APIs, datasets and AI tools used, and confirm that the project was built by your team inside the build window through the google form that will be shared at the start. Rules: Original work: The project must be built by the team inside the build window. Pre-existing projects, old code and borrowed products are not allowed. Open-source libraries, public APIs, templates, UI kits and official project generators are allowed if declared. AI: AI-assisted tools are allowed if declared. Any judge may ask any member to explain any part of the project. If a team cannot explain a core part, its Technical execution score is capped at 10/25. Prototype: Slide-only submissions are not allowed. A working prototype, even a partial one, is required for the Offline Round. If a live demo fails, the team may use its demo video within its pitch time. Team changes: Team members cannot be changed after the Online Round closes. A shortlisted team may replace or drop one member only with written OC approval. Data and IP: Teams must not use confidential or scraped personal data. Teams retain the IP of what they build. Milkyway may feature submissions for promotion with credit to the team.&nbsp; Pitch time: Pitches over 5 minutes will be cut off by the timekeeper. Conduct: Teams must follow the Code of Conduct and venue rules. Any harassment, sabotage, interference with another team or misuse of the network leads to immediate disqualification. Penalties: All violations will be dealt with under the General Rules, at the discretion of the OC, as set out in the \"Penalties and Disqualification\" section. Any other consequences will be taken at the discretion of the OC. Any changes to these rules will be informed to the participants prior to the event. Prizes: Results will be announced on stage and through mails to all the Participants. 1st place: ₹12,000 and direct entry to the Milkyway Finale. 2nd place: ₹8,000. Note: Participants shall refer to the General Rules and the Event Horizon Official Participant Rulebook for further details.",
     "organizer": "Masters Union School of Business",
     "venue": "hybrid",
     "mode": "In-Person",
@@ -2967,7 +2966,7 @@
     "state": "hybrid",
     "country": null,
     "start_date": "2026-11-09T00:00:00+05:30",
-    "end_date": "2026-11-16T00:00:00+05:30",
+    "end_date": "2026-11-18T23:59:00+05:30",
     "registration_deadline": "2026-11-16T00:00:00+05:30",
     "min_team_size": 2,
     "max_team_size": 4,
@@ -2991,7 +2990,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-11T07:24:43.928196+00:00"
+    "discovered_at": "2026-11-11T15:44:54.453178+00:00"
   },
   {
     "id": "unstop:1794890",
@@ -3024,7 +3023,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-11T07:24:48.118045+00:00"
+    "discovered_at": "2026-11-11T15:44:58.163370+00:00"
   },
   {
     "id": "unstop:1794529",
@@ -3058,7 +3057,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-11T07:24:46.394318+00:00"
+    "discovered_at": "2026-11-11T15:44:56.654480+00:00"
   },
   {
     "id": "unstop:1799143",
@@ -3098,7 +3097,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-11T07:24:46.395010+00:00"
+    "discovered_at": "2026-11-11T15:44:56.655376+00:00"
   },
   {
     "id": "unstop:1786652",
@@ -3131,7 +3130,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-11T07:24:48.117901+00:00"
+    "discovered_at": "2026-11-11T15:44:58.163190+00:00"
   },
   {
     "id": "unstop:1803074",
@@ -3164,7 +3163,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-11T07:24:43.928647+00:00"
+    "discovered_at": "2026-11-11T15:44:54.453962+00:00"
   },
   {
     "id": "unstop:1798287",
@@ -3197,6 +3196,6 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-11T07:24:46.395450+00:00"
+    "discovered_at": "2026-11-11T15:44:56.655985+00:00"
   }
 ]

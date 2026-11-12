@@ -3139,5 +3139,23 @@
     "last_notified": "2026-11-11T22:23:54.735262+00:00",
     "is_nagpur_local": false,
     "solo_allowed": true
+  },
+  "unstop:1761846": {
+    "title": "Rabinjathon: Prime 1",
+    "url": "https://unstop.com/hackathons/rabinjathon-prime-1-rabinja-squad-1761846",
+    "score": 75,
+    "source": "Unstop",
+    "last_notified": "2026-11-12T12:01:00.973987+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "devpost:32026": {
+    "title": "Open Agentic Web Challenge",
+    "url": "https://cognizant-agenticweb.devpost.com/",
+    "score": 75,
+    "source": "Devpost",
+    "last_notified": "2026-11-12T12:01:00.973987+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
   }
 }

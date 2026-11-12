@@ -3157,5 +3157,50 @@
     "last_notified": "2026-11-12T12:01:00.973987+00:00",
     "is_nagpur_local": false,
     "solo_allowed": true
+  },
+  "unstop:1807080": {
+    "title": "Data Sprint 2.0",
+    "url": "https://unstop.com/hackathons/data-sprint-20-anveshan-nie-1807080",
+    "score": 75,
+    "source": "Unstop",
+    "last_notified": "2026-11-12T20:35:04.514132+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:1805107": {
+    "title": "Bad Ideas Only",
+    "url": "https://unstop.com/hackathons/bad-ideas-only-hoollow-1805107",
+    "score": 75,
+    "source": "Unstop",
+    "last_notified": "2026-11-12T20:35:04.514132+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:1806984": {
+    "title": "QuikCPQ AI Innovation Challenge 2027",
+    "url": "https://unstop.com/hackathons/quikcpq-ai-innovation-challenge-2027-quik-cpq-solutions-llp-1806984",
+    "score": 75,
+    "source": "Unstop",
+    "last_notified": "2026-11-12T20:35:04.514132+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:1807297": {
+    "title": "HackKro CodeByte 2026",
+    "url": "https://unstop.com/hackathons/hackkro-codebyte-2026-hackkro-1807297",
+    "score": 75,
+    "source": "Unstop",
+    "last_notified": "2026-11-12T20:35:04.514132+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:1807596": {
+    "title": "PromptWars X AITH ",
+    "url": "https://unstop.com/hackathons/promptwars-x-aith-dr-ambedkar-institute-of-technology-for-divyangjan-1807596",
+    "score": 60,
+    "source": "Unstop",
+    "last_notified": "2026-11-12T20:35:04.514132+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
   }
 }

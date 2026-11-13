@@ -3202,5 +3202,14 @@
     "last_notified": "2026-11-12T20:35:04.514132+00:00",
     "is_nagpur_local": false,
     "solo_allowed": true
+  },
+  "devpost:32024": {
+    "title": "Relate by Neo4j Hackathon",
+    "url": "https://relate.devpost.com/",
+    "score": 75,
+    "source": "Devpost",
+    "last_notified": "2026-11-13T01:36:08.046066+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
   }
 }

@@ -3211,5 +3211,14 @@
     "last_notified": "2026-11-13T01:36:08.046066+00:00",
     "is_nagpur_local": false,
     "solo_allowed": true
+  },
+  "unstop:1806122": {
+    "title": "Defy'27",
+    "url": "https://unstop.com/hackathons/defy27-vellore-institute-of-technology-vit-chennai-1806122",
+    "score": 40,
+    "source": "Unstop",
+    "last_notified": "2026-11-13T08:56:51.985916+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": false
   }
 }

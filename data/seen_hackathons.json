@@ -3220,5 +3220,14 @@
     "last_notified": "2026-11-13T08:56:51.985916+00:00",
     "is_nagpur_local": false,
     "solo_allowed": false
+  },
+  "hackerearth:groww-next-2026": {
+    "title": "Groww Next ‘26",
+    "url": "https://www.hackerearth.com/challenges/hackathon/groww-next-2026/",
+    "score": 75,
+    "source": "HackerEarth",
+    "last_notified": "2026-11-13T16:55:31.302221+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
   }
 }

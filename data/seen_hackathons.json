@@ -3229,5 +3229,32 @@
     "last_notified": "2026-11-13T16:55:31.302221+00:00",
     "is_nagpur_local": false,
     "solo_allowed": true
+  },
+  "devpost:31746": {
+    "title": "University Blockchain Conference Hackathon 2026",
+    "url": "https://ubc-hackathon-2026.devpost.com/",
+    "score": 60,
+    "source": "Devpost",
+    "last_notified": "2026-11-13T22:19:44.595322+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:1805946": {
+    "title": "Android Ignition",
+    "url": "https://unstop.com/hackathons/android-ignition-ganeshi-lal-bajaj-institute-of-technology-and-management-glbitm-greater-noida-1805946",
+    "score": 50,
+    "source": "Unstop",
+    "last_notified": "2026-11-13T22:19:44.595322+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:1809486": {
+    "title": "LightHouse - Hackathon",
+    "url": "https://unstop.com/hackathons/lighthouse-hackathon-chandigarh-university-cu-ajitgarh-punjab-1809486",
+    "score": 40,
+    "source": "Unstop",
+    "last_notified": "2026-11-13T22:19:44.595322+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": false
   }
 }

@@ -33,7 +33,7 @@
     "is_nagpur_local": true,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-14T16:16:52.899074+00:00"
+    "discovered_at": "2026-11-14T21:02:06.036755+00:00"
   },
   {
     "id": "unstop:1800629",
@@ -72,7 +72,7 @@
     "is_nagpur_local": true,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-14T16:16:44.099810+00:00"
+    "discovered_at": "2026-11-14T21:01:55.238309+00:00"
   },
   {
     "id": "unstop:1794522",
@@ -107,7 +107,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": true,
     "is_active": true,
-    "discovered_at": "2026-11-14T16:16:44.100960+00:00"
+    "discovered_at": "2026-11-14T21:01:57.748315+00:00"
   },
   {
     "id": "college:mindsparkorg",
@@ -143,7 +143,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": true,
     "is_active": true,
-    "discovered_at": "2026-11-14T16:16:53.180584+00:00"
+    "discovered_at": "2026-11-14T21:02:05.779023+00:00"
   },
   {
     "id": "unstop:1794884",
@@ -158,7 +158,7 @@
     "state": "hybrid",
     "country": null,
     "start_date": "2026-11-05T00:00:00+05:30",
-    "end_date": "2026-11-15T11:50:48+05:30",
+    "end_date": "2026-11-16T23:59:00+05:30",
     "registration_deadline": "2026-11-15T11:50:48+05:30",
     "min_team_size": 1,
     "max_team_size": 1,
@@ -183,7 +183,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-14T16:16:44.100091+00:00"
+    "discovered_at": "2026-11-14T21:01:55.238580+00:00"
   },
   {
     "id": "unstop:1800891",
@@ -217,7 +217,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-14T16:16:46.016443+00:00"
+    "discovered_at": "2026-11-14T21:01:57.748668+00:00"
   },
   {
     "id": "unstop:1807080",
@@ -258,7 +258,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-14T16:16:44.099002+00:00"
+    "discovered_at": "2026-11-14T21:01:55.237524+00:00"
   },
   {
     "id": "unstop:1789431",
@@ -298,7 +298,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-14T16:16:44.101040+00:00"
+    "discovered_at": "2026-11-14T21:01:57.748437+00:00"
   },
   {
     "id": "unstop:1803912",
@@ -332,7 +332,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-14T16:16:44.099654+00:00"
+    "discovered_at": "2026-11-14T21:01:55.238162+00:00"
   },
   {
     "id": "unstop:1805107",
@@ -372,7 +372,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-14T16:16:44.098689+00:00"
+    "discovered_at": "2026-11-14T21:01:55.237222+00:00"
   },
   {
     "id": "unstop:1806984",
@@ -414,7 +414,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-14T16:16:44.098130+00:00"
+    "discovered_at": "2026-11-14T21:01:55.236502+00:00"
   },
   {
     "id": "unstop:1807297",
@@ -454,7 +454,48 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-14T16:16:44.098874+00:00"
+    "discovered_at": "2026-11-14T21:01:55.237398+00:00"
+  },
+  {
+    "id": "unstop:1811016",
+    "source": "Unstop",
+    "title": "Codathon:  #1 Global Coding Contest",
+    "url": "https://unstop.com/hackathons/codathon-1-global-coding-contest-iit-bombay-1811016",
+    "description": "Codathon 1.0 (Presented by Forge &amp; Ship) A high-intensity, multi-level individual hackathon designed to test your logic, technical skills, and rapid execution. Eligibility: Participant Type: Individual participation only (no teams allowed). Target Audience: Open to all college students across 1st year, 2nd year, pre-final year, and final year . Exclusions: Working professionals/corporate freshers and school students are not eligible. Event Format &amp; Process: The competition runs in three elimination rounds : Round 1: Aptitude Screening Format: Online MCQ test. Focus: Quantitative aptitude, logical reasoning, and core computer science fundamentals. Round 2: Technical Assessment Format: Online coding and algorithmic challenge. Focus: Data Structures, Algorithms (DSA), and problem-solving speed. Round 3: The Build &amp; Ship Phase (Finals) Format: Core hackathon problem statement release. Focus: Solo participants build, deploy, and submit a working prototype within the given timeline. Rules &amp; Guidelines: Solo Execution: All code, design, and logic must be written entirely by the registered individual. Plagiarism or collaboration will result in immediate disqualification. Submissions: All project code and deployment links must be submitted through the official platform portal before the timer runs out. Extensions will not be granted. Integrity: Use of AI coding assistants is subject to event guidelines; standard online documentation is permitted, but copy-pasting complete solutions from external sources is prohibited.",
+    "organizer": "Indian Institute of Technology (IIT), Bombay",
+    "venue": "Online",
+    "mode": "Online",
+    "city": null,
+    "state": "online",
+    "country": null,
+    "start_date": "2026-11-14T00:00:00+05:30",
+    "end_date": "2027-01-09T11:01:00+05:30",
+    "registration_deadline": "2026-12-19T00:00:00+05:30",
+    "min_team_size": 1,
+    "max_team_size": 1,
+    "solo_allowed": true,
+    "eligibility": "Undergraduate / Postgraduate & Engineering students",
+    "prize_pool": "Prizes & Certificates",
+    "tracks": [
+      "Engineering Students",
+      "Postgraduate",
+      "Undergraduate",
+      "School Students",
+      "Management",
+      "Medical",
+      "Law",
+      "Arts, Commerce, Sciences & Others"
+    ],
+    "score": 75,
+    "matched_reasons": [
+      "🌐 **Accessible Online Mode** (+15 pts)",
+      "👤 **Solo Eligible (1 Member)** (+35 pts)",
+      "🤖 **AI & Software Tracks** (+25 pts) [AI]"
+    ],
+    "is_nagpur_local": false,
+    "is_maharashtra": false,
+    "is_active": true,
+    "discovered_at": "2026-11-14T21:01:55.235092+00:00"
   },
   {
     "id": "unstop:1761846",
@@ -494,7 +535,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-14T16:16:44.098470+00:00"
+    "discovered_at": "2026-11-14T21:01:55.236872+00:00"
   },
   {
     "id": "unstop:1802090",
@@ -528,7 +569,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": true,
     "is_active": true,
-    "discovered_at": "2026-11-14T16:16:44.100196+00:00"
+    "discovered_at": "2026-11-14T21:01:55.238689+00:00"
   },
   {
     "id": "unstop:1802089",
@@ -562,7 +603,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": true,
     "is_active": true,
-    "discovered_at": "2026-11-14T16:16:44.100854+00:00"
+    "discovered_at": "2026-11-14T21:01:55.239326+00:00"
   },
   {
     "id": "unstop:1801200",
@@ -596,7 +637,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": true,
     "is_active": true,
-    "discovered_at": "2026-11-14T16:16:44.100999+00:00"
+    "discovered_at": "2026-11-14T21:01:57.748385+00:00"
   },
   {
     "id": "hackerearth:contextcon-remember-everything",
@@ -632,7 +673,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-14T16:16:51.647484+00:00"
+    "discovered_at": "2026-11-14T21:02:04.051745+00:00"
   },
   {
     "id": "devpost:30740",
@@ -668,7 +709,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-14T16:16:50.831150+00:00"
+    "discovered_at": "2026-11-14T21:02:03.018813+00:00"
   },
   {
     "id": "devpost:30764",
@@ -704,7 +745,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-14T16:16:50.916033+00:00"
+    "discovered_at": "2026-11-14T21:02:03.191089+00:00"
   },
   {
     "id": "devpost:31787",
@@ -740,7 +781,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-14T16:16:50.916063+00:00"
+    "discovered_at": "2026-11-14T21:02:03.191113+00:00"
   },
   {
     "id": "devpost:31642",
@@ -776,7 +817,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-14T16:16:50.831159+00:00"
+    "discovered_at": "2026-11-14T21:02:03.018824+00:00"
   },
   {
     "id": "devpost:31083",
@@ -812,7 +853,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-14T16:16:50.734606+00:00"
+    "discovered_at": "2026-11-14T21:02:02.832087+00:00"
   },
   {
     "id": "devpost:31480",
@@ -848,7 +889,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-14T16:16:50.916056+00:00"
+    "discovered_at": "2026-11-14T21:02:03.191123+00:00"
   },
   {
     "id": "devpost:31973",
@@ -884,7 +925,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-14T16:16:50.831121+00:00"
+    "discovered_at": "2026-11-14T21:02:03.018776+00:00"
   },
   {
     "id": "devpost:32079",
@@ -920,7 +961,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-14T16:16:50.831190+00:00"
+    "discovered_at": "2026-11-14T21:02:03.018868+00:00"
   },
   {
     "id": "devpost:31808",
@@ -956,7 +997,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-14T16:16:50.734599+00:00"
+    "discovered_at": "2026-11-14T21:02:02.832079+00:00"
   },
   {
     "id": "devpost:32024",
@@ -992,7 +1033,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-14T16:16:50.916041+00:00"
+    "discovered_at": "2026-11-14T21:02:03.191097+00:00"
   },
   {
     "id": "devpost:32026",
@@ -1028,7 +1069,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-14T16:16:50.831140+00:00"
+    "discovered_at": "2026-11-14T21:02:03.018801+00:00"
   },
   {
     "id": "hackerearth:mks-inc-hackathon",
@@ -1064,7 +1105,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-14T16:16:51.647471+00:00"
+    "discovered_at": "2026-11-14T21:02:04.051730+00:00"
   },
   {
     "id": "hackerearth:ibm-z-day",
@@ -1100,7 +1141,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-14T16:16:51.647448+00:00"
+    "discovered_at": "2026-11-14T21:02:04.051702+00:00"
   },
   {
     "id": "hackerearth:groww-next-2026",
@@ -1136,14 +1177,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-14T16:16:51.647496+00:00"
+    "discovered_at": "2026-11-14T21:02:04.051757+00:00"
   },
   {
     "id": "devpost:31789",
     "source": "Devpost",
     "title": "STEM2Connect AI Hackathon",
     "url": "https://stem2connect-online-hackathon.devpost.com/",
-    "description": "Devpost hackathon. 8 days left",
+    "description": "Devpost hackathon. 7 days left",
     "organizer": "STEM2Connect",
     "venue": "Online",
     "mode": "Online",
@@ -1172,7 +1213,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-14T16:16:50.831197+00:00"
+    "discovered_at": "2026-11-14T21:02:03.018879+00:00"
   },
   {
     "id": "devpost:31796",
@@ -1208,7 +1249,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-14T16:16:50.916020+00:00"
+    "discovered_at": "2026-11-14T21:02:03.191066+00:00"
   },
   {
     "id": "devpost:30789",
@@ -1244,7 +1285,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-14T16:16:50.734625+00:00"
+    "discovered_at": "2026-11-14T21:02:02.832109+00:00"
   },
   {
     "id": "devpost:31552",
@@ -1280,7 +1321,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-14T16:16:50.734593+00:00"
+    "discovered_at": "2026-11-14T21:02:02.832072+00:00"
   },
   {
     "id": "devpost:31572",
@@ -1316,7 +1357,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-14T16:16:50.734585+00:00"
+    "discovered_at": "2026-11-14T21:02:02.832064+00:00"
   },
   {
     "id": "devpost:31907",
@@ -1352,7 +1393,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-14T16:16:50.831182+00:00"
+    "discovered_at": "2026-11-14T21:02:03.018857+00:00"
   },
   {
     "id": "devpost:31667",
@@ -1388,7 +1429,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-14T16:16:50.734554+00:00"
+    "discovered_at": "2026-11-14T21:02:02.832023+00:00"
   },
   {
     "id": "devpost:31187",
@@ -1424,7 +1465,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-14T16:16:50.916047+00:00"
+    "discovered_at": "2026-11-14T21:02:03.191105+00:00"
   },
   {
     "id": "devpost:31024",
@@ -1460,7 +1501,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-14T16:16:50.734574+00:00"
+    "discovered_at": "2026-11-14T21:02:02.832052+00:00"
   },
   {
     "id": "unstop:1771951",
@@ -1499,7 +1540,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-14T16:16:46.017003+00:00"
+    "discovered_at": "2026-11-14T21:01:57.749337+00:00"
   },
   {
     "id": "unstop:1807596",
@@ -1538,7 +1579,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-14T16:16:44.098771+00:00"
+    "discovered_at": "2026-11-14T21:01:55.237296+00:00"
   },
   {
     "id": "unstop:1800857",
@@ -1577,7 +1618,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-14T16:16:46.016618+00:00"
+    "discovered_at": "2026-11-14T21:01:57.748868+00:00"
   },
   {
     "id": "unstop:1781454",
@@ -1616,7 +1657,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-14T16:16:46.016813+00:00"
+    "discovered_at": "2026-11-14T21:01:57.749076+00:00"
   },
   {
     "id": "unstop:1787722",
@@ -1649,7 +1690,42 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-14T16:16:44.099442+00:00"
+    "discovered_at": "2026-11-14T21:01:55.237953+00:00"
+  },
+  {
+    "id": "devpost:31990",
+    "source": "Devpost",
+    "title": "HackPrinceton Fall '26",
+    "url": "https://hackprinceton-fall-26.devpost.com/",
+    "description": "Devpost hackathon. about 16 hours left",
+    "organizer": "Princeton University",
+    "venue": "JRR, LAS, Robertson, Friend",
+    "mode": "In-Person",
+    "city": null,
+    "state": null,
+    "country": null,
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": "Nov 13 - 15, 2026",
+    "min_team_size": 1,
+    "max_team_size": null,
+    "solo_allowed": true,
+    "eligibility": "Global Devpost Participants",
+    "prize_pool": "$ 10,312",
+    "tracks": [
+      "Education",
+      "Machine Learning/AI",
+      "Social Good"
+    ],
+    "score": 60,
+    "matched_reasons": [
+      "👤 **Solo Eligible (1 Member)** (+35 pts)",
+      "🤖 **AI & Software Tracks** (+25 pts) [AI, Machine Learning]"
+    ],
+    "is_nagpur_local": false,
+    "is_maharashtra": false,
+    "is_active": true,
+    "discovered_at": "2026-11-14T21:02:03.191138+00:00"
   },
   {
     "id": "devpost:31746",
@@ -1684,7 +1760,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-14T16:16:50.916077+00:00"
+    "discovered_at": "2026-11-14T21:02:03.191146+00:00"
   },
   {
     "id": "unstop:1799791",
@@ -1721,7 +1797,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-14T16:16:46.016681+00:00"
+    "discovered_at": "2026-11-14T21:01:57.748927+00:00"
   },
   {
     "id": "unstop:1799790",
@@ -1758,7 +1834,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-14T16:16:46.016734+00:00"
+    "discovered_at": "2026-11-14T21:01:57.748985+00:00"
   },
   {
     "id": "unstop:1800924",
@@ -1795,7 +1871,40 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-14T16:16:46.016502+00:00"
+    "discovered_at": "2026-11-14T21:01:57.748734+00:00"
+  },
+  {
+    "id": "unstop:1811085",
+    "source": "Unstop",
+    "title": "Configure 2026: A Mobility Hackathon",
+    "url": "https://unstop.com/hackathons/configure-2026-a-mobility-hackathon-zeliot-pvt-ltd-1811085",
+    "description": "Build a real-time mobility solution in 48 hours with Condense. Configure 2026 is a free, online hackathon by Condense and Bosch Mobility Platforms &amp; Solutions, part of MPS Summit 2026. Pick a real problem in mobility, then build a real-time data pipeline and app to solve it, with Condense as your streaming backbone. Important: &nbsp;Your team is only entered once the team leader fills in the registration form, by 26 November. What you could build: Fleet tracking and management Vehicle health and predictive maintenance Geofencing and real-time alerts EV battery and charging intelligence Driver behaviour and safety Logistics and last-mile optimization Or your own mobility idea How it works (all times IST): Register your team by Thursday 26 November Set up your Condense workspace and run the sample pipeline before kickoff Join the kickoff webinar on Friday 27 November, 9:30 PM (it's recorded) Build from Saturday 28 November, 12:00 AM to Sunday 29 November, 11:59 PM, with help on Discord Submit by Sunday 29 November, 11:59 PM Winners announced by Wednesday 2 December Who can join: Students, working professionals and early-stage startups aged 18+, from anywhere in the world. Teams of 1 to 3, solo entries welcome. Entry is free. What you get: Your own Condense workspace and a shared Kafka cluster, so you don't need your own A starter kit with sample vehicle telemetry, GPS and CAN-like data generators Help from Condense engineers and mobility mentors on Discord A $3,000 cash prize pool, plus invitations to the Bosch MPS Hackathon for top teams Share what you build with #Configure26",
+    "organizer": "Zeliot Pvt Ltd",
+    "venue": "Online",
+    "mode": "Online",
+    "city": null,
+    "state": "online",
+    "country": null,
+    "start_date": "2026-11-14T00:00:00+05:30",
+    "end_date": "2026-11-26T00:00:00+05:30",
+    "registration_deadline": "2026-11-26T00:00:00+05:30",
+    "min_team_size": 1,
+    "max_team_size": 3,
+    "solo_allowed": true,
+    "eligibility": "Open to college students & coders",
+    "prize_pool": "Prizes & Certificates",
+    "tracks": [
+      "All"
+    ],
+    "score": 50,
+    "matched_reasons": [
+      "🌐 **Accessible Online Mode** (+15 pts)",
+      "👤 **Solo Eligible (1 Member)** (+35 pts)"
+    ],
+    "is_nagpur_local": false,
+    "is_maharashtra": false,
+    "is_active": true,
+    "discovered_at": "2026-11-14T21:01:55.234965+00:00"
   },
   {
     "id": "unstop:1805946",
@@ -1828,7 +1937,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-14T16:16:44.099287+00:00"
+    "discovered_at": "2026-11-14T21:01:55.237890+00:00"
   },
   {
     "id": "unstop:1799281",
@@ -1869,7 +1978,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-14T16:16:46.016329+00:00"
+    "discovered_at": "2026-11-14T21:01:57.748559+00:00"
   },
   {
     "id": "unstop:1799091",
@@ -1902,7 +2011,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-14T16:16:44.099521+00:00"
+    "discovered_at": "2026-11-14T21:01:55.238033+00:00"
   },
   {
     "id": "devpost:31108",
@@ -1937,14 +2046,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-14T16:16:50.916069+00:00"
+    "discovered_at": "2026-11-14T21:02:03.191131+00:00"
   },
   {
     "id": "devpost:30500",
     "source": "Devpost",
     "title": "DSH Hacks V2 ($100k+ in prizes!)",
     "url": "https://dsh-hacks-v2.devpost.com/",
-    "description": "Devpost hackathon. about 16 hours left",
+    "description": "Devpost hackathon. about 11 hours left",
     "organizer": "STEMise",
     "venue": "Online",
     "mode": "Online",
@@ -1972,7 +2081,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-14T16:16:50.734619+00:00"
+    "discovered_at": "2026-11-14T21:02:02.832102+00:00"
   },
   {
     "id": "devpost:31495",
@@ -2007,7 +2116,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-14T16:16:50.831167+00:00"
+    "discovered_at": "2026-11-14T21:02:03.018835+00:00"
   },
   {
     "id": "devpost:31644",
@@ -2041,7 +2150,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-14T16:16:50.734612+00:00"
+    "discovered_at": "2026-11-14T21:02:02.832094+00:00"
   },
   {
     "id": "devpost:31773",
@@ -2075,42 +2184,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-14T16:16:50.831175+00:00"
-  },
-  {
-    "id": "devpost:31795",
-    "source": "Devpost",
-    "title": "AccessED Hacks",
-    "url": "https://accessed-hacks.devpost.com/",
-    "description": "Devpost hackathon. 6 days left",
-    "organizer": "AccessEDnpo",
-    "venue": "Online",
-    "mode": "Online",
-    "city": null,
-    "state": null,
-    "country": null,
-    "start_date": null,
-    "end_date": null,
-    "registration_deadline": "Oct 17 - Nov 20, 2026",
-    "min_team_size": 1,
-    "max_team_size": null,
-    "solo_allowed": true,
-    "eligibility": "Global Devpost Participants",
-    "prize_pool": "$ 225",
-    "tracks": [
-      "Beginner Friendly",
-      "Education",
-      "Social Good"
-    ],
-    "score": 50,
-    "matched_reasons": [
-      "🌐 **Accessible Online Mode** (+15 pts)",
-      "👤 **Solo Eligible (1 Member)** (+35 pts)"
-    ],
-    "is_nagpur_local": false,
-    "is_maharashtra": false,
-    "is_active": true,
-    "discovered_at": "2026-11-14T16:16:50.916084+00:00"
+    "discovered_at": "2026-11-14T21:02:03.018846+00:00"
   },
   {
     "id": "unstop:1802400",
@@ -2149,7 +2223,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-14T16:16:44.100817+00:00"
+    "discovered_at": "2026-11-14T21:01:55.239290+00:00"
   },
   {
     "id": "unstop:1798287",
@@ -2182,7 +2256,41 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-14T16:16:44.097411+00:00"
+    "discovered_at": "2026-11-14T21:01:55.235831+00:00"
+  },
+  {
+    "id": "unstop:1810268",
+    "source": "Unstop",
+    "title": "CODERED'26",
+    "url": "https://unstop.com/hackathons/codered26-bms-insitute-of-technology-and-management-1810268",
+    "description": "CODERED &rsquo;26 - National-Level Product Development Challenge CODERED &rsquo;26, organised by the Entrepreneurship Cell of BMS Institute of Technology and Management, Bengaluru, is a national-level product development challenge designed to take student teams beyond conventional hackathons and enable them to build meaningful, functional products. Unlike traditional hackathons that revolve around solving predefined problem statements within a limited timeframe, CODERED &rsquo;26 follows a comprehensive product development journey, from ideation and conceptualisation to development, testing and validation. This edition brings together six participating companies, offering students the opportunity to work on real-world product ideas across multiple domains.&nbsp; Check out our WEBSITE for the Challenge Briefs. https://codered26.xyz Company Tracks: CODERED &rsquo;26 features four tracks, with six participating companies: Dedicated Company Tracks: Niveus Technologies Simple Energy Agnes AI XP Robotis Unisys (for BMSIT Students Only) Each of these companies will have a dedicated track featuring one or more product ideas for participating teams. Startup Track: The Startup Track brings together product opportunities from: Think Robotics Sahasranshu Technologies MyStartupWave Cassette Labs The participating companies may provide multiple product ideas within their respective domains. Teams can explore the available ideas and select one product idea from one company to work on throughout the competition. Teams are not required to work on every idea offered under a track. Competition Structure: CODERED &rsquo;26 will be conducted across three rounds, progressively taking teams from initial ideas to functional products. Refer the BROCHURE for more information Eligibility and Team Composition: The eligibility criteria, team composition requirements and inter-college/inter-specialisation participation guidelines will remain the same as those followed in the previous edition of CODERED. Participants are required to adhere to the team formation and eligibility conditions specified during registration. Registration and Participation Guidelines: Teams must complete the registration process through the official Unstop opportunity page. Participants must submit their ideas in the prescribed format within the stipulated deadline. Each team may select only one product idea from one participating company. Teams must continue working on the product idea selected during the competition. Teams are expected to develop their ideas into functional prototypes or MVPs during the product development journey. All participants must comply with the competition guidelines and instructions issued by the organisers. The CODERED &rsquo;26 Experience: CODERED &rsquo;26 aims to provide students with an opportunity to experience the complete product development process while engaging with industry and emerging companies. Through company-led product opportunities, structured evaluation rounds and an intensive offline development sprint, participants will get the opportunity to move beyond theoretical ideas and work towards building functional products. The objective is simple: Take an idea, build it into a product, and demonstrate what it can achieve. Note: The Registration fee of ₹1,500 is collected only for the top 50 teams selected for Round 3 (On-Campus Sprint). The money will be collected outside of the Unstop Platform",
+    "organizer": "BMS Insitute of Technology and Management",
+    "venue": "hybrid",
+    "mode": "In-Person",
+    "city": null,
+    "state": "hybrid",
+    "country": null,
+    "start_date": "2026-11-14T00:00:00+05:30",
+    "end_date": "2026-12-29T16:30:00+05:30",
+    "registration_deadline": "2026-11-27T23:59:00+05:30",
+    "min_team_size": 3,
+    "max_team_size": 4,
+    "solo_allowed": false,
+    "eligibility": "Undergraduate / Postgraduate & Engineering students",
+    "prize_pool": "Prizes & Certificates",
+    "tracks": [
+      "Engineering Students",
+      "Undergraduate"
+    ],
+    "score": 40,
+    "matched_reasons": [
+      "🌐 **Accessible In-Person Mode** (+15 pts)",
+      "🤖 **AI & Software Tracks** (+25 pts) [AI]"
+    ],
+    "is_nagpur_local": false,
+    "is_maharashtra": false,
+    "is_active": true,
+    "discovered_at": "2026-11-14T21:01:55.235298+00:00"
   },
   {
     "id": "unstop:1806122",
@@ -2221,7 +2329,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-14T16:16:44.099176+00:00"
+    "discovered_at": "2026-11-14T21:01:55.237691+00:00"
   },
   {
     "id": "unstop:1803074",
@@ -2254,7 +2362,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-14T16:16:44.100173+00:00"
+    "discovered_at": "2026-11-14T21:01:55.238665+00:00"
   },
   {
     "id": "unstop:1809486",
@@ -2287,6 +2395,6 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-14T16:16:44.097549+00:00"
+    "discovered_at": "2026-11-14T21:01:55.237008+00:00"
   }
 ]

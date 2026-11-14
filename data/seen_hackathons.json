@@ -3256,5 +3256,41 @@
     "last_notified": "2026-11-13T22:19:44.595322+00:00",
     "is_nagpur_local": false,
     "solo_allowed": false
+  },
+  "unstop:1811016": {
+    "title": "Codathon:  #1 Global Coding Contest",
+    "url": "https://unstop.com/hackathons/codathon-1-global-coding-contest-iit-bombay-1811016",
+    "score": 75,
+    "source": "Unstop",
+    "last_notified": "2026-11-14T21:02:08.825321+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "devpost:31990": {
+    "title": "HackPrinceton Fall '26",
+    "url": "https://hackprinceton-fall-26.devpost.com/",
+    "score": 60,
+    "source": "Devpost",
+    "last_notified": "2026-11-14T21:02:08.825321+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:1811085": {
+    "title": "Configure 2026: A Mobility Hackathon",
+    "url": "https://unstop.com/hackathons/configure-2026-a-mobility-hackathon-zeliot-pvt-ltd-1811085",
+    "score": 50,
+    "source": "Unstop",
+    "last_notified": "2026-11-14T21:02:08.825321+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:1810268": {
+    "title": "CODERED'26",
+    "url": "https://unstop.com/hackathons/codered26-bms-insitute-of-technology-and-management-1810268",
+    "score": 40,
+    "source": "Unstop",
+    "last_notified": "2026-11-14T21:02:08.825321+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": false
   }
 }

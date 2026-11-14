@@ -33,7 +33,7 @@
     "is_nagpur_local": true,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-14T09:40:36.875410+00:00"
+    "discovered_at": "2026-11-14T16:16:52.899074+00:00"
   },
   {
     "id": "unstop:1800629",
@@ -72,7 +72,7 @@
     "is_nagpur_local": true,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-14T09:40:28.022252+00:00"
+    "discovered_at": "2026-11-14T16:16:44.099810+00:00"
   },
   {
     "id": "unstop:1794522",
@@ -107,7 +107,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": true,
     "is_active": true,
-    "discovered_at": "2026-11-14T09:40:28.023148+00:00"
+    "discovered_at": "2026-11-14T16:16:44.100960+00:00"
   },
   {
     "id": "college:mindsparkorg",
@@ -143,7 +143,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": true,
     "is_active": true,
-    "discovered_at": "2026-11-14T09:40:36.951503+00:00"
+    "discovered_at": "2026-11-14T16:16:53.180584+00:00"
   },
   {
     "id": "unstop:1794884",
@@ -183,41 +183,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-14T09:40:28.022477+00:00"
-  },
-  {
-    "id": "unstop:1800358",
-    "source": "Unstop",
-    "title": "HierroCTF 2026 – Capture The Flag (CTF) Competition",
-    "url": "https://unstop.com/hackathons/hierroctf-2026-capture-the-flag-ctf-competition-hierroshield-pvt-ltd-1800358",
-    "description": "About HierroCTF 2026 Are you ready to put your cybersecurity skills to the test? HierroCTF 2026 is an exciting Capture The Flag (CTF) competition designed to challenge participants' technical knowledge, analytical thinking, and problem-solving abilities through cybersecurity-oriented challenges. Organized by HierroShield Pvt. Ltd. , in collaboration with MIT College of Management and Computer Applications, MIT-ADT University , this competition provides an opportunity for aspiring cybersecurity professionals, ethical hackers, and technology enthusiasts to showcase their skills. What to Expect: Participants will get an opportunity to: Test their cybersecurity and technical knowledge. Solve challenging security-oriented problems. Apply logical thinking and practical problem-solving skills. Compete with other cybersecurity enthusiasts. Showcase their abilities in a competitive environment. Competition Details Event: HierroCTF 2026 Date: Friday, 20 November 2026 Time: 9:00 AM &ndash; 4:00 PM Venue: MIT-ADT University, South Block, 8th Floor, Pune Prize Pool: ₹10,000 Prize Pool Total Prize Pool: ₹10,000 Compete, demonstrate your skills, and earn recognition for your cybersecurity expertise. Organizers HierroShield Pvt. Ltd. In collaboration with: MIT College of Management and Computer Applications MIT-ADT University, Pune Join Our WhatsApp Community Stay connected with fellow participants and receive important event announcements, updates, instructions, and other competition-related information. Join the official HierroCTF 2026 WhatsApp Group: https://chat.whatsapp.com/KobAULnW60e9v2Nm5P9LxY Registration Registrations are now open! Take on the challenge, sharpen your skills, and be part of HierroCTF 2026. Register now and get ready to capture the flag!",
-    "organizer": "Hierroshield Pvt Ltd",
-    "venue": "hybrid",
-    "mode": "In-Person",
-    "city": null,
-    "state": "hybrid",
-    "country": null,
-    "start_date": "2026-11-07T20:00:00+05:30",
-    "end_date": "2026-11-18T18:00:00+05:30",
-    "registration_deadline": "2026-11-18T18:00:00+05:30",
-    "min_team_size": 1,
-    "max_team_size": 1,
-    "solo_allowed": true,
-    "eligibility": "Open to college students & coders",
-    "prize_pool": "Prizes & Certificates",
-    "tracks": [
-      "All"
-    ],
-    "score": 75,
-    "matched_reasons": [
-      "🌐 **Accessible In-Person Mode** (+15 pts)",
-      "👤 **Solo Eligible (1 Member)** (+35 pts)",
-      "🤖 **AI & Software Tracks** (+25 pts) [Cybersecurity]"
-    ],
-    "is_nagpur_local": false,
-    "is_maharashtra": false,
-    "is_active": true,
-    "discovered_at": "2026-11-14T09:40:29.360297+00:00"
+    "discovered_at": "2026-11-14T16:16:44.100091+00:00"
   },
   {
     "id": "unstop:1800891",
@@ -251,7 +217,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-14T09:40:29.359998+00:00"
+    "discovered_at": "2026-11-14T16:16:46.016443+00:00"
   },
   {
     "id": "unstop:1807080",
@@ -292,7 +258,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-14T09:40:28.021606+00:00"
+    "discovered_at": "2026-11-14T16:16:44.099002+00:00"
   },
   {
     "id": "unstop:1789431",
@@ -332,7 +298,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-14T09:40:28.023212+00:00"
+    "discovered_at": "2026-11-14T16:16:44.101040+00:00"
   },
   {
     "id": "unstop:1803912",
@@ -366,7 +332,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-14T09:40:28.022135+00:00"
+    "discovered_at": "2026-11-14T16:16:44.099654+00:00"
   },
   {
     "id": "unstop:1805107",
@@ -406,7 +372,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-14T09:40:28.021443+00:00"
+    "discovered_at": "2026-11-14T16:16:44.098689+00:00"
   },
   {
     "id": "unstop:1806984",
@@ -448,41 +414,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-14T09:40:28.021127+00:00"
-  },
-  {
-    "id": "unstop:1800324",
-    "source": "Unstop",
-    "title": "Agentware | 72-Hour Hackathon",
-    "url": "https://unstop.com/hackathons/agentware-72-hour-hackathon-hackathon-raptors-1800324",
-    "description": "About the Hackathon - agentwarehack.com Agentware is a 72-hour online AI agent engineering hackathon built around one challenge: build an autonomous AI agent that can perform real work independently, operate reliably, and know when to stop. Everyone has a demo of an AI agent. Almost nobody has one they would leave running overnight. Agentware challenges participants to build agents that go beyond conversational interfaces and actually execute complete workflows using real tools, systems, and external inputs. The hackathon covers six tracks: Inbox &amp; Calendar, Life Admin, Research &amp; Study, Browser Agent, Developer Workflow, and an Open Track. Each track focuses on a different category of real-world automation, from managing emails and schedules to conducting research, navigating websites, reviewing code, and handling complex workflows. This is not a hackathon where you build a chatbot that simply responds to prompts. Your agent must take meaningful actions, complete tasks from trigger to result, and operate without continuous human intervention. Participants can use any AI model, framework, programming language, or development stack, including hosted APIs, local models, MCP, function calling, browser automation, shell commands, and custom tools. However, autonomy alone is not enough. Your agent must also demonstrate reliability, appropriate permissions, safety guardrails, monitoring, and a mechanism to stop execution when necessary. Participants can compete across six tracks, qualify for individual awards, and earn additional safety bonus points by implementing guardrails, live monitoring, a kill switch, and a complete audit trail. Build an agent you can walk away from. Stay Updated All event announcements, track specifications, rule clarifications, Trap Pack releases, scoring updates, judging information, submission instructions, FAQs, and participant support are provided through the official Hackathon Raptors community channels. Discord Server Invite: https://discord.gg/xfYPDZYqeh Why Participate Most AI hackathons focus on building applications that demonstrate what AI can do. Agentware takes a different approach: the challenge is to build autonomous systems that can perform real work reliably, handle unexpected situations, and operate safely without someone constantly monitoring them. Participants will get to: Build autonomous AI agents that perform real-world tasks instead of simply answering questions. Develop agents that interact with emails, calendars, documents, websites, APIs, and external systems. Implement multi-step workflows involving planning, tool calling, execution, and verification. Explore different approaches to agent architecture, orchestration, and tool integration. Build inbox and calendar automation systems that handle scheduling, replies, and follow-ups. Develop life administration agents for bills, renewals, paperwork, travel planning, and groceries. Create research agents that monitor publications, organize reference libraries, and track deadlines. Implement browser agents capable of navigating websites, extracting information, and filling forms. Build developer workflow agents for pull request reviews, failed-build diagnosis, and on-call assistance. Experiment with voice agents, back-office automation, and other applications through the Open Track. Implement safety mechanisms against prompt injection, conflicting instructions, and malicious inputs. Explore permission scoping, confirmation gates, audit logging, and real-time agent monitoring. Test autonomous systems against a dedicated Trap Pack containing hostile inputs and deliberately broken data. Compete against other builders using a common judging rubric focused on autonomy, usefulness, reliability, and engineering quality. Demonstrate practical AI engineering skills through working software and reproducible execution traces. AI coding assistants are allowed and expected, including Claude Code, Cursor, Codex, GitHub Copilot, and local models. AI-assisted development is permitted, but participants must understand and be able to explain their implementations. Eligibility Agentware is open to: Students. Software developers. AI and ML engineers. AI agent developers. Backend engineers. Full-stack developers. Automation engineers. Systems engineers. DevOps and SRE engineers. Security engineers. Frontend and UX developers. Voice AI developers. Open-source contributors. Researchers and AI enthusiasts. Professionals. Anyone interested in autonomous AI systems and real-world automation, from any country. Team Size 1&ndash;4 members. Solo participation is allowed. Cross-college teams are allowed. Cross-disciplinary teams are allowed. Participants can choose any one of the six tracks. Teams can form before or during the event through the official Hackathon Raptors Discord community. Event Format The hackathon runs entirely online for 72 hours, from November 27 to November 30, 2026. Participants must build an autonomous AI agent that performs a meaningful real-world task from an initial trigger to a completed result. During the event, teams are expected to: Select one of the six available tracks. Identify a real-world task that can be automated using an AI agent. Design and implement an autonomous agent using their preferred technology stack. Integrate appropriate tools, APIs, frameworks, and external systems. Implement multi-step execution workflows that perform actual actions. Establish appropriate permissions and safety policies for agent operations. Implement monitoring, execution traces, and error-handling mechanisms. Test their agents against the official Trap Pack released at kickoff. Document their architecture, tools, permissions, and safety mechanisms. Prepare a public GitHub repository under an OSI-approved open-source license. Record a demonstration video of no more than three minutes showing one complete unattended execution. Submit all required documentation, source code, and execution traces before the deadline. The Trap Pack contains hostile test inputs, including emails, web pages, documents, and voice transcripts with prompt injections, conflicting instructions, and deliberately broken data. Participants must run their agents against these test cases and commit the results. Judges will independently evaluate the submitted projects and verify their functionality rather than relying solely on README descriptions or prerecorded demonstrations. Six Tracks There are six tracks, each targeting a different category of real-world automation. Participants can choose the track that best matches their project. Track 1 - Inbox &amp; Calendar: Build an autonomous agent that manages emails and schedules. It should read incoming messages, identify tasks requiring attention, check calendars, schedule meetings, send replies, and manage follow-ups. Track 2 - Life Admin: Build an agent that automates everyday administrative tasks, including bills, renewals, forms, bookings, travel planning, and grocery management. The agent should handle routine paperwork and wait for human approval before irreversible actions. Track 3 - Research &amp; Study: Build an agent that automates research and learning workflows. It should monitor relevant publications, collect research papers, organize reference libraries, maintain notes, and track academic deadlines. Track 4 - Browser Agent: Build an agent capable of interacting with websites like a human. It should navigate pages, read information, click elements, fill forms, extract data, and complete multi-site workflows, including websites without APIs. Track 5 - Developer Workflow: Build an agent that automates repetitive software engineering tasks, including pull request triage, code review, failed-build diagnosis, testing, and initial on-call incident response. Track 6 - Open Track: Build an autonomous agent for any domain or workflow that does not fit the other tracks. Voice agents, back-office automation, health routines, hobby projects, and other innovative applications are welcome. Every track follows the same judging criteria. A narrow agent that reliably completes one meaningful task is better than an ambitious agent that o",
-    "organizer": "Hackathon Raptors",
-    "venue": "Online",
-    "mode": "Online",
-    "city": null,
-    "state": "online",
-    "country": null,
-    "start_date": "2026-11-07T00:00:00+05:30",
-    "end_date": "2026-11-27T23:00:00+05:30",
-    "registration_deadline": "2026-11-27T23:00:00+05:30",
-    "min_team_size": 1,
-    "max_team_size": 4,
-    "solo_allowed": true,
-    "eligibility": "Open to college students & coders",
-    "prize_pool": "Prizes & Certificates",
-    "tracks": [
-      "All"
-    ],
-    "score": 75,
-    "matched_reasons": [
-      "🌐 **Accessible Online Mode** (+15 pts)",
-      "👤 **Solo Eligible (1 Member)** (+35 pts)",
-      "🤖 **AI & Software Tracks** (+25 pts) [AI, ML, Ai Agents]"
-    ],
-    "is_nagpur_local": false,
-    "is_maharashtra": false,
-    "is_active": true,
-    "discovered_at": "2026-11-14T09:40:29.360491+00:00"
+    "discovered_at": "2026-11-14T16:16:44.098130+00:00"
   },
   {
     "id": "unstop:1807297",
@@ -522,7 +454,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-14T09:40:28.021065+00:00"
+    "discovered_at": "2026-11-14T16:16:44.098874+00:00"
   },
   {
     "id": "unstop:1761846",
@@ -562,7 +494,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-14T09:40:28.021379+00:00"
+    "discovered_at": "2026-11-14T16:16:44.098470+00:00"
   },
   {
     "id": "unstop:1802090",
@@ -596,7 +528,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": true,
     "is_active": true,
-    "discovered_at": "2026-11-14T09:40:28.022557+00:00"
+    "discovered_at": "2026-11-14T16:16:44.100196+00:00"
   },
   {
     "id": "unstop:1802089",
@@ -630,7 +562,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": true,
     "is_active": true,
-    "discovered_at": "2026-11-14T09:40:28.023064+00:00"
+    "discovered_at": "2026-11-14T16:16:44.100854+00:00"
   },
   {
     "id": "unstop:1801200",
@@ -664,41 +596,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": true,
     "is_active": true,
-    "discovered_at": "2026-11-14T09:40:28.023177+00:00"
-  },
-  {
-    "id": "unstop:1800395",
-    "source": "Unstop",
-    "title": "Galuxium Nexus V3: The Global AI, Autonomous Systems & Venture SaaS Championship",
-    "url": "https://unstop.com/hackathons/galuxium-nexus-v3-the-global-ai-autonomous-systems-venture-saas-championship-galuxium-1800395",
-    "description": "The Mandate: Stop Building Throwaway Prototypes. Build a Venture-Ready Company. Most hackathons end with a static slide deck and an abandoned GitHub repository. Galuxium Nexus V3 is the global arena where raw engineering transforms into live, revenue-generating digital infrastructure. Building on the massive momentum of Galuxium Nexus V2&mdash;which united over 1,000 engineers, product architects, and founders worldwide&mdash;V3 raises the stakes to unprecedented heights. Whether you are engineering autonomous AI agents, architecting developer productivity engines, or launching scalable B2B/B2C SaaS platforms, your mandate is absolute: Build production-grade software that real users and enterprises will actually pay for. Core Innovation Tracks Autonomous AI &amp; Multi-Agent Systems: Self-directed workflows, enterprise copilots, and intelligent orchestration engines capable of complex reasoning and execution. Next-Gen Creator &amp; Media Infrastructure: High-performance tools for video automation, spatial intelligence, generative media, and audience monetization. Enterprise SaaS &amp; FinTech Automation: High-availability platforms solving critical B2B bottlenecks, compliance, billing, and workflow optimization. Developer Velocity &amp; Cloud Infrastructure: DevOps automation, API ecosystems, security frameworks, and deep-work tooling. Competition Format &amp; Process Round 1: Venture Blueprint &amp; System Architecture (Ideation): Submit a structured breakdown detailing the exact market friction, system architecture, target customer cohort, and monetization framework (SaaS subscriptions, usage-based API billing, or transactional fees). Round 2: The Production Build (Operational MVP): Shortlisted teams engineer and deploy a live, end-to-end working product. Submissions require a public/accessible GitHub repository, a live deployed URL, and a 3-minute technical &amp; commercial walkthrough video. Rules &amp; Submission Guidelines Original Execution: All core product logic and architecture must be engineered during the official competition window. Boilerplates and open-source libraries are permitted, provided they are declared. Production Benchmark: Static Figma mockups or non-functional wrappers will be disqualified. Prototypes must execute primary user workflows with real state management. Mandatory Synchronization: All team leaders and members must join the official Galuxium Command Center (Discord) and follow the Executive Ledger (LinkedIn) for deployment keys, live mentorship, and compliance updates. Judging Criteria Commercial Viability &amp; Monetization Architecture: 25% Technical Complexity, Scalability &amp; System Design: 25% Product Polish, UI/UX &amp; Live Execution: 20% Innovation &amp; Market Defensibility: 20% Executive Pitch &amp; Demonstration: 10%",
-    "organizer": "Galuxium",
-    "venue": "Online",
-    "mode": "Online",
-    "city": null,
-    "state": "online",
-    "country": null,
-    "start_date": "2026-11-07T00:00:00+05:30",
-    "end_date": "2027-07-31T00:00:00+05:30",
-    "registration_deadline": "2027-07-31T00:00:00+05:30",
-    "min_team_size": 1,
-    "max_team_size": 3,
-    "solo_allowed": true,
-    "eligibility": "Open to college students & coders",
-    "prize_pool": "Prizes & Certificates",
-    "tracks": [
-      "All"
-    ],
-    "score": 75,
-    "matched_reasons": [
-      "🌐 **Accessible Online Mode** (+15 pts)",
-      "👤 **Solo Eligible (1 Member)** (+35 pts)",
-      "🤖 **AI & Software Tracks** (+25 pts) [AI, Ai Agents, Cloud]"
-    ],
-    "is_nagpur_local": false,
-    "is_maharashtra": false,
-    "is_active": true,
-    "discovered_at": "2026-11-14T09:40:29.360229+00:00"
+    "discovered_at": "2026-11-14T16:16:44.100999+00:00"
   },
   {
     "id": "hackerearth:contextcon-remember-everything",
@@ -734,7 +632,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-14T09:40:35.464285+00:00"
+    "discovered_at": "2026-11-14T16:16:51.647484+00:00"
   },
   {
     "id": "devpost:30740",
@@ -770,7 +668,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-14T09:40:34.590095+00:00"
+    "discovered_at": "2026-11-14T16:16:50.831150+00:00"
   },
   {
     "id": "devpost:30764",
@@ -806,7 +704,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-14T09:40:34.688628+00:00"
+    "discovered_at": "2026-11-14T16:16:50.916033+00:00"
   },
   {
     "id": "devpost:31787",
@@ -842,7 +740,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-14T09:40:34.688647+00:00"
+    "discovered_at": "2026-11-14T16:16:50.916063+00:00"
   },
   {
     "id": "devpost:31642",
@@ -878,7 +776,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-14T09:40:34.590101+00:00"
+    "discovered_at": "2026-11-14T16:16:50.831159+00:00"
   },
   {
     "id": "devpost:31083",
@@ -914,7 +812,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-14T09:40:34.504738+00:00"
+    "discovered_at": "2026-11-14T16:16:50.734606+00:00"
   },
   {
     "id": "devpost:31480",
@@ -950,7 +848,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-14T09:40:34.688642+00:00"
+    "discovered_at": "2026-11-14T16:16:50.916056+00:00"
   },
   {
     "id": "devpost:31973",
@@ -986,14 +884,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-14T09:40:34.590067+00:00"
+    "discovered_at": "2026-11-14T16:16:50.831121+00:00"
   },
   {
     "id": "devpost:32079",
     "source": "Devpost",
     "title": "Learn AR with SPECS",
     "url": "https://learn-specs.devpost.com/",
-    "description": "Devpost hackathon. 24 days left",
+    "description": "Devpost hackathon. 23 days left",
     "organizer": "Devpost",
     "venue": "Online",
     "mode": "Online",
@@ -1022,14 +920,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-14T09:40:34.590119+00:00"
+    "discovered_at": "2026-11-14T16:16:50.831190+00:00"
   },
   {
     "id": "devpost:31808",
     "source": "Devpost",
     "title": "#BuildHybridAI 2026",
     "url": "https://firebasehybridaihackathon.devpost.com/",
-    "description": "Devpost hackathon. 17 days left",
+    "description": "Devpost hackathon. 16 days left",
     "organizer": "Google",
     "venue": "Online",
     "mode": "Online",
@@ -1058,14 +956,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-14T09:40:34.504733+00:00"
+    "discovered_at": "2026-11-14T16:16:50.734599+00:00"
   },
   {
     "id": "devpost:32024",
     "source": "Devpost",
     "title": "Relate by Neo4j Hackathon",
     "url": "https://relate.devpost.com/",
-    "description": "Devpost hackathon. 28 days left",
+    "description": "Devpost hackathon. 27 days left",
     "organizer": "Neo4j",
     "venue": "Online",
     "mode": "Online",
@@ -1094,7 +992,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-14T09:40:34.688653+00:00"
+    "discovered_at": "2026-11-14T16:16:50.916041+00:00"
   },
   {
     "id": "devpost:32026",
@@ -1130,7 +1028,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-14T09:40:34.590088+00:00"
+    "discovered_at": "2026-11-14T16:16:50.831140+00:00"
   },
   {
     "id": "hackerearth:mks-inc-hackathon",
@@ -1166,7 +1064,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-14T09:40:35.464275+00:00"
+    "discovered_at": "2026-11-14T16:16:51.647471+00:00"
   },
   {
     "id": "hackerearth:ibm-z-day",
@@ -1202,7 +1100,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-14T09:40:35.464251+00:00"
+    "discovered_at": "2026-11-14T16:16:51.647448+00:00"
   },
   {
     "id": "hackerearth:groww-next-2026",
@@ -1238,7 +1136,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-14T09:40:35.464294+00:00"
+    "discovered_at": "2026-11-14T16:16:51.647496+00:00"
   },
   {
     "id": "devpost:31789",
@@ -1274,14 +1172,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-14T09:40:34.590124+00:00"
+    "discovered_at": "2026-11-14T16:16:50.831197+00:00"
   },
   {
     "id": "devpost:31796",
     "source": "Devpost",
     "title": "SafeSpace Hacks",
     "url": "https://safespace-hacks.devpost.com/",
-    "description": "Devpost hackathon. 9 days left",
+    "description": "Devpost hackathon. 8 days left",
     "organizer": "SafeSpace",
     "venue": "Online",
     "mode": "Online",
@@ -1310,7 +1208,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-14T09:40:34.688608+00:00"
+    "discovered_at": "2026-11-14T16:16:50.916020+00:00"
   },
   {
     "id": "devpost:30789",
@@ -1346,14 +1244,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-14T09:40:34.504752+00:00"
+    "discovered_at": "2026-11-14T16:16:50.734625+00:00"
   },
   {
     "id": "devpost:31552",
     "source": "Devpost",
     "title": "UGREEN Hackathon 2026 on AI NAS",
     "url": "https://ugreenhackathon.devpost.com/",
-    "description": "Devpost hackathon. 2 days left",
+    "description": "Devpost hackathon. 1 day left",
     "organizer": "UGREEN",
     "venue": "Online",
     "mode": "Online",
@@ -1382,7 +1280,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-14T09:40:34.504727+00:00"
+    "discovered_at": "2026-11-14T16:16:50.734593+00:00"
   },
   {
     "id": "devpost:31572",
@@ -1418,14 +1316,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-14T09:40:34.504721+00:00"
+    "discovered_at": "2026-11-14T16:16:50.734585+00:00"
   },
   {
     "id": "devpost:31907",
     "source": "Devpost",
     "title": "Build Your First AI App",
     "url": "https://build-your-first-ai-app.devpost.com/",
-    "description": "Devpost hackathon. 14 days left",
+    "description": "Devpost hackathon. 13 days left",
     "organizer": "Yasir Insights",
     "venue": "Online",
     "mode": "Online",
@@ -1454,14 +1352,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-14T09:40:34.590114+00:00"
+    "discovered_at": "2026-11-14T16:16:50.831182+00:00"
   },
   {
     "id": "devpost:31667",
     "source": "Devpost",
     "title": "Kiroween 2026",
     "url": "https://kiroween.devpost.com/",
-    "description": "Devpost hackathon. 21 days left",
+    "description": "Devpost hackathon. 20 days left",
     "organizer": "Kiro",
     "venue": "Online",
     "mode": "Online",
@@ -1490,14 +1388,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-14T09:40:34.504687+00:00"
+    "discovered_at": "2026-11-14T16:16:50.734554+00:00"
   },
   {
     "id": "devpost:31187",
     "source": "Devpost",
     "title": "STEMergent Hacks 2026",
     "url": "https://stemergent-hacks.devpost.com/",
-    "description": "Devpost hackathon. 2 days left",
+    "description": "Devpost hackathon. 1 day left",
     "organizer": "STEMergent",
     "venue": "Online",
     "mode": "Online",
@@ -1526,7 +1424,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-14T09:40:34.688634+00:00"
+    "discovered_at": "2026-11-14T16:16:50.916047+00:00"
   },
   {
     "id": "devpost:31024",
@@ -1562,7 +1460,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-14T09:40:34.504712+00:00"
+    "discovered_at": "2026-11-14T16:16:50.734574+00:00"
   },
   {
     "id": "unstop:1771951",
@@ -1601,7 +1499,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-14T09:40:29.360956+00:00"
+    "discovered_at": "2026-11-14T16:16:46.017003+00:00"
   },
   {
     "id": "unstop:1807596",
@@ -1640,7 +1538,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-14T09:40:28.021499+00:00"
+    "discovered_at": "2026-11-14T16:16:44.098771+00:00"
   },
   {
     "id": "unstop:1800857",
@@ -1679,7 +1577,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-14T09:40:29.360152+00:00"
+    "discovered_at": "2026-11-14T16:16:46.016618+00:00"
   },
   {
     "id": "unstop:1781454",
@@ -1718,7 +1616,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-14T09:40:29.360792+00:00"
+    "discovered_at": "2026-11-14T16:16:46.016813+00:00"
   },
   {
     "id": "unstop:1787722",
@@ -1751,7 +1649,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-14T09:40:28.021967+00:00"
+    "discovered_at": "2026-11-14T16:16:44.099442+00:00"
   },
   {
     "id": "devpost:31746",
@@ -1786,7 +1684,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-14T09:40:34.688663+00:00"
+    "discovered_at": "2026-11-14T16:16:50.916077+00:00"
   },
   {
     "id": "unstop:1799791",
@@ -1823,7 +1721,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-14T09:40:29.360614+00:00"
+    "discovered_at": "2026-11-14T16:16:46.016681+00:00"
   },
   {
     "id": "unstop:1799790",
@@ -1860,7 +1758,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-14T09:40:29.360653+00:00"
+    "discovered_at": "2026-11-14T16:16:46.016734+00:00"
   },
   {
     "id": "unstop:1800924",
@@ -1897,7 +1795,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-14T09:40:29.360060+00:00"
+    "discovered_at": "2026-11-14T16:16:46.016502+00:00"
   },
   {
     "id": "unstop:1805946",
@@ -1930,7 +1828,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-14T09:40:28.021844+00:00"
+    "discovered_at": "2026-11-14T16:16:44.099287+00:00"
   },
   {
     "id": "unstop:1799281",
@@ -1971,7 +1869,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-14T09:40:28.023288+00:00"
+    "discovered_at": "2026-11-14T16:16:46.016329+00:00"
   },
   {
     "id": "unstop:1799091",
@@ -2004,7 +1902,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-14T09:40:28.022028+00:00"
+    "discovered_at": "2026-11-14T16:16:44.099521+00:00"
   },
   {
     "id": "devpost:31108",
@@ -2039,14 +1937,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-14T09:40:34.688658+00:00"
+    "discovered_at": "2026-11-14T16:16:50.916069+00:00"
   },
   {
     "id": "devpost:30500",
     "source": "Devpost",
     "title": "DSH Hacks V2 ($100k+ in prizes!)",
     "url": "https://dsh-hacks-v2.devpost.com/",
-    "description": "Devpost hackathon. about 23 hours left",
+    "description": "Devpost hackathon. about 16 hours left",
     "organizer": "STEMise",
     "venue": "Online",
     "mode": "Online",
@@ -2074,7 +1972,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-14T09:40:34.504747+00:00"
+    "discovered_at": "2026-11-14T16:16:50.734619+00:00"
   },
   {
     "id": "devpost:31495",
@@ -2109,14 +2007,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-14T09:40:34.590105+00:00"
+    "discovered_at": "2026-11-14T16:16:50.831167+00:00"
   },
   {
     "id": "devpost:31644",
     "source": "Devpost",
     "title": "Reddit’s Game of the Day Hackathon",
     "url": "https://redditgameofday2026.devpost.com/",
-    "description": "Devpost hackathon. 25 days left",
+    "description": "Devpost hackathon. 24 days left",
     "organizer": "reddit",
     "venue": "Online",
     "mode": "Online",
@@ -2143,14 +2041,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-14T09:40:34.504742+00:00"
+    "discovered_at": "2026-11-14T16:16:50.734612+00:00"
   },
   {
     "id": "devpost:31773",
     "source": "Devpost",
     "title": "LaunchPad Hacks (Judges + Sponsors Needed)",
     "url": "https://launchpad-hacks.devpost.com/",
-    "description": "Devpost hackathon. 21 days left",
+    "description": "Devpost hackathon. 20 days left",
     "organizer": "Hack4TodayOrg",
     "venue": "Online",
     "mode": "Online",
@@ -2177,14 +2075,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-14T09:40:34.590110+00:00"
+    "discovered_at": "2026-11-14T16:16:50.831175+00:00"
   },
   {
     "id": "devpost:31795",
     "source": "Devpost",
     "title": "AccessED Hacks",
     "url": "https://accessed-hacks.devpost.com/",
-    "description": "Devpost hackathon. 7 days left",
+    "description": "Devpost hackathon. 6 days left",
     "organizer": "AccessEDnpo",
     "venue": "Online",
     "mode": "Online",
@@ -2212,7 +2110,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-14T09:40:34.688668+00:00"
+    "discovered_at": "2026-11-14T16:16:50.916084+00:00"
   },
   {
     "id": "unstop:1802400",
@@ -2251,7 +2149,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-14T09:40:28.023037+00:00"
+    "discovered_at": "2026-11-14T16:16:44.100817+00:00"
   },
   {
     "id": "unstop:1798287",
@@ -2284,7 +2182,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-14T09:40:28.020442+00:00"
+    "discovered_at": "2026-11-14T16:16:44.097411+00:00"
   },
   {
     "id": "unstop:1806122",
@@ -2323,7 +2221,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-14T09:40:28.021750+00:00"
+    "discovered_at": "2026-11-14T16:16:44.099176+00:00"
   },
   {
     "id": "unstop:1803074",
@@ -2356,7 +2254,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-14T09:40:28.022539+00:00"
+    "discovered_at": "2026-11-14T16:16:44.100173+00:00"
   },
   {
     "id": "unstop:1809486",
@@ -2389,6 +2287,6 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-14T09:40:28.020559+00:00"
+    "discovered_at": "2026-11-14T16:16:44.097549+00:00"
   }
 ]

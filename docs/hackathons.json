@@ -33,7 +33,7 @@
     "is_nagpur_local": true,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-14T21:02:06.036755+00:00"
+    "discovered_at": "2026-11-15T01:27:15.555417+00:00"
   },
   {
     "id": "unstop:1800629",
@@ -72,7 +72,7 @@
     "is_nagpur_local": true,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-14T21:01:55.238309+00:00"
+    "discovered_at": "2026-11-15T01:27:04.875276+00:00"
   },
   {
     "id": "unstop:1794522",
@@ -107,7 +107,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": true,
     "is_active": true,
-    "discovered_at": "2026-11-14T21:01:57.748315+00:00"
+    "discovered_at": "2026-11-15T01:27:07.276062+00:00"
   },
   {
     "id": "college:mindsparkorg",
@@ -143,7 +143,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": true,
     "is_active": true,
-    "discovered_at": "2026-11-14T21:02:05.779023+00:00"
+    "discovered_at": "2026-11-15T01:27:15.290886+00:00"
   },
   {
     "id": "unstop:1794884",
@@ -183,7 +183,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-14T21:01:55.238580+00:00"
+    "discovered_at": "2026-11-15T01:27:04.875496+00:00"
   },
   {
     "id": "unstop:1800891",
@@ -217,7 +217,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-14T21:01:57.748668+00:00"
+    "discovered_at": "2026-11-15T01:27:07.276305+00:00"
   },
   {
     "id": "unstop:1807080",
@@ -258,7 +258,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-14T21:01:55.237524+00:00"
+    "discovered_at": "2026-11-15T01:27:04.874649+00:00"
   },
   {
     "id": "unstop:1789431",
@@ -298,7 +298,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-14T21:01:57.748437+00:00"
+    "discovered_at": "2026-11-15T01:27:07.276151+00:00"
   },
   {
     "id": "unstop:1803912",
@@ -332,7 +332,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-14T21:01:55.238162+00:00"
+    "discovered_at": "2026-11-15T01:27:04.875162+00:00"
   },
   {
     "id": "unstop:1805107",
@@ -372,7 +372,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-14T21:01:55.237222+00:00"
+    "discovered_at": "2026-11-15T01:27:04.874403+00:00"
   },
   {
     "id": "unstop:1806984",
@@ -414,7 +414,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-14T21:01:55.236502+00:00"
+    "discovered_at": "2026-11-15T01:27:04.873886+00:00"
   },
   {
     "id": "unstop:1807297",
@@ -454,7 +454,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-14T21:01:55.237398+00:00"
+    "discovered_at": "2026-11-15T01:27:04.874546+00:00"
   },
   {
     "id": "unstop:1811016",
@@ -495,7 +495,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-14T21:01:55.235092+00:00"
+    "discovered_at": "2026-11-15T01:27:04.872952+00:00"
   },
   {
     "id": "unstop:1761846",
@@ -535,7 +535,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-14T21:01:55.236872+00:00"
+    "discovered_at": "2026-11-15T01:27:04.874135+00:00"
   },
   {
     "id": "unstop:1802090",
@@ -569,7 +569,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": true,
     "is_active": true,
-    "discovered_at": "2026-11-14T21:01:55.238689+00:00"
+    "discovered_at": "2026-11-15T01:27:04.875588+00:00"
   },
   {
     "id": "unstop:1802089",
@@ -603,7 +603,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": true,
     "is_active": true,
-    "discovered_at": "2026-11-14T21:01:55.239326+00:00"
+    "discovered_at": "2026-11-15T01:27:04.876081+00:00"
   },
   {
     "id": "unstop:1801200",
@@ -637,7 +637,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": true,
     "is_active": true,
-    "discovered_at": "2026-11-14T21:01:57.748385+00:00"
+    "discovered_at": "2026-11-15T01:27:07.276113+00:00"
   },
   {
     "id": "hackerearth:contextcon-remember-everything",
@@ -673,7 +673,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-14T21:02:04.051745+00:00"
+    "discovered_at": "2026-11-15T01:27:13.430651+00:00"
   },
   {
     "id": "devpost:30740",
@@ -709,7 +709,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-14T21:02:03.018813+00:00"
+    "discovered_at": "2026-11-15T01:27:12.448934+00:00"
   },
   {
     "id": "devpost:30764",
@@ -745,7 +745,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-14T21:02:03.191089+00:00"
+    "discovered_at": "2026-11-15T01:27:12.584018+00:00"
   },
   {
     "id": "devpost:31787",
@@ -781,7 +781,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-14T21:02:03.191113+00:00"
+    "discovered_at": "2026-11-15T01:27:12.584040+00:00"
   },
   {
     "id": "devpost:31642",
@@ -817,7 +817,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-14T21:02:03.018824+00:00"
+    "discovered_at": "2026-11-15T01:27:12.448939+00:00"
   },
   {
     "id": "devpost:31083",
@@ -853,7 +853,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-14T21:02:02.832087+00:00"
+    "discovered_at": "2026-11-15T01:27:12.317607+00:00"
   },
   {
     "id": "devpost:31480",
@@ -889,7 +889,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-14T21:02:03.191123+00:00"
+    "discovered_at": "2026-11-15T01:27:12.584047+00:00"
   },
   {
     "id": "devpost:31973",
@@ -925,7 +925,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-14T21:02:03.018776+00:00"
+    "discovered_at": "2026-11-15T01:27:12.448907+00:00"
   },
   {
     "id": "devpost:32079",
@@ -961,7 +961,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-14T21:02:03.018868+00:00"
+    "discovered_at": "2026-11-15T01:27:12.448958+00:00"
   },
   {
     "id": "devpost:31808",
@@ -997,7 +997,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-14T21:02:02.832079+00:00"
+    "discovered_at": "2026-11-15T01:27:12.317601+00:00"
   },
   {
     "id": "devpost:32024",
@@ -1033,7 +1033,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-14T21:02:03.191097+00:00"
+    "discovered_at": "2026-11-15T01:27:12.584030+00:00"
   },
   {
     "id": "devpost:32026",
@@ -1069,7 +1069,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-14T21:02:03.018801+00:00"
+    "discovered_at": "2026-11-15T01:27:12.448927+00:00"
   },
   {
     "id": "hackerearth:mks-inc-hackathon",
@@ -1105,7 +1105,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-14T21:02:04.051730+00:00"
+    "discovered_at": "2026-11-15T01:27:13.430640+00:00"
   },
   {
     "id": "hackerearth:ibm-z-day",
@@ -1141,7 +1141,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-14T21:02:04.051702+00:00"
+    "discovered_at": "2026-11-15T01:27:13.430617+00:00"
   },
   {
     "id": "hackerearth:groww-next-2026",
@@ -1177,7 +1177,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-14T21:02:04.051757+00:00"
+    "discovered_at": "2026-11-15T01:27:13.430659+00:00"
   },
   {
     "id": "devpost:31789",
@@ -1213,7 +1213,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-14T21:02:03.018879+00:00"
+    "discovered_at": "2026-11-15T01:27:12.448962+00:00"
   },
   {
     "id": "devpost:31796",
@@ -1249,7 +1249,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-14T21:02:03.191066+00:00"
+    "discovered_at": "2026-11-15T01:27:12.583998+00:00"
   },
   {
     "id": "devpost:30789",
@@ -1285,7 +1285,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-14T21:02:02.832109+00:00"
+    "discovered_at": "2026-11-15T01:27:12.317622+00:00"
   },
   {
     "id": "devpost:31552",
@@ -1321,7 +1321,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-14T21:02:02.832072+00:00"
+    "discovered_at": "2026-11-15T01:27:12.317596+00:00"
   },
   {
     "id": "devpost:31572",
@@ -1357,7 +1357,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-14T21:02:02.832064+00:00"
+    "discovered_at": "2026-11-15T01:27:12.317589+00:00"
   },
   {
     "id": "devpost:31907",
@@ -1393,7 +1393,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-14T21:02:03.018857+00:00"
+    "discovered_at": "2026-11-15T01:27:12.448953+00:00"
   },
   {
     "id": "devpost:31667",
@@ -1429,7 +1429,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-14T21:02:02.832023+00:00"
+    "discovered_at": "2026-11-15T01:27:12.317556+00:00"
   },
   {
     "id": "devpost:31187",
@@ -1465,7 +1465,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-14T21:02:03.191105+00:00"
+    "discovered_at": "2026-11-15T01:27:12.584035+00:00"
   },
   {
     "id": "devpost:31024",
@@ -1501,7 +1501,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-14T21:02:02.832052+00:00"
+    "discovered_at": "2026-11-15T01:27:12.317580+00:00"
   },
   {
     "id": "unstop:1771951",
@@ -1540,7 +1540,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-14T21:01:57.749337+00:00"
+    "discovered_at": "2026-11-15T01:27:07.276747+00:00"
   },
   {
     "id": "unstop:1807596",
@@ -1579,14 +1579,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-14T21:01:55.237296+00:00"
+    "discovered_at": "2026-11-15T01:27:04.874460+00:00"
   },
   {
     "id": "unstop:1800857",
     "source": "Unstop",
     "title": "Agentic AI in BFSI Hackathon",
     "url": "https://unstop.com/hackathons/agentic-ai-in-bfsi-hackathon-iit-bombay-1800857",
-    "description": "About Agentic AI in BFSI: Hackathon 2026 is a national hackathon by Perfios, one of India's largest SaaS TechFin companies serving over 1,000 financial institutions globally, in association with Techfest, IIT Bombay. Under the theme AI Native Applications for BFSI, teams prototype AI-backed systems that can perceive, reason, decide and act across real-world financial workflows. Participants pick one of two banking domains, Debt Collections or Fraud Detection &amp; Prevention, and its problem statement, and are judged on the rigor of their technical plan in Round 1 and on a working prototype at the finals at Techfest, IIT Bombay, Asia's largest science and technology festival. No prior BFSI experience is needed. Structure Eligibility: Open to all students with a valid ID from their educational institution. No prior BFSI experience is needed. Cross-institutional teams are encouraged. Team size: Maximum 4 members per team. The competition runs in two rounds, with Round 2 as an in-person prototype demo at Techfest, IIT Bombay. Domains &amp; problems: Teams choose one domain and its problem statement. Theme 1, Debt Collections, has Problem 1: Paralinguistic State Detection from Voice, Not Transcript, where teams build an acoustic model that estimates borrower emotional state (arousal, valence, discrete states, commitment credibility) from speech alone, plus a decision layer that guarantees distressed borrowers are handed to a human and never pressured. Theme 2, Fraud Detection &amp; Prevention, has Problem 2: Know Your Agent (KYA), where teams build a real-time system that detects whether a non-human agent is involved in a banking session, produces an explainable Agent Trust Score, and recommends allow, step-up authentication, hold, or block. Round 1 - Ideation Round (Online Abstract) Teams submit a 600-900 word abstract (plus an optional 1-page architecture diagram) covering the problem chosen, understanding of the challenge, proposed approach and agent architecture, how it maps to the Minimum Viable scope, stretch ambitions, expected impact, novelty, evaluation plan, responsible design (fairness, privacy, explainability, safety), and feasibility and risks. No code or prototype is required at this stage; only the Team Leader may submit, and multiple submissions are not accepted. Perfios evaluates submissions and shortlists the most promising ideas based on creativity, feasibility, and relevance. Round 2 - Prototype &amp; Demo (Finals) Shortlisted teams build a working prototype covering the Minimum Viable scope of their problem (and any stretch goals attempted) and present it at IIT Bombay to a panel of Perfios judges. Each team gets 20 minutes for presentation and live demo, followed by 5 minutes of Q&amp;A. Finalists submit a code repository with README, a technical report (max 6 pages), a results summary table against every success metric, and a demo video (max 3 minutes) as a backup. Winners are selected on innovation, technical depth, prototype quality, and real-world applicability. Timeline Submission link opens - 15th November 2026 Registration closes - 25th November 2026 Round 1 submission deadline - 30th November 2026 Shortlist announcement - 4th December 2026 Finals at IIT Bombay - 15th-18th December 2026 Rewards And Prizes INR 1,00,000 for the top 3 winners. Certificates for all participants who qualify for Round 2.",
+    "description": "All that you need to know about Agentic AI in BFSI: Hackathon 2026 by IIT Bombay Complete Regsiteration and Submission at: https://techfest.org/competitions/Agentic-AI It is mandatory to register on Techfest Website . further details will be updated on the Website only . About Agentic AI in BFSI: Hackathon 2026 is a national hackathon by Perfios, one of India's largest SaaS TechFin companies serving over 1,000 financial institutions globally, in association with Techfest, IIT Bombay. Under the theme AI Native Applications for BFSI, teams prototype AI-backed systems that can perceive, reason, decide and act across real-world financial workflows. Participants pick one of two banking domains, Debt Collections or Fraud Detection &amp; Prevention, and its problem statement, and are judged on the rigor of their technical plan in Round 1 and on a working prototype at the finals at Techfest, IIT Bombay, Asia's largest science and technology festival. No prior BFSI experience is needed. Structure Eligibility: Open to all students with a valid ID from their educational institution. No prior BFSI experience is needed. Cross-institutional teams are encouraged. Team size: Maximum 4 members per team. The competition runs in two rounds, with Round 2 as an in-person prototype demo at Techfest, IIT Bombay. Domains &amp; problems: Teams choose one domain and its problem statement. Theme 1, Debt Collections, has Problem 1: Paralinguistic State Detection from Voice, Not Transcript, where teams build an acoustic model that estimates borrower emotional state (arousal, valence, discrete states, commitment credibility) from speech alone, plus a decision layer that guarantees distressed borrowers are handed to a human and never pressured. Theme 2, Fraud Detection &amp; Prevention, has Problem 2: Know Your Agent (KYA), where teams build a real-time system that detects whether a non-human agent is involved in a banking session, produces an explainable Agent Trust Score, and recommends allow, step-up authentication, hold, or block. Round 1 - Ideation Round (Online Abstract) Teams submit a 600-900 word abstract (plus an optional 1-page architecture diagram) covering the problem chosen, understanding of the challenge, proposed approach and agent architecture, how it maps to the Minimum Viable scope, stretch ambitions, expected impact, novelty, evaluation plan, responsible design (fairness, privacy, explainability, safety), and feasibility and risks. No code or prototype is required at this stage; only the Team Leader may submit, and multiple submissions are not accepted. Perfios evaluates submissions and shortlists the most promising ideas based on creativity, feasibility, and relevance. Round 2 - Prototype &amp; Demo (Finals) Shortlisted teams build a working prototype covering the Minimum Viable scope of their problem (and any stretch goals attempted) and present it at IIT Bombay to a panel of Perfios judges. Each team gets 20 minutes for presentation and live demo, followed by 5 minutes of Q&amp;A. Finalists submit a code repository with README, a technical report (max 6 pages), a results summary table against every success metric, and a demo video (max 3 minutes) as a backup. Winners are selected on innovation, technical depth, prototype quality, and real-world applicability. Timeline Submission link opens - 15th November 2026 Registration closes - 25th November 2026 Round 1 submission deadline - 30th November 2026 Shortlist announcement - 4th December 2026 Finals at IIT Bombay - 15th-18th December 2026 Rewards And Prizes INR 1,00,000 for the top 3 winners. Certificates for all participants who qualify for Round 2.",
     "organizer": "Indian Institute of Technology (IIT), Bombay",
     "venue": "offline",
     "mode": "In-Person",
@@ -1618,7 +1618,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-14T21:01:57.748868+00:00"
+    "discovered_at": "2026-11-15T01:27:07.276443+00:00"
   },
   {
     "id": "unstop:1781454",
@@ -1657,7 +1657,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-14T21:01:57.749076+00:00"
+    "discovered_at": "2026-11-15T01:27:07.276596+00:00"
   },
   {
     "id": "unstop:1787722",
@@ -1690,14 +1690,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-14T21:01:55.237953+00:00"
+    "discovered_at": "2026-11-15T01:27:04.874996+00:00"
   },
   {
     "id": "devpost:31990",
     "source": "Devpost",
     "title": "HackPrinceton Fall '26",
     "url": "https://hackprinceton-fall-26.devpost.com/",
-    "description": "Devpost hackathon. about 16 hours left",
+    "description": "Devpost hackathon. about 12 hours left",
     "organizer": "Princeton University",
     "venue": "JRR, LAS, Robertson, Friend",
     "mode": "In-Person",
@@ -1725,7 +1725,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-14T21:02:03.191138+00:00"
+    "discovered_at": "2026-11-15T01:27:12.584025+00:00"
   },
   {
     "id": "devpost:31746",
@@ -1760,7 +1760,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-14T21:02:03.191146+00:00"
+    "discovered_at": "2026-11-15T01:27:12.584059+00:00"
   },
   {
     "id": "unstop:1799791",
@@ -1797,7 +1797,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-14T21:01:57.748927+00:00"
+    "discovered_at": "2026-11-15T01:27:07.276482+00:00"
   },
   {
     "id": "unstop:1799790",
@@ -1834,7 +1834,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-14T21:01:57.748985+00:00"
+    "discovered_at": "2026-11-15T01:27:07.276521+00:00"
   },
   {
     "id": "unstop:1800924",
@@ -1871,7 +1871,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-14T21:01:57.748734+00:00"
+    "discovered_at": "2026-11-15T01:27:07.276348+00:00"
   },
   {
     "id": "unstop:1811085",
@@ -1904,7 +1904,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-14T21:01:55.234965+00:00"
+    "discovered_at": "2026-11-15T01:27:04.872864+00:00"
   },
   {
     "id": "unstop:1805946",
@@ -1937,7 +1937,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-14T21:01:55.237890+00:00"
+    "discovered_at": "2026-11-15T01:27:04.874947+00:00"
   },
   {
     "id": "unstop:1799281",
@@ -1978,7 +1978,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-14T21:01:57.748559+00:00"
+    "discovered_at": "2026-11-15T01:27:07.276227+00:00"
   },
   {
     "id": "unstop:1799091",
@@ -2011,7 +2011,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-14T21:01:55.238033+00:00"
+    "discovered_at": "2026-11-15T01:27:04.875056+00:00"
   },
   {
     "id": "devpost:31108",
@@ -2046,14 +2046,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-14T21:02:03.191131+00:00"
+    "discovered_at": "2026-11-15T01:27:12.584053+00:00"
   },
   {
     "id": "devpost:30500",
     "source": "Devpost",
     "title": "DSH Hacks V2 ($100k+ in prizes!)",
     "url": "https://dsh-hacks-v2.devpost.com/",
-    "description": "Devpost hackathon. about 11 hours left",
+    "description": "Devpost hackathon. about 6 hours left",
     "organizer": "STEMise",
     "venue": "Online",
     "mode": "Online",
@@ -2081,7 +2081,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-14T21:02:02.832102+00:00"
+    "discovered_at": "2026-11-15T01:27:12.317617+00:00"
   },
   {
     "id": "devpost:31495",
@@ -2116,7 +2116,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-14T21:02:03.018835+00:00"
+    "discovered_at": "2026-11-15T01:27:12.448944+00:00"
   },
   {
     "id": "devpost:31644",
@@ -2150,7 +2150,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-14T21:02:02.832094+00:00"
+    "discovered_at": "2026-11-15T01:27:12.317612+00:00"
   },
   {
     "id": "devpost:31773",
@@ -2184,7 +2184,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-14T21:02:03.018846+00:00"
+    "discovered_at": "2026-11-15T01:27:12.448949+00:00"
   },
   {
     "id": "unstop:1802400",
@@ -2223,7 +2223,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-14T21:01:55.239290+00:00"
+    "discovered_at": "2026-11-15T01:27:04.876054+00:00"
   },
   {
     "id": "unstop:1798287",
@@ -2256,7 +2256,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-14T21:01:55.235831+00:00"
+    "discovered_at": "2026-11-15T01:27:04.873441+00:00"
   },
   {
     "id": "unstop:1810268",
@@ -2290,7 +2290,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-14T21:01:55.235298+00:00"
+    "discovered_at": "2026-11-15T01:27:04.873094+00:00"
   },
   {
     "id": "unstop:1806122",
@@ -2329,7 +2329,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-14T21:01:55.237691+00:00"
+    "discovered_at": "2026-11-15T01:27:04.874789+00:00"
   },
   {
     "id": "unstop:1803074",
@@ -2362,7 +2362,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-14T21:01:55.238665+00:00"
+    "discovered_at": "2026-11-15T01:27:04.875568+00:00"
   },
   {
     "id": "unstop:1809486",
@@ -2395,6 +2395,6 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-14T21:01:55.237008+00:00"
+    "discovered_at": "2026-11-15T01:27:04.874248+00:00"
   }
 ]

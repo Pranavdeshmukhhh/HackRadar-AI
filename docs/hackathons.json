@@ -33,7 +33,7 @@
     "is_nagpur_local": true,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-15T15:59:23.870590+00:00"
+    "discovered_at": "2026-11-15T20:53:57.972242+00:00"
   },
   {
     "id": "unstop:1800629",
@@ -72,7 +72,7 @@
     "is_nagpur_local": true,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-15T15:59:14.756462+00:00"
+    "discovered_at": "2026-11-15T20:53:48.244456+00:00"
   },
   {
     "id": "college:mindsparkorg",
@@ -108,7 +108,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": true,
     "is_active": true,
-    "discovered_at": "2026-11-15T15:59:24.115643+00:00"
+    "discovered_at": "2026-11-15T20:53:57.824335+00:00"
   },
   {
     "id": "unstop:1807080",
@@ -149,7 +149,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-15T15:59:14.755964+00:00"
+    "discovered_at": "2026-11-15T20:53:48.243715+00:00"
   },
   {
     "id": "unstop:1803912",
@@ -183,7 +183,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-15T15:59:14.756361+00:00"
+    "discovered_at": "2026-11-15T20:53:48.244303+00:00"
   },
   {
     "id": "unstop:1805107",
@@ -223,7 +223,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-15T15:59:14.755376+00:00"
+    "discovered_at": "2026-11-15T20:53:48.243329+00:00"
   },
   {
     "id": "unstop:1806984",
@@ -265,7 +265,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-15T15:59:14.755480+00:00"
+    "discovered_at": "2026-11-15T20:53:48.243579+00:00"
   },
   {
     "id": "unstop:1807297",
@@ -305,7 +305,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-15T15:59:14.755870+00:00"
+    "discovered_at": "2026-11-15T20:53:48.243504+00:00"
   },
   {
     "id": "unstop:1811016",
@@ -346,7 +346,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-15T15:59:14.754302+00:00"
+    "discovered_at": "2026-11-15T20:53:48.241888+00:00"
   },
   {
     "id": "unstop:1811493",
@@ -380,7 +380,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-15T15:59:14.754072+00:00"
+    "discovered_at": "2026-11-15T20:53:48.241176+00:00"
   },
   {
     "id": "unstop:1761846",
@@ -420,7 +420,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-15T15:59:14.755707+00:00"
+    "discovered_at": "2026-11-15T20:53:48.243149+00:00"
   },
   {
     "id": "unstop:1802090",
@@ -454,7 +454,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": true,
     "is_active": true,
-    "discovered_at": "2026-11-15T15:59:14.756537+00:00"
+    "discovered_at": "2026-11-15T20:53:48.244562+00:00"
   },
   {
     "id": "unstop:1802089",
@@ -488,7 +488,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": true,
     "is_active": true,
-    "discovered_at": "2026-11-15T15:59:16.993833+00:00"
+    "discovered_at": "2026-11-15T20:53:50.420561+00:00"
   },
   {
     "id": "hackerearth:contextcon-remember-everything",
@@ -524,7 +524,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-15T15:59:22.603322+00:00"
+    "discovered_at": "2026-11-15T20:53:56.288206+00:00"
   },
   {
     "id": "devpost:30740",
@@ -560,14 +560,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-15T15:59:21.733386+00:00"
+    "discovered_at": "2026-11-15T20:53:55.361916+00:00"
   },
   {
     "id": "devpost:30764",
     "source": "Devpost",
     "title": "Syntax Summit",
     "url": "https://syntax-summit.devpost.com/",
-    "description": "Devpost hackathon. 2 months left",
+    "description": "Devpost hackathon. about 2 months left",
     "organizer": "Student Organization",
     "venue": "Online",
     "mode": "Online",
@@ -596,7 +596,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-15T15:59:21.820737+00:00"
+    "discovered_at": "2026-11-15T20:53:55.488761+00:00"
   },
   {
     "id": "devpost:31787",
@@ -632,7 +632,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-15T15:59:21.820744+00:00"
+    "discovered_at": "2026-11-15T20:53:55.488771+00:00"
   },
   {
     "id": "devpost:31642",
@@ -668,14 +668,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-15T15:59:21.733392+00:00"
+    "discovered_at": "2026-11-15T20:53:55.361924+00:00"
   },
   {
     "id": "devpost:31083",
     "source": "Devpost",
     "title": "QNX Global Hackathon",
     "url": "https://qnx.devpost.com/",
-    "description": "Devpost hackathon. about 1 month left",
+    "description": "Devpost hackathon. 30 days left",
     "organizer": "QNX",
     "venue": "Online",
     "mode": "Online",
@@ -704,7 +704,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-15T15:59:21.664830+00:00"
+    "discovered_at": "2026-11-15T20:53:55.218159+00:00"
   },
   {
     "id": "devpost:31480",
@@ -740,7 +740,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-15T15:59:21.820756+00:00"
+    "discovered_at": "2026-11-15T20:53:55.488791+00:00"
   },
   {
     "id": "devpost:31973",
@@ -776,7 +776,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-15T15:59:21.733369+00:00"
+    "discovered_at": "2026-11-15T20:53:55.361896+00:00"
   },
   {
     "id": "devpost:32079",
@@ -812,7 +812,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-15T15:59:21.733413+00:00"
+    "discovered_at": "2026-11-15T20:53:55.361952+00:00"
   },
   {
     "id": "devpost:31808",
@@ -848,7 +848,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-15T15:59:21.664825+00:00"
+    "discovered_at": "2026-11-15T20:53:55.218152+00:00"
   },
   {
     "id": "devpost:32024",
@@ -884,7 +884,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-15T15:59:21.820720+00:00"
+    "discovered_at": "2026-11-15T20:53:55.361964+00:00"
   },
   {
     "id": "devpost:32026",
@@ -920,43 +920,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-15T15:59:21.664845+00:00"
-  },
-  {
-    "id": "hackerearth:mks-inc-hackathon",
-    "source": "HackerEarth",
-    "title": "MKS AI/ML Hackathon",
-    "url": "https://www.hackerearth.com/challenges/competitive/mks-inc-hackathon/",
-    "description": "The MKS AI &amp; Data Hackathon is your opportunity to turn ideas into impact. Designed for student ..",
-    "organizer": "HackerEarth Community",
-    "venue": "Online",
-    "mode": "Online",
-    "city": null,
-    "state": null,
-    "country": null,
-    "start_date": "Friday, Nov 06, 2026",
-    "end_date": "Nov 15, 2026",
-    "registration_deadline": "Nov 15, 2026",
-    "min_team_size": 1,
-    "max_team_size": null,
-    "solo_allowed": true,
-    "eligibility": "Open to all coders",
-    "prize_pool": "Prizes, Hiring & Certificates",
-    "tracks": [
-      "Software",
-      "AI/ML",
-      "Hiring Challenge"
-    ],
-    "score": 75,
-    "matched_reasons": [
-      "🌐 **Accessible Online Mode** (+15 pts)",
-      "👤 **Solo Eligible (1 Member)** (+35 pts)",
-      "🤖 **AI & Software Tracks** (+25 pts) [AI, ML]"
-    ],
-    "is_nagpur_local": false,
-    "is_maharashtra": false,
-    "is_active": true,
-    "discovered_at": "2026-11-15T15:59:22.603311+00:00"
+    "discovered_at": "2026-11-15T20:53:55.218173+00:00"
   },
   {
     "id": "hackerearth:ibm-z-day",
@@ -992,7 +956,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-15T15:59:22.603289+00:00"
+    "discovered_at": "2026-11-15T20:53:56.288179+00:00"
   },
   {
     "id": "hackerearth:groww-next-2026",
@@ -1028,14 +992,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-15T15:59:22.603330+00:00"
+    "discovered_at": "2026-11-15T20:53:56.288219+00:00"
   },
   {
     "id": "devpost:31789",
     "source": "Devpost",
     "title": "STEM2Connect AI Hackathon",
     "url": "https://stem2connect-online-hackathon.devpost.com/",
-    "description": "Devpost hackathon. 7 days left",
+    "description": "Devpost hackathon. 6 days left",
     "organizer": "STEM2Connect",
     "venue": "Online",
     "mode": "Online",
@@ -1064,7 +1028,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-15T15:59:21.733417+00:00"
+    "discovered_at": "2026-11-15T20:53:55.361958+00:00"
   },
   {
     "id": "devpost:31796",
@@ -1100,7 +1064,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-15T15:59:21.733422+00:00"
+    "discovered_at": "2026-11-15T20:53:55.488736+00:00"
   },
   {
     "id": "devpost:30789",
@@ -1136,14 +1100,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-15T15:59:21.664840+00:00"
+    "discovered_at": "2026-11-15T20:53:55.218180+00:00"
   },
   {
     "id": "devpost:31552",
     "source": "Devpost",
     "title": "UGREEN Hackathon 2026 on AI NAS",
     "url": "https://ugreenhackathon.devpost.com/",
-    "description": "Devpost hackathon. about 16 hours left",
+    "description": "Devpost hackathon. about 11 hours left",
     "organizer": "UGREEN",
     "venue": "Online",
     "mode": "Online",
@@ -1172,7 +1136,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-15T15:59:21.664819+00:00"
+    "discovered_at": "2026-11-15T20:53:55.218145+00:00"
   },
   {
     "id": "devpost:26475",
@@ -1208,7 +1172,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-15T15:59:21.820776+00:00"
+    "discovered_at": "2026-11-15T20:53:55.488817+00:00"
   },
   {
     "id": "devpost:31572",
@@ -1244,7 +1208,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-15T15:59:21.664812+00:00"
+    "discovered_at": "2026-11-15T20:53:55.218136+00:00"
   },
   {
     "id": "devpost:31907",
@@ -1280,7 +1244,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-15T15:59:21.733403+00:00"
+    "discovered_at": "2026-11-15T20:53:55.361938+00:00"
   },
   {
     "id": "devpost:31667",
@@ -1316,14 +1280,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-15T15:59:21.664755+00:00"
+    "discovered_at": "2026-11-15T20:53:55.218099+00:00"
   },
   {
     "id": "devpost:31187",
     "source": "Devpost",
     "title": "STEMergent Hacks 2026",
     "url": "https://stemergent-hacks.devpost.com/",
-    "description": "Devpost hackathon. about 12 hours left",
+    "description": "Devpost hackathon. about 7 hours left",
     "organizer": "STEMergent",
     "venue": "Online",
     "mode": "Online",
@@ -1352,7 +1316,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-15T15:59:21.820748+00:00"
+    "discovered_at": "2026-11-15T20:53:55.488779+00:00"
   },
   {
     "id": "devpost:31024",
@@ -1388,7 +1352,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-15T15:59:21.664777+00:00"
+    "discovered_at": "2026-11-15T20:53:55.218125+00:00"
   },
   {
     "id": "unstop:1807596",
@@ -1427,7 +1391,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-15T15:59:14.755428+00:00"
+    "discovered_at": "2026-11-15T20:53:48.243402+00:00"
   },
   {
     "id": "unstop:1811240",
@@ -1466,7 +1430,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-15T15:59:14.754187+00:00"
+    "discovered_at": "2026-11-15T20:53:48.241319+00:00"
   },
   {
     "id": "unstop:1781454",
@@ -1505,7 +1469,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-15T15:59:16.993960+00:00"
+    "discovered_at": "2026-11-15T20:53:50.420728+00:00"
   },
   {
     "id": "unstop:1787722",
@@ -1538,7 +1502,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-15T15:59:14.756211+00:00"
+    "discovered_at": "2026-11-15T20:53:48.244082+00:00"
   },
   {
     "id": "devpost:31746",
@@ -1573,7 +1537,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-15T15:59:21.820771+00:00"
+    "discovered_at": "2026-11-15T20:53:55.488808+00:00"
   },
   {
     "id": "unstop:1799791",
@@ -1610,7 +1574,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-15T15:59:16.993888+00:00"
+    "discovered_at": "2026-11-15T20:53:50.420636+00:00"
   },
   {
     "id": "unstop:1811085",
@@ -1643,7 +1607,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-15T15:59:14.754246+00:00"
+    "discovered_at": "2026-11-15T20:53:48.241815+00:00"
   },
   {
     "id": "unstop:1805946",
@@ -1682,7 +1646,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-15T15:59:14.756166+00:00"
+    "discovered_at": "2026-11-15T20:53:48.244009+00:00"
   },
   {
     "id": "unstop:1799091",
@@ -1715,7 +1679,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-15T15:59:14.756267+00:00"
+    "discovered_at": "2026-11-15T20:53:48.244163+00:00"
   },
   {
     "id": "devpost:31108",
@@ -1750,14 +1714,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-15T15:59:21.820766+00:00"
+    "discovered_at": "2026-11-15T20:53:55.488800+00:00"
   },
   {
     "id": "devpost:31495",
     "source": "Devpost",
     "title": "IceHacks",
     "url": "https://icehacks.devpost.com/",
-    "description": "Devpost hackathon. about 10 hours left",
+    "description": "Devpost hackathon. about 5 hours left",
     "organizer": "CodeStarters",
     "venue": "Online",
     "mode": "Online",
@@ -1785,7 +1749,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-15T15:59:21.733398+00:00"
+    "discovered_at": "2026-11-15T20:53:55.361931+00:00"
   },
   {
     "id": "devpost:31644",
@@ -1819,7 +1783,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-15T15:59:21.664835+00:00"
+    "discovered_at": "2026-11-15T20:53:55.218166+00:00"
   },
   {
     "id": "devpost:31773",
@@ -1853,7 +1817,42 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-15T15:59:21.733408+00:00"
+    "discovered_at": "2026-11-15T20:53:55.361945+00:00"
+  },
+  {
+    "id": "devpost:31795",
+    "source": "Devpost",
+    "title": "AccessED Hacks",
+    "url": "https://accessed-hacks.devpost.com/",
+    "description": "Devpost hackathon. 5 days left",
+    "organizer": "AccessEDnpo",
+    "venue": "Online",
+    "mode": "Online",
+    "city": null,
+    "state": null,
+    "country": null,
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": "Oct 17 - Nov 20, 2026",
+    "min_team_size": 1,
+    "max_team_size": null,
+    "solo_allowed": true,
+    "eligibility": "Global Devpost Participants",
+    "prize_pool": "$ 225",
+    "tracks": [
+      "Beginner Friendly",
+      "Education",
+      "Social Good"
+    ],
+    "score": 50,
+    "matched_reasons": [
+      "🌐 **Accessible Online Mode** (+15 pts)",
+      "👤 **Solo Eligible (1 Member)** (+35 pts)"
+    ],
+    "is_nagpur_local": false,
+    "is_maharashtra": false,
+    "is_active": true,
+    "discovered_at": "2026-11-15T20:53:55.488825+00:00"
   },
   {
     "id": "unstop:1802400",
@@ -1892,7 +1891,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-15T15:59:14.757011+00:00"
+    "discovered_at": "2026-11-15T20:53:48.245201+00:00"
   },
   {
     "id": "unstop:1798287",
@@ -1925,7 +1924,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-15T15:59:14.754899+00:00"
+    "discovered_at": "2026-11-15T20:53:48.242213+00:00"
   },
   {
     "id": "unstop:1810268",
@@ -1959,7 +1958,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-15T15:59:14.754421+00:00"
+    "discovered_at": "2026-11-15T20:53:48.242040+00:00"
   },
   {
     "id": "unstop:1806122",
@@ -1998,7 +1997,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-15T15:59:14.756090+00:00"
+    "discovered_at": "2026-11-15T20:53:48.243900+00:00"
   },
   {
     "id": "unstop:1803074",
@@ -2031,7 +2030,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-15T15:59:14.756520+00:00"
+    "discovered_at": "2026-11-15T20:53:48.244539+00:00"
   },
   {
     "id": "unstop:1809486",
@@ -2064,6 +2063,6 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-15T15:59:14.755003+00:00"
+    "discovered_at": "2026-11-15T20:53:48.242355+00:00"
   }
 ]

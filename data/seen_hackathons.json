@@ -3292,5 +3292,14 @@
     "last_notified": "2026-11-14T21:02:08.825321+00:00",
     "is_nagpur_local": false,
     "solo_allowed": false
+  },
+  "devpost:32006": {
+    "title": "HackUMass XIV",
+    "url": "https://hackumass-xiv.devpost.com/",
+    "score": 60,
+    "source": "Devpost",
+    "last_notified": "2026-11-15T08:40:42.972581+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
   }
 }

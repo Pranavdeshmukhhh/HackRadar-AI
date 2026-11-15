@@ -33,7 +33,7 @@
     "is_nagpur_local": true,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-15T08:40:42.488747+00:00"
+    "discovered_at": "2026-11-15T15:59:23.870590+00:00"
   },
   {
     "id": "unstop:1800629",
@@ -72,7 +72,7 @@
     "is_nagpur_local": true,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-15T08:40:32.530054+00:00"
+    "discovered_at": "2026-11-15T15:59:14.756462+00:00"
   },
   {
     "id": "college:mindsparkorg",
@@ -108,7 +108,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": true,
     "is_active": true,
-    "discovered_at": "2026-11-15T08:40:42.499359+00:00"
+    "discovered_at": "2026-11-15T15:59:24.115643+00:00"
   },
   {
     "id": "unstop:1807080",
@@ -149,7 +149,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-15T08:40:32.528887+00:00"
+    "discovered_at": "2026-11-15T15:59:14.755964+00:00"
   },
   {
     "id": "unstop:1803912",
@@ -183,7 +183,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-15T08:40:32.529906+00:00"
+    "discovered_at": "2026-11-15T15:59:14.756361+00:00"
   },
   {
     "id": "unstop:1805107",
@@ -223,7 +223,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-15T08:40:32.528576+00:00"
+    "discovered_at": "2026-11-15T15:59:14.755376+00:00"
   },
   {
     "id": "unstop:1806984",
@@ -265,7 +265,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-15T08:40:32.528056+00:00"
+    "discovered_at": "2026-11-15T15:59:14.755480+00:00"
   },
   {
     "id": "unstop:1807297",
@@ -305,7 +305,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-15T08:40:32.528754+00:00"
+    "discovered_at": "2026-11-15T15:59:14.755870+00:00"
   },
   {
     "id": "unstop:1811016",
@@ -346,7 +346,41 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-15T08:40:32.526944+00:00"
+    "discovered_at": "2026-11-15T15:59:14.754302+00:00"
+  },
+  {
+    "id": "unstop:1811493",
+    "source": "Unstop",
+    "title": "ELU Build",
+    "url": "https://unstop.com/hackathons/elubuild-edulinkup-1811493",
+    "description": "About ELUBuild ELUBuild is the flagship solo product-building challenge by EduLinkUp . Over the course of the buildathon, individual builders pitch innovative software ideas, and once approved, build, document, and ship real-world SaaS applications from the ground up. The mission of ELUBuild is to discover and empower solo builders to create sustainable, user-ready digital products. Exceptional projects will be selected for integration into the ELU Store platform, with opportunities for direct deployment, hosting, and potential publishing on the Google Play Store on behalf of EduLinkUp. The Complete Event Flow ELUBuild runs across clear, structured phases: Registration &amp; Track Exploration: Register via the EduLinkUp mobile app. Review the announced tracks and loose problem statement suggestions provided by EduLinkUp. These serve as inspiration-participants are completely free to think beyond these suggestions and tackle any authentic, high-impact problem within the domain. Use this phase to brainstorm, validate needs, and prepare your pitch before the idea portal opens. Idea Submission Phase: When the idea window opens, submit your idea proposal (project name, problem statement, target users, proposed solution, anticipated tech stack, solo buildability feasibility, and an explanatory video link). You can submit anytime while the window is active. Continuous Review &amp; Approval: The EduLinkUp team reviews submissions on a rolling basis. Ideas can be approved at any time while the window is open. Share Your Vision: Once your idea is approved, you can (and are encouraged to) publish your explanatory pitch video on social media. Social Media Engagement Leaderboard (Active in Idea &amp; Build Phases): A dedicated engagement leaderboard tracks reach, quality, and engagement of participants' social media posts across both the Idea Phase and the Building Phase . Compelling explanations, progress updates, and demos that resonate with the community rank higher. Idea Phase Closure, Review &amp; Stage 1 Certification: The idea submission portal closes at 11:59 PM IST on the deadline day. The final review round is completed, and results are officially released to all participants. Stage 1 Certification: All builders whose ideas are approved receive official Stage 1 ELUBuild recognition and advance to the building phase. Building Phase (Next.js + Supabase): Building takes place inside the edulinkup-interns GitHub organisation. Shortlisted builders create their public repository under edulinkup-interns . Mandatory Tech Stack: Projects must be built using Next.js and Supabase , with authentication integrated via EduLinkUp OAuth ( @edulinkup/auth SDK). Detailed step by step instructions/guide of connecting your site with EduLinkUp OAuth will be shared before the building phase. Weekly Social Updates: Builders must share at least one weekly progress update on social media (e.g., #buildinpublic , feature demos, architecture highlights, or lessons learned). Engaging, authentic content helps you climb the Social Leaderboard. Repository Commits &amp; Commit Quality Leaderboard: Steady, consistent development through the build window is tracked on a dedicated Commit Leaderboard . Quality &amp; Consistency Over Raw Volume: Scoring evaluates steady engineering rhythm, meaningful commit messages, and genuine code evolution-not artificial commit spamming or scripts. Manual Audits: Code and repository activity will be regularly inspected manually. Use of commit bots, artificial commit scripts, or bulk dumping pre-existing code on the final day will lead to immediate disqualification . Final Submission &amp; Judging: Submit your GitHub repository (under edulinkup-interns ), a deployed live demo URL, and a comprehensive product walkthrough video. Independent evaluations determine top ranks (Winner / Top 1, Top 3, Top 5, Top 7, and All participants). Event Conclusion, Rewards &amp; ELU Store Integration: Winners and top builders receive trophies, official swags kits, domain vouchers, AI interview vouchers, and certificates. ELU Store Launch: The best app(s) are selected for ecosystem integration into the ELU Store , with maintenance support, live showcase, and potential Google Play Store publication under the EduLinkUp organisation. Participation &amp; Eligibility Solo Builders Only: Participation is strictly individual. No teams, shared accounts, or outsourced engineering. App-Verified Registration: Registration must be completed via the official EduLinkUp Android app. GitHub Requirement: A valid GitHub profile link must be provided. EduLinkUp issues invitations to the edulinkup-interns organization. Ensure you accept the GitHub organization invite before the build window starts. One Idea Per Participant: Each builder may submit one proposal per edition. Ideas can be edited until the submission window closes. Idea Proposal Submission Guidelines Your pitch must address a real-world problem and clearly articulate how it will be delivered solo. Submissions include: Project Name: Clear, brandable name for your product. Problem Statement: Specific, concrete friction point you are solving. Target Users: Exact demographic or professional segment that experiences this problem. Evidence of Need: Why this problem exists and proof that users care. Proposed Solution: Your functional approach and feature roadmap. Anticipated Tech Stack: Confirmation of Next.js, Supabase, and auxiliary APIs/libraries. Solo Buildability Note: Feasibility explanation detailing how the core MVP can be built solo within the build window. Idea Video Link: A public link (YouTube, Loom, Google Drive) explaining your concept clearly in English or Hindi (1-3 minutes). Note: Ideas are reviewed on merit and feasibility. Clearing this stage qualifies you for the Stage 1 Certificate and unlocks the Building Phase. Technical &amp; Building Standards All projects in the building phase must adhere to the following rules: GitHub Organization: All code must live inside a public repository created in the edulinkup-interns GitHub organisation. Repository ownership remains with the organisation. Standard Tech Stack: Frontend &amp; Framework: Next.js (App Router recommended). Backend &amp; Database: Individual Supabase project owned and managed by the participant. Authentication: EduLinkUp OAuth using @edulinkup/auth . Detailed step-by-step instructions and guides for connecting your application with EduLinkUp OAuth will be shared with all shortlisted builders prior to the building phase. Genuine Work Created in Window: All code must be authored during the active build window. Re-submitting existing projects or templates with trivial tweaks is strictly prohibited. Secret Security: Never commit service-role keys, private API secrets, or database passwords to public repositories. Utilise .env.local and environment variables. Permitted Resources: Open-source npm packages, public APIs, and AI coding assistants (e.g., Gemini, Copilot, Cursor) are allowed, provided you understand, customize, and own your codebase. Integrity &amp; Anti-Bot Rule: Commits must reflect authentic engineering progress. Scripted commit bots, fake green-square generators, or plagiarized repos result in immediate disqualification. Final Submission Checklist At the conclusion of the build window, participants submit: Repository Link: Working, clean repository in edulinkup-interns . Live Production URL: A fast, functional deployed application (e.g., on Vercel) that judges and visitors can test directly. Demo &amp; Walkthrough Video: Public video demonstrating the end-to-end user workflow, core features, and product value. Builder Philosophy ELUBuild is not an academic exercise or a mock hackathon. It is a launchpad to build an authentic, lasting software product that people genuinely use. Build independently. Build publicly. Build something worth keeping. A solo product-building competition: pitch an idea, and if it is shortlisted, build and ship it in the build window. Each edition has one fixed track and one winner.",
+    "organizer": "EduLinkUp",
+    "venue": "Online",
+    "mode": "Online",
+    "city": null,
+    "state": "online",
+    "country": null,
+    "start_date": "2026-11-15T00:00:00+05:30",
+    "end_date": "2026-12-25T23:59:00+05:30",
+    "registration_deadline": "2026-12-25T23:59:00+05:30",
+    "min_team_size": 1,
+    "max_team_size": 1,
+    "solo_allowed": true,
+    "eligibility": "Open to college students & coders",
+    "prize_pool": "Prizes & Certificates",
+    "tracks": [
+      "All"
+    ],
+    "score": 75,
+    "matched_reasons": [
+      "🌐 **Accessible Online Mode** (+15 pts)",
+      "👤 **Solo Eligible (1 Member)** (+35 pts)",
+      "🤖 **AI & Software Tracks** (+25 pts) [AI, Frontend, Backend]"
+    ],
+    "is_nagpur_local": false,
+    "is_maharashtra": false,
+    "is_active": true,
+    "discovered_at": "2026-11-15T15:59:14.754072+00:00"
   },
   {
     "id": "unstop:1761846",
@@ -386,7 +420,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-15T08:40:32.529235+00:00"
+    "discovered_at": "2026-11-15T15:59:14.755707+00:00"
   },
   {
     "id": "unstop:1802090",
@@ -420,7 +454,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": true,
     "is_active": true,
-    "discovered_at": "2026-11-15T08:40:32.530174+00:00"
+    "discovered_at": "2026-11-15T15:59:14.756537+00:00"
   },
   {
     "id": "unstop:1802089",
@@ -454,7 +488,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": true,
     "is_active": true,
-    "discovered_at": "2026-11-15T08:40:32.530811+00:00"
+    "discovered_at": "2026-11-15T15:59:16.993833+00:00"
   },
   {
     "id": "hackerearth:contextcon-remember-everything",
@@ -490,7 +524,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-15T08:40:40.906184+00:00"
+    "discovered_at": "2026-11-15T15:59:22.603322+00:00"
   },
   {
     "id": "devpost:30740",
@@ -526,7 +560,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-15T08:40:39.960124+00:00"
+    "discovered_at": "2026-11-15T15:59:21.733386+00:00"
   },
   {
     "id": "devpost:30764",
@@ -562,7 +596,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-15T08:40:40.031799+00:00"
+    "discovered_at": "2026-11-15T15:59:21.820737+00:00"
   },
   {
     "id": "devpost:31787",
@@ -598,7 +632,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-15T08:40:40.031820+00:00"
+    "discovered_at": "2026-11-15T15:59:21.820744+00:00"
   },
   {
     "id": "devpost:31642",
@@ -634,7 +668,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-15T08:40:39.960140+00:00"
+    "discovered_at": "2026-11-15T15:59:21.733392+00:00"
   },
   {
     "id": "devpost:31083",
@@ -670,7 +704,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-15T08:40:39.870257+00:00"
+    "discovered_at": "2026-11-15T15:59:21.664830+00:00"
   },
   {
     "id": "devpost:31480",
@@ -706,14 +740,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-15T08:40:40.031828+00:00"
+    "discovered_at": "2026-11-15T15:59:21.820756+00:00"
   },
   {
     "id": "devpost:31973",
     "source": "Devpost",
     "title": "Deck the Pixels",
     "url": "https://deckthepixels.devpost.com/",
-    "description": "Devpost hackathon. 23 days left",
+    "description": "Devpost hackathon. 22 days left",
     "organizer": "Google",
     "venue": "Online",
     "mode": "Online",
@@ -742,14 +776,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-15T08:40:39.960109+00:00"
+    "discovered_at": "2026-11-15T15:59:21.733369+00:00"
   },
   {
     "id": "devpost:32079",
     "source": "Devpost",
     "title": "Learn AR with SPECS",
     "url": "https://learn-specs.devpost.com/",
-    "description": "Devpost hackathon. 23 days left",
+    "description": "Devpost hackathon. 22 days left",
     "organizer": "Devpost",
     "venue": "Online",
     "mode": "Online",
@@ -778,14 +812,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-15T08:40:39.960179+00:00"
+    "discovered_at": "2026-11-15T15:59:21.733413+00:00"
   },
   {
     "id": "devpost:31808",
     "source": "Devpost",
     "title": "#BuildHybridAI 2026",
     "url": "https://firebasehybridaihackathon.devpost.com/",
-    "description": "Devpost hackathon. 16 days left",
+    "description": "Devpost hackathon. 15 days left",
     "organizer": "Google",
     "venue": "Online",
     "mode": "Online",
@@ -814,14 +848,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-15T08:40:39.870242+00:00"
+    "discovered_at": "2026-11-15T15:59:21.664825+00:00"
   },
   {
     "id": "devpost:32024",
     "source": "Devpost",
     "title": "Relate by Neo4j Hackathon",
     "url": "https://relate.devpost.com/",
-    "description": "Devpost hackathon. 27 days left",
+    "description": "Devpost hackathon. 26 days left",
     "organizer": "Neo4j",
     "venue": "Online",
     "mode": "Online",
@@ -850,7 +884,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-15T08:40:40.031806+00:00"
+    "discovered_at": "2026-11-15T15:59:21.820720+00:00"
   },
   {
     "id": "devpost:32026",
@@ -886,7 +920,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-15T08:40:39.870282+00:00"
+    "discovered_at": "2026-11-15T15:59:21.664845+00:00"
   },
   {
     "id": "hackerearth:mks-inc-hackathon",
@@ -922,7 +956,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-15T08:40:40.906170+00:00"
+    "discovered_at": "2026-11-15T15:59:22.603311+00:00"
   },
   {
     "id": "hackerearth:ibm-z-day",
@@ -958,7 +992,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-15T08:40:40.906148+00:00"
+    "discovered_at": "2026-11-15T15:59:22.603289+00:00"
   },
   {
     "id": "hackerearth:groww-next-2026",
@@ -994,7 +1028,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-15T08:40:40.906196+00:00"
+    "discovered_at": "2026-11-15T15:59:22.603330+00:00"
   },
   {
     "id": "devpost:31789",
@@ -1030,14 +1064,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-15T08:40:40.031777+00:00"
+    "discovered_at": "2026-11-15T15:59:21.733417+00:00"
   },
   {
     "id": "devpost:31796",
     "source": "Devpost",
     "title": "SafeSpace Hacks",
     "url": "https://safespace-hacks.devpost.com/",
-    "description": "Devpost hackathon. 8 days left",
+    "description": "Devpost hackathon. 7 days left",
     "organizer": "SafeSpace",
     "venue": "Online",
     "mode": "Online",
@@ -1066,7 +1100,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-15T08:40:40.031791+00:00"
+    "discovered_at": "2026-11-15T15:59:21.733422+00:00"
   },
   {
     "id": "devpost:30789",
@@ -1102,14 +1136,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-15T08:40:39.870274+00:00"
+    "discovered_at": "2026-11-15T15:59:21.664840+00:00"
   },
   {
     "id": "devpost:31552",
     "source": "Devpost",
     "title": "UGREEN Hackathon 2026 on AI NAS",
     "url": "https://ugreenhackathon.devpost.com/",
-    "description": "Devpost hackathon. about 23 hours left",
+    "description": "Devpost hackathon. about 16 hours left",
     "organizer": "UGREEN",
     "venue": "Online",
     "mode": "Online",
@@ -1138,7 +1172,43 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-15T08:40:39.870217+00:00"
+    "discovered_at": "2026-11-15T15:59:21.664819+00:00"
+  },
+  {
+    "id": "devpost:26475",
+    "source": "Devpost",
+    "title": "Dakar Bitcoin Hack by BTrust",
+    "url": "https://dakar-bitcoin-hack-2026.devpost.com/",
+    "description": "Devpost hackathon. 5 days left",
+    "organizer": "Dakar Bitcoin Days",
+    "venue": "Online",
+    "mode": "Online",
+    "city": null,
+    "state": null,
+    "country": null,
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": "Oct 26 - Nov 20, 2026",
+    "min_team_size": 1,
+    "max_team_size": null,
+    "solo_allowed": true,
+    "eligibility": "Global Devpost Participants",
+    "prize_pool": "$ 900",
+    "tracks": [
+      "Blockchain",
+      "Fintech",
+      "Machine Learning/AI"
+    ],
+    "score": 75,
+    "matched_reasons": [
+      "🌐 **Accessible Online Mode** (+15 pts)",
+      "👤 **Solo Eligible (1 Member)** (+35 pts)",
+      "🤖 **AI & Software Tracks** (+25 pts) [AI, Machine Learning, Blockchain]"
+    ],
+    "is_nagpur_local": false,
+    "is_maharashtra": false,
+    "is_active": true,
+    "discovered_at": "2026-11-15T15:59:21.820776+00:00"
   },
   {
     "id": "devpost:31572",
@@ -1174,14 +1244,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-15T08:40:39.870199+00:00"
+    "discovered_at": "2026-11-15T15:59:21.664812+00:00"
   },
   {
     "id": "devpost:31907",
     "source": "Devpost",
     "title": "Build Your First AI App",
     "url": "https://build-your-first-ai-app.devpost.com/",
-    "description": "Devpost hackathon. 13 days left",
+    "description": "Devpost hackathon. 12 days left",
     "organizer": "Yasir Insights",
     "venue": "Online",
     "mode": "Online",
@@ -1210,14 +1280,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-15T08:40:39.960171+00:00"
+    "discovered_at": "2026-11-15T15:59:21.733403+00:00"
   },
   {
     "id": "devpost:31667",
     "source": "Devpost",
     "title": "Kiroween 2026",
     "url": "https://kiroween.devpost.com/",
-    "description": "Devpost hackathon. 20 days left",
+    "description": "Devpost hackathon. 19 days left",
     "organizer": "Kiro",
     "venue": "Online",
     "mode": "Online",
@@ -1246,14 +1316,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-15T08:40:39.870155+00:00"
+    "discovered_at": "2026-11-15T15:59:21.664755+00:00"
   },
   {
     "id": "devpost:31187",
     "source": "Devpost",
     "title": "STEMergent Hacks 2026",
     "url": "https://stemergent-hacks.devpost.com/",
-    "description": "Devpost hackathon. about 19 hours left",
+    "description": "Devpost hackathon. about 12 hours left",
     "organizer": "STEMergent",
     "venue": "Online",
     "mode": "Online",
@@ -1282,7 +1352,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-15T08:40:40.031813+00:00"
+    "discovered_at": "2026-11-15T15:59:21.820748+00:00"
   },
   {
     "id": "devpost:31024",
@@ -1318,46 +1388,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-15T08:40:39.870180+00:00"
-  },
-  {
-    "id": "unstop:1771951",
-    "source": "Unstop",
-    "title": "Competitive Programming",
-    "url": "https://unstop.com/hackathons/competitive-programming-acharya-institute-of-technology-1771951",
-    "description": "CP Website Registration All participants must register through the official Tech Habba platform using the link below. Tech Habba Website: https://tech-habba26.vercel.app/ Event Description Compete in a timed competitive programming challenge by solving a set of algorithmic problems of increasing difficulty. Submissions are evaluated automatically for correctness, and the leaderboard is ranked based on problems solved and total time, including penalties for incorrect submissions. Problems will cover arrays, strings, sorting, greedy algorithms, graphs, and dynamic programming. Guidelines Eligibility: Open to students from any college. Participation Format: Individual participation only. Team participation is not permitted. College ID: Participants must carry a valid college ID card for verification. Programming Languages: C, C++, Java, and Python are supported on the judging platform. Problem Statements: Participants will solve algorithmic problems of varying difficulty, covering arrays, strings, sorting, greedy algorithms, graphs, and dynamic programming. Duration: The contest will run for a fixed duration announced by the organizers. Evaluation: All submissions will be judged automatically on predefined test cases. Leaderboard: Rankings will be determined by the number of problems solved, followed by total time, including penalties for incorrect submissions. Requirements: Participants must bring their own laptop and charger. Rules Supported Languages: Only C, C++, Java, and Python are permitted for submissions. Scoring: Participants will be ranked by the number of problems solved. Ties will be broken using total time, including penalties for incorrect submissions. Fair Play: Collaboration, the use of AI assistants, and any form of outside help during the contest are strictly prohibited. Plagiarism: Copying solutions or submitting plagiarized code will result in disqualification. Independent Participation: Each participant must solve the problems independently and submit their own solutions. Submission Deadline: All solutions must be submitted within the allotted contest duration. Late submissions will not be accepted. Final Decisions: Decisions made by the organizers regarding judging, scoring, disputes, and disqualification will be final.",
-    "organizer": "Acharya Institute of Technology",
-    "venue": "offline",
-    "mode": "In-Person",
-    "city": null,
-    "state": "offline",
-    "country": null,
-    "start_date": "2026-10-18T00:00:00+05:30",
-    "end_date": "2026-11-20T18:30:00+05:30",
-    "registration_deadline": "2026-11-15T18:30:00+05:30",
-    "min_team_size": 1,
-    "max_team_size": 1,
-    "solo_allowed": true,
-    "eligibility": "Undergraduate / Postgraduate & Engineering students",
-    "prize_pool": "Prizes & Certificates",
-    "tracks": [
-      "Engineering Students",
-      "Postgraduate",
-      "Undergraduate",
-      "Management",
-      "Medical",
-      "Law",
-      "Arts, Commerce, Sciences & Others"
-    ],
-    "score": 60,
-    "matched_reasons": [
-      "👤 **Solo Eligible (1 Member)** (+35 pts)",
-      "🤖 **AI & Software Tracks** (+25 pts) [AI]"
-    ],
-    "is_nagpur_local": false,
-    "is_maharashtra": false,
-    "is_active": true,
-    "discovered_at": "2026-11-15T08:40:34.686988+00:00"
+    "discovered_at": "2026-11-15T15:59:21.664777+00:00"
   },
   {
     "id": "unstop:1807596",
@@ -1396,7 +1427,46 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-15T08:40:32.528649+00:00"
+    "discovered_at": "2026-11-15T15:59:14.755428+00:00"
+  },
+  {
+    "id": "unstop:1811240",
+    "source": "Unstop",
+    "title": "The Algo Trading Innovation Challenge",
+    "url": "https://unstop.com/hackathons/the-algo-trading-innovation-challenge-iit-bombay-1811240",
+    "description": "About The Algo Trading Innovation Challenge is a national fintech competition by Delta Exchange and Techfest, IIT Bombay, built around a stark fact: SEBI found that 87.7% of individual equity-derivatives traders made net losses in FY26. Teams study Delta Exchange's AlgoHub, its ecosystem of six algorithmic trading features, identify a significant gap that Futures and Options traders face, and design an original, AI-assisted capability that goes beyond what the platform offers today. The top 50 teams turn their ideas into working prototypes at an on-campus hackathon at Techfest, IIT Bombay, Asia's largest science and technology festival. Structure The competition runs in two rounds, with Round 2 as an on-campus hackathon at Techfest, IIT Bombay. Eligibility: Open to all students with a valid ID from their educational institution. Cross-institutional teams are encouraged. Team size: Maximum 4 members per team. The Challenge: Teams select one or two (maximum two) of the six AlgoHub features, Algo Marketplace, Algo Builder, API Copilot, Trading Bot, APIs, or Trade Data, identify a significant product gap or unmet need that F&amp;O traders face within them, and design an innovative, AI-assisted capability that adds meaningful functionality beyond what exists today. Teams may propose an independent innovation per feature or one unified solution covering both. Delta Exchange is already working on natural-language strategy creation, backtesting, and trading intelligence, so teams are encouraged not to build their proposal primarily around those capabilities. Round 1 - Online Submission (Screening) A conceptual round; no working prototype is required and teams do not need to deploy live strategies or trade with real capital. Teams submit a presentation of no more than 6 slides (PPT/PPTX or PDF export) covering: Selected Feature(s) &amp; Product Understanding Problem Identification &amp; Product Gap Proposed AI-Assisted Innovation Real-World Trading Use Case Technical Approach &amp; Feasibility Expected Impact &amp; Value Only the Team Leader may submit. The 50 highest-scoring teams qualify for Round 2; ties at the cutoff are broken by the higher score in Innovation &amp; AI Application, then Problem Identification &amp; Trader Relevance, then Technical Feasibility. Round 2 - On-Campus Hackathon at IIT Bombay The top 50 teams develop their proposed innovations into working prototypes and demonstrate them at Techfest, IIT Bombay. Detailed format and judging guidelines will be shared with shortlisted teams. Timeline Registration closes - 30th November 2026 Round 1 submission deadline - 30th November 2026 Shortlist announcement - 5th December 2026 Finals (on-campus hackathon at IIT Bombay) - 15th-18th December 2026 Rewards and Prizes INR 50,000 for the top 3 winners. Certificates for all participants who qualify for Round 2.",
+    "organizer": "Indian Institute of Technology (IIT), Bombay",
+    "venue": "offline",
+    "mode": "In-Person",
+    "city": null,
+    "state": "offline",
+    "country": null,
+    "start_date": "2026-11-15T00:00:00+05:30",
+    "end_date": "2026-11-29T00:00:00+05:30",
+    "registration_deadline": "2026-11-29T00:00:00+05:30",
+    "min_team_size": 1,
+    "max_team_size": 4,
+    "solo_allowed": true,
+    "eligibility": "Undergraduate / Postgraduate & Engineering students",
+    "prize_pool": "Prizes & Certificates",
+    "tracks": [
+      "Engineering Students",
+      "Postgraduate",
+      "Undergraduate",
+      "Management",
+      "Medical",
+      "Law",
+      "Arts, Commerce, Sciences & Others"
+    ],
+    "score": 60,
+    "matched_reasons": [
+      "👤 **Solo Eligible (1 Member)** (+35 pts)",
+      "🤖 **AI & Software Tracks** (+25 pts) [AI, API]"
+    ],
+    "is_nagpur_local": false,
+    "is_maharashtra": false,
+    "is_active": true,
+    "discovered_at": "2026-11-15T15:59:14.754187+00:00"
   },
   {
     "id": "unstop:1781454",
@@ -1435,7 +1505,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-15T08:40:34.686771+00:00"
+    "discovered_at": "2026-11-15T15:59:16.993960+00:00"
   },
   {
     "id": "unstop:1787722",
@@ -1468,77 +1538,42 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-15T08:40:32.529690+00:00"
+    "discovered_at": "2026-11-15T15:59:14.756211+00:00"
   },
   {
-    "id": "devpost:31990",
+    "id": "devpost:31746",
     "source": "Devpost",
-    "title": "HackPrinceton Fall '26",
-    "url": "https://hackprinceton-fall-26.devpost.com/",
-    "description": "Devpost hackathon. about 5 hours left",
-    "organizer": "Princeton University",
-    "venue": "JRR, LAS, Robertson, Friend",
+    "title": "University Blockchain Conference Hackathon 2026",
+    "url": "https://ubc-hackathon-2026.devpost.com/",
+    "description": "Devpost hackathon. 5 days left",
+    "organizer": "college.xyz",
+    "venue": "University of Texas at Austin",
     "mode": "In-Person",
     "city": null,
     "state": null,
     "country": null,
     "start_date": null,
     "end_date": null,
-    "registration_deadline": "Nov 13 - 15, 2026",
+    "registration_deadline": "Nov 13 - 20, 2026",
     "min_team_size": 1,
     "max_team_size": null,
     "solo_allowed": true,
     "eligibility": "Global Devpost Participants",
-    "prize_pool": "$ 10,312",
+    "prize_pool": "$ 22,000",
     "tracks": [
-      "Education",
-      "Machine Learning/AI",
-      "Social Good"
+      "Blockchain",
+      "Fintech",
+      "Machine Learning/AI"
     ],
     "score": 60,
     "matched_reasons": [
       "👤 **Solo Eligible (1 Member)** (+35 pts)",
-      "🤖 **AI & Software Tracks** (+25 pts) [AI, Machine Learning]"
+      "🤖 **AI & Software Tracks** (+25 pts) [AI, Machine Learning, Blockchain]"
     ],
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-15T08:40:39.960133+00:00"
-  },
-  {
-    "id": "devpost:32006",
-    "source": "Devpost",
-    "title": "HackUMass XIV",
-    "url": "https://hackumass-xiv.devpost.com/",
-    "description": "Devpost hackathon. about 5 hours left",
-    "organizer": "HackUMass",
-    "venue": "Integrative Learning Center",
-    "mode": "In-Person",
-    "city": null,
-    "state": null,
-    "country": null,
-    "start_date": null,
-    "end_date": null,
-    "registration_deadline": "Nov 13 - 15, 2026",
-    "min_team_size": 1,
-    "max_team_size": null,
-    "solo_allowed": true,
-    "eligibility": "Global Devpost Participants",
-    "prize_pool": "$ 0",
-    "tracks": [
-      "Beginner Friendly",
-      "Machine Learning/AI",
-      "Web"
-    ],
-    "score": 60,
-    "matched_reasons": [
-      "👤 **Solo Eligible (1 Member)** (+35 pts)",
-      "🤖 **AI & Software Tracks** (+25 pts) [AI, Machine Learning]"
-    ],
-    "is_nagpur_local": false,
-    "is_maharashtra": false,
-    "is_active": true,
-    "discovered_at": "2026-11-15T08:40:39.960158+00:00"
+    "discovered_at": "2026-11-15T15:59:21.820771+00:00"
   },
   {
     "id": "unstop:1799791",
@@ -1575,7 +1610,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-15T08:40:32.530861+00:00"
+    "discovered_at": "2026-11-15T15:59:16.993888+00:00"
   },
   {
     "id": "unstop:1811085",
@@ -1608,7 +1643,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-15T08:40:32.527343+00:00"
+    "discovered_at": "2026-11-15T15:59:14.754246+00:00"
   },
   {
     "id": "unstop:1805946",
@@ -1628,10 +1663,16 @@
     "min_team_size": 1,
     "max_team_size": 4,
     "solo_allowed": true,
-    "eligibility": "Open to college students & coders",
+    "eligibility": "Undergraduate / Postgraduate & Engineering students",
     "prize_pool": "Prizes & Certificates",
     "tracks": [
-      "All"
+      "Engineering Students",
+      "Postgraduate",
+      "Undergraduate",
+      "Management",
+      "Medical",
+      "Law",
+      "Arts, Commerce, Sciences & Others"
     ],
     "score": 50,
     "matched_reasons": [
@@ -1641,7 +1682,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-15T08:40:32.529627+00:00"
+    "discovered_at": "2026-11-15T15:59:14.756166+00:00"
   },
   {
     "id": "unstop:1799091",
@@ -1674,7 +1715,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-15T08:40:32.529770+00:00"
+    "discovered_at": "2026-11-15T15:59:14.756267+00:00"
   },
   {
     "id": "devpost:31108",
@@ -1709,14 +1750,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-15T08:40:40.031842+00:00"
+    "discovered_at": "2026-11-15T15:59:21.820766+00:00"
   },
   {
     "id": "devpost:31495",
     "source": "Devpost",
     "title": "IceHacks",
     "url": "https://icehacks.devpost.com/",
-    "description": "Devpost hackathon. about 17 hours left",
+    "description": "Devpost hackathon. about 10 hours left",
     "organizer": "CodeStarters",
     "venue": "Online",
     "mode": "Online",
@@ -1744,14 +1785,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-15T08:40:39.960147+00:00"
+    "discovered_at": "2026-11-15T15:59:21.733398+00:00"
   },
   {
     "id": "devpost:31644",
     "source": "Devpost",
     "title": "Reddit’s Game of the Day Hackathon",
     "url": "https://redditgameofday2026.devpost.com/",
-    "description": "Devpost hackathon. 24 days left",
+    "description": "Devpost hackathon. 23 days left",
     "organizer": "reddit",
     "venue": "Online",
     "mode": "Online",
@@ -1778,14 +1819,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-15T08:40:39.870266+00:00"
+    "discovered_at": "2026-11-15T15:59:21.664835+00:00"
   },
   {
     "id": "devpost:31773",
     "source": "Devpost",
     "title": "LaunchPad Hacks (Judges + Sponsors Needed)",
     "url": "https://launchpad-hacks.devpost.com/",
-    "description": "Devpost hackathon. 20 days left",
+    "description": "Devpost hackathon. 19 days left",
     "organizer": "Hack4TodayOrg",
     "venue": "Online",
     "mode": "Online",
@@ -1812,7 +1853,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-15T08:40:39.960164+00:00"
+    "discovered_at": "2026-11-15T15:59:21.733408+00:00"
   },
   {
     "id": "unstop:1802400",
@@ -1851,7 +1892,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-15T08:40:32.530777+00:00"
+    "discovered_at": "2026-11-15T15:59:14.757011+00:00"
   },
   {
     "id": "unstop:1798287",
@@ -1884,7 +1925,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-15T08:40:32.528231+00:00"
+    "discovered_at": "2026-11-15T15:59:14.754899+00:00"
   },
   {
     "id": "unstop:1810268",
@@ -1918,7 +1959,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-15T08:40:32.527495+00:00"
+    "discovered_at": "2026-11-15T15:59:14.754421+00:00"
   },
   {
     "id": "unstop:1806122",
@@ -1957,7 +1998,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-15T08:40:32.529515+00:00"
+    "discovered_at": "2026-11-15T15:59:14.756090+00:00"
   },
   {
     "id": "unstop:1803074",
@@ -1990,7 +2031,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-15T08:40:32.530149+00:00"
+    "discovered_at": "2026-11-15T15:59:14.756520+00:00"
   },
   {
     "id": "unstop:1809486",
@@ -2023,6 +2064,6 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-15T08:40:32.528375+00:00"
+    "discovered_at": "2026-11-15T15:59:14.755003+00:00"
   }
 ]

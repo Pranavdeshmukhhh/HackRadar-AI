@@ -3301,5 +3301,23 @@
     "last_notified": "2026-11-15T08:40:42.972581+00:00",
     "is_nagpur_local": false,
     "solo_allowed": true
+  },
+  "unstop:1811493": {
+    "title": "ELU Build",
+    "url": "https://unstop.com/hackathons/elubuild-edulinkup-1811493",
+    "score": 75,
+    "source": "Unstop",
+    "last_notified": "2026-11-15T15:59:25.203221+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:1811240": {
+    "title": "The Algo Trading Innovation Challenge",
+    "url": "https://unstop.com/hackathons/the-algo-trading-innovation-challenge-iit-bombay-1811240",
+    "score": 60,
+    "source": "Unstop",
+    "last_notified": "2026-11-15T15:59:25.203221+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
   }
 }

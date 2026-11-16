@@ -33,7 +33,7 @@
     "is_nagpur_local": true,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-16T00:35:26.148041+00:00"
+    "discovered_at": "2026-11-16T07:30:40.252252+00:00"
   },
   {
     "id": "unstop:1800629",
@@ -72,7 +72,7 @@
     "is_nagpur_local": true,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-16T00:35:14.244521+00:00"
+    "discovered_at": "2026-11-16T07:30:22.465135+00:00"
   },
   {
     "id": "college:mindsparkorg",
@@ -108,7 +108,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": true,
     "is_active": true,
-    "discovered_at": "2026-11-16T00:35:26.076352+00:00"
+    "discovered_at": "2026-11-16T07:30:40.173372+00:00"
   },
   {
     "id": "unstop:1807080",
@@ -149,7 +149,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-16T00:35:14.243864+00:00"
+    "discovered_at": "2026-11-16T07:30:22.464033+00:00"
   },
   {
     "id": "unstop:1803912",
@@ -183,7 +183,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-16T00:35:14.244387+00:00"
+    "discovered_at": "2026-11-16T07:30:22.464902+00:00"
   },
   {
     "id": "unstop:1805107",
@@ -223,7 +223,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-16T00:35:14.243499+00:00"
+    "discovered_at": "2026-11-16T07:30:22.463434+00:00"
   },
   {
     "id": "unstop:1806984",
@@ -265,7 +265,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-16T00:35:14.243742+00:00"
+    "discovered_at": "2026-11-16T07:30:22.463831+00:00"
   },
   {
     "id": "unstop:1807297",
@@ -305,7 +305,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-16T00:35:14.243672+00:00"
+    "discovered_at": "2026-11-16T07:30:22.463714+00:00"
   },
   {
     "id": "unstop:1811016",
@@ -346,7 +346,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-16T00:35:14.242191+00:00"
+    "discovered_at": "2026-11-16T07:30:22.461406+00:00"
   },
   {
     "id": "unstop:1811493",
@@ -380,7 +380,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-16T00:35:14.241469+00:00"
+    "discovered_at": "2026-11-16T07:30:22.460141+00:00"
   },
   {
     "id": "unstop:1761846",
@@ -420,7 +420,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-16T00:35:14.243336+00:00"
+    "discovered_at": "2026-11-16T07:30:22.463274+00:00"
   },
   {
     "id": "unstop:1802090",
@@ -454,41 +454,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": true,
     "is_active": true,
-    "discovered_at": "2026-11-16T00:35:14.244640+00:00"
-  },
-  {
-    "id": "unstop:1802089",
-    "source": "Unstop",
-    "title": "SHE CODE",
-    "url": "https://unstop.com/hackathons/she-code-solutions-2k27-army-institute-of-technology-pune-1802089",
-    "description": "Description: A Women only coding-challenge AIT Technical Board brings an amazing opportunity for their female participants, a coding event exclusively meant for our female coders Here, the participants will be provided with a set of questions in order of their increasing difficulty and are expected to solve them as fast as possible Guidelines: The round will be of 1.5 Hours The round will be hosted on an Online Coding Platform and all the programs will be run and compiled online The contest link will be provided via E-mail Team Size: 1 So, Gear Up and keep coding! Join our official WhatsApp group to receive further details and critical future updates. Click Here To Join",
-    "organizer": "Army Institute of technology, Pune",
-    "venue": "hybrid",
-    "mode": "In-Person",
-    "city": null,
-    "state": "hybrid",
-    "country": null,
-    "start_date": "2026-11-09T00:00:00+05:30",
-    "end_date": "2027-03-06T15:00:00+05:30",
-    "registration_deadline": "2027-03-01T00:00:00+05:30",
-    "min_team_size": 1,
-    "max_team_size": 1,
-    "solo_allowed": true,
-    "eligibility": "Open to college students & coders",
-    "prize_pool": "Prizes & Certificates",
-    "tracks": [
-      "All"
-    ],
-    "score": 75,
-    "matched_reasons": [
-      "🏢 **Maharashtra Proximity** (+25 pts) [Pune]",
-      "🌐 **Accessible In-Person Mode** (+15 pts)",
-      "👤 **Solo Eligible (1 Member)** (+35 pts)"
-    ],
-    "is_nagpur_local": false,
-    "is_maharashtra": true,
-    "is_active": true,
-    "discovered_at": "2026-11-16T00:35:17.241005+00:00"
+    "discovered_at": "2026-11-16T07:30:22.465312+00:00"
   },
   {
     "id": "hackerearth:contextcon-remember-everything",
@@ -524,7 +490,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-16T00:35:24.659134+00:00"
+    "discovered_at": "2026-11-16T07:30:38.593851+00:00"
   },
   {
     "id": "devpost:30740",
@@ -560,7 +526,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-16T00:35:23.697332+00:00"
+    "discovered_at": "2026-11-16T07:30:37.696994+00:00"
   },
   {
     "id": "devpost:30764",
@@ -596,7 +562,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-16T00:35:23.855125+00:00"
+    "discovered_at": "2026-11-16T07:30:37.831212+00:00"
   },
   {
     "id": "devpost:31787",
@@ -632,7 +598,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-16T00:35:23.855134+00:00"
+    "discovered_at": "2026-11-16T07:30:37.831234+00:00"
   },
   {
     "id": "devpost:31642",
@@ -668,14 +634,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-16T00:35:23.697340+00:00"
+    "discovered_at": "2026-11-16T07:30:37.697002+00:00"
   },
   {
     "id": "devpost:31083",
     "source": "Devpost",
     "title": "QNX Global Hackathon",
     "url": "https://qnx.devpost.com/",
-    "description": "Devpost hackathon. 30 days left",
+    "description": "Devpost hackathon. 29 days left",
     "organizer": "QNX",
     "venue": "Online",
     "mode": "Online",
@@ -704,7 +670,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-16T00:35:23.534789+00:00"
+    "discovered_at": "2026-11-16T07:30:37.557808+00:00"
   },
   {
     "id": "devpost:31480",
@@ -740,7 +706,43 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-16T00:35:23.855150+00:00"
+    "discovered_at": "2026-11-16T07:30:37.831245+00:00"
+  },
+  {
+    "id": "devpost:31972",
+    "source": "Devpost",
+    "title": "SLAY HACKS",
+    "url": "https://slayy-hacks.devpost.com/",
+    "description": "Devpost hackathon. 22 days left",
+    "organizer": "cite & slayy",
+    "venue": "Online",
+    "mode": "Online",
+    "city": null,
+    "state": null,
+    "country": null,
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": "Nov 07 - Dec 07, 2026",
+    "min_team_size": 1,
+    "max_team_size": null,
+    "solo_allowed": true,
+    "eligibility": "Global Devpost Participants",
+    "prize_pool": "$ 4,500",
+    "tracks": [
+      "Beginner Friendly",
+      "Open Ended",
+      "Machine Learning/AI"
+    ],
+    "score": 75,
+    "matched_reasons": [
+      "🌐 **Accessible Online Mode** (+15 pts)",
+      "👤 **Solo Eligible (1 Member)** (+35 pts)",
+      "🤖 **AI & Software Tracks** (+25 pts) [AI, Machine Learning]"
+    ],
+    "is_nagpur_local": false,
+    "is_maharashtra": false,
+    "is_active": true,
+    "discovered_at": "2026-11-16T07:30:37.831279+00:00"
   },
   {
     "id": "devpost:31973",
@@ -776,7 +778,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-16T00:35:23.534809+00:00"
+    "discovered_at": "2026-11-16T07:30:37.557828+00:00"
   },
   {
     "id": "devpost:32079",
@@ -812,7 +814,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-16T00:35:23.697366+00:00"
+    "discovered_at": "2026-11-16T07:30:37.697022+00:00"
   },
   {
     "id": "devpost:31808",
@@ -848,7 +850,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-16T00:35:23.534782+00:00"
+    "discovered_at": "2026-11-16T07:30:37.557801+00:00"
   },
   {
     "id": "devpost:32024",
@@ -884,7 +886,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-16T00:35:23.697379+00:00"
+    "discovered_at": "2026-11-16T07:30:37.697035+00:00"
   },
   {
     "id": "devpost:32026",
@@ -920,7 +922,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-16T00:35:23.534803+00:00"
+    "discovered_at": "2026-11-16T07:30:37.557822+00:00"
   },
   {
     "id": "hackerearth:ibm-z-day",
@@ -956,7 +958,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-16T00:35:24.659106+00:00"
+    "discovered_at": "2026-11-16T07:30:38.593825+00:00"
   },
   {
     "id": "hackerearth:groww-next-2026",
@@ -992,7 +994,43 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-16T00:35:24.659147+00:00"
+    "discovered_at": "2026-11-16T07:30:38.593864+00:00"
+  },
+  {
+    "id": "devpost:31796",
+    "source": "Devpost",
+    "title": "SafeSpace Hacks - Judges Needed",
+    "url": "https://safespace-hacks.devpost.com/",
+    "description": "Devpost hackathon. 24 days left",
+    "organizer": "SafeSpace",
+    "venue": "Online",
+    "mode": "Online",
+    "city": null,
+    "state": null,
+    "country": null,
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": "Oct 17 - Dec 09, 2026",
+    "min_team_size": 1,
+    "max_team_size": null,
+    "solo_allowed": true,
+    "eligibility": "Global Devpost Participants",
+    "prize_pool": "$ 280",
+    "tracks": [
+      "Beginner Friendly",
+      "Cybersecurity",
+      "Social Good"
+    ],
+    "score": 75,
+    "matched_reasons": [
+      "🌐 **Accessible Online Mode** (+15 pts)",
+      "👤 **Solo Eligible (1 Member)** (+35 pts)",
+      "🤖 **AI & Software Tracks** (+25 pts) [Cybersecurity]"
+    ],
+    "is_nagpur_local": false,
+    "is_maharashtra": false,
+    "is_active": true,
+    "discovered_at": "2026-11-16T07:30:37.697041+00:00"
   },
   {
     "id": "devpost:31789",
@@ -1028,43 +1066,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-16T00:35:23.697373+00:00"
-  },
-  {
-    "id": "devpost:31796",
-    "source": "Devpost",
-    "title": "SafeSpace Hacks",
-    "url": "https://safespace-hacks.devpost.com/",
-    "description": "Devpost hackathon. 7 days left",
-    "organizer": "SafeSpace",
-    "venue": "Online",
-    "mode": "Online",
-    "city": null,
-    "state": null,
-    "country": null,
-    "start_date": null,
-    "end_date": null,
-    "registration_deadline": "Oct 17 - Nov 22, 2026",
-    "min_team_size": 1,
-    "max_team_size": null,
-    "solo_allowed": true,
-    "eligibility": "Global Devpost Participants",
-    "prize_pool": "$ 280",
-    "tracks": [
-      "Beginner Friendly",
-      "Cybersecurity",
-      "Social Good"
-    ],
-    "score": 75,
-    "matched_reasons": [
-      "🌐 **Accessible Online Mode** (+15 pts)",
-      "👤 **Solo Eligible (1 Member)** (+35 pts)",
-      "🤖 **AI & Software Tracks** (+25 pts) [Cybersecurity]"
-    ],
-    "is_nagpur_local": false,
-    "is_maharashtra": false,
-    "is_active": true,
-    "discovered_at": "2026-11-16T00:35:23.855104+00:00"
+    "discovered_at": "2026-11-16T07:30:37.697028+00:00"
   },
   {
     "id": "devpost:30789",
@@ -1100,14 +1102,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-16T00:35:23.697309+00:00"
+    "discovered_at": "2026-11-16T07:30:37.696973+00:00"
   },
   {
     "id": "devpost:31552",
     "source": "Devpost",
     "title": "UGREEN Hackathon 2026 on AI NAS",
     "url": "https://ugreenhackathon.devpost.com/",
-    "description": "Devpost hackathon. about 7 hours left",
+    "description": "Devpost hackathon. 14 minutes left",
     "organizer": "UGREEN",
     "venue": "Online",
     "mode": "Online",
@@ -1136,7 +1138,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-16T00:35:23.534775+00:00"
+    "discovered_at": "2026-11-16T07:30:37.557795+00:00"
   },
   {
     "id": "devpost:26475",
@@ -1172,7 +1174,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-16T00:35:23.855170+00:00"
+    "discovered_at": "2026-11-16T07:30:37.831266+00:00"
   },
   {
     "id": "devpost:31572",
@@ -1208,7 +1210,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-16T00:35:23.534767+00:00"
+    "discovered_at": "2026-11-16T07:30:37.557787+00:00"
   },
   {
     "id": "devpost:31907",
@@ -1244,7 +1246,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-16T00:35:23.697354+00:00"
+    "discovered_at": "2026-11-16T07:30:37.697009+00:00"
   },
   {
     "id": "devpost:31667",
@@ -1280,43 +1282,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-16T00:35:23.534728+00:00"
-  },
-  {
-    "id": "devpost:31187",
-    "source": "Devpost",
-    "title": "STEMergent Hacks 2026",
-    "url": "https://stemergent-hacks.devpost.com/",
-    "description": "Devpost hackathon. about 3 hours left",
-    "organizer": "STEMergent",
-    "venue": "Online",
-    "mode": "Online",
-    "city": null,
-    "state": null,
-    "country": null,
-    "start_date": null,
-    "end_date": null,
-    "registration_deadline": "Oct 31 - Nov 15, 2026",
-    "min_team_size": 1,
-    "max_team_size": null,
-    "solo_allowed": true,
-    "eligibility": "Global Devpost Participants",
-    "prize_pool": "$ 0",
-    "tracks": [
-      "Low/No Code",
-      "Machine Learning/AI",
-      "Social Good"
-    ],
-    "score": 75,
-    "matched_reasons": [
-      "🌐 **Accessible Online Mode** (+15 pts)",
-      "👤 **Solo Eligible (1 Member)** (+35 pts)",
-      "🤖 **AI & Software Tracks** (+25 pts) [AI, Machine Learning]"
-    ],
-    "is_nagpur_local": false,
-    "is_maharashtra": false,
-    "is_active": true,
-    "discovered_at": "2026-11-16T00:35:23.855141+00:00"
+    "discovered_at": "2026-11-16T07:30:37.557748+00:00"
   },
   {
     "id": "devpost:31024",
@@ -1352,7 +1318,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-16T00:35:23.534755+00:00"
+    "discovered_at": "2026-11-16T07:30:37.557775+00:00"
   },
   {
     "id": "unstop:1807596",
@@ -1391,7 +1357,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-16T00:35:14.243566+00:00"
+    "discovered_at": "2026-11-16T07:30:22.463555+00:00"
   },
   {
     "id": "unstop:1811240",
@@ -1430,7 +1396,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-16T00:35:14.241637+00:00"
+    "discovered_at": "2026-11-16T07:30:22.460398+00:00"
   },
   {
     "id": "unstop:1781454",
@@ -1469,7 +1435,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-16T00:35:17.241164+00:00"
+    "discovered_at": "2026-11-16T07:30:25.519529+00:00"
   },
   {
     "id": "unstop:1787722",
@@ -1502,7 +1468,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-16T00:35:14.244190+00:00"
+    "discovered_at": "2026-11-16T07:30:22.464607+00:00"
   },
   {
     "id": "devpost:31746",
@@ -1537,7 +1503,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-16T00:35:23.855163+00:00"
+    "discovered_at": "2026-11-16T07:30:37.831259+00:00"
   },
   {
     "id": "unstop:1799791",
@@ -1574,7 +1540,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-16T00:35:17.241075+00:00"
+    "discovered_at": "2026-11-16T07:30:22.466379+00:00"
   },
   {
     "id": "unstop:1811085",
@@ -1607,7 +1573,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-16T00:35:14.242125+00:00"
+    "discovered_at": "2026-11-16T07:30:22.461255+00:00"
   },
   {
     "id": "unstop:1805946",
@@ -1646,7 +1612,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-16T00:35:14.244131+00:00"
+    "discovered_at": "2026-11-16T07:30:22.464503+00:00"
   },
   {
     "id": "unstop:1799091",
@@ -1679,7 +1645,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-16T00:35:14.244264+00:00"
+    "discovered_at": "2026-11-16T07:30:22.464736+00:00"
   },
   {
     "id": "devpost:31108",
@@ -1714,42 +1680,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-16T00:35:23.855156+00:00"
-  },
-  {
-    "id": "devpost:31495",
-    "source": "Devpost",
-    "title": "IceHacks",
-    "url": "https://icehacks.devpost.com/",
-    "description": "Devpost hackathon. about 1 hour left",
-    "organizer": "CodeStarters",
-    "venue": "Online",
-    "mode": "Online",
-    "city": null,
-    "state": null,
-    "country": null,
-    "start_date": null,
-    "end_date": null,
-    "registration_deadline": "Nov 08 - 15, 2026",
-    "min_team_size": 1,
-    "max_team_size": null,
-    "solo_allowed": true,
-    "eligibility": "Global Devpost Participants",
-    "prize_pool": "$ 17,150",
-    "tracks": [
-      "Beginner Friendly",
-      "Low/No Code",
-      "Open Ended"
-    ],
-    "score": 50,
-    "matched_reasons": [
-      "🌐 **Accessible Online Mode** (+15 pts)",
-      "👤 **Solo Eligible (1 Member)** (+35 pts)"
-    ],
-    "is_nagpur_local": false,
-    "is_maharashtra": false,
-    "is_active": true,
-    "discovered_at": "2026-11-16T00:35:23.697347+00:00"
+    "discovered_at": "2026-11-16T07:30:37.831252+00:00"
   },
   {
     "id": "devpost:31644",
@@ -1783,12 +1714,12 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-16T00:35:23.534796+00:00"
+    "discovered_at": "2026-11-16T07:30:37.557815+00:00"
   },
   {
     "id": "devpost:31773",
     "source": "Devpost",
-    "title": "LaunchPad Hacks (Judges + Sponsors Needed)",
+    "title": "LaunchPad Hacks (580k In Prizes!)",
     "url": "https://launchpad-hacks.devpost.com/",
     "description": "Devpost hackathon. 19 days left",
     "organizer": "Hack4TodayOrg",
@@ -1817,14 +1748,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-16T00:35:23.697360+00:00"
+    "discovered_at": "2026-11-16T07:30:37.697015+00:00"
   },
   {
     "id": "devpost:31795",
     "source": "Devpost",
     "title": "AccessED Hacks",
     "url": "https://accessed-hacks.devpost.com/",
-    "description": "Devpost hackathon. 5 days left",
+    "description": "Devpost hackathon. about 1 month left",
     "organizer": "AccessEDnpo",
     "venue": "Online",
     "mode": "Online",
@@ -1833,7 +1764,7 @@
     "country": null,
     "start_date": null,
     "end_date": null,
-    "registration_deadline": "Oct 17 - Nov 20, 2026",
+    "registration_deadline": "Oct 17 - Dec 20, 2026",
     "min_team_size": 1,
     "max_team_size": null,
     "solo_allowed": true,
@@ -1852,7 +1783,41 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-16T00:35:23.855177+00:00"
+    "discovered_at": "2026-11-16T07:30:37.831272+00:00"
+  },
+  {
+    "id": "devpost:31797",
+    "source": "Devpost",
+    "title": "Green Shift Hacks",
+    "url": "https://green-shift-hacks.devpost.com/",
+    "description": "Devpost hackathon. 25 days left",
+    "organizer": "HackathonForEveryone",
+    "venue": "Online",
+    "mode": "Online",
+    "city": null,
+    "state": null,
+    "country": null,
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": "Oct 18 - Dec 10, 2026",
+    "min_team_size": 1,
+    "max_team_size": null,
+    "solo_allowed": true,
+    "eligibility": "Global Devpost Participants",
+    "prize_pool": "$ 125",
+    "tracks": [
+      "Beginner Friendly",
+      "Social Good"
+    ],
+    "score": 50,
+    "matched_reasons": [
+      "🌐 **Accessible Online Mode** (+15 pts)",
+      "👤 **Solo Eligible (1 Member)** (+35 pts)"
+    ],
+    "is_nagpur_local": false,
+    "is_maharashtra": false,
+    "is_active": true,
+    "discovered_at": "2026-11-16T07:30:37.831285+00:00"
   },
   {
     "id": "unstop:1802400",
@@ -1891,7 +1856,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-16T00:35:14.245200+00:00"
+    "discovered_at": "2026-11-16T07:30:22.466279+00:00"
   },
   {
     "id": "unstop:1798287",
@@ -1924,7 +1889,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-16T00:35:14.242476+00:00"
+    "discovered_at": "2026-11-16T07:30:22.461858+00:00"
   },
   {
     "id": "unstop:1810268",
@@ -1958,7 +1923,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-16T00:35:14.242329+00:00"
+    "discovered_at": "2026-11-16T07:30:22.461619+00:00"
   },
   {
     "id": "unstop:1806122",
@@ -1997,7 +1962,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-16T00:35:14.244029+00:00"
+    "discovered_at": "2026-11-16T07:30:22.464303+00:00"
   },
   {
     "id": "unstop:1803074",
@@ -2030,7 +1995,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-16T00:35:14.244615+00:00"
+    "discovered_at": "2026-11-16T07:30:22.465272+00:00"
   },
   {
     "id": "unstop:1809486",
@@ -2039,10 +2004,10 @@
     "url": "https://unstop.com/hackathons/lighthouse-hackathon-chandigarh-university-cu-ajitgarh-punjab-1809486",
     "description": "About LightHouse: LightHouse is an international, online hackathon for builders of agentic AI. Over several weeks, teams design and ship autonomous AI agents that plan, reason, use tools, and take action to solve real-world problems. Whether you&rsquo;re a student, a developer, or an early-stage founder, this is your chance to build, get noticed, and win. Mandatory for Registration: Registration is complete only when all team members do of the following: Fill the Profile Review Form: https://tally.so/r/1Wd0MM Prizes: ₹10,000 in cash prizes ₹5,00,000 in kind (credits, tools, mentorship, perks, and opportunities from partners) Eligibility: Open to participants worldwide (students, professionals, and independent builders). Team size: 2 to 5 members. Inter-college and inter-specialization teams are allowed. Each participant can be part of only one team. Basic knowledge of programming and AI/LLM concepts is recommended. Format: Fully online, with no travel required. Teams work on one problem statement from the released set and build an agentic AI solution. Timeline: Stage Dates Registration 13 Nov &ndash; 25 Dec Round 1: Profile Review 15 Nov &ndash; 1 Dec Problem Statements Released 1 Dec (announcements continue until 30 Dec) Round 2: Build Phase (working on the problem statement) 1 Jan &ndash; 10 Jan Final Submission 11 Jan Grand Finale Online (date and time to be announced) Process: Register your team before the deadline. Your team&rsquo;s profiles go through a profile review. Shortlisted teams receive the problem statements. Pick one problem statement and build your agentic AI solution from 1 to 10 Jan. Submit your project on 11 Jan (working demo, GitHub repository, demo video, and a short write-up). Top teams present live at the online finale in front of judges. Rules: All work must be created during the build phase; pre-existing code is allowed only if it is open-source and disclosed. Solutions must use an agentic AI approach (autonomous planning, tool use, or multi-step reasoning). Plagiarism or copied projects lead to disqualification. Any AI models, APIs, and frameworks are allowed, but you must credit them. Teams must submit before the deadline. Late submissions won&rsquo;t be considered. The organisers&rsquo; and judges&rsquo; decisions are final. Follow the code of conduct and behave respectfully with other participants. Judging Criteria: Innovation, agentic capability and autonomy, technical depth, real-world impact, usability, and presentation. Join the community: WhatsApp group for updates, doubts, and team-building: https://chat.whatsapp.com/JFwnM2kPMj6Dv7PY2K7OWA?mode=gi_t Rounds to add: Profile Review (15 Nov &ndash; 1 Dec): Screening Round Problem Statement Release (1 Dec &ndash; 30 Dec): Announcement stage Build Phase (1 Jan &ndash; 10 Jan): Working on the problem statement Submission (11 Jan) Grand Finale (Online)",
     "organizer": "Chandigarh University (CU), Ajitgarh, Punjab",
-    "venue": "Online",
-    "mode": "Online",
+    "venue": "hybrid",
+    "mode": "In-Person",
     "city": null,
-    "state": "online",
+    "state": "hybrid",
     "country": null,
     "start_date": "2026-11-13T00:00:00+05:30",
     "end_date": "2027-01-10T22:26:00+05:30",
@@ -2057,12 +2022,12 @@
     ],
     "score": 40,
     "matched_reasons": [
-      "🌐 **Accessible Online Mode** (+15 pts)",
+      "🌐 **Accessible In-Person Mode** (+15 pts)",
       "🤖 **AI & Software Tracks** (+25 pts) [AI, LLM, Agentic Ai]"
     ],
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-16T00:35:14.242617+00:00"
+    "discovered_at": "2026-11-16T07:30:22.462074+00:00"
   }
 ]

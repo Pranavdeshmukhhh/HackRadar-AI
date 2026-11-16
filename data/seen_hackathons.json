@@ -3319,5 +3319,14 @@
     "last_notified": "2026-11-15T15:59:25.203221+00:00",
     "is_nagpur_local": false,
     "solo_allowed": true
+  },
+  "devpost:31972": {
+    "title": "SLAY HACKS",
+    "url": "https://slayy-hacks.devpost.com/",
+    "score": 75,
+    "source": "Devpost",
+    "last_notified": "2026-11-16T07:30:41.001842+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
   }
 }

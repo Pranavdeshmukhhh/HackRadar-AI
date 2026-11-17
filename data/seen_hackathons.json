@@ -3328,5 +3328,23 @@
     "last_notified": "2026-11-16T07:30:41.001842+00:00",
     "is_nagpur_local": false,
     "solo_allowed": true
+  },
+  "unstop:1814002": {
+    "title": "CTF Cicada 2026",
+    "url": "https://unstop.com/hackathons/ctf-cicada-2026-birla-institute-of-technology-mesra-ranchi-1814002",
+    "score": 75,
+    "source": "Unstop",
+    "last_notified": "2026-11-17T09:57:03.932532+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:1810370": {
+    "title": "Code Relay 5.0",
+    "url": "https://unstop.com/hackathons/code-relay-50-indian-institute-of-technology-iit-bhubaneswar-1810370",
+    "score": 40,
+    "source": "Unstop",
+    "last_notified": "2026-11-17T09:57:03.932532+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": false
   }
 }

@@ -33,46 +33,7 @@
     "is_nagpur_local": true,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-17T01:22:40.648735+00:00"
-  },
-  {
-    "id": "unstop:1800629",
-    "source": "Unstop",
-    "title": "HackKumbh 2026 : Tech For Humanity",
-    "url": "https://unstop.com/hackathons/hackkumbh-2026-tech-for-humanity-yeshwantrao-chavan-college-of-engineering-ycce-nagpur-1800629",
-    "description": "HackKumbh 2026 | Honouring a Legacy, Innovating the Future Theme &mdash; Tech for Humanity: Innovating for Health, Education and Rural Empowerment What would you build to make healthcare easier to access, help students learn with limited connectivity, or solve a problem facing a rural community? HackKumbh 2026 is a national-level hackathon organised by Yeshwantrao Chavan College of Engineering (YCCE), Nagpur. Held in memory of Late Shri Datta Meghe Ji, it invites college students from across India to turn ideas for health, education and rural empowerment into working prototypes. Use AI, IoT, data analytics, robotics or digital platforms where they fit. Start with a specific problem and the people who face it. Then show how your solution could work in practice and be affordable and accessible to the people it serves. Who can participate? Open to college students across India Teams of 2&ndash;5 members Round 1 Problem Statements Choose one of the 15 problem statements for your PPT submission. Healthcare &mdash; Clinic appointments and queues, personal medical records and prescriptions, medicine and diagnostic price comparison, medication reminders and dose tracking, or multilingual health awareness and symptom guidance. Education &mdash; Internship matching and progress tracking, offline learning, peer learning and doubt resolution, an AI tutor based on teacher-approved material, or multilingual learning support. Social Issues &mdash; Urban sanitation and waste reporting, rural and semi-urban skills and job matching, digital literacy and fraud awareness for senior citizens, water scarcity and groundwater monitoring, or help finding and applying for government welfare schemes. Download the PPT Round Problem Statements PDF attached below for the full briefs, core features, expected prototypes and PPT guidelines. Read your chosen brief before preparing your submission. Stages and format Stage 1 &mdash; Online Idea Submission on Unstop Submit a presentation outlining the problem, who it affects, your proposed solution, how you plan to build it and its expected impact. Submissions will be reviewed for the problem addressed, the proposed solution, technical approach, feasibility and expected impact. The top 50 teams will advance to the on-campus finale. Stage 2 &mdash; 24-Hour On-Campus Build Shortlisted teams will develop a working prototype at YCCE, Nagpur. Teams will receive feedback during mentoring and review sessions and use it to refine their prototypes before the final submission. Stage 3 &mdash; Live Demo and Final Presentation Present your prototype to the jury. Show what it does, explain how it addresses the problem and describe what it would take to put it into use. Proposed prizes and recognition Winner &mdash; ₹1,00,000 First runner-up &mdash; ₹75,000 Second runner-up &mdash; ₹50,000 Total cash prize pool &mdash; ₹2,25,000 Five teams may receive special mentions, and two promising startup ideas may be considered for incubation or mentoring. Event details Proposed finale dates &mdash; 18&ndash;19 December 2026 Venue &mdash; Yeshwantrao Chavan College of Engineering (YCCE), Nagpur Proposed finale fee &mdash; ₹2,000 per shortlisted team Form your team, pick a problem worth solving and submit your idea on Unstop.",
-    "organizer": "Yeshwantrao Chavan College of Engineering (YCCE), Nagpur",
-    "venue": "offline",
-    "mode": "In-Person",
-    "city": null,
-    "state": "offline",
-    "country": null,
-    "start_date": "2026-11-07T22:50:00+05:30",
-    "end_date": "2026-12-19T10:00:00+05:30",
-    "registration_deadline": "2026-11-20T23:59:00+05:30",
-    "min_team_size": 2,
-    "max_team_size": 5,
-    "solo_allowed": false,
-    "eligibility": "Undergraduate / Postgraduate & Engineering students",
-    "prize_pool": "Prizes & Certificates",
-    "tracks": [
-      "Engineering Students",
-      "Postgraduate",
-      "Undergraduate",
-      "Management",
-      "Medical",
-      "Law",
-      "Arts, Commerce, Sciences & Others"
-    ],
-    "score": 70,
-    "matched_reasons": [
-      "📍 **Nagpur / Vidarbha Local Match** (+45 pts) [Nagpur, Ycce]",
-      "🤖 **AI & Software Tracks** (+25 pts) [AI]"
-    ],
-    "is_nagpur_local": true,
-    "is_maharashtra": false,
-    "is_active": true,
-    "discovered_at": "2026-11-17T01:22:31.116300+00:00"
+    "discovered_at": "2026-11-17T09:57:02.823050+00:00"
   },
   {
     "id": "college:mindsparkorg",
@@ -108,7 +69,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": true,
     "is_active": true,
-    "discovered_at": "2026-11-17T01:22:40.484080+00:00"
+    "discovered_at": "2026-11-17T09:57:00.750223+00:00"
   },
   {
     "id": "unstop:1807080",
@@ -149,41 +110,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-17T01:22:31.115909+00:00"
-  },
-  {
-    "id": "unstop:1803912",
-    "source": "Unstop",
-    "title": "Code to Cart: AI x E-commerce Hackathon | KartAI X CodeXcelerate",
-    "url": "https://unstop.com/hackathons/code-to-cart-ai-x-e-commerce-hackathon-kartai-x-codexcelerate-kartai-1803912",
-    "description": "Code to Cart is an online AI x E-commerce hackathon by KartAI X CodeXcelerate . Build AI ideas that solve real problems for online sellers, shoppers and stores, then turn the best ideas into working prototypes in a 2-day buildathon. ️ Joining our Discord is compulsory All updates, round announcements, mentor help and the final buildathon happen on the KartAI Community Discord. Teams whose members have not joined the Discord will not be considered. Join here: https://discord.gg/3T5nkfhtd Theme How can AI help e-commerce? Ideas can cover anything from product discovery and personalised shopping to seller tools, pricing, inventory, customer support, logistics, marketing or fraud detection. Timeline Registration: 10 Nov &ndash; 23 Nov 2026 Round 1 &ndash; Idea Submission: 15 Nov &ndash; 25 Nov 2026 Shortlist announced: by 27 Nov 2026 (on Unstop and Discord) Round 2 &ndash; Buildathon (Final, online): 28 &ndash; 29 Nov 2026 Results: 30 Nov 2026 Round 1 &ndash; Idea Submission (15 &ndash; 25 Nov) Submit your idea on how AI can help e-commerce as a pitch deck in PDF format, 5 &ndash; 6 slides , in this order: Title &amp; Team &ndash; idea name, team name, members and their roles Problem &ndash; the e-commerce problem and who faces it (sellers, shoppers, stores) AI Solution &ndash; your idea in one line and what makes it different How it works &ndash; key features, user flow, AI model/approach and tech stack Impact &ndash; who benefits, how much it helps, how it could grow Buildathon plan &ndash; what you will build in the 2-day final (MVP scope) &ndash; optional if covered in slide 4 Round 1 judging: Innovation (30%), E-commerce impact (30%), Feasibility to build in 2 days (25%), Clarity of the pitch (15%). Round 2 &ndash; Buildathon (28 &ndash; 29 Nov, online) Shortlisted teams build a working prototype of their idea over two days. Final submission details (prototype link, code repository and a short demo video) will be shared on Discord. Judging: working prototype and use of AI, real e-commerce value, user experience, and final presentation. Prizes 1st: ₹5,000 cash 2nd: ₹2,000 cash 3rd: ₹1,000 cash Top performers get a chance to intern at KartAI Rank certificates for winners and participation certificates for all teams Eligibility Open to everyone: college students, freshers and working professionals Team size: 1 &ndash; 4 members (solo participation allowed) Inter-college and cross-specialisation teams are allowed Rules Every team member must join the KartAI Community Discord. One person can be part of only one team. Ideas and code must be your team's own work. AI tools are allowed, but plagiarism or copied projects lead to disqualification. Submissions after the deadline will not be accepted. The judges' decision is final. Questions? Ask in the Discord: https://discord.gg/3T5nkfhtd",
-    "organizer": "KartAI",
-    "venue": "Online",
-    "mode": "Online",
-    "city": null,
-    "state": "online",
-    "country": null,
-    "start_date": "2026-11-10T00:00:00+05:30",
-    "end_date": "2026-11-29T23:59:00+05:30",
-    "registration_deadline": "2026-11-23T23:59:00+05:30",
-    "min_team_size": 1,
-    "max_team_size": 4,
-    "solo_allowed": true,
-    "eligibility": "Open to college students & coders",
-    "prize_pool": "Prizes & Certificates",
-    "tracks": [
-      "All"
-    ],
-    "score": 75,
-    "matched_reasons": [
-      "🌐 **Accessible Online Mode** (+15 pts)",
-      "👤 **Solo Eligible (1 Member)** (+35 pts)",
-      "🤖 **AI & Software Tracks** (+25 pts) [AI]"
-    ],
-    "is_nagpur_local": false,
-    "is_maharashtra": false,
-    "is_active": true,
-    "discovered_at": "2026-11-17T01:22:31.116220+00:00"
+    "discovered_at": "2026-11-17T09:56:53.456083+00:00"
   },
   {
     "id": "unstop:1805107",
@@ -223,7 +150,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-17T01:22:31.115693+00:00"
+    "discovered_at": "2026-11-17T09:56:53.455732+00:00"
   },
   {
     "id": "unstop:1806984",
@@ -265,7 +192,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-17T01:22:31.115832+00:00"
+    "discovered_at": "2026-11-17T09:56:53.455961+00:00"
   },
   {
     "id": "unstop:1807297",
@@ -305,7 +232,44 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-17T01:22:31.115790+00:00"
+    "discovered_at": "2026-11-17T09:56:53.455893+00:00"
+  },
+  {
+    "id": "unstop:1814002",
+    "source": "Unstop",
+    "title": "CTF Cicada 2026",
+    "url": "https://unstop.com/hackathons/ctf-cicada-2026-birla-institute-of-technology-mesra-ranchi-1814002",
+    "description": "Overview CTF CICADA 2026 &ndash; Capture The Flag Organised by IEEE Student Branch &amp; IET On Campus, BIT Mesra Get ready to enter the world of cryptic clues, hidden messages, ciphers, and challenging puzzles! CTF CICADA 2026 brings back our Capture The Flag competition with an entirely new experience inspired by Cicada 3301 , the mysterious internet puzzle phenomenon that captivated thousands of people worldwide. This year, we are moving beyond the traditional Jeopardy-style CTF format and introducing an Alternate Reality Game (ARG)-style experience . Participants will navigate through 30 levels, each presenting a trail of clues that must be deciphered to unlock the next stage. Whether you enjoy cryptography, cybersecurity, logical reasoning, digital investigation, or solving unconventional puzzles, CICADA is your opportunity to put your skills to the test. Event Format Competition: Capture The Flag (CTF) Format: ARG-style, fully online Total Levels: 30 Team Size: 1&ndash;3 members Participation: Open across India Duration: 10 December 2026 &ndash; 10 January 2027 What Makes CICADA Different? Unlike conventional CTF competitions that present standalone challenges on a leaderboard, CICADA follows a progressive puzzle-solving journey. 30 Progressive Levels: Every level contains a trail of clues. Solve one to unlock the next. ARG-Inspired Challenges: Explore clues involving images, ciphers, websites, and hidden information. Staged Releases: Levels will open in stages and remain accessible until the competition ends. Hints Along the Way: Hints will be released to help participants progress. No Elimination: Participants can continue solving challenges throughout the competition period. Who Can Participate? CICADA 2026 welcomes curious, analytical, and technically inclined participants from across India. You can participate: Individually, or In a team of 2&ndash;3 members. Bring your friends together, form a team, and take on the challenge. Prizes and Recognition Exciting prizes for the winning teams. E-certificates for every participant. Recognition for outstanding performance. About the Organisers IEEE Student Branch and IET On Campus at Birla Institute of Technology, Mesra, Ranchi, are student-run campus chapters of two leading engineering societies. Since 2019, we have been organising Capture The Flag competitions, technical events, and hands-on workshops covering Linux, Git, Python, web development, and more. With CICADA 2026, we aim to bring an engaging, month-long puzzle-solving experience to participants across India. Important Dates Competition Starts: 10 December 2026 Competition Ends: 10 January 2027 Mode: Completely Online Get ready to decode, investigate, collaborate, and uncover what lies beyond the next clue. Organised by: IEEE Student Branch &amp; IET On Campus Birla Institute of Technology, Mesra, Ranchi The trail is waiting. Will you follow it? CTF CICADA 2026 &ndash; Every clue leads somewhere.",
+    "organizer": "Birla Institute of Technology, Mesra, Ranchi",
+    "venue": "Online",
+    "mode": "Online",
+    "city": null,
+    "state": "online",
+    "country": null,
+    "start_date": "2026-11-16T19:15:00+05:30",
+    "end_date": "2026-12-10T12:00:00+05:30",
+    "registration_deadline": "2026-12-10T12:00:00+05:30",
+    "min_team_size": 1,
+    "max_team_size": 3,
+    "solo_allowed": true,
+    "eligibility": "Undergraduate / Postgraduate & Engineering students",
+    "prize_pool": "Prizes & Certificates",
+    "tracks": [
+      "Engineering Students",
+      "Postgraduate",
+      "Undergraduate",
+      "Fresher"
+    ],
+    "score": 75,
+    "matched_reasons": [
+      "🌐 **Accessible Online Mode** (+15 pts)",
+      "👤 **Solo Eligible (1 Member)** (+35 pts)",
+      "🤖 **AI & Software Tracks** (+25 pts) [Web Development, Cybersecurity]"
+    ],
+    "is_nagpur_local": false,
+    "is_maharashtra": false,
+    "is_active": true,
+    "discovered_at": "2026-11-17T09:56:53.453022+00:00"
   },
   {
     "id": "unstop:1811016",
@@ -346,7 +310,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-17T01:22:31.114916+00:00"
+    "discovered_at": "2026-11-17T09:56:53.454315+00:00"
   },
   {
     "id": "unstop:1811493",
@@ -380,7 +344,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-17T01:22:31.114764+00:00"
+    "discovered_at": "2026-11-17T09:56:53.454052+00:00"
   },
   {
     "id": "unstop:1761846",
@@ -420,7 +384,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-17T01:22:31.115335+00:00"
+    "discovered_at": "2026-11-17T09:56:53.454887+00:00"
   },
   {
     "id": "hackerearth:contextcon-remember-everything",
@@ -456,7 +420,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-17T01:22:39.056723+00:00"
+    "discovered_at": "2026-11-17T09:56:59.121146+00:00"
   },
   {
     "id": "devpost:30740",
@@ -492,7 +456,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-17T01:22:38.006798+00:00"
+    "discovered_at": "2026-11-17T09:56:58.214327+00:00"
   },
   {
     "id": "devpost:30764",
@@ -528,7 +492,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-17T01:22:38.126956+00:00"
+    "discovered_at": "2026-11-17T09:56:58.293860+00:00"
   },
   {
     "id": "devpost:31787",
@@ -564,14 +528,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-17T01:22:38.006858+00:00"
+    "discovered_at": "2026-11-17T09:56:58.214395+00:00"
   },
   {
     "id": "devpost:31642",
     "source": "Devpost",
     "title": "AWS MSP AI Hackathon",
     "url": "https://aws-agentic-msp.devpost.com/",
-    "description": "Devpost hackathon. 25 days left",
+    "description": "Devpost hackathon. 24 days left",
     "organizer": "AWS",
     "venue": "Online",
     "mode": "Online",
@@ -600,14 +564,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-17T01:22:38.006819+00:00"
+    "discovered_at": "2026-11-17T09:56:58.214348+00:00"
   },
   {
     "id": "devpost:31083",
     "source": "Devpost",
     "title": "QNX Global Hackathon",
     "url": "https://qnx.devpost.com/",
-    "description": "Devpost hackathon. 29 days left",
+    "description": "Devpost hackathon. 28 days left",
     "organizer": "QNX",
     "venue": "Online",
     "mode": "Online",
@@ -636,7 +600,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-17T01:22:37.914434+00:00"
+    "discovered_at": "2026-11-17T09:56:58.125521+00:00"
   },
   {
     "id": "devpost:31480",
@@ -672,7 +636,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-17T01:22:38.126934+00:00"
+    "discovered_at": "2026-11-17T09:56:58.293839+00:00"
   },
   {
     "id": "devpost:31972",
@@ -708,14 +672,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-17T01:22:38.126969+00:00"
+    "discovered_at": "2026-11-17T09:56:58.293883+00:00"
   },
   {
     "id": "devpost:31973",
     "source": "Devpost",
     "title": "Deck the Pixels",
     "url": "https://deckthepixels.devpost.com/",
-    "description": "Devpost hackathon. 21 days left",
+    "description": "Devpost hackathon. 20 days left",
     "organizer": "Google",
     "venue": "Online",
     "mode": "Online",
@@ -744,7 +708,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-17T01:22:37.914442+00:00"
+    "discovered_at": "2026-11-17T09:56:58.125535+00:00"
   },
   {
     "id": "devpost:32079",
@@ -780,7 +744,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-17T01:22:38.006828+00:00"
+    "discovered_at": "2026-11-17T09:56:58.214357+00:00"
   },
   {
     "id": "devpost:31808",
@@ -816,7 +780,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-17T01:22:37.914429+00:00"
+    "discovered_at": "2026-11-17T09:56:58.125512+00:00"
   },
   {
     "id": "devpost:32024",
@@ -852,7 +816,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-17T01:22:38.006850+00:00"
+    "discovered_at": "2026-11-17T09:56:58.214382+00:00"
   },
   {
     "id": "devpost:32026",
@@ -888,7 +852,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-17T01:22:37.914446+00:00"
+    "discovered_at": "2026-11-17T09:56:58.125542+00:00"
   },
   {
     "id": "hackerearth:ibm-z-day",
@@ -924,7 +888,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-17T01:22:39.056700+00:00"
+    "discovered_at": "2026-11-17T09:56:59.121121+00:00"
   },
   {
     "id": "hackerearth:groww-next-2026",
@@ -960,7 +924,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-17T01:22:39.056730+00:00"
+    "discovered_at": "2026-11-17T09:56:59.121159+00:00"
   },
   {
     "id": "devpost:31796",
@@ -996,7 +960,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-17T01:22:38.006854+00:00"
+    "discovered_at": "2026-11-17T09:56:58.214389+00:00"
   },
   {
     "id": "devpost:31789",
@@ -1032,7 +996,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-17T01:22:38.006846+00:00"
+    "discovered_at": "2026-11-17T09:56:58.214376+00:00"
   },
   {
     "id": "devpost:30789",
@@ -1068,14 +1032,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-17T01:22:37.914450+00:00"
+    "discovered_at": "2026-11-17T09:56:58.125548+00:00"
   },
   {
     "id": "devpost:26475",
     "source": "Devpost",
     "title": "Dakar Bitcoin Hack by BTrust",
     "url": "https://dakar-bitcoin-hack-2026.devpost.com/",
-    "description": "Devpost hackathon. 4 days left",
+    "description": "Devpost hackathon. 3 days left",
     "organizer": "Dakar Bitcoin Days",
     "venue": "Online",
     "mode": "Online",
@@ -1104,7 +1068,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-17T01:22:38.126973+00:00"
+    "discovered_at": "2026-11-17T09:56:58.293890+00:00"
   },
   {
     "id": "devpost:31572",
@@ -1140,7 +1104,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-17T01:22:37.914424+00:00"
+    "discovered_at": "2026-11-17T09:56:58.125495+00:00"
   },
   {
     "id": "devpost:31907",
@@ -1176,7 +1140,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-17T01:22:38.006824+00:00"
+    "discovered_at": "2026-11-17T09:56:58.214363+00:00"
   },
   {
     "id": "devpost:31667",
@@ -1212,14 +1176,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-17T01:22:37.914266+00:00"
+    "discovered_at": "2026-11-17T09:56:58.125436+00:00"
   },
   {
     "id": "devpost:31024",
     "source": "Devpost",
     "title": "Meta VR Start Developer Competition 2026",
     "url": "https://start-developer-competition-26.devpost.com/",
-    "description": "Devpost hackathon. 2 days left",
+    "description": "Devpost hackathon. 1 day left",
     "organizer": "Meta",
     "venue": "Online",
     "mode": "Online",
@@ -1248,7 +1212,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-17T01:22:37.914414+00:00"
+    "discovered_at": "2026-11-17T09:56:58.125462+00:00"
   },
   {
     "id": "unstop:1807596",
@@ -1287,7 +1251,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-17T01:22:31.115733+00:00"
+    "discovered_at": "2026-11-17T09:56:53.455800+00:00"
   },
   {
     "id": "unstop:1811240",
@@ -1326,7 +1290,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-17T01:22:31.114828+00:00"
+    "discovered_at": "2026-11-17T09:56:53.454173+00:00"
   },
   {
     "id": "unstop:1781454",
@@ -1365,7 +1329,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-17T01:22:31.116373+00:00"
+    "discovered_at": "2026-11-17T09:56:53.456622+00:00"
   },
   {
     "id": "unstop:1787722",
@@ -1398,14 +1362,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-17T01:22:31.116102+00:00"
+    "discovered_at": "2026-11-17T09:56:53.456414+00:00"
   },
   {
     "id": "devpost:31746",
     "source": "Devpost",
     "title": "University Blockchain Conference Hackathon 2026",
     "url": "https://ubc-hackathon-2026.devpost.com/",
-    "description": "Devpost hackathon. 4 days left",
+    "description": "Devpost hackathon. 3 days left",
     "organizer": "college.xyz",
     "venue": "University of Texas at Austin",
     "mode": "In-Person",
@@ -1433,7 +1397,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-17T01:22:38.126961+00:00"
+    "discovered_at": "2026-11-17T09:56:58.293869+00:00"
   },
   {
     "id": "unstop:1799791",
@@ -1470,7 +1434,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-17T01:22:31.116328+00:00"
+    "discovered_at": "2026-11-17T09:56:53.456544+00:00"
   },
   {
     "id": "unstop:1811085",
@@ -1503,7 +1467,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-17T01:22:31.114876+00:00"
+    "discovered_at": "2026-11-17T09:56:53.454244+00:00"
   },
   {
     "id": "unstop:1805946",
@@ -1542,7 +1506,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-17T01:22:31.116066+00:00"
+    "discovered_at": "2026-11-17T09:56:53.456356+00:00"
   },
   {
     "id": "unstop:1799091",
@@ -1575,7 +1539,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-17T01:22:31.116145+00:00"
+    "discovered_at": "2026-11-17T09:56:53.456497+00:00"
   },
   {
     "id": "devpost:31108",
@@ -1610,7 +1574,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-17T01:22:38.126965+00:00"
+    "discovered_at": "2026-11-17T09:56:58.293876+00:00"
   },
   {
     "id": "devpost:31644",
@@ -1644,7 +1608,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-17T01:22:37.914438+00:00"
+    "discovered_at": "2026-11-17T09:56:58.125528+00:00"
   },
   {
     "id": "devpost:31773",
@@ -1678,7 +1642,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-17T01:22:38.006833+00:00"
+    "discovered_at": "2026-11-17T09:56:58.214370+00:00"
   },
   {
     "id": "devpost:31795",
@@ -1713,7 +1677,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-17T01:22:38.126977+00:00"
+    "discovered_at": "2026-11-17T09:56:58.293897+00:00"
   },
   {
     "id": "devpost:31798",
@@ -1747,7 +1711,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-17T01:22:38.126985+00:00"
+    "discovered_at": "2026-11-17T09:56:58.293904+00:00"
   },
   {
     "id": "devpost:31797",
@@ -1781,7 +1745,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-17T01:22:38.126981+00:00"
+    "discovered_at": "2026-11-17T09:56:58.293910+00:00"
   },
   {
     "id": "unstop:1798287",
@@ -1814,14 +1778,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-17T01:22:31.115084+00:00"
+    "discovered_at": "2026-11-17T09:56:53.455102+00:00"
   },
   {
     "id": "unstop:1810268",
     "source": "Unstop",
     "title": "CODERED'26",
     "url": "https://unstop.com/hackathons/codered26-bms-insitute-of-technology-and-management-1810268",
-    "description": "CODERED &rsquo;26 - National-Level Product Development Challenge CODERED &rsquo;26, organised by the Entrepreneurship Cell of BMS Institute of Technology and Management, Bengaluru, is a national-level product development challenge designed to take student teams beyond conventional hackathons and enable them to build meaningful, functional products. Unlike traditional hackathons that revolve around solving predefined problem statements within a limited timeframe, CODERED &rsquo;26 follows a comprehensive product development journey, from ideation and conceptualisation to development, testing and validation. This edition brings together six participating companies, offering students the opportunity to work on real-world product ideas across multiple domains.&nbsp; Check out our WEBSITE for the Challenge Briefs. https://codered26.xyz Company Tracks: CODERED &rsquo;26 features four tracks, with six participating companies: Dedicated Company Tracks: Niveus Technologies Simple Energy Agnes AI XP Robotis Unisys (for BMSIT Students Only) Each of these companies will have a dedicated track featuring one or more product ideas for participating teams. Startup Track: The Startup Track brings together product opportunities from: Think Robotics Sahasranshu Technologies MyStartupWave Cassette Labs The participating companies may provide multiple product ideas within their respective domains. Teams can explore the available ideas and select one product idea from one company to work on throughout the competition. Teams are not required to work on every idea offered under a track. Competition Structure: CODERED &rsquo;26 will be conducted across three rounds, progressively taking teams from initial ideas to functional products. Refer the BROCHURE for more information Eligibility and Team Composition: The eligibility criteria, team composition requirements and inter-college/inter-specialisation participation guidelines will remain the same as those followed in the previous edition of CODERED. Participants are required to adhere to the team formation and eligibility conditions specified during registration. Registration and Participation Guidelines: Teams must complete the registration process through the official Unstop opportunity page. Participants must submit their ideas in the prescribed format within the stipulated deadline. Each team may select only one product idea from one participating company. Teams must continue working on the product idea selected during the competition. Teams are expected to develop their ideas into functional prototypes or MVPs during the product development journey. All participants must comply with the competition guidelines and instructions issued by the organisers. The CODERED &rsquo;26 Experience: CODERED &rsquo;26 aims to provide students with an opportunity to experience the complete product development process while engaging with industry and emerging companies. Through company-led product opportunities, structured evaluation rounds and an intensive offline development sprint, participants will get the opportunity to move beyond theoretical ideas and work towards building functional products. The objective is simple: Take an idea, build it into a product, and demonstrate what it can achieve. Note: The Registration fee of ₹1,500 is collected only for the top 50 teams selected for Round 3 (On-Campus Sprint). The money will be collected outside of the Unstop Platform",
+    "description": "CODERED &rsquo;26 - National-Level Hackathon CODERED &rsquo;26, organised by the Entrepreneurship Cell of BMS Institute of Technology and Management, Bengaluru, is a national-level hackathon designed to take student teams beyond from just solving a problem to building meaningful, functional products. This edition brings together six participating companies, offering students the opportunity to work on real-world product ideas across multiple domains.&nbsp; Check out our WEBSITE for the Challenge Briefs. Company Tracks: CODERED &rsquo;26 features four tracks, with six participating companies: Dedicated Company Tracks: Niveus Technologies Simple Energy Agnes AI XP Robotis Unisys (for BMSIT Students Only) Each of these companies will have a dedicated track featuring one or more product ideas for participating teams. Startup Track: The Startup Track brings together product opportunities from: Think Robotics Sahasranshu Technologies MyStartupWave Cassette Labs The participating companies may provide multiple product ideas within their respective domains. Teams can explore the available ideas and select one product idea from one company to work on throughout the competition. Teams are not required to work on every idea offered under a track. Competition Structure: CODERED &rsquo;26 will be conducted across three rounds, progressively taking teams from initial ideas to functional products. Refer the BROCHURE for more information Eligibility and Team Composition: 1. The participants should be currently pursuing engineering in any filed in a recognised institute. 2. Participants from different institutes can form a single team. Participants are required to adhere to the team formation and eligibility conditions specified during registration. Registration and Participation Guidelines: Teams must complete the registration process through the official Unstop opportunity page. Participants must submit their ideas in the prescribed format within the stipulated deadline. Each team may select only one product idea from one participating company. Teams must continue working on the product idea selected during the competition. Teams are expected to develop their ideas into functional prototypes or MVPs during the product development journey. All participants must comply with the competition guidelines and instructions issued by the organisers. The CODERED &rsquo;26 Experience: CODERED &rsquo;26 aims to provide students with an opportunity to experience the complete product development process while engaging with industry and emerging companies. Through company-led product opportunities, structured evaluation rounds and an intensive offline 24 hour sprint, participants will get the opportunity to move beyond theoretical ideas and work towards building functional products. The objective is simple: Take an idea, build it into a functional product, and demonstrate what it can achieve. Note: The Registration fee of ₹1,500 is collected only for the top 50 teams selected for Round 3 (On-Campus Sprint). The money will be collected outside of the Unstop Platform",
     "organizer": "BMS Insitute of Technology and Management",
     "venue": "hybrid",
     "mode": "In-Person",
@@ -1848,7 +1812,40 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-17T01:22:31.114998+00:00"
+    "discovered_at": "2026-11-17T09:56:53.454441+00:00"
+  },
+  {
+    "id": "unstop:1810370",
+    "source": "Unstop",
+    "title": "Code Relay 5.0",
+    "url": "https://unstop.com/hackathons/code-relay-50-indian-institute-of-technology-iit-bhubaneswar-1810370",
+    "description": "Overview Five editions. Pass the baton, build the future. WebnD, the Web and Design Society of IIT Bhubaneswar, is back with the fifth edition of its flagship hackathon. Builders, dreamers and problem-solvers from across India will battle it out in two electrifying tracks: Web2 and Web3 .&nbsp; PPI Opportunities Top performers in the Web2 tracks get a shot at Pre-Placement Interview (PPI) opportunities from CSM Technologies. Build something great and it could land you more than a trophy. Who Can Join the Relay Open to everyone, whatever your discipline, degree or background Squad up in teams of 2 to 4 members Teammates can come from different colleges, schools or organisations Teams lock the moment you register, with no swaps and no substitutions. Pick your dream team wisely. Round 1: The Ideathon and Prototyping (Online) Problem statements for both tracks drop for all registered teams. Pitch your best idea in one PPT using the provided template by December 12 . Want to stand out? Attach a working prototype and score bonus points. The most promising teams will be shortlisted and invited to the main arena. Round 2: The Hackathon (On-site at IIT Bhubaneswar) Shortlisted teams must report on campus by January 15 . Miss the check-in and you are out of the race. Get 30 hours of non-stop building, with power and internet on us throughout. Take the stage and pitch live to the judges: your idea , your product and your business strategy . Fair play matters. Pre-existing projects are allowed only if disclosed in advance, and undisclosed ones will be disqualified. The Finale Celebrate the final lap at a networking lunch with fellow participants, judges, sponsors and speakers. Great code gets you here, great connections take you further. Mark Your Calendar December 12: Round 1 PPT submission deadline January 15: Reporting day for shortlisted teams at IIT Bhubaneswar Why You Should Run This Relay Tackle real-world problem statements across Web2 and Web3 Go from raw idea to working product in just 30 intense hours Learn to sell your vision, not just your code Meet the judges, sponsors and speakers who can shape your journey Join the Community Don&rsquo;t just run the relay, be part of the buzz! Get live updates, find teammates, ask your questions and connect with organisers and fellow participants. Join our Discord server for announcements, updates and instant answers to your queries: Join the Discord Follow Code Relay on Instagram for event updates, sneak peeks and announcements Follow WebnD on Instagram to see what the society is building beyond the relay Become a Campus Ambassador and take the relay to your college. Rally teams, lead the buzz and earn certificates, goodies and recognition. Your team. Your track. Your baton. Register now and let the relay begin!",
+    "organizer": "Indian Institute of Technology (IIT), Bhubaneswar",
+    "venue": "hybrid",
+    "mode": "In-Person",
+    "city": null,
+    "state": "hybrid",
+    "country": null,
+    "start_date": "2026-11-16T01:59:00+05:30",
+    "end_date": "2027-01-17T23:59:00+05:30",
+    "registration_deadline": "2026-12-12T23:59:00+05:30",
+    "min_team_size": 2,
+    "max_team_size": 4,
+    "solo_allowed": false,
+    "eligibility": "Open to college students & coders",
+    "prize_pool": "Prizes & Certificates",
+    "tracks": [
+      "All"
+    ],
+    "score": 40,
+    "matched_reasons": [
+      "🌐 **Accessible In-Person Mode** (+15 pts)",
+      "🤖 **AI & Software Tracks** (+25 pts) [WEB3]"
+    ],
+    "is_nagpur_local": false,
+    "is_maharashtra": false,
+    "is_active": true,
+    "discovered_at": "2026-11-17T09:56:53.453271+00:00"
   },
   {
     "id": "unstop:1806122",
@@ -1887,7 +1884,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-17T01:22:31.116006+00:00"
+    "discovered_at": "2026-11-17T09:56:53.456255+00:00"
   },
   {
     "id": "unstop:1809486",
@@ -1920,6 +1917,6 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-17T01:22:31.115411+00:00"
+    "discovered_at": "2026-11-17T09:56:53.455231+00:00"
   }
 ]

@@ -3346,5 +3346,23 @@
     "last_notified": "2026-11-17T09:57:03.932532+00:00",
     "is_nagpur_local": false,
     "solo_allowed": false
+  },
+  "unstop:1811349": {
+    "title": "OpenCode 2026",
+    "url": "https://unstop.com/hackathons/opencode-2026-opencode-indian-institute-of-information-technology-iiit-allahabad-1811349",
+    "score": 75,
+    "source": "Unstop",
+    "last_notified": "2026-11-17T18:56:26.161710+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:1814263": {
+    "title": "Silicon Sprint 2026",
+    "url": "https://unstop.com/hackathons/silicon-sprint-2026-nitk-surathkal-1814263",
+    "score": 40,
+    "source": "Unstop",
+    "last_notified": "2026-11-17T18:56:26.161710+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": false
   }
 }

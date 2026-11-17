@@ -33,7 +33,7 @@
     "is_nagpur_local": true,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-17T09:57:02.823050+00:00"
+    "discovered_at": "2026-11-17T18:56:24.894796+00:00"
   },
   {
     "id": "college:mindsparkorg",
@@ -69,14 +69,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": true,
     "is_active": true,
-    "discovered_at": "2026-11-17T09:57:00.750223+00:00"
+    "discovered_at": "2026-11-17T18:56:25.106844+00:00"
   },
   {
     "id": "unstop:1807080",
     "source": "Unstop",
-    "title": "Data Sprint 2.0",
+    "title": "Data Sprint Challenge 2.0",
     "url": "https://unstop.com/hackathons/data-sprint-20-anveshan-nie-1807080",
-    "description": "Welcome to Data Sprint 2.0 &ndash; by Anveshan! Data Sprint 2.0: A National-Level AI &amp; ML Problem-Solving Challenge! About the Opportunity: Data Sprint 2.0 is a 36-hour online AI &amp; ML hackathon organized by Anveshan, the Applied Research &amp; AI/ML Club, taking place from 23rd to 25th November 2026. The hackathon brings together college students and working professionals to tackle real-world challenges through innovation, machine learning, technical skills, teamwork, and creative problem-solving. With 4 exciting tracks, participants will have the opportunity to apply their knowledge, develop practical AI/ML solutions, and showcase their skills. Track details will be announced on 18th November 2026, and problem statements will be released 36 hours before the evaluation. An assistance round will be conducted following the release of problem statements, where Anveshan volunteers will help participants clarify doubts and understand the challenges. Shortlisted teams will advance to the final evaluation round, where they will present their solutions and compete for exciting rewards. Rewards and Benefits: Exciting merchandise rewards worth ₹30,000. 10 lucky participants will receive a free 30-minute consultation with industry professionals or researchers. An opportunity to solve real-world problems, showcase technical skills, and interact with a community of innovators. Eligibility: Open to college students and working professionals. Participants from all branches and specializations are welcome. Inter-college teams are allowed. Inter-specialization teams are allowed. Each participant can be part of only one team. Competition Format: Mode: Online Dates: 23rd&ndash;25th November 2026 Duration: 36 Hours Tracks: 4 AI &amp; ML problem-solving tracks Track Announcement: 18th November 2026 Problem Statements: Released 36 hours before evaluation Assistance Round: Guidance and doubt clarification by Anveshan researchers&nbsp; Final Round: Shortlisted teams present their solutions for evaluation Rules : Each participant can register as a member of only one team. All submissions must be original. Plagiarism or copying solutions from other teams is strictly prohibited. Teams must work on the officially announced problem statements. Participants must submit their solutions within the specified deadline of the 36-hour hackathon. Teams must follow the instructions and submission guidelines provided by the organizers. Participants must maintain fair play and professional conduct throughout the competition. Any form of malpractice or violation of competition rules may lead to disqualification. The decisions of the judges and organizing committee will be final. Free Consultation Eligibility: To be eligible for the free 30-minute consultation with industry professionals or researchers, participants must present their solution during the hackathon evaluation. Only participants who present their solutions will be considered for the selection of the 10 lucky participants. Bring your team together, put your AI &amp; ML skills to the test, and get ready for 36 hours of innovation at Data Sprint 2.0!",
+    "description": "Welcome to Data Sprint 2.0 &ndash; by Anveshan! Data Sprint 2.0: A Global AI &amp; ML Problem-Solving Challenge! About the Opportunity: Data Sprint 2.0 is a 36-hour online AI &amp; ML hackathon organized by Anveshan, the Applied Research &amp; AI/ML Club, taking place from 23rd to 25th November 2026. The hackathon brings together college students and working professionals to tackle real-world challenges through innovation, machine learning, technical skills, teamwork, and creative problem-solving. With 4 exciting tracks, participants will have the opportunity to apply their knowledge, develop practical AI/ML solutions, and showcase their skills. Track details will be announced on 18th November 2026, and problem statements will be released 36 hours before the evaluation. An assistance round will be conducted following the release of problem statements, where Anveshan volunteers will help participants clarify doubts and understand the challenges. Shortlisted teams will advance to the final evaluation round, where they will present their solutions and compete for exciting rewards. Rewards and Benefits: Exciting merchandise rewards worth ₹30,000. 10 lucky participants will receive a free 30-minute consultation with industry professionals or researchers. An opportunity to solve real-world problems, showcase technical skills, and interact with a community of innovators. Eligibility: Open to college students and working professionals. Participants from all branches and specializations are welcome. Inter-college teams are allowed. Inter-specialization teams are allowed. Each participant can be part of only one team. Competition Format: Mode: Online Dates: 23rd&ndash;25th November 2026 Duration: 36 Hours Tracks: 4 AI &amp; ML problem-solving tracks Track Announcement: 18th November 2026 Problem Statements: Released 36 hours before evaluation Assistance Round: Guidance and doubt clarification by Anveshan researchers&nbsp; Final Round: Shortlisted teams present their solutions for evaluation Rules : Each participant can register as a member of only one team. All submissions must be original. Plagiarism or copying solutions from other teams is strictly prohibited. Teams must work on the officially announced problem statements. Participants must submit their solutions within the specified deadline of the 36-hour hackathon. Teams must follow the instructions and submission guidelines provided by the organizers. Participants must maintain fair play and professional conduct throughout the competition. Any form of malpractice or violation of competition rules may lead to disqualification. The decisions of the judges and organizing committee will be final. Free Consultation Eligibility: To be eligible for the free 30-minute consultation with industry professionals or researchers, participants must present their solution during the hackathon evaluation. Only participants who present their solutions will be considered for the selection of the 10 lucky participants. Bring your team together, put your AI &amp; ML skills to the test, and get ready for 36 hours of innovation at Data Sprint 2.0! &nbsp;",
     "organizer": "The National Institute of Engineering, Karnataka",
     "venue": "Online",
     "mode": "Online",
@@ -110,7 +110,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-17T09:56:53.456083+00:00"
+    "discovered_at": "2026-11-17T18:56:15.396268+00:00"
   },
   {
     "id": "unstop:1805107",
@@ -150,7 +150,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-17T09:56:53.455732+00:00"
+    "discovered_at": "2026-11-17T18:56:15.395970+00:00"
   },
   {
     "id": "unstop:1806984",
@@ -192,7 +192,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-17T09:56:53.455961+00:00"
+    "discovered_at": "2026-11-17T18:56:15.396174+00:00"
   },
   {
     "id": "unstop:1807297",
@@ -232,7 +232,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-17T09:56:53.455893+00:00"
+    "discovered_at": "2026-11-17T18:56:15.396117+00:00"
   },
   {
     "id": "unstop:1814002",
@@ -269,7 +269,45 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-17T09:56:53.453022+00:00"
+    "discovered_at": "2026-11-17T18:56:15.394149+00:00"
+  },
+  {
+    "id": "unstop:1811349",
+    "source": "Unstop",
+    "title": "OpenCode 2026",
+    "url": "https://unstop.com/hackathons/opencode-2026-opencode-indian-institute-of-information-technology-iiit-allahabad-1811349",
+    "description": "About Opencode: Opencode is an open-source hackathon organized by Geekhaven. Designed to help students start their journey in the world of open source. Aims to foster innovation, collaboration, and contributions to open-source projects across various domains. Suitable for both beginners and experienced coders. Provides a platform to enhance skills, work with cutting-edge technologies, and engage with the open-source community. Communication will be conducted on Discord , and participants are encouraged to maintain a friendly and collaborative approach, especially on GitHub . Tech Stacks: Web Development: React, Node, Express, MongoDB, Spring Boot. App Development: Flutter, Kotlin. Design: Figma, UI/UX, Prototyping, Wireframing, Typography. AI/ML: Python, PyTorch, TensorFlow, LLaMA. Cybersecurity . Game Development: Unity. Blockchain . Rules and Guidelines: Participation: Individual participation only; no teams allowed. Communication: All discussions and updates will take place on Discord . Participants must maintain respect, inclusivity, and collaboration at all times. Submission Guidelines: Pull requests must be submitted via GitHub repositories . Each submission must include: A well-documented README.md . Proper project structure and commits. Commit messages should be clear and descriptive. Project Requirements: Follow the selected tech stack. Adhere to open-source contribution guidelines. Code of Conduct: Maintain a positive and constructive environment on GitHub and Discord . Avoid plagiarism and respect others' contributions. Follow the Contributor Guidelines at all times. Evaluation Criteria: Code Quality: Creativity and impact. Tech Stack Usage: Appropriate use of selected stacks. Collaboration: Active participation and GitHub activity. UI/UX: Design and documentation quality.",
+    "organizer": "Indian Institute of Information Technology (IIIT), Allahabad",
+    "venue": "Online",
+    "mode": "Online",
+    "city": null,
+    "state": "online",
+    "country": null,
+    "start_date": "2026-11-15T00:00:00+05:30",
+    "end_date": "2026-12-13T23:00:00+05:30",
+    "registration_deadline": "2026-12-13T23:00:00+05:30",
+    "min_team_size": 1,
+    "max_team_size": 1,
+    "solo_allowed": true,
+    "eligibility": "Undergraduate / Postgraduate & Engineering students",
+    "prize_pool": "Prizes & Certificates",
+    "tracks": [
+      "Engineering Students",
+      "Postgraduate",
+      "Undergraduate",
+      "Management",
+      "Arts, Commerce, Sciences & Others"
+    ],
+    "score": 75,
+    "matched_reasons": [
+      "🌐 **Accessible Online Mode** (+15 pts)",
+      "👤 **Solo Eligible (1 Member)** (+35 pts)",
+      "🤖 **AI & Software Tracks** (+25 pts) [AI, ML, Web Development]"
+    ],
+    "is_nagpur_local": false,
+    "is_maharashtra": false,
+    "is_active": true,
+    "discovered_at": "2026-11-17T18:56:15.394281+00:00"
   },
   {
     "id": "unstop:1811016",
@@ -310,7 +348,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-17T09:56:53.454315+00:00"
+    "discovered_at": "2026-11-17T18:56:15.394953+00:00"
   },
   {
     "id": "unstop:1811493",
@@ -344,7 +382,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-17T09:56:53.454052+00:00"
+    "discovered_at": "2026-11-17T18:56:15.394762+00:00"
   },
   {
     "id": "unstop:1761846",
@@ -384,7 +422,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-17T09:56:53.454887+00:00"
+    "discovered_at": "2026-11-17T18:56:15.396657+00:00"
   },
   {
     "id": "hackerearth:contextcon-remember-everything",
@@ -420,7 +458,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-17T09:56:59.121146+00:00"
+    "discovered_at": "2026-11-17T18:56:23.616523+00:00"
   },
   {
     "id": "devpost:30740",
@@ -456,7 +494,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-17T09:56:58.214327+00:00"
+    "discovered_at": "2026-11-17T18:56:22.794622+00:00"
   },
   {
     "id": "devpost:30764",
@@ -492,7 +530,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-17T09:56:58.293860+00:00"
+    "discovered_at": "2026-11-17T18:56:22.933344+00:00"
   },
   {
     "id": "devpost:31787",
@@ -528,7 +566,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-17T09:56:58.214395+00:00"
+    "discovered_at": "2026-11-17T18:56:22.794664+00:00"
   },
   {
     "id": "devpost:31642",
@@ -564,7 +602,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-17T09:56:58.214348+00:00"
+    "discovered_at": "2026-11-17T18:56:22.794634+00:00"
   },
   {
     "id": "devpost:31083",
@@ -600,7 +638,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-17T09:56:58.125521+00:00"
+    "discovered_at": "2026-11-17T18:56:22.682600+00:00"
   },
   {
     "id": "devpost:31480",
@@ -636,14 +674,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-17T09:56:58.293839+00:00"
+    "discovered_at": "2026-11-17T18:56:22.933331+00:00"
   },
   {
     "id": "devpost:31972",
     "source": "Devpost",
     "title": "SLAY HACKS",
     "url": "https://slayy-hacks.devpost.com/",
-    "description": "Devpost hackathon. 21 days left",
+    "description": "Devpost hackathon. 20 days left",
     "organizer": "cite & slayy",
     "venue": "Online",
     "mode": "Online",
@@ -672,7 +710,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-17T09:56:58.293883+00:00"
+    "discovered_at": "2026-11-17T18:56:22.933357+00:00"
   },
   {
     "id": "devpost:31973",
@@ -708,14 +746,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-17T09:56:58.125535+00:00"
+    "discovered_at": "2026-11-17T18:56:22.682609+00:00"
   },
   {
     "id": "devpost:32079",
     "source": "Devpost",
     "title": "Learn AR with SPECS",
     "url": "https://learn-specs.devpost.com/",
-    "description": "Devpost hackathon. 21 days left",
+    "description": "Devpost hackathon. 20 days left",
     "organizer": "Devpost",
     "venue": "Online",
     "mode": "Online",
@@ -744,14 +782,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-17T09:56:58.214357+00:00"
+    "discovered_at": "2026-11-17T18:56:22.794639+00:00"
   },
   {
     "id": "devpost:31808",
     "source": "Devpost",
     "title": "#BuildHybridAI 2026",
     "url": "https://firebasehybridaihackathon.devpost.com/",
-    "description": "Devpost hackathon. 14 days left",
+    "description": "Devpost hackathon. 13 days left",
     "organizer": "Google",
     "venue": "Online",
     "mode": "Online",
@@ -780,14 +818,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-17T09:56:58.125512+00:00"
+    "discovered_at": "2026-11-17T18:56:22.682596+00:00"
   },
   {
     "id": "devpost:32024",
     "source": "Devpost",
     "title": "Relate by Neo4j Hackathon",
     "url": "https://relate.devpost.com/",
-    "description": "Devpost hackathon. 25 days left",
+    "description": "Devpost hackathon. 24 days left",
     "organizer": "Neo4j",
     "venue": "Online",
     "mode": "Online",
@@ -816,7 +854,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-17T09:56:58.214382+00:00"
+    "discovered_at": "2026-11-17T18:56:22.794655+00:00"
   },
   {
     "id": "devpost:32026",
@@ -852,7 +890,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-17T09:56:58.125542+00:00"
+    "discovered_at": "2026-11-17T18:56:22.682613+00:00"
   },
   {
     "id": "hackerearth:ibm-z-day",
@@ -888,7 +926,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-17T09:56:59.121121+00:00"
+    "discovered_at": "2026-11-17T18:56:23.616506+00:00"
   },
   {
     "id": "hackerearth:groww-next-2026",
@@ -924,14 +962,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-17T09:56:59.121159+00:00"
+    "discovered_at": "2026-11-17T18:56:23.616531+00:00"
   },
   {
     "id": "devpost:31796",
     "source": "Devpost",
     "title": "SafeSpace Hacks - Judges Needed",
     "url": "https://safespace-hacks.devpost.com/",
-    "description": "Devpost hackathon. 23 days left",
+    "description": "Devpost hackathon. 22 days left",
     "organizer": "SafeSpace",
     "venue": "Online",
     "mode": "Online",
@@ -960,14 +998,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-17T09:56:58.214389+00:00"
+    "discovered_at": "2026-11-17T18:56:22.794659+00:00"
   },
   {
     "id": "devpost:31789",
     "source": "Devpost",
     "title": "STEM2Connect AI Hackathon",
     "url": "https://stem2connect-online-hackathon.devpost.com/",
-    "description": "Devpost hackathon. 5 days left",
+    "description": "Devpost hackathon. 4 days left",
     "organizer": "STEM2Connect",
     "venue": "Online",
     "mode": "Online",
@@ -996,7 +1034,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-17T09:56:58.214376+00:00"
+    "discovered_at": "2026-11-17T18:56:22.794651+00:00"
   },
   {
     "id": "devpost:30789",
@@ -1032,7 +1070,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-17T09:56:58.125548+00:00"
+    "discovered_at": "2026-11-17T18:56:22.682617+00:00"
   },
   {
     "id": "devpost:26475",
@@ -1068,7 +1106,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-17T09:56:58.293890+00:00"
+    "discovered_at": "2026-11-17T18:56:22.933362+00:00"
   },
   {
     "id": "devpost:31572",
@@ -1104,14 +1142,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-17T09:56:58.125495+00:00"
+    "discovered_at": "2026-11-17T18:56:22.682592+00:00"
   },
   {
     "id": "devpost:31907",
     "source": "Devpost",
     "title": "Build Your First AI App",
     "url": "https://build-your-first-ai-app.devpost.com/",
-    "description": "Devpost hackathon. 11 days left",
+    "description": "Devpost hackathon. 10 days left",
     "organizer": "Yasir Insights",
     "venue": "Online",
     "mode": "Online",
@@ -1140,14 +1178,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-17T09:56:58.214363+00:00"
+    "discovered_at": "2026-11-17T18:56:22.794643+00:00"
   },
   {
     "id": "devpost:31667",
     "source": "Devpost",
     "title": "Kiroween 2026",
     "url": "https://kiroween.devpost.com/",
-    "description": "Devpost hackathon. 18 days left",
+    "description": "Devpost hackathon. 17 days left",
     "organizer": "Kiro",
     "venue": "Online",
     "mode": "Online",
@@ -1176,7 +1214,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-17T09:56:58.125436+00:00"
+    "discovered_at": "2026-11-17T18:56:22.682566+00:00"
   },
   {
     "id": "devpost:31024",
@@ -1212,7 +1250,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-17T09:56:58.125462+00:00"
+    "discovered_at": "2026-11-17T18:56:22.682585+00:00"
   },
   {
     "id": "unstop:1807596",
@@ -1251,7 +1289,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-17T09:56:53.455800+00:00"
+    "discovered_at": "2026-11-17T18:56:15.396038+00:00"
   },
   {
     "id": "unstop:1811240",
@@ -1290,7 +1328,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-17T09:56:53.454173+00:00"
+    "discovered_at": "2026-11-17T18:56:15.394849+00:00"
   },
   {
     "id": "unstop:1781454",
@@ -1329,40 +1367,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-17T09:56:53.456622+00:00"
-  },
-  {
-    "id": "unstop:1787722",
-    "source": "Unstop",
-    "title": "The Forge",
-    "url": "https://unstop.com/hackathons/the-forge-hoollow-1787722",
-    "description": "Event Description &mdash; Cybersecurity Hackathon Step into the world of cybersecurity, innovation, and problem-solving with an exciting hackathon designed to bring together developers, innovators, and aspiring cybersecurity enthusiasts to build solutions for real-world digital challenges. With Cybersecurity as the central theme, this hackathon aims to encourage participants to explore emerging threats, strengthen digital security, and develop innovative solutions that make the digital world safer. The event will be conducted across two competitive rounds : Round 1: Online &mdash; Open Innovation in Cybersecurity Participants will have complete creative freedom to identify a cybersecurity challenge and develop an innovative solution around it. Teams must build and submit a working MVP addressing any relevant area of cybersecurity. Submissions will be evaluated based on innovation, technical execution, problem-solving approach, and potential real-world impact. Round 2: Final Round &mdash; Delhi NCR (Hybrid) The top 250&ndash;300 participants shortlisted from Round 1 will advance to the final round. Unlike Round 1, participants will be presented with a specific cybersecurity problem statement that they must tackle through their technical knowledge, creativity, and implementation skills. The final round will be conducted in a hybrid format (online and offline) , with offline participation hosted in Delhi NCR. The exact venue will be revealed to shortlisted participants. Whether your interest lies in ethical hacking, AI-powered security, threat detection, data privacy, network protection, or emerging digital vulnerabilities, this is your opportunity to turn ideas into impactful solutions. Identify the threat. Engineer the solution. Secure the future.",
-    "organizer": "Hoollow",
-    "venue": "offline",
-    "mode": "In-Person",
-    "city": null,
-    "state": "offline",
-    "country": null,
-    "start_date": "2026-11-02T00:00:00+05:30",
-    "end_date": "2027-01-12T08:39:00+05:30",
-    "registration_deadline": "2026-12-31T00:00:00+05:30",
-    "min_team_size": 1,
-    "max_team_size": 5,
-    "solo_allowed": true,
-    "eligibility": "Open to college students & coders",
-    "prize_pool": "Prizes & Certificates",
-    "tracks": [
-      "All"
-    ],
-    "score": 60,
-    "matched_reasons": [
-      "👤 **Solo Eligible (1 Member)** (+35 pts)",
-      "🤖 **AI & Software Tracks** (+25 pts) [AI, Open Innovation, Cybersecurity]"
-    ],
-    "is_nagpur_local": false,
-    "is_maharashtra": false,
-    "is_active": true,
-    "discovered_at": "2026-11-17T09:56:53.456414+00:00"
+    "discovered_at": "2026-11-17T18:56:17.759600+00:00"
   },
   {
     "id": "devpost:31746",
@@ -1397,7 +1402,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-17T09:56:58.293869+00:00"
+    "discovered_at": "2026-11-17T18:56:22.933349+00:00"
   },
   {
     "id": "unstop:1799791",
@@ -1434,14 +1439,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-17T09:56:53.456544+00:00"
+    "discovered_at": "2026-11-17T18:56:15.396780+00:00"
   },
   {
     "id": "unstop:1811085",
     "source": "Unstop",
     "title": "Configure 2026: A Mobility Hackathon",
     "url": "https://unstop.com/hackathons/configure-2026-a-mobility-hackathon-zeliot-pvt-ltd-1811085",
-    "description": "Build a real-time mobility solution in 48 hours with Condense. Configure 2026 is a free, online hackathon by Condense and Bosch Mobility Platforms &amp; Solutions, part of MPS Summit 2026. Pick a real problem in mobility, then build a real-time data pipeline and app to solve it, with Condense as your streaming backbone. Important: &nbsp;Your team is only entered once the team leader fills in the registration form, by 26 November. What you could build: Fleet tracking and management Vehicle health and predictive maintenance Geofencing and real-time alerts EV battery and charging intelligence Driver behaviour and safety Logistics and last-mile optimization Or your own mobility idea How it works (all times IST): Register your team by Thursday 26 November Set up your Condense workspace and run the sample pipeline before kickoff Join the kickoff webinar on Friday 27 November, 9:30 PM (it's recorded) Build from Saturday 28 November, 12:00 AM to Sunday 29 November, 11:59 PM, with help on Discord Submit by Sunday 29 November, 11:59 PM Winners announced by Wednesday 2 December Who can join: Students, working professionals and early-stage startups aged 18+, from anywhere in the world. Teams of 1 to 3, solo entries welcome. Entry is free. What you get: Your own Condense workspace and a shared Kafka cluster, so you don't need your own A starter kit with sample vehicle telemetry, GPS and CAN-like data generators Help from Condense engineers and mobility mentors on Discord A $3,000 cash prize pool, plus invitations to the Bosch MPS Hackathon for top teams Share what you build with #Configure26",
+    "description": "Build a real-time mobility solution in 48 hours with Condense. Configure 2026 is a free, online hackathon by Condense and Bosch Mobility Platforms &amp; Solutions, part of MPS Summit 2026. Pick a real problem in mobility, then build a real-time data pipeline and app to solve it, with Condense as your streaming backbone. Important: Your team is only entered once the team leader fills in the registration form by 26 November. Please complete your registration here: https://www.condense.io/configure-2026 What you could build: Fleet tracking and management Vehicle health and predictive maintenance Geofencing and real-time alerts EV battery and charging intelligence Driver behaviour and safety Logistics and last-mile optimization Or your own mobility idea How it works (all times IST): Register your team by Thursday 26 November Set up your Condense workspace and run the sample pipeline before kickoff Join the kickoff webinar on Friday 27 November, 9:30 PM (it's recorded) Build from Saturday 28 November, 12:00 AM to Sunday 29 November, 11:59 PM, with help on Discord Submit by Sunday 29 November, 11:59 PM Winners announced by Wednesday 2 December Who can join: Students, working professionals and early-stage startups aged 18+, from anywhere in the world. Teams of 1 to 3, solo entries welcome. Entry is free. What you get: Your own Condense workspace and a shared Kafka cluster, so you don't need your own A starter kit with sample vehicle telemetry, GPS and CAN-like data generators Help from Condense engineers and mobility mentors on Discord A $3,000 cash prize pool, plus invitations to the Bosch MPS Hackathon for top teams Share what you build with #Configure26",
     "organizer": "Zeliot Pvt Ltd",
     "venue": "Online",
     "mode": "Online",
@@ -1467,7 +1472,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-17T09:56:53.454244+00:00"
+    "discovered_at": "2026-11-17T18:56:15.394901+00:00"
   },
   {
     "id": "unstop:1805946",
@@ -1506,40 +1511,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-17T09:56:53.456356+00:00"
-  },
-  {
-    "id": "unstop:1799091",
-    "source": "Unstop",
-    "title": "Hacksmart 2.0",
-    "url": "https://unstop.com/hackathons/hacksmart-20-geek-room-1799091",
-    "description": "HackSmart 2.0: An Opportunity to Reimagine Mobility HackSmart is back for its second edition! Organized by Battery Smart X Geek Room , HackSmart 2.0 brings together developers, students, and innovators to build practical solutions for real-world challenges in electric mobility. From battery swapping and operational efficiency to automation and technology-driven solutions, the hackathon provides an opportunity to collaborate, innovate, and solve industry challenges. New challenges. Fresh ideas. Bigger possibilities. Event Details Organizer: Battery Smart &amp; Geek Room Venue: Battery Smart Office, Sector 62, Gurugram, Haryana Format: Offline Hackathon Registration Period: 7 November &ndash; 15 December 2026 Hackathon Dates: To Be Announced How to Register Register through the official HackSmart 2.0 listing on Unstop. Fill in your personal and professional details. Enter your team details, Individual registrations are also accepted. Hackathon Structure Registration &amp; Shortlisting Applications will be reviewed by the organizing team. Shortlisted participants will receive further details regarding the hackathon schedule and participation guidelines. Kickoff &amp; Build Sprint Selected teams will attend an orientation covering the problem statements, evaluation criteria, and event guidelines before beginning the development phase. Mentors will be available to provide technical guidance and feedback. Project Demonstration Teams will present their solutions to the jury through a 10-minute demonstration , showcasing their approach, implementation, and potential impact. The top five teams will advance to the final round. Final Jury Pitch The top five teams will present their solutions in a 7-minute final pitch , followed by evaluation and winner announcements. Evaluation Criteria Projects will be evaluated based on innovation, technical implementation, feasibility, scalability, and relevance to real-world mobility challenges. Join HackSmart 2.0! Bring your ideas, collaborate with fellow builders, and contribute to the future of electric mobility. Register now and get ready to build!",
-    "organizer": "Geek Room",
-    "venue": "hybrid",
-    "mode": "In-Person",
-    "city": null,
-    "state": "hybrid",
-    "country": null,
-    "start_date": "2026-11-06T00:00:00+05:30",
-    "end_date": "2026-12-15T23:59:00+05:30",
-    "registration_deadline": "2026-12-15T23:59:00+05:30",
-    "min_team_size": 1,
-    "max_team_size": 4,
-    "solo_allowed": true,
-    "eligibility": "Open to college students & coders",
-    "prize_pool": "Prizes & Certificates",
-    "tracks": [
-      "All"
-    ],
-    "score": 50,
-    "matched_reasons": [
-      "🌐 **Accessible In-Person Mode** (+15 pts)",
-      "👤 **Solo Eligible (1 Member)** (+35 pts)"
-    ],
-    "is_nagpur_local": false,
-    "is_maharashtra": false,
-    "is_active": true,
-    "discovered_at": "2026-11-17T09:56:53.456497+00:00"
+    "discovered_at": "2026-11-17T18:56:15.396742+00:00"
   },
   {
     "id": "devpost:31108",
@@ -1574,14 +1546,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-17T09:56:58.293876+00:00"
+    "discovered_at": "2026-11-17T18:56:22.933353+00:00"
   },
   {
     "id": "devpost:31644",
     "source": "Devpost",
     "title": "Reddit’s Game of the Day Hackathon",
     "url": "https://redditgameofday2026.devpost.com/",
-    "description": "Devpost hackathon. 22 days left",
+    "description": "Devpost hackathon. 21 days left",
     "organizer": "reddit",
     "venue": "Online",
     "mode": "Online",
@@ -1608,14 +1580,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-17T09:56:58.125528+00:00"
+    "discovered_at": "2026-11-17T18:56:22.682605+00:00"
   },
   {
     "id": "devpost:31773",
     "source": "Devpost",
     "title": "LaunchPad Hacks (580k In Prizes!)",
     "url": "https://launchpad-hacks.devpost.com/",
-    "description": "Devpost hackathon. 18 days left",
+    "description": "Devpost hackathon. 17 days left",
     "organizer": "Hack4TodayOrg",
     "venue": "Online",
     "mode": "Online",
@@ -1642,7 +1614,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-17T09:56:58.214370+00:00"
+    "discovered_at": "2026-11-17T18:56:22.794647+00:00"
   },
   {
     "id": "devpost:31795",
@@ -1677,14 +1649,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-17T09:56:58.293897+00:00"
+    "discovered_at": "2026-11-17T18:56:22.933365+00:00"
   },
   {
     "id": "devpost:31798",
     "source": "Devpost",
     "title": "Taskforge",
     "url": "https://taskforge.devpost.com/",
-    "description": "Devpost hackathon. 8 days left",
+    "description": "Devpost hackathon. 7 days left",
     "organizer": "HackathonForEveryone",
     "venue": "Online",
     "mode": "Online",
@@ -1711,14 +1683,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-17T09:56:58.293904+00:00"
+    "discovered_at": "2026-11-17T18:56:22.933374+00:00"
   },
   {
     "id": "devpost:31797",
     "source": "Devpost",
     "title": "Green Shift Hacks",
     "url": "https://green-shift-hacks.devpost.com/",
-    "description": "Devpost hackathon. 24 days left",
+    "description": "Devpost hackathon. 23 days left",
     "organizer": "HackathonForEveryone",
     "venue": "Online",
     "mode": "Online",
@@ -1745,7 +1717,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-17T09:56:58.293910+00:00"
+    "discovered_at": "2026-11-17T18:56:22.933370+00:00"
   },
   {
     "id": "unstop:1798287",
@@ -1778,14 +1750,55 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-17T09:56:53.455102+00:00"
+    "discovered_at": "2026-11-17T18:56:15.395475+00:00"
+  },
+  {
+    "id": "unstop:1814263",
+    "source": "Unstop",
+    "title": "Silicon Sprint 2026",
+    "url": "https://unstop.com/hackathons/silicon-sprint-2026-nitk-surathkal-1814263",
+    "description": "About the Opportunity SiliconSprint 2.0 is a 24-hour, national-level virtual electronics hackathon co-organized by IEEE NITK Surathkal and IEEE BITS Pilani Hyderabad Campus (IEEE BPHC), sponsored by Tenstorrent and powered by Unstop. Following an inaugural edition that drew over 650 registrations and 250+ teams nationwide, this second edition unites bright engineering undergraduates to tackle next-generation hardware design and real-world industry challenges. Prizes &amp; Rewards Total Prize Pool: ₹1,00,000 (1 Lakh) Cash Prizes: ₹80,000 Merchandise &amp; Goodies: Official goodies worth ₹20,000 Certification: Official IEEE participation certificates for participants Hackathon Tracks Analog Frontier Digital Frontier Signal Processing Frontier Hardware for AI Frontier Event Timeline Nov 23 (Day 1): Industry Expert Keynotes (Talks by 2 industrial experts) Nov 25 (Day 2): Industry Expert Keynotes (Talks by 2 industrial experts) Nov 27 (Part 1): Grand Opening &amp; Kickoff (Official inauguration and event launch) Nov 27 (Part 2): First Review (Initial milestone check and feedback round) Nov 28 (Part 1): Second Review (Mid-stage review and refinement) Nov 28 (Part 2): Final Review &amp; Presentations (Final project presentations by participants) Rules &amp; Guidelines Eligibility: Open to 1st, 2nd, and 3rd-year undergraduate engineering students. Team Size: 2&ndash;3 members per team. Originality: All submissions must be completely original; plagiarism is strictly prohibited. Technical Specifications: Specific tools and problem statements will be disclosed upon registration. Judging: Submissions will be evaluated by a panel of industry experts and academics. Why Participate? Solve Real-World Problems: Transition academic theory into high-impact hardware engineering. Win Big &amp; Get Certified: Compete for the ₹1,00,000 prize pool (₹80,000 cash + ₹20,000 worth of merchandise) and receive an official certificate from IEEE. Network: Connect with top engineering talent, mentors, and recruiters across India. Connect With Us WhatsApp Community: https://chat.whatsapp.com/DpBT2pWoCFdBt4d3ggV3fX",
+    "organizer": "National Institute of Technology Karnataka (NITK), Surathkal",
+    "venue": "Online",
+    "mode": "Online",
+    "city": null,
+    "state": "online",
+    "country": null,
+    "start_date": "2026-11-16T00:00:00+05:30",
+    "end_date": "2026-12-28T17:00:00+05:30",
+    "registration_deadline": "2026-11-26T00:00:00+05:30",
+    "min_team_size": 2,
+    "max_team_size": 3,
+    "solo_allowed": false,
+    "eligibility": "Undergraduate / Postgraduate & Engineering students",
+    "prize_pool": "Prizes & Certificates",
+    "tracks": [
+      "Engineering Students",
+      "Postgraduate",
+      "Undergraduate",
+      "School Students",
+      "Fresher",
+      "Management",
+      "Medical",
+      "Law",
+      "Arts, Commerce, Sciences & Others"
+    ],
+    "score": 40,
+    "matched_reasons": [
+      "🌐 **Accessible Online Mode** (+15 pts)",
+      "🤖 **AI & Software Tracks** (+25 pts) [AI]"
+    ],
+    "is_nagpur_local": false,
+    "is_maharashtra": false,
+    "is_active": true,
+    "discovered_at": "2026-11-17T18:56:15.393953+00:00"
   },
   {
     "id": "unstop:1810268",
     "source": "Unstop",
     "title": "CODERED'26",
     "url": "https://unstop.com/hackathons/codered26-bms-insitute-of-technology-and-management-1810268",
-    "description": "CODERED &rsquo;26 - National-Level Hackathon CODERED &rsquo;26, organised by the Entrepreneurship Cell of BMS Institute of Technology and Management, Bengaluru, is a national-level hackathon designed to take student teams beyond from just solving a problem to building meaningful, functional products. This edition brings together six participating companies, offering students the opportunity to work on real-world product ideas across multiple domains.&nbsp; Check out our WEBSITE for the Challenge Briefs. Company Tracks: CODERED &rsquo;26 features four tracks, with six participating companies: Dedicated Company Tracks: Niveus Technologies Simple Energy Agnes AI XP Robotis Unisys (for BMSIT Students Only) Each of these companies will have a dedicated track featuring one or more product ideas for participating teams. Startup Track: The Startup Track brings together product opportunities from: Think Robotics Sahasranshu Technologies MyStartupWave Cassette Labs The participating companies may provide multiple product ideas within their respective domains. Teams can explore the available ideas and select one product idea from one company to work on throughout the competition. Teams are not required to work on every idea offered under a track. Competition Structure: CODERED &rsquo;26 will be conducted across three rounds, progressively taking teams from initial ideas to functional products. Refer the BROCHURE for more information Eligibility and Team Composition: 1. The participants should be currently pursuing engineering in any filed in a recognised institute. 2. Participants from different institutes can form a single team. Participants are required to adhere to the team formation and eligibility conditions specified during registration. Registration and Participation Guidelines: Teams must complete the registration process through the official Unstop opportunity page. Participants must submit their ideas in the prescribed format within the stipulated deadline. Each team may select only one product idea from one participating company. Teams must continue working on the product idea selected during the competition. Teams are expected to develop their ideas into functional prototypes or MVPs during the product development journey. All participants must comply with the competition guidelines and instructions issued by the organisers. The CODERED &rsquo;26 Experience: CODERED &rsquo;26 aims to provide students with an opportunity to experience the complete product development process while engaging with industry and emerging companies. Through company-led product opportunities, structured evaluation rounds and an intensive offline 24 hour sprint, participants will get the opportunity to move beyond theoretical ideas and work towards building functional products. The objective is simple: Take an idea, build it into a functional product, and demonstrate what it can achieve. Note: The Registration fee of ₹1,500 is collected only for the top 50 teams selected for Round 3 (On-Campus Sprint). The money will be collected outside of the Unstop Platform",
+    "description": "CODERED &rsquo;26 - National-Level Hackathon CODERED &rsquo;26, organised by the Entrepreneurship Cell of BMS Institute of Technology and Management, Bengaluru, is a national-level hackathon designed to take student teams beyond from just solving a problem to building meaningful, functional products. This edition brings together six participating companies, offering students the opportunity to work on real-world product ideas across multiple domains.&nbsp; Check out our WEBSITE for the Challenge Briefs. Company Tracks: CODERED &rsquo;26 features four tracks, with six participating companies: Dedicated Company Tracks: Niveus Technologies Simple Energy Agnes AI XP Robotis Unisys (for BMSIT Students Only) Each of these companies will have a dedicated track featuring one or more product ideas for participating teams. Startup Track: The Startup Track brings together product opportunities from: Think Robotics Sahasranshu Technologies MyStartupWave Cassette Labs The participating companies may provide multiple product ideas within their respective domains. Teams can explore the available ideas and select one product idea from one company to work on throughout the competition. Teams are not required to work on every idea offered under a track. Competition Structure: CODERED &rsquo;26 will be conducted across three rounds, progressively taking teams from initial ideas to functional products. Refer the BROCHURE for more information Eligibility and Team Composition: 1. The participants should be currently pursuing engineering in any filed in a recognised institute. 2. Participants from different institutes can form a single team. Participants are required to adhere to the team formation and eligibility conditions specified during registration. Registration and Participation Guidelines: Teams must complete the registration process through the official Unstop opportunity page. Participants must submit their ideas in the prescribed format within the stipulated deadline. Each team may select only one product idea from one participating company. Teams must continue working on the product idea selected during the competition. Teams are expected to develop their ideas into functional prototypes or MVPs during the product development journey. All participants must comply with the competition guidelines and instructions issued by the organisers. The CODERED &rsquo;26 Experience: CODERED &rsquo;26 aims to provide students with an opportunity to experience the complete product development process while engaging with industry and emerging companies. Through company-led product opportunities, structured evaluation rounds and an intensive offline 24 hour sprint, participants will get the opportunity to move beyond theoretical ideas and work towards building functional products. The objective is simple: Take an idea, build it into a functional product, and demonstrate what it can achieve.",
     "organizer": "BMS Insitute of Technology and Management",
     "venue": "hybrid",
     "mode": "In-Person",
@@ -1812,14 +1825,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-17T09:56:53.454441+00:00"
+    "discovered_at": "2026-11-17T18:56:15.395303+00:00"
   },
   {
     "id": "unstop:1810370",
     "source": "Unstop",
     "title": "Code Relay 5.0",
     "url": "https://unstop.com/hackathons/code-relay-50-indian-institute-of-technology-iit-bhubaneswar-1810370",
-    "description": "Overview Five editions. Pass the baton, build the future. WebnD, the Web and Design Society of IIT Bhubaneswar, is back with the fifth edition of its flagship hackathon. Builders, dreamers and problem-solvers from across India will battle it out in two electrifying tracks: Web2 and Web3 .&nbsp; PPI Opportunities Top performers in the Web2 tracks get a shot at Pre-Placement Interview (PPI) opportunities from CSM Technologies. Build something great and it could land you more than a trophy. Who Can Join the Relay Open to everyone, whatever your discipline, degree or background Squad up in teams of 2 to 4 members Teammates can come from different colleges, schools or organisations Teams lock the moment you register, with no swaps and no substitutions. Pick your dream team wisely. Round 1: The Ideathon and Prototyping (Online) Problem statements for both tracks drop for all registered teams. Pitch your best idea in one PPT using the provided template by December 12 . Want to stand out? Attach a working prototype and score bonus points. The most promising teams will be shortlisted and invited to the main arena. Round 2: The Hackathon (On-site at IIT Bhubaneswar) Shortlisted teams must report on campus by January 15 . Miss the check-in and you are out of the race. Get 30 hours of non-stop building, with power and internet on us throughout. Take the stage and pitch live to the judges: your idea , your product and your business strategy . Fair play matters. Pre-existing projects are allowed only if disclosed in advance, and undisclosed ones will be disqualified. The Finale Celebrate the final lap at a networking lunch with fellow participants, judges, sponsors and speakers. Great code gets you here, great connections take you further. Mark Your Calendar December 12: Round 1 PPT submission deadline January 15: Reporting day for shortlisted teams at IIT Bhubaneswar Why You Should Run This Relay Tackle real-world problem statements across Web2 and Web3 Go from raw idea to working product in just 30 intense hours Learn to sell your vision, not just your code Meet the judges, sponsors and speakers who can shape your journey Join the Community Don&rsquo;t just run the relay, be part of the buzz! Get live updates, find teammates, ask your questions and connect with organisers and fellow participants. Join our Discord server for announcements, updates and instant answers to your queries: Join the Discord Follow Code Relay on Instagram for event updates, sneak peeks and announcements Follow WebnD on Instagram to see what the society is building beyond the relay Become a Campus Ambassador and take the relay to your college. Rally teams, lead the buzz and earn certificates, goodies and recognition. Your team. Your track. Your baton. Register now and let the relay begin!",
+    "description": "Overview Five editions. Pass the baton, build the future. WebnD, the Web and Design Society of IIT Bhubaneswar, is back with the fifth edition of its flagship hackathon. Builders, dreamers and problem-solvers from across India will battle it out in two electrifying tracks: Web2 and Web3 .&nbsp; PPI Opportunities Top performers in the Web2 tracks get a shot at Pre-Placement Interview (PPI) opportunities from CSM Technologies. Build something great and it could land you more than a trophy. Who Can Join the Relay Open to everyone, whatever your discipline, degree or background Squad up in teams of 2 to 4 members Teammates can come from different colleges, schools or organisations Teams lock the moment you register, with no swaps and no substitutions. Pick your dream team wisely. Round 1: The Ideathon and Prototyping (Online) Problem statements for both tracks drop for all registered teams. Pitch your best idea in one PPT using the provided template by December 12 . Want to stand out? Attach a working prototype and score bonus points. The most promising teams will be shortlisted and invited to the main arena. Round 2: The Hackathon (On-site at IIT Bhubaneswar) Shortlisted teams must report on campus by January 15 . Miss the check-in and you are out of the race. Get 30 hours of non-stop building, with power and internet on us throughout. Take the stage and pitch live to the judges: your idea , your product and your business strategy . Fair play matters. Pre-existing projects are allowed only if disclosed in advance, and undisclosed ones will be disqualified. The Finale Celebrate the final lap at a networking lunch with fellow participants, judges, sponsors and speakers. Great code gets you here, great connections take you further. Mark Your Calendar December 12: Round 1 PPT submission deadline January 15: Reporting day for shortlisted teams at IIT Bhubaneswar Why You Should Run This Relay Tackle real-world problem statements across Web2 and Web3 Go from raw idea to working product in just 30 intense hours Learn to sell your vision, not just your code Meet the judges, sponsors and speakers who can shape your journey Join the Community Don&rsquo;t just run the relay, be part of the buzz! Get live updates, find teammates, ask your questions and connect with organisers and fellow participants. Join our Discord server for announcements, updates and instant answers to your queries: Join the Discord Follow Code Relay on Instagram for event updates, sneak peeks and announcements: Follow CodeRelay on Instagram!! Follow WebnD on Instagram to see what the society is building beyond the relay: Follow WebnD on Instagram!! Become a Campus Ambassador and take the relay to your college. Rally teams, lead the buzz and earn certificates, goodies and recognition: Campus Ambassador Form Your team. Your track. Your baton. Register now and let the relay begin!",
     "organizer": "Indian Institute of Technology (IIT), Bhubaneswar",
     "venue": "hybrid",
     "mode": "In-Person",
@@ -1845,14 +1858,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-17T09:56:53.453271+00:00"
+    "discovered_at": "2026-11-17T18:56:15.394373+00:00"
   },
   {
     "id": "unstop:1806122",
     "source": "Unstop",
     "title": "Defy'27",
     "url": "https://unstop.com/hackathons/defy27-vellore-institute-of-technology-vit-chennai-1806122",
-    "description": "Overview DeFy'27 is a Web3 hackathon designed for students passionate about entrepreneurship, innovation, technology and decentralization. Going beyond traditional hackathons, DeFy'27 combines technological innovation with entrepreneurial thinking, challenging participants to identify real-world problems and develop practical, business-oriented solutions powered by Web3. The hackathon follows a two-round format, beginning with an online idea submission round, followed by an intensive 24-hour onsite hackathon at VIT Chennai for shortlisted teams. Event at a Glance Organised by: DAO Community and Business Innovation Community, VIT Chennai Onsite hackathon: 9-10 January 2027 (24 hours, across two days) Venue: VIT Chennai Team size: 4-6 members Tracks: 3 Prize pool: ₹1,00,000 Format: Round 1 online idea submission, then Round 2 onsite hackathon. Dates are tentative and may be updated. Any changes will be announced on the official platform. Tracks DeFi Public goods Open innovation Teams choose one track and identify their own problem statement within it. Prizes DeFy'27 offers a total prize pool of ₹1,00,000 . We will announce the detailed prize distribution soon. Round 1: Online Idea Submission Step 1: Choose a Track Explore the three tracks and select the one that best aligns with your interests and the problem you wish to address. Step 2: Identify a Problem Statement Identify a meaningful real-world problem within your chosen track. Understand the problem, its target audience and the opportunity for an innovative solution. Step 3: Form Your Team Create a team of 4 to 6 members on the official hackathon registration platform. Ensure all members join the team and complete the registration process. Step 4: Develop Your Idea Develop an innovative solution aligned with your selected track. Your proposal should demonstrate the potential to become a practical, Web3-powered solution. Think beyond technology. Consider your business model, target audience, feasibility, scalability and real-world impact. Step 5: Submit Your Idea Complete the prescribed submission template and provide all the required details. Your submission must clearly outline: The problem you aim to solve. Your proposed solution. Its alignment with your selected track. How Web3 contributes to your solution. Its potential business value and real-world impact. Step 6: Shortlisting Results All submissions will be evaluated based on innovation, relevance, feasibility and potential impact. The most promising teams will be shortlisted for Round 2 and notified about their qualification for the onsite hackathon. Round 2: Onsite Hackathon (9-10 January 2027) Step 7: Confirm Your Participation Shortlisted teams must complete the required RSVP process to confirm their participation in the onsite hackathon. Step 8: The 24-Hour Hackathon Qualified teams will participate in an intensive, in-person 24-hour hackathon at VIT Chennai, starting on 9 January and concluding on 10 January 2027. Step 9: Build Your Submitted Project Teams must develop the project proposed during Round 1. The final project must remain aligned with the original submission and selected track. Participants are expected to transform their initial ideas into working solutions, demonstrating technical execution, innovation and entrepreneurial thinking. Important Reminders Teams must have 4 to 6 members . Choose one of the 3 tracks that aligns with your interests and proposed solution. Ensure your problem statement and solution fit your selected track. Complete team formation and registration as instructed. Submit your idea using the prescribed template. Await the Round 1 shortlisting results. Shortlisted teams must complete their RSVP and attend the onsite hackathon on 9-10 January 2027. The project developed during Round 2 must correspond to the original Round 1 submission. Identify a problem. Develop an idea. Build your solution. Bring your vision to life at DeFy'27! Organised by DAO Community and Business Innovation Community VIT Chennai.",
+    "description": "Overview DeFy'27 is a Web3 hackathon designed for students passionate about entrepreneurship, innovation, technology and decentralization. Going beyond traditional hackathons, DeFy'27 combines technological innovation with entrepreneurial thinking, challenging participants to identify real-world problems and develop practical, business-oriented solutions powered by Web3. The hackathon follows a two-round format, beginning with an online idea submission round, followed by an intensive 24-hour onsite hackathon at VIT Chennai for shortlisted teams. Event at a Glance Organised by: DAO Community and Business Innovation Community, VIT Chennai Onsite hackathon: 9-10 January 2027 (24 hours, across two days) Venue: VIT Chennai Team size: 4-6 members Tracks: 3 Prize pool: ₹2,24,000 Format: Round 1 online idea submission, then Round 2 onsite hackathon. Dates are tentative and may be updated. Any changes will be announced on the official platform. Tracks DeFi Public goods Open innovation Teams choose one track and identify their own problem statement within it. Prizes DeFy'27 offers a total prize pool of ₹1,00,000 . We will announce the detailed prize distribution soon. Round 1: Online Idea Submission Step 1: Choose a Track Explore the three tracks and select the one that best aligns with your interests and the problem you wish to address. Step 2: Identify a Problem Statement Identify a meaningful real-world problem within your chosen track. Understand the problem, its target audience and the opportunity for an innovative solution. Step 3: Form Your Team Create a team of 4 to 6 members on the official hackathon registration platform. Ensure all members join the team and complete the registration process. Step 4: Develop Your Idea Develop an innovative solution aligned with your selected track. Your proposal should demonstrate the potential to become a practical, Web3-powered solution. Think beyond technology. Consider your business model, target audience, feasibility, scalability and real-world impact. Step 5: Submit Your Idea Complete the prescribed submission template and provide all the required details. Your submission must clearly outline: The problem you aim to solve. Your proposed solution. Its alignment with your selected track. How Web3 contributes to your solution. Its potential business value and real-world impact. Step 6: Shortlisting Results All submissions will be evaluated based on innovation, relevance, feasibility and potential impact. The most promising teams will be shortlisted for Round 2 and notified about their qualification for the onsite hackathon. Round 2: Onsite Hackathon (9-10 January 2027) Step 7: Confirm Your Participation Shortlisted teams must complete the required RSVP process to confirm their participation in the onsite hackathon. Step 8: The 24-Hour Hackathon Qualified teams will participate in an intensive, in-person 24-hour hackathon at VIT Chennai, starting on 9 January and concluding on 10 January 2027. Step 9: Build Your Submitted Project Teams must develop the project proposed during Round 1. The final project must remain aligned with the original submission and selected track. Participants are expected to transform their initial ideas into working solutions, demonstrating technical execution, innovation and entrepreneurial thinking. Important Reminders Teams must have 4 to 6 members . Choose one of the 3 tracks that aligns with your interests and proposed solution. Ensure your problem statement and solution fit your selected track. Complete team formation and registration as instructed. Submit your idea using the prescribed template. Await the Round 1 shortlisting results. Shortlisted teams must complete their RSVP and attend the onsite hackathon on 9-10 January 2027. The project developed during Round 2 must correspond to the original Round 1 submission. Identify a problem. Develop an idea. Build your solution. Bring your vision to life at DeFy'27! Organised by DAO Community and Business Innovation Community VIT Chennai. &nbsp; Stay connected with the DeFy'27 organising team and receive important announcements, updates, reminders and event-related information. Join the official DeFy'27 WhatsApp group: Join Here: https://chat.whatsapp.com/HM7x66noOUj1Ab8qtXXOqP Make sure to join the group to stay updated on important hackathon announcements! &nbsp;",
     "organizer": "Vellore Institute of Technology (VIT), Chennai",
     "venue": "hybrid",
     "mode": "In-Person",
@@ -1884,7 +1897,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-17T09:56:53.456255+00:00"
+    "discovered_at": "2026-11-17T18:56:15.396407+00:00"
   },
   {
     "id": "unstop:1809486",
@@ -1917,6 +1930,6 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-17T09:56:53.455231+00:00"
+    "discovered_at": "2026-11-17T18:56:15.395582+00:00"
   }
 ]

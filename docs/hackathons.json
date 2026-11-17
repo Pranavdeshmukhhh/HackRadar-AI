@@ -33,7 +33,7 @@
     "is_nagpur_local": true,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-16T17:43:34.208846+00:00"
+    "discovered_at": "2026-11-17T01:22:40.648735+00:00"
   },
   {
     "id": "unstop:1800629",
@@ -72,7 +72,7 @@
     "is_nagpur_local": true,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-16T17:43:23.714270+00:00"
+    "discovered_at": "2026-11-17T01:22:31.116300+00:00"
   },
   {
     "id": "college:mindsparkorg",
@@ -108,7 +108,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": true,
     "is_active": true,
-    "discovered_at": "2026-11-16T17:43:33.684160+00:00"
+    "discovered_at": "2026-11-17T01:22:40.484080+00:00"
   },
   {
     "id": "unstop:1807080",
@@ -149,7 +149,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-16T17:43:23.713716+00:00"
+    "discovered_at": "2026-11-17T01:22:31.115909+00:00"
   },
   {
     "id": "unstop:1803912",
@@ -183,7 +183,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-16T17:43:23.714155+00:00"
+    "discovered_at": "2026-11-17T01:22:31.116220+00:00"
   },
   {
     "id": "unstop:1805107",
@@ -223,7 +223,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-16T17:43:23.713412+00:00"
+    "discovered_at": "2026-11-17T01:22:31.115693+00:00"
   },
   {
     "id": "unstop:1806984",
@@ -265,7 +265,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-16T17:43:23.713604+00:00"
+    "discovered_at": "2026-11-17T01:22:31.115832+00:00"
   },
   {
     "id": "unstop:1807297",
@@ -305,7 +305,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-16T17:43:23.713547+00:00"
+    "discovered_at": "2026-11-17T01:22:31.115790+00:00"
   },
   {
     "id": "unstop:1811016",
@@ -346,7 +346,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-16T17:43:23.712273+00:00"
+    "discovered_at": "2026-11-17T01:22:31.114916+00:00"
   },
   {
     "id": "unstop:1811493",
@@ -380,7 +380,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-16T17:43:23.712066+00:00"
+    "discovered_at": "2026-11-17T01:22:31.114764+00:00"
   },
   {
     "id": "unstop:1761846",
@@ -420,7 +420,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-16T17:43:23.712893+00:00"
+    "discovered_at": "2026-11-17T01:22:31.115335+00:00"
   },
   {
     "id": "hackerearth:contextcon-remember-everything",
@@ -456,7 +456,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-16T17:43:32.172161+00:00"
+    "discovered_at": "2026-11-17T01:22:39.056723+00:00"
   },
   {
     "id": "devpost:30740",
@@ -492,7 +492,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-16T17:43:31.233238+00:00"
+    "discovered_at": "2026-11-17T01:22:38.006798+00:00"
   },
   {
     "id": "devpost:30764",
@@ -528,7 +528,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-16T17:43:31.391661+00:00"
+    "discovered_at": "2026-11-17T01:22:38.126956+00:00"
   },
   {
     "id": "devpost:31787",
@@ -564,7 +564,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-16T17:43:31.233292+00:00"
+    "discovered_at": "2026-11-17T01:22:38.006858+00:00"
   },
   {
     "id": "devpost:31642",
@@ -600,7 +600,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-16T17:43:31.233257+00:00"
+    "discovered_at": "2026-11-17T01:22:38.006819+00:00"
   },
   {
     "id": "devpost:31083",
@@ -636,7 +636,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-16T17:43:31.041772+00:00"
+    "discovered_at": "2026-11-17T01:22:37.914434+00:00"
   },
   {
     "id": "devpost:31480",
@@ -672,7 +672,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-16T17:43:31.391640+00:00"
+    "discovered_at": "2026-11-17T01:22:38.126934+00:00"
   },
   {
     "id": "devpost:31972",
@@ -708,7 +708,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-16T17:43:31.391678+00:00"
+    "discovered_at": "2026-11-17T01:22:38.126969+00:00"
   },
   {
     "id": "devpost:31973",
@@ -744,7 +744,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-16T17:43:31.041782+00:00"
+    "discovered_at": "2026-11-17T01:22:37.914442+00:00"
   },
   {
     "id": "devpost:32079",
@@ -780,7 +780,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-16T17:43:31.233273+00:00"
+    "discovered_at": "2026-11-17T01:22:38.006828+00:00"
   },
   {
     "id": "devpost:31808",
@@ -816,7 +816,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-16T17:43:31.041767+00:00"
+    "discovered_at": "2026-11-17T01:22:37.914429+00:00"
   },
   {
     "id": "devpost:32024",
@@ -852,7 +852,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-16T17:43:31.233282+00:00"
+    "discovered_at": "2026-11-17T01:22:38.006850+00:00"
   },
   {
     "id": "devpost:32026",
@@ -888,7 +888,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-16T17:43:31.041787+00:00"
+    "discovered_at": "2026-11-17T01:22:37.914446+00:00"
   },
   {
     "id": "hackerearth:ibm-z-day",
@@ -924,7 +924,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-16T17:43:32.172139+00:00"
+    "discovered_at": "2026-11-17T01:22:39.056700+00:00"
   },
   {
     "id": "hackerearth:groww-next-2026",
@@ -960,7 +960,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-16T17:43:32.172171+00:00"
+    "discovered_at": "2026-11-17T01:22:39.056730+00:00"
   },
   {
     "id": "devpost:31796",
@@ -996,7 +996,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-16T17:43:31.233287+00:00"
+    "discovered_at": "2026-11-17T01:22:38.006854+00:00"
   },
   {
     "id": "devpost:31789",
@@ -1032,7 +1032,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-16T17:43:31.233278+00:00"
+    "discovered_at": "2026-11-17T01:22:38.006846+00:00"
   },
   {
     "id": "devpost:30789",
@@ -1068,7 +1068,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-16T17:43:31.041792+00:00"
+    "discovered_at": "2026-11-17T01:22:37.914450+00:00"
   },
   {
     "id": "devpost:26475",
@@ -1104,7 +1104,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-16T17:43:31.391683+00:00"
+    "discovered_at": "2026-11-17T01:22:38.126973+00:00"
   },
   {
     "id": "devpost:31572",
@@ -1140,7 +1140,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-16T17:43:31.041760+00:00"
+    "discovered_at": "2026-11-17T01:22:37.914424+00:00"
   },
   {
     "id": "devpost:31907",
@@ -1176,7 +1176,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-16T17:43:31.233263+00:00"
+    "discovered_at": "2026-11-17T01:22:38.006824+00:00"
   },
   {
     "id": "devpost:31667",
@@ -1212,7 +1212,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-16T17:43:31.041726+00:00"
+    "discovered_at": "2026-11-17T01:22:37.914266+00:00"
   },
   {
     "id": "devpost:31024",
@@ -1248,7 +1248,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-16T17:43:31.041751+00:00"
+    "discovered_at": "2026-11-17T01:22:37.914414+00:00"
   },
   {
     "id": "unstop:1807596",
@@ -1287,14 +1287,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-16T17:43:23.713468+00:00"
+    "discovered_at": "2026-11-17T01:22:31.115733+00:00"
   },
   {
     "id": "unstop:1811240",
     "source": "Unstop",
     "title": "The Algo Trading Innovation Challenge",
     "url": "https://unstop.com/hackathons/the-algo-trading-innovation-challenge-iit-bombay-1811240",
-    "description": "About The Algo Trading Innovation Challenge is a national fintech competition by Delta Exchange and Techfest, IIT Bombay, built around a stark fact: SEBI found that 87.7% of individual equity-derivatives traders made net losses in FY26. Teams study Delta Exchange's AlgoHub, its ecosystem of six algorithmic trading features, identify a significant gap that Futures and Options traders face, and design an original, AI-assisted capability that goes beyond what the platform offers today. The top 50 teams turn their ideas into working prototypes at an on-campus hackathon at Techfest, IIT Bombay, Asia's largest science and technology festival. Structure The competition runs in two rounds, with Round 2 as an on-campus hackathon at Techfest, IIT Bombay. Eligibility: Open to all students with a valid ID from their educational institution. Cross-institutional teams are encouraged. Team size: Maximum 4 members per team. The Challenge: Teams select one or two (maximum two) of the six AlgoHub features, Algo Marketplace, Algo Builder, API Copilot, Trading Bot, APIs, or Trade Data, identify a significant product gap or unmet need that F&amp;O traders face within them, and design an innovative, AI-assisted capability that adds meaningful functionality beyond what exists today. Teams may propose an independent innovation per feature or one unified solution covering both. Delta Exchange is already working on natural-language strategy creation, backtesting, and trading intelligence, so teams are encouraged not to build their proposal primarily around those capabilities. Round 1 - Online Submission (Screening) A conceptual round; no working prototype is required and teams do not need to deploy live strategies or trade with real capital. Teams submit a presentation of no more than 6 slides (PPT/PPTX or PDF export) covering: Selected Feature(s) &amp; Product Understanding Problem Identification &amp; Product Gap Proposed AI-Assisted Innovation Real-World Trading Use Case Technical Approach &amp; Feasibility Expected Impact &amp; Value Only the Team Leader may submit. The 50 highest-scoring teams qualify for Round 2; ties at the cutoff are broken by the higher score in Innovation &amp; AI Application, then Problem Identification &amp; Trader Relevance, then Technical Feasibility. Round 2 - On-Campus Hackathon at IIT Bombay The top 50 teams develop their proposed innovations into working prototypes and demonstrate them at Techfest, IIT Bombay. Detailed format and judging guidelines will be shared with shortlisted teams. Timeline Registration closes - 30th November 2026 Round 1 submission deadline - 30th November 2026 Shortlist announcement - 5th December 2026 Finals (on-campus hackathon at IIT Bombay) - 15th-18th December 2026 Rewards and Prizes INR 50,000 for the top 3 winners. Certificates for all participants who qualify for Round 2.",
+    "description": "Complete Regsiteration and Submission at: https://techfest.org/competitions/Algo It is mandatory to register on Techfest Website . further details will be updated on the Website only . About The Algo Trading Innovation Challenge is a national fintech competition by Delta Exchange and Techfest, IIT Bombay, built around a stark fact: SEBI found that 87.7% of individual equity-derivatives traders made net losses in FY26. Teams study Delta Exchange's AlgoHub, its ecosystem of six algorithmic trading features, identify a significant gap that Futures and Options traders face, and design an original, AI-assisted capability that goes beyond what the platform offers today. The top 50 teams turn their ideas into working prototypes at an on-campus hackathon at Techfest, IIT Bombay, Asia's largest science and technology festival. Structure The competition runs in two rounds, with Round 2 as an on-campus hackathon at Techfest, IIT Bombay. Eligibility: Open to all students with a valid ID from their educational institution. Cross-institutional teams are encouraged. Team size: Maximum 4 members per team. The Challenge: Teams select one or two (maximum two) of the six AlgoHub features, Algo Marketplace, Algo Builder, API Copilot, Trading Bot, APIs, or Trade Data, identify a significant product gap or unmet need that F&amp;O traders face within them, and design an innovative, AI-assisted capability that adds meaningful functionality beyond what exists today. Teams may propose an independent innovation per feature or one unified solution covering both. Delta Exchange is already working on natural-language strategy creation, backtesting, and trading intelligence, so teams are encouraged not to build their proposal primarily around those capabilities. Round 1 - Online Submission (Screening) A conceptual round; no working prototype is required and teams do not need to deploy live strategies or trade with real capital. Teams submit a presentation of no more than 6 slides (PPT/PPTX or PDF export) covering: Selected Feature(s) &amp; Product Understanding Problem Identification &amp; Product Gap Proposed AI-Assisted Innovation Real-World Trading Use Case Technical Approach &amp; Feasibility Expected Impact &amp; Value Only the Team Leader may submit. The 50 highest-scoring teams qualify for Round 2; ties at the cutoff are broken by the higher score in Innovation &amp; AI Application, then Problem Identification &amp; Trader Relevance, then Technical Feasibility. Round 2 - On-Campus Hackathon at IIT Bombay The top 50 teams develop their proposed innovations into working prototypes and demonstrate them at Techfest, IIT Bombay. Detailed format and judging guidelines will be shared with shortlisted teams. Timeline Registration closes - 30th November 2026 Round 1 submission deadline - 30th November 2026 Shortlist announcement - 5th December 2026 Finals (on-campus hackathon at IIT Bombay) - 15th-18th December 2026 Rewards and Prizes INR 50,000 for the top 3 winners. Certificates for all participants who qualify for Round 2.",
     "organizer": "Indian Institute of Technology (IIT), Bombay",
     "venue": "offline",
     "mode": "In-Person",
@@ -1326,7 +1326,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-16T17:43:23.712161+00:00"
+    "discovered_at": "2026-11-17T01:22:31.114828+00:00"
   },
   {
     "id": "unstop:1781454",
@@ -1365,7 +1365,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-16T17:43:23.714440+00:00"
+    "discovered_at": "2026-11-17T01:22:31.116373+00:00"
   },
   {
     "id": "unstop:1787722",
@@ -1398,7 +1398,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-16T17:43:23.713989+00:00"
+    "discovered_at": "2026-11-17T01:22:31.116102+00:00"
   },
   {
     "id": "devpost:31746",
@@ -1433,7 +1433,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-16T17:43:31.391673+00:00"
+    "discovered_at": "2026-11-17T01:22:38.126961+00:00"
   },
   {
     "id": "unstop:1799791",
@@ -1470,7 +1470,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-16T17:43:23.714374+00:00"
+    "discovered_at": "2026-11-17T01:22:31.116328+00:00"
   },
   {
     "id": "unstop:1811085",
@@ -1503,7 +1503,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-16T17:43:23.712217+00:00"
+    "discovered_at": "2026-11-17T01:22:31.114876+00:00"
   },
   {
     "id": "unstop:1805946",
@@ -1542,7 +1542,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-16T17:43:23.713940+00:00"
+    "discovered_at": "2026-11-17T01:22:31.116066+00:00"
   },
   {
     "id": "unstop:1799091",
@@ -1575,7 +1575,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-16T17:43:23.714050+00:00"
+    "discovered_at": "2026-11-17T01:22:31.116145+00:00"
   },
   {
     "id": "devpost:31108",
@@ -1610,7 +1610,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-16T17:43:31.391667+00:00"
+    "discovered_at": "2026-11-17T01:22:38.126965+00:00"
   },
   {
     "id": "devpost:31644",
@@ -1644,7 +1644,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-16T17:43:31.041777+00:00"
+    "discovered_at": "2026-11-17T01:22:37.914438+00:00"
   },
   {
     "id": "devpost:31773",
@@ -1678,7 +1678,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-16T17:43:31.233268+00:00"
+    "discovered_at": "2026-11-17T01:22:38.006833+00:00"
   },
   {
     "id": "devpost:31795",
@@ -1713,7 +1713,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-16T17:43:31.391708+00:00"
+    "discovered_at": "2026-11-17T01:22:38.126977+00:00"
   },
   {
     "id": "devpost:31798",
@@ -1747,7 +1747,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-16T17:43:31.391722+00:00"
+    "discovered_at": "2026-11-17T01:22:38.126985+00:00"
   },
   {
     "id": "devpost:31797",
@@ -1781,7 +1781,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-16T17:43:31.391716+00:00"
+    "discovered_at": "2026-11-17T01:22:38.126981+00:00"
   },
   {
     "id": "unstop:1798287",
@@ -1814,7 +1814,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-16T17:43:23.712517+00:00"
+    "discovered_at": "2026-11-17T01:22:31.115084+00:00"
   },
   {
     "id": "unstop:1810268",
@@ -1848,7 +1848,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-16T17:43:23.712392+00:00"
+    "discovered_at": "2026-11-17T01:22:31.114998+00:00"
   },
   {
     "id": "unstop:1806122",
@@ -1887,40 +1887,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-16T17:43:23.713856+00:00"
-  },
-  {
-    "id": "unstop:1803074",
-    "source": "Unstop",
-    "title": "IDEATHON- FutureX: Innovating for Global Challenges",
-    "url": "https://unstop.com/hackathons/ideathon-futurex-innovating-for-global-challenges-skill2career-1803074",
-    "description": "FUTUREX 2026 &ndash; Innovating for Global Challenges What if your idea could help solve a real-world problem and contribute to a better future? Skill2Career, Ed-Tech platform presents FutureX 2026 , an innovation-driven Ideathon that brings together students to identify global challenges, think beyond conventional solutions, and propose innovative ideas that create meaningful impact. Aligned with the United Nations Sustainable Development Goals (UN SDGs) , FutureX encourages participants to explore challenges across technology, sustainability, agriculture, healthcare, accessibility, employment, and community development. This Ideathon provides a platform for students to showcase their creativity, critical thinking, problem-solving abilities, and innovative perspectives by transforming real-world challenges into practical and impactful project ideas. Project Themes: Participants can choose any ONE of the following themes: Sustainable Urban Living &amp; Smart Infrastructure AI-Driven Solutions for Social Challenges Smart Agriculture &amp; Food Security Water Conservation &amp; Resource Management Inclusive Technology &amp; Digital Accessibility Women's Empowerment &amp; Community Safety Future of Employment &amp; Digital Entrepreneurship Rural Innovation &amp; Digital Transformation Waste-to-Wealth &amp; Resource Innovation Smart Food Systems &amp; Zero-Waste Communities What Participants Can Expect: An opportunity to identify and address real-world challenges. &nbsp;A platform to showcase innovative thinking, creativity, and problem-solving skills. &nbsp;Winner, Runner-up, and Second Runner-up certificates for outstanding teams. Internship opportunities for the Top 3 teams, along with additional internship opportunities for other outstanding teams demonstrating exceptional performance. &nbsp;Participation certificates for participants. &nbsp;Appreciation certificates to recognize noteworthy contributions and efforts. Who Can Participate? Students interested in innovation, technology, entrepreneurship, sustainability, and solving real-world challenges are encouraged to participate. Why FutureX? Every great innovation begins with an idea. FutureX aims to encourage students to think differently, challenge existing approaches, and develop ideas that can contribute to a more sustainable, inclusive, and innovative world. Think Beyond. Innovate Today. Shape Tomorrow. Organized by Skill2Career Ed-Tech, ACQUIRE SKILLS. BUILD CAREERS.",
-    "organizer": "Skill2Career",
-    "venue": "Online",
-    "mode": "Online",
-    "city": null,
-    "state": "online",
-    "country": null,
-    "start_date": "2026-11-09T00:00:00+05:30",
-    "end_date": "2026-12-19T17:15:00+05:30",
-    "registration_deadline": "2026-12-16T00:00:00+05:30",
-    "min_team_size": 2,
-    "max_team_size": 4,
-    "solo_allowed": false,
-    "eligibility": "Open to college students & coders",
-    "prize_pool": "Prizes & Certificates",
-    "tracks": [
-      "All"
-    ],
-    "score": 40,
-    "matched_reasons": [
-      "🌐 **Accessible Online Mode** (+15 pts)",
-      "🤖 **AI & Software Tracks** (+25 pts) [AI]"
-    ],
-    "is_nagpur_local": false,
-    "is_maharashtra": false,
-    "is_active": true,
-    "discovered_at": "2026-11-16T17:43:23.714334+00:00"
+    "discovered_at": "2026-11-17T01:22:31.116006+00:00"
   },
   {
     "id": "unstop:1809486",
@@ -1953,6 +1920,6 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-16T17:43:23.713004+00:00"
+    "discovered_at": "2026-11-17T01:22:31.115411+00:00"
   }
 ]

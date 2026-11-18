@@ -33,7 +33,7 @@
     "is_nagpur_local": true,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-18T01:28:18.995758+00:00"
+    "discovered_at": "2026-11-18T09:33:29.095280+00:00"
   },
   {
     "id": "college:mindsparkorg",
@@ -69,7 +69,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": true,
     "is_active": true,
-    "discovered_at": "2026-11-18T01:28:19.016343+00:00"
+    "discovered_at": "2026-11-18T09:33:28.476658+00:00"
   },
   {
     "id": "unstop:1807080",
@@ -110,7 +110,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-18T01:28:05.030284+00:00"
+    "discovered_at": "2026-11-18T09:33:19.342540+00:00"
   },
   {
     "id": "unstop:1805107",
@@ -150,7 +150,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-18T01:28:05.029906+00:00"
+    "discovered_at": "2026-11-18T09:33:19.342241+00:00"
   },
   {
     "id": "unstop:1806984",
@@ -192,7 +192,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-18T01:28:05.030155+00:00"
+    "discovered_at": "2026-11-18T09:33:19.342435+00:00"
   },
   {
     "id": "unstop:1807297",
@@ -232,7 +232,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-18T01:28:05.030080+00:00"
+    "discovered_at": "2026-11-18T09:33:19.342378+00:00"
   },
   {
     "id": "unstop:1814002",
@@ -269,7 +269,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-18T01:28:05.027420+00:00"
+    "discovered_at": "2026-11-18T09:33:19.340390+00:00"
   },
   {
     "id": "unstop:1811349",
@@ -307,7 +307,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-18T01:28:05.027613+00:00"
+    "discovered_at": "2026-11-18T09:33:19.340305+00:00"
   },
   {
     "id": "unstop:1811016",
@@ -348,7 +348,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-18T01:28:05.028900+00:00"
+    "discovered_at": "2026-11-18T09:33:19.341441+00:00"
   },
   {
     "id": "unstop:1811493",
@@ -382,7 +382,41 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-18T01:28:05.028273+00:00"
+    "discovered_at": "2026-11-18T09:33:19.340957+00:00"
+  },
+  {
+    "id": "unstop:1817499",
+    "source": "Unstop",
+    "title": "Hack Uttar Pradesh 2026",
+    "url": "https://unstop.com/hackathons/hack-uttar-pradesh-2026-riwa-creatives-1817499",
+    "description": "Hack Uttar Pradesh 2026 &mdash; Opportunity Description About the Hackathon Hack Uttar Pradesh 2026 , organized by Riwa Creatives ( riwacreatives.in ), is Northern India&rsquo;s premier open-source and frontier-tech hackathon. Bridging the gap between grassroots regional challenges and world-class technological execution, Hack UP 2026 invites student visionaries, engineers, designers, and xbuilders to architect impactful solutions for India&rsquo;s most populous state and beyond. The hackathon operates in a Hybrid Format &mdash;combining a rigorous, nationwide virtual preliminary phase with an intensive, in-person Open Greens Grand Finale hosted for the top 240 shortlisted finalists (60 squads) . Eligibility Criteria Who Can Apply: All currently enrolled undergraduate (UG) and postgraduate (PG) students across engineering, design, data science, MCA, MBA, and applied tech degrees, as well as recent graduates (Batches 2024&ndash;2026). Location: Open to participants across all 75 districts of Uttar Pradesh and guest squads nationwide across India. Team Size: Squads of 1 to 4 members . Inter-College &amp; Inter-District Teams: Fully permitted and encouraged. Cross-functional squads (e.g., developers + UI/UX designers) are welcome. Registration Fee: 100% Free for all applicants. Hackathon Format &amp; Process Hack Uttar Pradesh 2026 is structured in three progressive stages : Stage 1: Registration &amp; Abstract Submission (Virtual) Deadline: December 31, 2025 (11:59 PM IST) What to Submit: Team registration details, track selection, a concise 2&ndash;3 page problem abstract/proposal, wireframes/architecture diagram, and optional GitHub repository links. Outcome: Evaluation by our panel of startup founders, enterprise architects, and domain experts. Stage 2: Online Prelims &amp; Mentorship Sprint (Virtual) Timeline: January 01 &ndash; January 08, 2026 Platform: Discord &amp; GitHub Format: Shortlisted teams receive 1-on-1 technical and product feedback from industry mentors. Squads push weekly commit milestones to their public GitHub repository. Selection: Top 60 squads (240 builders) will be issued official finalist passes with cryptographic QR codes for the offline finale. Stage 3: Offline Grand Finale &mdash; Open Greens Coding Sprint (In-Person) Timeline: January 10 &ndash; January 15, 2026 Venues: Lucknow &amp; Greater Noida, Uttar Pradesh Format: Multi-day in-person hack sprint featuring 24/7 high-speed internet, power grids, sleeping zones, open-air pitch stages, meals &amp; energy fuel, and live jury evaluations before angel investors and venture scouts. Problem Arenas / Tracks AI for Bharat &amp; Vernacular Tech: Multilingual LLMs, speech-to-speech voice interfaces in regional dialects, Indic NLP, and AI agents automating citizen workflows. ODOP &amp; Cultural Heritage Tech: Supply chain tracking, e-commerce infrastructure, authenticity provenance (QR/Blockchain), and global marketplaces for UP&rsquo;s One District One Product artisans and weavers. AgriTech &amp; Climate Resilience: Precision agriculture, cold storage telemetry, crop disease vision models, decentralized mandi pricing, and rural logistics optimization. Spatial Web &amp; Smart Civic Infrastructure: GIS dashboards, urban waste routing, drone telemetry, smart transit systems, and citizen grievance telemetry for tier-2/tier-3 smart cities. Open Innovation &amp; Next-Gen Fintech: Offline-first UPI/CBDC micro-credit solutions, public health workflows, cybersecurity, and Web3/GovTech public digital goods. Prizes &amp; Incentives (Total Pool: ₹45,000+ Cash + Seed Backing) 1st Place (Winner): ₹10,000 Prizes Direct Pre-Placement Offer (PPi) opportunities with partner tech firms Winner Trophy, Riwa Gold Merch Box &amp; cloud credits 2nd Place (Runner-Up): ₹7,000 Prizes Direct Pre-Placement Interview (PPI) with engineering partners 6-Month 1-on-1 Startup Mentorship &amp; cloud infrastructure credits 3rd Place (Second Runner-Up): ₹2,000 Cash Prize Direct Pre-Placement Interview (PPI) Pro software subscriptions, developer tool bundles &amp; cloud vouchers Track Winners &amp; Finalists: Best All-Women Squad Award, Best Beginner Hack, and Track Bounty awards Verified Digital Certificates of Excellence for all 240 Grand Finalists Exclusive Riwa Swag Kits (hoodies, stickers, access lanyards) Rules &amp; Code of Conduct Originality &amp; Intellectual Property: All code submitted must be authored during the hackathon period. Open-source frameworks, packages, boilerplate scaffolding, and public APIs are allowed, provided they are cited in the project README.md . Pre-built entire proprietary applications or copying past project submissions is strictly prohibited and results in immediate disqualification. Git Commit Trail: Teams must push commits regularly to their designated public GitHub repository. Repositories with single bulk dump commits at the final deadline will not be evaluated. Deployment Requirement: Every final submission must include a live working deployment (web, mobile APK, or cloud endpoint) accompanied by a 2&ndash;3 minute public demo video / Loom walkthrough. Code of Conduct: Hack Uttar Pradesh strictly enforces a zero-tolerance policy towards harassment, plagiarism, intellectual property theft, or disruptive behavior. All participants must uphold inclusivity, professional collaboration, and mutual respect. Evaluation Criteria Innovation &amp; Originality (25%): Novelty of the approach and uniqueness in solving real-world Indian problems. Technical Complexity &amp; Architecture (30%): Robustness of tech stack, clean code patterns, API efficiency, and systems design. Real-World Impact &amp; Feasibility (25%): Scalability, viability for deployment in UP's socio-economic ecosystem, and clarity of user adoption. Design &amp; User Experience (20%): Intuitive UI/UX, accessibility, responsiveness, and performance during the live jury demo. Organizing Team &amp; Contact Information Host: Riwa Creatives Official Website: https://riwacreatives.in GitHub Repository: https://github.com/abhinavkumardixit-lgtm/HACK_UP-X-RIWA.git Email Inquiries: riwacreatives@gmail.com Socials: Instagram @madebyriwa | LinkedIn company/144023065",
+    "organizer": "Riwa Creatives",
+    "venue": "hybrid",
+    "mode": "In-Person",
+    "city": null,
+    "state": "hybrid",
+    "country": null,
+    "start_date": "2026-11-18T00:00:00+05:30",
+    "end_date": "2026-12-31T00:00:00+05:30",
+    "registration_deadline": "2026-12-31T00:00:00+05:30",
+    "min_team_size": 1,
+    "max_team_size": 4,
+    "solo_allowed": true,
+    "eligibility": "Open to college students & coders",
+    "prize_pool": "Prizes & Certificates",
+    "tracks": [
+      "All"
+    ],
+    "score": 75,
+    "matched_reasons": [
+      "🌐 **Accessible In-Person Mode** (+15 pts)",
+      "👤 **Solo Eligible (1 Member)** (+35 pts)",
+      "🤖 **AI & Software Tracks** (+25 pts) [AI, Ai Agents, NLP]"
+    ],
+    "is_nagpur_local": false,
+    "is_maharashtra": false,
+    "is_active": true,
+    "discovered_at": "2026-11-18T09:33:19.339949+00:00"
   },
   {
     "id": "unstop:1761846",
@@ -422,7 +456,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-18T01:28:05.030811+00:00"
+    "discovered_at": "2026-11-18T09:33:19.342955+00:00"
   },
   {
     "id": "hackerearth:contextcon-remember-everything",
@@ -458,7 +492,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-18T01:28:11.708067+00:00"
+    "discovered_at": "2026-11-18T09:33:26.840237+00:00"
   },
   {
     "id": "devpost:30740",
@@ -494,7 +528,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-18T01:28:10.131889+00:00"
+    "discovered_at": "2026-11-18T09:33:25.884692+00:00"
   },
   {
     "id": "devpost:30764",
@@ -530,7 +564,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-18T01:28:10.211286+00:00"
+    "discovered_at": "2026-11-18T09:33:26.040677+00:00"
   },
   {
     "id": "devpost:31787",
@@ -566,14 +600,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-18T01:28:10.131966+00:00"
+    "discovered_at": "2026-11-18T09:33:25.884744+00:00"
   },
   {
     "id": "devpost:31642",
     "source": "Devpost",
     "title": "AWS MSP AI Hackathon",
     "url": "https://aws-agentic-msp.devpost.com/",
-    "description": "Devpost hackathon. 24 days left",
+    "description": "Devpost hackathon. 23 days left",
     "organizer": "AWS",
     "venue": "Online",
     "mode": "Online",
@@ -602,14 +636,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-18T01:28:10.131912+00:00"
+    "discovered_at": "2026-11-18T09:33:25.884712+00:00"
   },
   {
     "id": "devpost:31083",
     "source": "Devpost",
     "title": "QNX Global Hackathon",
     "url": "https://qnx.devpost.com/",
-    "description": "Devpost hackathon. 28 days left",
+    "description": "Devpost hackathon. 27 days left",
     "organizer": "QNX",
     "venue": "Online",
     "mode": "Online",
@@ -638,7 +672,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-18T01:28:10.056266+00:00"
+    "discovered_at": "2026-11-18T09:33:25.723585+00:00"
   },
   {
     "id": "devpost:31480",
@@ -674,7 +708,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-18T01:28:10.211266+00:00"
+    "discovered_at": "2026-11-18T09:33:26.040648+00:00"
   },
   {
     "id": "devpost:31972",
@@ -710,14 +744,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-18T01:28:10.211314+00:00"
+    "discovered_at": "2026-11-18T09:33:26.040692+00:00"
   },
   {
     "id": "devpost:31973",
     "source": "Devpost",
     "title": "Deck the Pixels",
     "url": "https://deckthepixels.devpost.com/",
-    "description": "Devpost hackathon. 20 days left",
+    "description": "Devpost hackathon. 19 days left",
     "organizer": "Google",
     "venue": "Online",
     "mode": "Online",
@@ -746,7 +780,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-18T01:28:10.056280+00:00"
+    "discovered_at": "2026-11-18T09:33:25.723595+00:00"
   },
   {
     "id": "devpost:32079",
@@ -782,7 +816,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-18T01:28:10.131923+00:00"
+    "discovered_at": "2026-11-18T09:33:25.884719+00:00"
   },
   {
     "id": "devpost:31808",
@@ -818,7 +852,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-18T01:28:10.056259+00:00"
+    "discovered_at": "2026-11-18T09:33:25.723580+00:00"
   },
   {
     "id": "devpost:32024",
@@ -854,7 +888,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-18T01:28:10.131957+00:00"
+    "discovered_at": "2026-11-18T09:33:25.884740+00:00"
   },
   {
     "id": "devpost:32026",
@@ -890,7 +924,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-18T01:28:10.056287+00:00"
+    "discovered_at": "2026-11-18T09:33:25.723600+00:00"
   },
   {
     "id": "devpost:31571",
@@ -926,7 +960,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-18T01:28:10.211322+00:00"
+    "discovered_at": "2026-11-18T09:33:26.040670+00:00"
   },
   {
     "id": "hackerearth:ibm-z-day",
@@ -962,7 +996,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-18T01:28:11.708042+00:00"
+    "discovered_at": "2026-11-18T09:33:26.840213+00:00"
   },
   {
     "id": "hackerearth:groww-next-2026",
@@ -998,7 +1032,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-18T01:28:11.708080+00:00"
+    "discovered_at": "2026-11-18T09:33:26.840247+00:00"
   },
   {
     "id": "devpost:31796",
@@ -1034,7 +1068,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-18T01:28:10.131975+00:00"
+    "discovered_at": "2026-11-18T09:33:25.884749+00:00"
   },
   {
     "id": "devpost:31789",
@@ -1070,7 +1104,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-18T01:28:10.131949+00:00"
+    "discovered_at": "2026-11-18T09:33:25.884734+00:00"
   },
   {
     "id": "devpost:30789",
@@ -1106,14 +1140,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-18T01:28:10.056293+00:00"
+    "discovered_at": "2026-11-18T09:33:25.723606+00:00"
   },
   {
     "id": "devpost:26475",
     "source": "Devpost",
     "title": "Dakar Bitcoin Hack by BTrust",
     "url": "https://dakar-bitcoin-hack-2026.devpost.com/",
-    "description": "Devpost hackathon. 3 days left",
+    "description": "Devpost hackathon. 2 days left",
     "organizer": "Dakar Bitcoin Days",
     "venue": "Online",
     "mode": "Online",
@@ -1142,7 +1176,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-18T01:28:10.211330+00:00"
+    "discovered_at": "2026-11-18T09:33:26.040696+00:00"
   },
   {
     "id": "devpost:31572",
@@ -1178,7 +1212,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-18T01:28:10.056251+00:00"
+    "discovered_at": "2026-11-18T09:33:25.723572+00:00"
   },
   {
     "id": "devpost:31907",
@@ -1214,7 +1248,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-18T01:28:10.131932+00:00"
+    "discovered_at": "2026-11-18T09:33:25.884724+00:00"
   },
   {
     "id": "devpost:31667",
@@ -1250,14 +1284,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-18T01:28:10.056214+00:00"
+    "discovered_at": "2026-11-18T09:33:25.723538+00:00"
   },
   {
     "id": "devpost:31024",
     "source": "Devpost",
     "title": "Meta VR Start Developer Competition 2026",
     "url": "https://start-developer-competition-26.devpost.com/",
-    "description": "Devpost hackathon. about 19 hours left",
+    "description": "Devpost hackathon. about 10 hours left",
     "organizer": "Meta",
     "venue": "Online",
     "mode": "Online",
@@ -1286,7 +1320,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-18T01:28:10.056240+00:00"
+    "discovered_at": "2026-11-18T09:33:25.723563+00:00"
   },
   {
     "id": "unstop:1807596",
@@ -1325,7 +1359,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-18T01:28:05.029979+00:00"
+    "discovered_at": "2026-11-18T09:33:19.342299+00:00"
   },
   {
     "id": "unstop:1811240",
@@ -1364,7 +1398,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-18T01:28:05.028393+00:00"
+    "discovered_at": "2026-11-18T09:33:19.341054+00:00"
   },
   {
     "id": "unstop:1781454",
@@ -1403,14 +1437,53 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-18T01:28:06.692022+00:00"
+    "discovered_at": "2026-11-18T09:33:20.964399+00:00"
+  },
+  {
+    "id": "unstop:1817389",
+    "source": "Unstop",
+    "title": "PromptWars x Quad Bengaluru",
+    "url": "https://unstop.com/hackathons/promptwars-x-quad-bengaluru-quad-ai-school-of-technology-management-1817389",
+    "description": "PromptWars x Quad Bengaluru A one-day AI vibe coding hackathon by Hack2Skill and Google for Developers, hosted by Quad AI at its HSR Layout campus in Bengaluru. One surprise problem. Three hours. Build a working AI solution, solo. Theme: Fraud Shield: Fighting AI-Powered Scams Scams in India no longer look like scams. Fraudsters impersonate people and institutions you trust, using AI-generated voices and faces. Your job: build something that protects people from them. The exact problem statement is revealed at kickoff. Important: Hack2Skill registration is mandatory Register on Unstop, and also register here: https://hack2skill.com/event/promptwars-x-quadai Hack2Skill is where you&rsquo;ll submit your project and get scored. Without it, you can&rsquo;t compete. Eligibility Open to everyone: college students, freshers, working professionals and anyone curious about building with AI No coding background needed Individual participation only; no teams Format One round, in person, on Saturday, 5 December 2026 One problem statement, the same for all participants, revealed at kickoff 3 hours to build a working AI solution Submissions are scored by Hack2Skill&rsquo;s AI evaluation on a live leaderboard Top 10 on the leaderboard pitch and demo live to the jury Jury picks the winners Schedule 9:30 AM: Check-in 10:00 AM: Briefing 11:00 AM to 2:00 PM: Build 2:00 PM to 3:00 PM: Lunch break 3:00 PM to 4:30 PM: Top 10 pitch to the jury 4:30 PM to 5:00 PM: Winners announced Rules Solo participation only No pre-built projects; everyone starts building after the problem is revealed Any AI tool is allowed: Gemini, Google AI Studio, Antigravity or any tool you&rsquo;re comfortable with Maximum 2 submissions on Hack2Skill; your latest submission counts, not your highest The jury&rsquo;s decision is final Prizes: ₹20,000 pool 1st: ₹10,000 2nd: ₹6,000 3rd: ₹4,000 Jury Nishant Das, Founder, Cheerio AI Shilpa Rana, Senior Product Manager, Microsoft Roshni Reddy, Head of Product, Dvara Holdings Mohit Choudhary, Founder, Quad AI What to bring A fully charged laptop and charger, and a government ID. Venue Quad AI School of Technology and Business, 27th Main Road, HSR Layout, Bengaluru 560102 (beside RBIH) Google Maps: https://share.google/kXCXCtaNkM2fAwidt Contact partnerships@quadcse.com Fast thinking. Sharp prompting. Real problems. Limited time.",
+    "organizer": "Quad AI School of Technology & Management",
+    "venue": "offline",
+    "mode": "In-Person",
+    "city": null,
+    "state": "offline",
+    "country": null,
+    "start_date": "2026-11-18T00:00:00+05:30",
+    "end_date": "2026-12-04T12:30:00+05:30",
+    "registration_deadline": "2026-12-04T12:30:00+05:30",
+    "min_team_size": 1,
+    "max_team_size": 1,
+    "solo_allowed": true,
+    "eligibility": "Undergraduate / Postgraduate & Engineering students",
+    "prize_pool": "Prizes & Certificates",
+    "tracks": [
+      "Engineering Students",
+      "Postgraduate",
+      "Undergraduate",
+      "Management",
+      "Medical",
+      "Law",
+      "Arts, Commerce, Sciences & Others"
+    ],
+    "score": 60,
+    "matched_reasons": [
+      "👤 **Solo Eligible (1 Member)** (+35 pts)",
+      "🤖 **AI & Software Tracks** (+25 pts) [AI]"
+    ],
+    "is_nagpur_local": false,
+    "is_maharashtra": false,
+    "is_active": true,
+    "discovered_at": "2026-11-18T09:33:19.340093+00:00"
   },
   {
     "id": "devpost:31746",
     "source": "Devpost",
     "title": "University Blockchain Conference Hackathon 2026",
     "url": "https://ubc-hackathon-2026.devpost.com/",
-    "description": "Devpost hackathon. 3 days left",
+    "description": "Devpost hackathon. 2 days left",
     "organizer": "college.xyz",
     "venue": "University of Texas at Austin",
     "mode": "In-Person",
@@ -1438,44 +1511,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-18T01:28:10.211297+00:00"
-  },
-  {
-    "id": "unstop:1799791",
-    "source": "Unstop",
-    "title": "Expanding Horizons 8.0 Chemical",
-    "url": "https://unstop.com/hackathons/expanding-horizons-80-chemical-expanding-horizon-80-motilal-nehru-national-institute-of-technology-1799791",
-    "description": "Expanding Horizon 8.0 &ndash; Chemical Engineering Organized by: Student Mentorship Program (SMP), MNNIT Allahabad Expanding Horizon 8.0 &ndash; Chemical Engineering is an initiative by the Student Mentorship Program (SMP), MNNIT Allahabad, designed to help aspiring chemical engineers evaluate their technical knowledge and prepare for upcoming internship opportunities. The assessment focuses on core Chemical Engineering concepts, testing participants' understanding of engineering principles, analytical abilities, and problem-solving skills across important subject areas. Objectives Evaluate fundamentals of Chemical Process Calculations. Assess understanding of Fluid Mechanics. Test concepts related to Heat and Mass Transfer. Strengthen knowledge of Chemical Reaction Engineering. Evaluate understanding of Thermodynamics. Assess concepts of Process Control and Process Equipment Design. Encourage analytical thinking and engineering problem-solving. Guidelines The assessment will be conducted online through Unstop. Participants must complete the assessment within the stipulated time. Submissions will be evaluated based on predefined criteria. Any form of unfair practice or plagiarism is strictly prohibited. The decision of the organizing team will be final. Understand Processes. Solve Challenges. Engineer Excellence!",
-    "organizer": "Motilal Nehru National Institute of Technology",
-    "venue": "Online",
-    "mode": "Online",
-    "city": null,
-    "state": "online",
-    "country": null,
-    "start_date": "2026-11-07T00:00:00+05:30",
-    "end_date": "2026-11-23T21:12:24+05:30",
-    "registration_deadline": "2026-11-21T00:00:00+05:30",
-    "min_team_size": 1,
-    "max_team_size": 1,
-    "solo_allowed": true,
-    "eligibility": "Undergraduate / Postgraduate & Engineering students",
-    "prize_pool": "Prizes & Certificates",
-    "tracks": [
-      "Engineering Students",
-      "Postgraduate",
-      "Undergraduate",
-      "Management",
-      "Arts, Commerce, Sciences & Others"
-    ],
-    "score": 50,
-    "matched_reasons": [
-      "🌐 **Accessible Online Mode** (+15 pts)",
-      "👤 **Solo Eligible (1 Member)** (+35 pts)"
-    ],
-    "is_nagpur_local": false,
-    "is_maharashtra": false,
-    "is_active": true,
-    "discovered_at": "2026-11-18T01:28:05.030970+00:00"
+    "discovered_at": "2026-11-18T09:33:26.040683+00:00"
   },
   {
     "id": "unstop:1811085",
@@ -1508,7 +1544,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-18T01:28:05.028831+00:00"
+    "discovered_at": "2026-11-18T09:33:19.341386+00:00"
   },
   {
     "id": "unstop:1805946",
@@ -1547,7 +1583,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-18T01:28:05.030920+00:00"
+    "discovered_at": "2026-11-18T09:33:20.964310+00:00"
   },
   {
     "id": "devpost:31108",
@@ -1582,7 +1618,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-18T01:28:10.211306+00:00"
+    "discovered_at": "2026-11-18T09:33:26.040687+00:00"
   },
   {
     "id": "devpost:31644",
@@ -1616,7 +1652,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-18T01:28:10.056273+00:00"
+    "discovered_at": "2026-11-18T09:33:25.723590+00:00"
   },
   {
     "id": "devpost:31773",
@@ -1650,7 +1686,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-18T01:28:10.131940+00:00"
+    "discovered_at": "2026-11-18T09:33:25.884729+00:00"
   },
   {
     "id": "devpost:31795",
@@ -1685,7 +1721,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-18T01:28:10.211339+00:00"
+    "discovered_at": "2026-11-18T09:33:26.040702+00:00"
   },
   {
     "id": "devpost:31797",
@@ -1719,7 +1755,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-18T01:28:10.211347+00:00"
+    "discovered_at": "2026-11-18T09:33:26.040706+00:00"
   },
   {
     "id": "unstop:1798287",
@@ -1752,7 +1788,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-18T01:28:05.029238+00:00"
+    "discovered_at": "2026-11-18T09:33:19.341710+00:00"
   },
   {
     "id": "unstop:1814263",
@@ -1767,7 +1803,7 @@
     "state": "online",
     "country": null,
     "start_date": "2026-11-16T00:00:00+05:30",
-    "end_date": "2026-12-28T17:00:00+05:30",
+    "end_date": "2026-11-28T17:00:00+05:30",
     "registration_deadline": "2026-11-26T00:00:00+05:30",
     "min_team_size": 2,
     "max_team_size": 3,
@@ -1793,7 +1829,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-18T01:28:05.027188+00:00"
+    "discovered_at": "2026-11-18T09:33:19.340243+00:00"
   },
   {
     "id": "unstop:1810268",
@@ -1827,7 +1863,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-18T01:28:05.029007+00:00"
+    "discovered_at": "2026-11-18T09:33:19.341525+00:00"
   },
   {
     "id": "unstop:1810370",
@@ -1860,7 +1896,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-18T01:28:05.027733+00:00"
+    "discovered_at": "2026-11-18T09:33:19.340740+00:00"
   },
   {
     "id": "unstop:1806122",
@@ -1899,7 +1935,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-18T01:28:05.030482+00:00"
+    "discovered_at": "2026-11-18T09:33:19.342693+00:00"
   },
   {
     "id": "unstop:1809486",
@@ -1932,6 +1968,6 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-18T01:28:05.029375+00:00"
+    "discovered_at": "2026-11-18T09:33:19.341819+00:00"
   }
 ]

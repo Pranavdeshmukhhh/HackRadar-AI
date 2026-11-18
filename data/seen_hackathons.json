@@ -3391,5 +3391,32 @@
     "last_notified": "2026-11-18T09:33:30.312464+00:00",
     "is_nagpur_local": false,
     "solo_allowed": true
+  },
+  "unstop:1817798": {
+    "title": "AI Kaushal Hackathon 2026",
+    "url": "https://unstop.com/hackathons/ai-kaushal-hackathon-2026-indian-institute-of-information-technology-iiit-lucknow-1817798",
+    "score": 75,
+    "source": "Unstop",
+    "last_notified": "2026-11-18T18:32:21.111907+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:1817749": {
+    "title": "CodeUnited India - National Hackathon",
+    "url": "https://unstop.com/hackathons/codeunited-india-national-hackathon-hackwithpune-1817749",
+    "score": 75,
+    "source": "Unstop",
+    "last_notified": "2026-11-18T18:32:21.111907+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:1817240": {
+    "title": "REFRACT 1.0 Hackathon",
+    "url": "https://unstop.com/hackathons/refract-10-hackathon-university-of-engineering-and-management-kolkata-1817240",
+    "score": 75,
+    "source": "Unstop",
+    "last_notified": "2026-11-18T18:32:21.111907+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
   }
 }

@@ -33,7 +33,7 @@
     "is_nagpur_local": true,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-18T09:33:29.095280+00:00"
+    "discovered_at": "2026-11-18T18:32:18.537365+00:00"
   },
   {
     "id": "college:mindsparkorg",
@@ -69,7 +69,45 @@
     "is_nagpur_local": false,
     "is_maharashtra": true,
     "is_active": true,
-    "discovered_at": "2026-11-18T09:33:28.476658+00:00"
+    "discovered_at": "2026-11-18T18:32:18.697518+00:00"
+  },
+  {
+    "id": "unstop:1817798",
+    "source": "Unstop",
+    "title": "AI Kaushal Hackathon 2026",
+    "url": "https://unstop.com/hackathons/ai-kaushal-hackathon-2026-indian-institute-of-information-technology-iiit-lucknow-1817798",
+    "description": "AI Kaushal Hackathon 2026 is a state-level AI hackathon organised by InMobi with the Department of IT &amp; Electronics, Government of Uttar Pradesh , and hosted at IIIT Lucknow . Teams build practical AI solutions for real public-sector problem statements, and the best solutions may be deployed in a UP Government department. At a Glance Prize Pool ₹5,00,000 (₹1,00,000 to each of the Top 5 teams) Format Online idea submission, then a 24-hour in-person hackathon Venue IIIT Lucknow Dates 8 and 9 December 2026 Team Size 1 to 4 members Open To Students, professionals and start-ups residing in Uttar Pradesh Entry Fee Free Why Participate ₹1,00,000 cash prize for each of the Top 5 teams Real-world impact: the best solutions may be deployed in a UP Government department Paid internships: students from top-performing teams become eligible Tech Leadership Connect: an invite-only session for top teams with leading tech minds Recognition: winner certificates and features on InMobi's social media channels For every shortlisted participant: goodies and a participation certificate Eligibility Open to anyone currently residing in Uttar Pradesh (a domicile certificate is not required) who is one of the following: Category Proof required Student at a college or university in UP Valid Student ID Professional at a company with an office in UP Employee ID or employment proof Start-up with a registered office in UP GST registration, Startup India recognition or incorporation document Problem Statements Pick one of 17 use cases . Full details are on the official website . Agriculture Farmer Market Price Intelligence (Mandi Advisory) Education Job Readiness &amp; Vocational Interview Coach Unified Internship Platform Employment AI-Powered Matching for Rojgar Sangam Governance Vernacular Citizen Services Assistant Universal Intake, Triage &amp; Routing Engine Healthcare Predictive Disease Outbreak Surveillance Child Nutrition &amp; At-Risk Detection for Anganwadi Workers Affordable Medicine Discovery Labour AI Scheme Navigator for Construction Workers Livelihoods Livelihood &amp; Micro-Enterprise Growth Assistant Tourism Investment Facilitation &amp; Approval Processes Grievance Redressal System LLM-Powered Project Monitoring &amp; Decision Support System Youth Affairs &amp; Sports AI Playground and Sports Facility Optimizer AI Youth Volunteer and Community Project Matcher AI Athlete and Coach Performance Monitoring How It Works Submit your idea (by 20 Nov): register, choose a use case and answer five short questions. No prototype is needed. Shortlisting (27 Nov): the Expert Panel reviews every entry and announces the shortlisted teams. 24-hour hackathon (8 to 9 Dec): shortlisted teams build their MVP at IIIT Lucknow with mentor support. Final demos (9 Dec): top MVPs pitch live to industry leaders and senior government officials. Judging Criteria Idea Shortlisting: Relevance to the use case &middot; Innovation &amp; uniqueness &middot; Solution approach &amp; technical soundness &middot; Feasibility &amp; clarity of scope Hackathon Build: Working solution &amp; completeness &middot; Technical execution &amp; architecture &middot; Innovation &amp; differentiation &middot; Outcome against the use case &middot; Scalability &amp; path to production &middot; Responsible AI implementation At the Hackathon Provided: OpenAI/Gemini AI credits, workspace and campus Wi-Fi, a mentor for each team, meals and refreshments, and rest areas Bring: your laptop, charger and valid ID or eligibility proof Arrange yourself: travel to Lucknow and accommodation (the hackathon runs overnight) Final submission: a 3 to 5 minute video covering your solution, architecture and a live prototype demo, plus optional slides Jury Kumar Vineet, IAS: Special Secretary, Ministry of Youth Affairs &amp; Sports Alok Kumar, IAS: Principal Secretary, Planning &amp; Programme Implementation and IT &amp; Electronics Department, Government of Uttar Pradesh Prof. Deepak Singh: Dean Research, IIIT Lucknow Mohit Saxena: Co-founder &amp; CTO, InMobi Dr. Subi Chaturvedi: Global SVP, Chief Corporate Affairs &amp; Public Policy Officer, InMobi Group Srikanth Sundarrajan: Partner Engineer II, InMobi Organisers &amp; Partners Organised by InMobi, with the Department of IT &amp; Electronics, Government of Uttar Pradesh Conceived &amp; Curated by Dr. Subi Chaturvedi, InMobi Group Technology Partner OpenAI Academic Partner IIIT Lucknow Outreach Partners Google Developers Group HBTU Android Lucknow Cyber Intelligence Community Lucknow CNCG Lucknow Google Developer Group IIIT Allahabad GDG Kanpur Lucknow AI Labs | UPAI Labs Unstop Listing by IIIT Lucknow, with IIITL Axios and IIITL CREATE Good to Know Idea submissions made on Unstop will be shared with the AI Kaushal organising team at InMobi for evaluation. A maximum of one use case will be shortlisted per team. Queries: hackathon@inmobi.com",
+    "organizer": "Indian Institute of Information Technology (IIIT), Lucknow",
+    "venue": "hybrid",
+    "mode": "In-Person",
+    "city": null,
+    "state": "hybrid",
+    "country": null,
+    "start_date": "2026-11-18T00:00:00+05:30",
+    "end_date": "2026-12-09T19:00:00+05:30",
+    "registration_deadline": "2026-11-20T23:59:00+05:30",
+    "min_team_size": 1,
+    "max_team_size": 4,
+    "solo_allowed": true,
+    "eligibility": "Undergraduate / Postgraduate & Engineering students",
+    "prize_pool": "Prizes & Certificates",
+    "tracks": [
+      "Engineering Students",
+      "Postgraduate",
+      "Undergraduate",
+      "Management",
+      "Arts, Commerce, Sciences & Others"
+    ],
+    "score": 75,
+    "matched_reasons": [
+      "🌐 **Accessible In-Person Mode** (+15 pts)",
+      "👤 **Solo Eligible (1 Member)** (+35 pts)",
+      "🤖 **AI & Software Tracks** (+25 pts) [AI, LLM]"
+    ],
+    "is_nagpur_local": false,
+    "is_maharashtra": false,
+    "is_active": true,
+    "discovered_at": "2026-11-18T18:32:10.450718+00:00"
   },
   {
     "id": "unstop:1807080",
@@ -110,7 +148,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-18T09:33:19.342540+00:00"
+    "discovered_at": "2026-11-18T18:32:12.318832+00:00"
   },
   {
     "id": "unstop:1805107",
@@ -150,7 +188,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-18T09:33:19.342241+00:00"
+    "discovered_at": "2026-11-18T18:32:10.453793+00:00"
   },
   {
     "id": "unstop:1806984",
@@ -192,7 +230,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-18T09:33:19.342435+00:00"
+    "discovered_at": "2026-11-18T18:32:12.318668+00:00"
   },
   {
     "id": "unstop:1807297",
@@ -232,7 +270,41 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-18T09:33:19.342378+00:00"
+    "discovered_at": "2026-11-18T18:32:10.453962+00:00"
+  },
+  {
+    "id": "unstop:1817749",
+    "source": "Unstop",
+    "title": "CodeUnited India - National Hackathon",
+    "url": "https://unstop.com/hackathons/codeunited-india-national-hackathon-hackwithpune-1817749",
+    "description": "Join the official group for information and updates:&nbsp; https://chat.whatsapp.com/DE4JhUortEqAD35baNLw4k Benefits and Opportunities: Top 3 teams: Paid internship opportunities Top 3 teams : 30,000 prize pool Every participant: &nbsp; .xyz domain and .cv domain Every participant: $100 in Inkloom AI credits, $500 in Adaption platform credits, 100$ ASI Credits Every participant: Verifiable digital certificate Rewards and benefits: 100+ recipients across the hackathon Format: Hackathon Date: 3 December &mdash; 13 December 2026 No.of Rounds: 3 Mode: Completely online Team size: 1&ndash;6 members Registration fee: &nbsp;free Track: Agentic AI, Full Stack Development Rules: Participants must submit original work within the deadline and follow all event guidelines. Plagiarism, false information, or multiple submissions may result in disqualification. Eligibility: Open to students, developers, designers, and technology enthusiasts across India. Participants may join individually or form a team according to the event&rsquo;s permitted team size. Process: Register for the event, join the official communication group, and complete every announced round. Qualified participants will receive the instructions and submission details for the next stage. &nbsp;",
+    "organizer": "HackWithPune",
+    "venue": "Online",
+    "mode": "Online",
+    "city": null,
+    "state": "online",
+    "country": null,
+    "start_date": "2026-11-17T18:30:52+05:30",
+    "end_date": "2026-12-13T10:00:00+05:30",
+    "registration_deadline": "2026-12-02T13:00:48+05:30",
+    "min_team_size": 1,
+    "max_team_size": 6,
+    "solo_allowed": true,
+    "eligibility": "Open to college students & coders",
+    "prize_pool": "Prizes & Certificates",
+    "tracks": [
+      "All"
+    ],
+    "score": 75,
+    "matched_reasons": [
+      "🌐 **Accessible Online Mode** (+15 pts)",
+      "👤 **Solo Eligible (1 Member)** (+35 pts)",
+      "🤖 **AI & Software Tracks** (+25 pts) [AI, Agentic Ai, Full Stack]"
+    ],
+    "is_nagpur_local": false,
+    "is_maharashtra": false,
+    "is_active": true,
+    "discovered_at": "2026-11-18T18:32:10.450783+00:00"
   },
   {
     "id": "unstop:1814002",
@@ -269,7 +341,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-18T09:33:19.340390+00:00"
+    "discovered_at": "2026-11-18T18:32:10.451614+00:00"
   },
   {
     "id": "unstop:1811349",
@@ -307,7 +379,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-18T09:33:19.340305+00:00"
+    "discovered_at": "2026-11-18T18:32:10.451494+00:00"
   },
   {
     "id": "unstop:1811016",
@@ -348,7 +420,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-18T09:33:19.341441+00:00"
+    "discovered_at": "2026-11-18T18:32:10.452801+00:00"
   },
   {
     "id": "unstop:1811493",
@@ -382,7 +454,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-18T09:33:19.340957+00:00"
+    "discovered_at": "2026-11-18T18:32:10.452539+00:00"
   },
   {
     "id": "unstop:1817499",
@@ -397,7 +469,7 @@
     "state": "hybrid",
     "country": null,
     "start_date": "2026-11-18T00:00:00+05:30",
-    "end_date": "2026-12-31T00:00:00+05:30",
+    "end_date": "2027-01-11T18:31:00+05:30",
     "registration_deadline": "2026-12-31T00:00:00+05:30",
     "min_team_size": 1,
     "max_team_size": 4,
@@ -416,7 +488,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-18T09:33:19.339949+00:00"
+    "discovered_at": "2026-11-18T18:32:10.451049+00:00"
   },
   {
     "id": "unstop:1761846",
@@ -456,7 +528,42 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-18T09:33:19.342955+00:00"
+    "discovered_at": "2026-11-18T18:32:12.319369+00:00"
+  },
+  {
+    "id": "unstop:1817240",
+    "source": "Unstop",
+    "title": "REFRACT 1.0 Hackathon",
+    "url": "https://unstop.com/hackathons/refract-10-hackathon-university-of-engineering-and-management-kolkata-1817240",
+    "description": "About The Event REFRACT 1.0 marks the inaugural edition of a 30-hour national-level hackathon. The event is organised by the SPIE OPTICA Student Chapter, University of Engineering and Management, Kolkata, in collaboration with the UEMK Space Observatory. Event Dates: 30th&ndash;31st January 2027 REFRACT 1.0 aims to bring together creative thinkers, developers, researchers and aspiring innovators from across the country to transform ideas into impactful solutions. The event provides a platform for participants to ideate, collaborate, experiment and develop innovative solutions to real-world challenges. With six diverse innovation tracks, the hackathon encourages interdisciplinary exploration across emerging technologies, engineering, scientific research and creative problem-solving. Themes &amp; Innovation Tracks Participants can develop solutions under any one of the following six tracks: Photonics &amp; Optical Innovation Applied Optics Fibre Communication Laser Systems Optical Sensing Silicon Photonics Biophotonics Applications AI &amp; Intelligent Systems Machine Learning Computer Vision Natural Language Processing Agentic AI Frameworks Automation Of Complex Tasks Robotics &amp; IoT (Hardware Track) Embedded Systems Custom Microcontrollers Robotics Smart Automation Sensor Integration Physical Computing Solutions App &amp; Game Development Mobile Applications Progressive Web Apps Interactive 3D Simulations Game Engines Immersive User Experiences Space Technology Innovative Solutions Focused On Space Technology Space Exploration Real-World Applications Of Space Technology Open Innovation Sustainability Healthcare Finance Social Utility Other Creative Solutions Addressing Real-World Challenges Event Format &amp; Process REFRACT 1.0 Will Follow A Hybrid Format Consisting Of Two Phases: Phase 1: Online Preliminary Round Participants Must Register And Submit Their Project Ideas Or Proposals. Submissions Will Be Evaluated By The Organising Team And/Or Designated Evaluators. Shortlisted Teams Will Qualify For The Offline Finale. Phase 2: Offline Grand Finale Selected Teams Will Participate In The 30-Hour Offline Hackathon. Participants Will Work On Developing And Refining Their Proposed Solutions. Teams Will Present Their Projects Before The Judging Panel. Winners Will Be Determined Based On The Evaluation Criteria. Event Details: Event Dates: 30th&ndash;31st January 2027 Venue: University Of Engineering And Management, Kolkata (New Town) Mode: Hybrid (Online Idea Submission Preliminary Round + Offline Finale) Eligibility The Hackathon Is Intended For Students And Aspiring Innovators Interested In Technology, Engineering, Research And Problem-Solving. Participants From Diverse Academic Backgrounds And Institutions Are Encouraged To Apply. Teams Must Register Through The Official Registration Portal. Participants Must Provide Accurate Information During Registration. Shortlisted Teams Must Be Available To Attend The Offline Finale At The Designated Venue. Rules &amp; Guidelines Participants Must Register Within The Stipulated Registration Period. All Team Members Must Be Registered Through The Official Registration Process. Each Team Must Select One Of The Six Designated Innovation Tracks. Submitted Projects Must Be Original And Must Not Infringe Upon Any Third-Party Intellectual Property Rights. Plagiarism, Impersonation, Misrepresentation Or Submission Of Previously Completed Projects As Entirely New Work May Lead To Disqualification. Teams Must Adhere To All Submission Deadlines And Instructions Communicated By The Organising Committee. Shortlisted Teams Must Participate In The Offline Finale As Per The Schedule Shared By The Organisers. Participants Are Expected To Maintain Professional Conduct And Follow The Event Guidelines Throughout The Competition. The Organising Committee Reserves The Right To Disqualify Participants Or Teams Found Violating The Rules. Decisions Made By The Judging Panel And Organising Committee Regarding Evaluation And Results Will Be Final. Evaluation Criteria Projects Will Be Evaluated On The Basis Of The Following Broad Parameters: Innovation &amp; Originality: Uniqueness And Creativity Of The Proposed Solution. Technical Implementation: Quality Of Execution And Effective Use Of Technology. Problem Relevance: Understanding Of The Problem And Practical Applicability. Feasibility &amp; Scalability: Potential For Real-World Implementation And Future Development. Presentation &amp; Demonstration: Clarity Of Communication, Demonstration And Overall Project Understanding.",
+    "organizer": "University Of Engineering And Management, Kolkata ",
+    "venue": "hybrid",
+    "mode": "In-Person",
+    "city": null,
+    "state": "hybrid",
+    "country": null,
+    "start_date": "2026-11-20T12:00:00+05:30",
+    "end_date": "2027-01-31T16:00:00+05:30",
+    "registration_deadline": "2027-01-09T23:59:00+05:30",
+    "min_team_size": 1,
+    "max_team_size": 4,
+    "solo_allowed": true,
+    "eligibility": "Undergraduate / Postgraduate & Engineering students",
+    "prize_pool": "Prizes & Certificates",
+    "tracks": [
+      "Engineering Students",
+      "Undergraduate"
+    ],
+    "score": 75,
+    "matched_reasons": [
+      "🌐 **Accessible In-Person Mode** (+15 pts)",
+      "👤 **Solo Eligible (1 Member)** (+35 pts)",
+      "🤖 **AI & Software Tracks** (+25 pts) [AI, Machine Learning, Agentic Ai]"
+    ],
+    "is_nagpur_local": false,
+    "is_maharashtra": false,
+    "is_active": true,
+    "discovered_at": "2026-11-18T18:32:10.450471+00:00"
   },
   {
     "id": "hackerearth:contextcon-remember-everything",
@@ -492,7 +599,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-18T09:33:26.840237+00:00"
+    "discovered_at": "2026-11-18T18:32:17.145238+00:00"
   },
   {
     "id": "devpost:30740",
@@ -528,7 +635,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-18T09:33:25.884692+00:00"
+    "discovered_at": "2026-11-18T18:32:16.041043+00:00"
   },
   {
     "id": "devpost:30764",
@@ -564,7 +671,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-18T09:33:26.040677+00:00"
+    "discovered_at": "2026-11-18T18:32:16.231298+00:00"
   },
   {
     "id": "devpost:31787",
@@ -600,7 +707,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-18T09:33:25.884744+00:00"
+    "discovered_at": "2026-11-18T18:32:16.041107+00:00"
   },
   {
     "id": "devpost:31642",
@@ -636,7 +743,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-18T09:33:25.884712+00:00"
+    "discovered_at": "2026-11-18T18:32:16.041067+00:00"
   },
   {
     "id": "devpost:31083",
@@ -672,7 +779,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-18T09:33:25.723585+00:00"
+    "discovered_at": "2026-11-18T18:32:15.883638+00:00"
   },
   {
     "id": "devpost:31480",
@@ -708,14 +815,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-18T09:33:26.040648+00:00"
+    "discovered_at": "2026-11-18T18:32:16.231291+00:00"
   },
   {
     "id": "devpost:31972",
     "source": "Devpost",
     "title": "SLAY HACKS",
     "url": "https://slayy-hacks.devpost.com/",
-    "description": "Devpost hackathon. 20 days left",
+    "description": "Devpost hackathon. 19 days left",
     "organizer": "cite & slayy",
     "venue": "Online",
     "mode": "Online",
@@ -744,7 +851,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-18T09:33:26.040692+00:00"
+    "discovered_at": "2026-11-18T18:32:16.231310+00:00"
   },
   {
     "id": "devpost:31973",
@@ -780,14 +887,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-18T09:33:25.723595+00:00"
+    "discovered_at": "2026-11-18T18:32:15.883649+00:00"
   },
   {
     "id": "devpost:32079",
     "source": "Devpost",
     "title": "Learn AR with SPECS",
     "url": "https://learn-specs.devpost.com/",
-    "description": "Devpost hackathon. 20 days left",
+    "description": "Devpost hackathon. 19 days left",
     "organizer": "Devpost",
     "venue": "Online",
     "mode": "Online",
@@ -816,14 +923,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-18T09:33:25.884719+00:00"
+    "discovered_at": "2026-11-18T18:32:16.041073+00:00"
   },
   {
     "id": "devpost:31808",
     "source": "Devpost",
     "title": "#BuildHybridAI 2026",
     "url": "https://firebasehybridaihackathon.devpost.com/",
-    "description": "Devpost hackathon. 13 days left",
+    "description": "Devpost hackathon. 12 days left",
     "organizer": "Google",
     "venue": "Online",
     "mode": "Online",
@@ -852,14 +959,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-18T09:33:25.723580+00:00"
+    "discovered_at": "2026-11-18T18:32:15.883632+00:00"
   },
   {
     "id": "devpost:32024",
     "source": "Devpost",
     "title": "Relate by Neo4j Hackathon",
     "url": "https://relate.devpost.com/",
-    "description": "Devpost hackathon. 24 days left",
+    "description": "Devpost hackathon. 23 days left",
     "organizer": "Neo4j",
     "venue": "Online",
     "mode": "Online",
@@ -888,7 +995,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-18T09:33:25.884740+00:00"
+    "discovered_at": "2026-11-18T18:32:16.041090+00:00"
   },
   {
     "id": "devpost:32026",
@@ -924,7 +1031,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-18T09:33:25.723600+00:00"
+    "discovered_at": "2026-11-18T18:32:15.883655+00:00"
   },
   {
     "id": "devpost:31571",
@@ -960,43 +1067,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-18T09:33:26.040670+00:00"
-  },
-  {
-    "id": "hackerearth:ibm-z-day",
-    "source": "HackerEarth",
-    "title": "IBM Z Day",
-    "url": "https://www.hackerearth.com/challenges/hackathon/ibm-z-day/",
-    "description": "Hacking is building things that you always wanted to have but no one has built it yet. It's to come ..",
-    "organizer": "HackerEarth Community",
-    "venue": "Online",
-    "mode": "Online",
-    "city": null,
-    "state": null,
-    "country": null,
-    "start_date": "Friday, Oct 30, 2026",
-    "end_date": "Nov 18, 2026",
-    "registration_deadline": "Nov 18, 2026",
-    "min_team_size": 1,
-    "max_team_size": null,
-    "solo_allowed": true,
-    "eligibility": "Open to all coders",
-    "prize_pool": "Prizes, Hiring & Certificates",
-    "tracks": [
-      "Software",
-      "AI/ML",
-      "Hiring Challenge"
-    ],
-    "score": 75,
-    "matched_reasons": [
-      "🌐 **Accessible Online Mode** (+15 pts)",
-      "👤 **Solo Eligible (1 Member)** (+35 pts)",
-      "🤖 **AI & Software Tracks** (+25 pts) [AI, ML]"
-    ],
-    "is_nagpur_local": false,
-    "is_maharashtra": false,
-    "is_active": true,
-    "discovered_at": "2026-11-18T09:33:26.840213+00:00"
+    "discovered_at": "2026-11-18T18:32:16.041084+00:00"
   },
   {
     "id": "hackerearth:groww-next-2026",
@@ -1032,14 +1103,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-18T09:33:26.840247+00:00"
+    "discovered_at": "2026-11-18T18:32:17.145266+00:00"
   },
   {
     "id": "devpost:31796",
     "source": "Devpost",
     "title": "SafeSpace Hacks - Judges Needed",
     "url": "https://safespace-hacks.devpost.com/",
-    "description": "Devpost hackathon. 22 days left",
+    "description": "Devpost hackathon. 21 days left",
     "organizer": "SafeSpace",
     "venue": "Online",
     "mode": "Online",
@@ -1068,7 +1139,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-18T09:33:25.884749+00:00"
+    "discovered_at": "2026-11-18T18:32:16.231266+00:00"
   },
   {
     "id": "devpost:31789",
@@ -1104,7 +1175,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-18T09:33:25.884734+00:00"
+    "discovered_at": "2026-11-18T18:32:16.041101+00:00"
   },
   {
     "id": "devpost:30789",
@@ -1140,7 +1211,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-18T09:33:25.723606+00:00"
+    "discovered_at": "2026-11-18T18:32:15.883661+00:00"
   },
   {
     "id": "devpost:26475",
@@ -1176,7 +1247,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-18T09:33:26.040696+00:00"
+    "discovered_at": "2026-11-18T18:32:16.231321+00:00"
   },
   {
     "id": "devpost:31572",
@@ -1212,14 +1283,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-18T09:33:25.723572+00:00"
+    "discovered_at": "2026-11-18T18:32:15.883625+00:00"
   },
   {
     "id": "devpost:31907",
     "source": "Devpost",
     "title": "Build Your First AI App",
     "url": "https://build-your-first-ai-app.devpost.com/",
-    "description": "Devpost hackathon. 10 days left",
+    "description": "Devpost hackathon. 9 days left",
     "organizer": "Yasir Insights",
     "venue": "Online",
     "mode": "Online",
@@ -1248,14 +1319,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-18T09:33:25.884724+00:00"
+    "discovered_at": "2026-11-18T18:32:16.041079+00:00"
   },
   {
     "id": "devpost:31667",
     "source": "Devpost",
     "title": "Kiroween 2026",
     "url": "https://kiroween.devpost.com/",
-    "description": "Devpost hackathon. 17 days left",
+    "description": "Devpost hackathon. 16 days left",
     "organizer": "Kiro",
     "venue": "Online",
     "mode": "Online",
@@ -1284,14 +1355,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-18T09:33:25.723538+00:00"
+    "discovered_at": "2026-11-18T18:32:15.883586+00:00"
   },
   {
     "id": "devpost:31024",
     "source": "Devpost",
     "title": "Meta VR Start Developer Competition 2026",
     "url": "https://start-developer-competition-26.devpost.com/",
-    "description": "Devpost hackathon. about 10 hours left",
+    "description": "Devpost hackathon. about 1 hour left",
     "organizer": "Meta",
     "venue": "Online",
     "mode": "Online",
@@ -1320,7 +1391,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-18T09:33:25.723563+00:00"
+    "discovered_at": "2026-11-18T18:32:15.883615+00:00"
   },
   {
     "id": "unstop:1807596",
@@ -1359,7 +1430,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-18T09:33:19.342299+00:00"
+    "discovered_at": "2026-11-18T18:32:10.453864+00:00"
   },
   {
     "id": "unstop:1811240",
@@ -1398,7 +1469,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-18T09:33:19.341054+00:00"
+    "discovered_at": "2026-11-18T18:32:10.452659+00:00"
   },
   {
     "id": "unstop:1781454",
@@ -1437,7 +1508,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-18T09:33:20.964399+00:00"
+    "discovered_at": "2026-11-18T18:32:12.319483+00:00"
   },
   {
     "id": "unstop:1817389",
@@ -1476,7 +1547,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-18T09:33:19.340093+00:00"
+    "discovered_at": "2026-11-18T18:32:10.450270+00:00"
   },
   {
     "id": "devpost:31746",
@@ -1511,7 +1582,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-18T09:33:26.040683+00:00"
+    "discovered_at": "2026-11-18T18:32:16.231304+00:00"
   },
   {
     "id": "unstop:1811085",
@@ -1544,46 +1615,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-18T09:33:19.341386+00:00"
-  },
-  {
-    "id": "unstop:1805946",
-    "source": "Unstop",
-    "title": "Android Ignition",
-    "url": "https://unstop.com/hackathons/android-ignition-ganeshi-lal-bajaj-institute-of-technology-and-management-glbitm-greater-noida-1805946",
-    "description": "JOIN THE OFFICIAL WHATSAPP GROUP: https://chat.whatsapp.com/CLrKGQhLznO47WKo4TiyY8 About the Hackathon Get ready to turn your ideas into working Android applications! The Android Engineering Hackathon is an online innovation and development challenge organised by TechYoGeek Nirvana (TYGN) in collaboration with Coding Chef, with GL Bajaj Institute of Technology &amp; Management, Greater Noida, as the listed organisation. This hackathon invites aspiring developers, programmers, and technology enthusiasts to design, develop, and present innovative Android applications that solve real-world problems. Whether you are passionate about mobile development, exploring Android engineering, or looking to challenge your coding abilities, this is your opportunity to build something meaningful. Challenge Objective: Participants are expected to conceptualise, design, and develop an Android application addressing a relevant problem or introducing an innovative solution. The focus is on practical implementation, creativity, technical execution, and usability. Rules &amp; Guidelines Participation is online. Participants can register individually or in teams of 2. Each participant/team must develop an Android application during the hackathon. Projects must be original. Plagiarism or direct submission of another team's work will lead to disqualification. Participants may use permitted development tools, frameworks, and libraries. Teams must submit their project within the announced deadline. Submission should include the project source code, a working demonstration (APK or video), and a brief project description. GitHub repository links may be required for technical verification. Organisers reserve the right to reject incomplete or rule-violating submissions. Eligibility Open to students, freshers, professionals, and aspiring developers. Participants should have an interest in programming and Android application development. Beginners and experienced developers are welcome. Participants must comply with the team-size and submission guidelines. Hackathon Process Stage 1: Registration Register individually or as a team through Unstop. Stage 2: Hackathon Kickoff Receive the challenge details, guidelines, and submission instructions. Stage 3: Development Sprint Build your Android application and turn your concept into a functional solution. Stage 4: Project Submission Submit your project source code, demonstration, and supporting documentation before the deadline. Stage 5: Evaluation &amp; Results Projects will be assessed by the evaluation panel, and winners will be announced. Judging Criteria Innovation and originality Problem-solving approach Technical implementation Functionality and working prototype UI/UX and user experience Practical applicability and scalability Why Participate? Gain practical Android engineering experience. Build and showcase a real-world application. Challenge your development and problem-solving skills. Connect with fellow developers and technology enthusiasts. Earn recognition for your innovation and technical skills. Build. Innovate. Engineer. Your ideas deserve to become applications. Join the challenge and start building!",
-    "organizer": "Ganeshi Lal Bajaj Institute Of Technology And Management (GLBITM), Greater Noida",
-    "venue": "Online",
-    "mode": "Online",
-    "city": null,
-    "state": "online",
-    "country": null,
-    "start_date": "2026-11-11T00:00:00+05:30",
-    "end_date": "2026-12-06T21:00:00+05:30",
-    "registration_deadline": "2026-12-06T15:54:27+05:30",
-    "min_team_size": 1,
-    "max_team_size": 4,
-    "solo_allowed": true,
-    "eligibility": "Undergraduate / Postgraduate & Engineering students",
-    "prize_pool": "Prizes & Certificates",
-    "tracks": [
-      "Engineering Students",
-      "Postgraduate",
-      "Undergraduate",
-      "Management",
-      "Medical",
-      "Law",
-      "Arts, Commerce, Sciences & Others"
-    ],
-    "score": 50,
-    "matched_reasons": [
-      "🌐 **Accessible Online Mode** (+15 pts)",
-      "👤 **Solo Eligible (1 Member)** (+35 pts)"
-    ],
-    "is_nagpur_local": false,
-    "is_maharashtra": false,
-    "is_active": true,
-    "discovered_at": "2026-11-18T09:33:20.964310+00:00"
+    "discovered_at": "2026-11-18T18:32:10.452731+00:00"
   },
   {
     "id": "devpost:31108",
@@ -1618,14 +1650,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-18T09:33:26.040687+00:00"
+    "discovered_at": "2026-11-18T18:32:16.231315+00:00"
   },
   {
     "id": "devpost:31644",
     "source": "Devpost",
     "title": "Reddit’s Game of the Day Hackathon",
     "url": "https://redditgameofday2026.devpost.com/",
-    "description": "Devpost hackathon. 21 days left",
+    "description": "Devpost hackathon. 20 days left",
     "organizer": "reddit",
     "venue": "Online",
     "mode": "Online",
@@ -1652,14 +1684,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-18T09:33:25.723590+00:00"
+    "discovered_at": "2026-11-18T18:32:15.883644+00:00"
   },
   {
     "id": "devpost:31773",
     "source": "Devpost",
     "title": "LaunchPad Hacks (580k In Prizes!)",
     "url": "https://launchpad-hacks.devpost.com/",
-    "description": "Devpost hackathon. 17 days left",
+    "description": "Devpost hackathon. 16 days left",
     "organizer": "Hack4TodayOrg",
     "venue": "Online",
     "mode": "Online",
@@ -1686,7 +1718,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-18T09:33:25.884729+00:00"
+    "discovered_at": "2026-11-18T18:32:16.041095+00:00"
   },
   {
     "id": "devpost:31795",
@@ -1721,14 +1753,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-18T09:33:26.040702+00:00"
+    "discovered_at": "2026-11-18T18:32:16.231326+00:00"
   },
   {
     "id": "devpost:31797",
     "source": "Devpost",
     "title": "Green Shift Hacks",
     "url": "https://green-shift-hacks.devpost.com/",
-    "description": "Devpost hackathon. 23 days left",
+    "description": "Devpost hackathon. 22 days left",
     "organizer": "HackathonForEveryone",
     "venue": "Online",
     "mode": "Online",
@@ -1755,7 +1787,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-18T09:33:26.040706+00:00"
+    "discovered_at": "2026-11-18T18:32:16.231332+00:00"
   },
   {
     "id": "unstop:1798287",
@@ -1788,7 +1820,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-18T09:33:19.341710+00:00"
+    "discovered_at": "2026-11-18T18:32:10.453139+00:00"
   },
   {
     "id": "unstop:1814263",
@@ -1829,7 +1861,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-18T09:33:19.340243+00:00"
+    "discovered_at": "2026-11-18T18:32:10.451145+00:00"
   },
   {
     "id": "unstop:1810268",
@@ -1863,7 +1895,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-18T09:33:19.341525+00:00"
+    "discovered_at": "2026-11-18T18:32:10.452909+00:00"
   },
   {
     "id": "unstop:1810370",
@@ -1896,7 +1928,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-18T09:33:19.340740+00:00"
+    "discovered_at": "2026-11-18T18:32:10.451737+00:00"
   },
   {
     "id": "unstop:1806122",
@@ -1935,7 +1967,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-18T09:33:19.342693+00:00"
+    "discovered_at": "2026-11-18T18:32:12.319028+00:00"
   },
   {
     "id": "unstop:1809486",
@@ -1968,6 +2000,6 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-18T09:33:19.341819+00:00"
+    "discovered_at": "2026-11-18T18:32:10.453273+00:00"
   }
 ]

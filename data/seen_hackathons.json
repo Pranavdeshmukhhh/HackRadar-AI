@@ -3364,5 +3364,14 @@
     "last_notified": "2026-11-17T18:56:26.161710+00:00",
     "is_nagpur_local": false,
     "solo_allowed": false
+  },
+  "devpost:31571": {
+    "title": "Cloud9 x JetBrains: Sky's The Limit Hackathon 2026",
+    "url": "https://cloud9.devpost.com/",
+    "score": 75,
+    "source": "Devpost",
+    "last_notified": "2026-11-18T01:28:19.529138+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
   }
 }

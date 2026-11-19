@@ -3463,5 +3463,59 @@
     "last_notified": "2026-11-19T08:15:02.416548+00:00",
     "is_nagpur_local": false,
     "solo_allowed": true
+  },
+  "unstop:1819296": {
+    "title": "TrueFoundry Forge-a-thon | Techfest, IIT Bombay 2026-27",
+    "url": "https://unstop.com/hackathons/truefoundry-forge-a-thon-techfest-iit-bombay-2026-27-techfest-iit-bombay-1819296",
+    "score": 100,
+    "source": "Unstop",
+    "last_notified": "2026-11-19T17:52:30.896885+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:1818980": {
+    "title": "INNOVATE X",
+    "url": "https://unstop.com/hackathons/innovate-x-poornima-institute-of-engineering-technology-piet-jaipur-1818980",
+    "score": 75,
+    "source": "Unstop",
+    "last_notified": "2026-11-19T17:52:30.896885+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:1818968": {
+    "title": "Campus to Cloud Hackathon",
+    "url": "https://unstop.com/hackathons/campus-to-cloud-hackathon-iit-bombay-1818968",
+    "score": 75,
+    "source": "Unstop",
+    "last_notified": "2026-11-19T17:52:30.896885+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:1817737": {
+    "title": "CodeWarriors India 2026 - National Hackathon",
+    "url": "https://unstop.com/hackathons/codewarriors-india-2026-national-hackathon-buildx-1817737",
+    "score": 75,
+    "source": "Unstop",
+    "last_notified": "2026-11-19T17:52:30.896885+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:1818894": {
+    "title": "Anveshak: Open-World Object Detection for Remote Sensing",
+    "url": "https://unstop.com/hackathons/anveshak-open-world-object-detection-for-remote-sensing-iit-bombay-1818894",
+    "score": 60,
+    "source": "Unstop",
+    "last_notified": "2026-11-19T17:52:30.896885+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:1806016": {
+    "title": "Incursion 2027 24-Hour National Level Hackathon",
+    "url": "https://unstop.com/hackathons/incursion-2027-24-hour-national-level-hackathon-dr-dy-patil-institute-of-technology-1806016",
+    "score": 40,
+    "source": "Unstop",
+    "last_notified": "2026-11-19T17:52:30.896885+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": false
   }
 }

@@ -33,7 +33,49 @@
     "is_nagpur_local": true,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-19T08:15:00.480220+00:00"
+    "discovered_at": "2026-11-19T17:52:28.247341+00:00"
+  },
+  {
+    "id": "unstop:1819296",
+    "source": "Unstop",
+    "title": "TrueFoundry Forge-a-thon | Techfest, IIT Bombay 2026-27",
+    "url": "https://unstop.com/hackathons/truefoundry-forge-a-thon-techfest-iit-bombay-2026-27-techfest-iit-bombay-1819296",
+    "description": "Registration: All teams must register on the official Techfest website (https://techfest.org/competitions/forge-a-thon) and obtain a valid Team ID. Registration on Unstop alone does not complete the competition registration. All participants must carry valid institutional ID cards for verification. AI-powered coding assistants are transforming software development, but they still face fundamental challenges when working with real-world codebases. From losing track of relevant files and making unintended changes to struggling with complex multi-file tasks, there is still plenty of room to make these tools smarter, safer and more reliable. TrueFoundry Forge-a-thon , presented by Techfest, IIT Bombay in collaboration with TrueFoundry, challenges you to build the next generation of AI coding assistants. Your task is to develop an AI-powered coding agent as a Visual Studio Code extension , using TrueForge, TrueFoundry's open-source agent harness. The agent should be able to understand an existing repository, identify relevant code, plan and execute changes across multiple files, and present those changes to the developer for review directly within the editor. Challenge Overview Participants are expected to build an editor-native coding agent demonstrating the following capabilities: Inline Editing: Enable users to select a portion of code, provide instructions in natural language, and receive proposed edits as diffs directly within the editor. Users must be able to review and accept or reject the changes. Agent Mode: Build an agent capable of handling complex requests through multiple steps, independently reading files, searching the repository, writing code and executing terminal commands. The agent must be able to discover and modify at least three files without the user explicitly identifying them. Context Assembly: Implement an effective approach to retrieving relevant code from large repositories. Support explicit file and symbol references as well as automatic retrieval of relevant context that the user has not specifically mentioned. Diff Review and Safety: Every proposed modification must be visible to the user before being applied. Provide hunk-wise review, acceptance and rejection, with the ability to undo applied changes. Streaming and Cancellation: Ensure that responses and agent activity are streamed to the editor. Users should be able to interrupt an ongoing run without blocking the editor or leaving the workspace in an inconsistent state. Technology Stack and Implementation The agent must use TrueForge for its agent loop and run in local mode. Participants are free to choose the AI model powering their agent, including paid APIs, free provider tiers and locally hosted open-source models supported by TrueForge. Teams may reuse editor-side components from existing open-source coding assistants such as Cline, Continue, Roo Code or opencode. However, the underlying agent loop must be replaced with TrueForge; submissions retaining an upstream agent loop will not be eligible. The focus is on the quality of the implementation, context retrieval, safe code modification and integration with TrueForge&mdash;not on training or hosting a new AI model. Round 1 Challenge All participants will demonstrate their implementations on the same Flask codebase. The challenge consists of three fixed tasks: Inline Editing: Modify the get_debug_flag function in Flask to handle additional false values, generate a diff and verify the result. Agent Mode: Build a new Flask CLI command that displays application configuration in JSON format, masks sensitive values, includes tests and is documented. The agent must discover the files it needs to modify independently. Resilience: Demonstrate how the extension handles an unavailable model endpoint or invalid API key without freezing the editor or making unintended changes. Teams must submit a demonstration video, a technical write-up and a publicly accessible GitHub repository. Evaluation Criteria Submissions will be evaluated across three broad categories: Capability Coverage (30 points): Inline editing, agent mode, streaming and cancellation. Technical Depth (45 points): Context assembly, diff safety, resilience and depth of TrueForge integration. Presentation (25 points): Quality of the demo video and technical write-up. The top 15 teams will be shortlisted for the final round. Shortlisted teams may also be invited to explain their implementation and demonstrate their agent live using a model selected by the organisers. Round 2: On-Campus Finale The shortlisted teams will compete at IIT Bombay, where they will further develop their coding agents using TrueForge and contribute to the TrueForge open-source project through a Pull Request. TrueFoundry will provide model credits to all finalist teams for the finale. Rewards and Opportunities Cash prizes for winning teams. Model credits for all finalist teams. Techfest Certificate of Participation for shortlisted teams attending the on-campus finale. Top-performing participants may be considered for Pre-Placement Interviews (PPIs) for internships at TrueFoundry. Participants securing internships through these PPIs may also be considered for full-time opportunities. Eligibility Open to college students and working professionals aged 18 and above. Teams may consist of 1&ndash;5 members. Members may belong to different colleges or organisations, and teams may include both students and working professionals. Build beyond the chatbot. Engineer an AI coding agent that developers can actually trust.",
+    "organizer": "Indian Institute of Technology (IIT), Bombay",
+    "venue": "hybrid",
+    "mode": "In-Person",
+    "city": null,
+    "state": "hybrid",
+    "country": null,
+    "start_date": "2026-11-19T00:00:00+05:30",
+    "end_date": "2026-12-18T23:59:00+05:30",
+    "registration_deadline": "2026-11-19T23:59:00+05:30",
+    "min_team_size": 1,
+    "max_team_size": 5,
+    "solo_allowed": true,
+    "eligibility": "Undergraduate / Postgraduate & Engineering students",
+    "prize_pool": "Prizes & Certificates",
+    "tracks": [
+      "Experienced Professionals",
+      "Engineering Students",
+      "Postgraduate",
+      "Undergraduate",
+      "Management",
+      "Medical",
+      "Law",
+      "Arts, Commerce, Sciences & Others"
+    ],
+    "score": 100,
+    "matched_reasons": [
+      "🏢 **Maharashtra Proximity** (+25 pts) [Iit Bombay]",
+      "🌐 **Accessible In-Person Mode** (+15 pts)",
+      "👤 **Solo Eligible (1 Member)** (+35 pts)",
+      "🤖 **AI & Software Tracks** (+25 pts) [AI, Software Development, API]"
+    ],
+    "is_nagpur_local": false,
+    "is_maharashtra": true,
+    "is_active": true,
+    "discovered_at": "2026-11-19T17:52:17.956818+00:00"
   },
   {
     "id": "college:mindsparkorg",
@@ -69,7 +111,47 @@
     "is_nagpur_local": false,
     "is_maharashtra": true,
     "is_active": true,
-    "discovered_at": "2026-11-19T08:14:55.818563+00:00"
+    "discovered_at": "2026-11-19T17:52:26.394491+00:00"
+  },
+  {
+    "id": "unstop:1818980",
+    "source": "Unstop",
+    "title": "INNOVATE X",
+    "url": "https://unstop.com/hackathons/innovate-x-poornima-institute-of-engineering-technology-piet-jaipur-1818980",
+    "description": "Innovate X &ndash; 2-Day Online Innovation &amp; Coding Challenge About the Competition Innovate X is a two-day online innovation and coding challenge organized by The Cyborgs Club, PIET College, in collaboration with Unstop, on 19th and 20th November 2026. The competition aims to encourage students to transform their innovative ideas into functional software solutions. Participants will get an opportunity to showcase their creativity, technical skills, problem-solving abilities, and innovation by building a working application, website, or software prototype within 48 hours. Eligibility Criteria Open to college students from any year and any specialization/branch. Participation is strictly individual (solo participation only). Team participation is not allowed. Students from other colleges are eligible to participate. Inter-college teams are not allowed since the competition follows an individual participation format. Inter-specialization collaboration is not applicable. Competition Format The competition will be conducted entirely online over two days. Day 1 &ndash; 19th November 2026: Idea &amp; Development Phase Participants must register individually on Unstop. During registration, participants must submit their project idea and project title. Participants will start developing their solutions using their preferred programming languages, frameworks, development tools, or AI coding agents. Participants are free to choose any suitable technology stack. Day 2 &ndash; 20th November 2026: Development &amp; Submission Phase Participants will continue developing and improving their projects. A final submission link will be shared on 20th November. Participants must submit the link to their public GitHub repository containing the complete source code. The repository must be accessible to the evaluation team. Problem Statements / Questions There will be no fixed problem statements or predefined questions. Participants are free to identify a real-world problem and develop an innovative software solution. Projects may belong to domains such as Web Development, App Development, Artificial Intelligence, Machine Learning, Automation, Productivity, Education, Healthcare, Sustainability, or any other relevant domain. Originality, usefulness, creativity, and implementation will be encouraged. Duration Total competition duration: 2 days (approximately 48 hours). Start Date: 19th November 2026. End Date: 20th November 2026. Registration, development, and final submission will take place online through Unstop and the designated submission link. Submission Guidelines Participation must be individual. Each participant must submit only one project. Participants must create a public GitHub repository for their project. The repository must contain the source code and relevant project files. A README file explaining the project, its features, and instructions to run it is recommended. Participants are encouraged to provide a live demo link or deployment link, if available. Only projects submitted through the official submission link within the deadline will be considered for evaluation. Late submissions may not be accepted. Rules &amp; Regulations Participants must register individually through Unstop. Each participant is allowed to submit only one project. Projects must be developed during the competition period. Participants can use any programming language, framework, library, IDE, or development platform. The use of AI coding agents and AI-powered development tools is permitted. Participants must ensure that their submitted projects are original and must not plagiarize existing projects. Pre-built templates, libraries, and open-source resources may be used, but participants should clearly mention significant third-party resources used. The submitted GitHub repository must be public and accessible. Participants must not submit malicious software, harmful applications, or inappropriate content. Any attempt to manipulate the evaluation process or submit copied work may lead to disqualification. The decision of the evaluation panel will be final and binding. Evaluation Criteria Projects will be evaluated based on the following criteria: Innovation &amp; Originality: Uniqueness and creativity of the idea. Functionality: How effectively the developed solution works. Problem-Solving: Relevance and effectiveness in addressing the identified problem. User Interface &amp; Experience: Design, usability, and accessibility. Technical Implementation: Code quality, technology usage, and implementation. Presentation: Clarity of the project description and demonstration. Results &amp; Recognition The submitted projects will be evaluated and ranked by the evaluation panel. The top three performers (1st, 2nd, and 3rd place) will receive official certificates through Unstop. The results will be announced through the official event communication channels. Important Note Innovate X is an individual online competition focused on creativity, innovation, and practical software development. Participants are encouraged to think beyond conventional solutions and build something meaningful within the given timeframe. Organized by: The Cyborgs Club, PIET College. In Collaboration With: Unstop. Event Dates: 19th&ndash;20th November 2026. Mode: Online. Participation: Individual (Solo). &nbsp;",
+    "organizer": "Poornima Institute of Engineering & Technology (PIET), Jaipur",
+    "venue": "Online",
+    "mode": "Online",
+    "city": null,
+    "state": "online",
+    "country": null,
+    "start_date": "2026-11-19T13:00:00+05:30",
+    "end_date": "2026-11-20T00:00:00+05:30",
+    "registration_deadline": "2026-11-20T00:00:00+05:30",
+    "min_team_size": 1,
+    "max_team_size": 1,
+    "solo_allowed": true,
+    "eligibility": "Undergraduate / Postgraduate & Engineering students",
+    "prize_pool": "Prizes & Certificates",
+    "tracks": [
+      "Engineering Students",
+      "Postgraduate",
+      "Undergraduate",
+      "Management",
+      "Medical",
+      "Law",
+      "Arts, Commerce, Sciences & Others"
+    ],
+    "score": 75,
+    "matched_reasons": [
+      "🌐 **Accessible Online Mode** (+15 pts)",
+      "👤 **Solo Eligible (1 Member)** (+35 pts)",
+      "🤖 **AI & Software Tracks** (+25 pts) [AI, Artificial Intelligence, Machine Learning]"
+    ],
+    "is_nagpur_local": false,
+    "is_maharashtra": false,
+    "is_active": true,
+    "discovered_at": "2026-11-19T17:52:17.957067+00:00"
   },
   {
     "id": "unstop:1817798",
@@ -107,48 +189,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-19T08:14:46.311670+00:00"
-  },
-  {
-    "id": "unstop:1807080",
-    "source": "Unstop",
-    "title": "Data Sprint Challenge 2.0",
-    "url": "https://unstop.com/hackathons/data-sprint-20-anveshan-nie-1807080",
-    "description": "Welcome to Data Sprint 2.0 &ndash; by Anveshan! Data Sprint 2.0: A Global AI &amp; ML Problem-Solving Challenge! About the Opportunity Data Sprint 2.0 is a 36-hour online AI &amp; ML hackathon organized by Anveshan, the Applied Research &amp; AI/ML Club of The National Institute of Engineering, Mysuru, taking place from 23rd to 25th November 2026 . The hackathon brings together college students and working professionals to tackle real-world challenges through innovation, machine learning, technical skills, teamwork, and creative problem-solving. With 4 exciting tracks, participants will have the opportunity to apply their knowledge, develop practical AI/ML solutions, and showcase their skills. Track details will be announced on 19th November 2026, and problem statements will be released 36 hours before the evaluation. An assistance round will be conducted following the release of problem statements, where Anveshan volunteers will help participants clarify doubts and understand the challenges. Shortlisted teams will advance to the final evaluation round, where they will present their solutions and compete for exciting rewards. Our Official Gold Partner &ndash; InterviewBuddy We are excited to welcome InterviewBuddy as the Official Gold Partner (Technology &amp; Rewards Partner) for Data Sprint 2.0! InterviewBuddy is an interview preparation platform offering AI-powered mock interviews and expert-driven interview sessions, helping students and professionals strengthen their interview skills and prepare for career opportunities. Through this collaboration, InterviewBuddy is bringing exclusive interview preparation rewards and benefits to Data Sprint 2.0 participants. Exclusive InterviewBuddy Benefits: Winners: AI Mock Interview Vouchers worth ₹550 each. Runners-up: Exclusive 90% discount vouchers for AI Mock Interviews. All Registered Participants: 10% discount on InterviewBuddy's expert-driven interview sessions. This partnership adds a career development dimension to Data Sprint 2.0, allowing participants to benefit not only from technical problem-solving but also from professional interview preparation opportunities. Explore InterviewBuddy: https://interviewbuddy.net Rewards and Benefits Exciting merchandise rewards worth ₹30,000 . AI Mock Interview Vouchers worth ₹550 each for winning participants, courtesy of InterviewBuddy. 90% discount vouchers for AI Mock Interviews for runners-up. Exclusive 10% discount on InterviewBuddy's expert-driven interview sessions for all registered participants. 10 lucky participants will receive a free 30-minute consultation with industry professionals or researchers. An opportunity to solve real-world problems, showcase technical skills, and interact with a global community of innovators. Eligibility Open to college students and working professionals. Participants from all branches and specializations are welcome. Inter-college teams are allowed. Inter-specialization teams are allowed. Each participant can be part of only one team. Competition Format Mode: Online Dates: 23rd&ndash;25th November 2026 Duration: 36 Hours Tracks: 4 AI &amp; ML problem-solving tracks Track Announcement: 19th November 2026 (soon) Problem Statements: Released 36 hours before evaluation Assistance Round: Guidance and doubt clarification by Anveshan researchers Final Round: Shortlisted teams present their solutions for evaluation Rules Each participant can register as a member of only one team. All submissions must be original. Plagiarism or copying solutions from other teams is strictly prohibited. Teams must work on the officially announced problem statements. Participants must submit their solutions within the specified deadline of the 36-hour hackathon. Teams must follow the instructions and submission guidelines provided by the organizers. Participants must maintain fair play and professional conduct throughout the competition. Any form of malpractice or violation of competition rules may lead to disqualification. The decisions of the judges and organizing committee will be final. Additional Information Free Consultation Eligibility: To be eligible for the free 30-minute consultation with industry professionals or researchers, participants must present their solution during the hackathon evaluation. Only participants who present their solutions will be considered for the selection of the 10 lucky participants. InterviewBuddy Rewards: Interview vouchers and discount coupons will be distributed through official event communication channels. Redemption instructions, validity periods, and applicable terms will be communicated to eligible participants. Bring your team together, put your AI &amp; ML skills to the test, and get ready for 36 hours of innovation at Data Sprint 2.0! ENLIST &bull; COMPETE &bull; ACHIEVE",
-    "organizer": "The National Institute of Engineering, Karnataka",
-    "venue": "Online",
-    "mode": "Online",
-    "city": null,
-    "state": "online",
-    "country": null,
-    "start_date": "2026-11-12T00:00:00+05:30",
-    "end_date": "2026-11-22T00:00:00+05:30",
-    "registration_deadline": "2026-11-22T00:00:00+05:30",
-    "min_team_size": 1,
-    "max_team_size": 4,
-    "solo_allowed": true,
-    "eligibility": "Undergraduate / Postgraduate & Engineering students",
-    "prize_pool": "Prizes & Certificates",
-    "tracks": [
-      "Experienced Professionals",
-      "Engineering Students",
-      "Postgraduate",
-      "Undergraduate",
-      "Management",
-      "Medical",
-      "Law",
-      "Arts, Commerce, Sciences & Others"
-    ],
-    "score": 75,
-    "matched_reasons": [
-      "🌐 **Accessible Online Mode** (+15 pts)",
-      "👤 **Solo Eligible (1 Member)** (+35 pts)",
-      "🤖 **AI & Software Tracks** (+25 pts) [AI, Machine Learning, ML]"
-    ],
-    "is_nagpur_local": false,
-    "is_maharashtra": false,
-    "is_active": true,
-    "discovered_at": "2026-11-19T08:14:48.630730+00:00"
+    "discovered_at": "2026-11-19T17:52:17.960163+00:00"
   },
   {
     "id": "unstop:1805107",
@@ -188,71 +229,29 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-19T08:14:48.630461+00:00"
+    "discovered_at": "2026-11-19T17:52:19.887282+00:00"
   },
   {
-    "id": "unstop:1806984",
+    "id": "unstop:1818968",
     "source": "Unstop",
-    "title": "QuikCPQ AI Innovation Challenge 2027",
-    "url": "https://unstop.com/hackathons/quikcpq-ai-innovation-challenge-2027-quik-cpq-solutions-llp-1806984",
-    "description": "Overview Build. Innovate. Compete. Win. Rule 1 &ndash; Eligibility Open to students and working professionals residing in India. Individual participants and teams are permitted. Recommended team size: 1&ndash;4 members. Participants must provide accurate registration information. Employees, organizers and judges should not compete in categories where they have a conflict of interest. Rule 2 &ndash; Competition Tracks Participants may submit projects under any of the six official tracks: AI &amp; Agentic AI. HR Tech &amp; Recruitment. Enterprise SaaS. Data &amp; Analytics. Cloud &amp; DevOps. Cybersecurity &amp; Digital Trust. Rule 3 &ndash; Project Requirements Every project must include: A clear problem statement. A proposed solution. Working prototype or demonstrable implementation. Technology stack. Architecture overview. GitHub repository or equivalent source-code access for evaluation. Demo video or live demonstration. Explanation of real-world business value. Rule 4 &ndash; Originality Projects must be original or appropriately licensed. Previously developed components must be disclosed. AI-generated code and third-party tools are allowed if disclosed. Plagiarism, impersonation and unauthorized code reuse are prohibited. Participants must have permission to use all datasets and APIs. Rule 5 &ndash; Submission Submissions must be made through the official portal. Late submissions may be rejected. Incomplete submissions may be disqualified. Teams must identify all members and their respective contributions.",
-    "organizer": "Quik CPQ Solutions LLP",
+    "title": "Campus to Cloud Hackathon",
+    "url": "https://unstop.com/hackathons/campus-to-cloud-hackathon-iit-bombay-1818968",
+    "description": "Overview Techfest, IIT Bombay, in association with Amazon Web Services (AWS), invites students to participate in the Campus to Cloud Hackathon. Develop and deploy a working solution to a real-world problem using AWS technologies. Competition Highlights: Prize Pool of ₹1,50,000 for the top 3 teams 1-year AWS Skill Builder Premium subscription Up to $30 in AWS credits AWS Certification Exam Voucher worth $100 Top 35 teams qualify for the final round at IIT Bombay during Techfest 2026&ndash;27. Eligibility: Students aged 18+ enrolled in Indian educational institutions Team Size: Individual or teams of up to 4 members Submission Deadline: 30 November 2026, 11:59 PM The finalists will present their solutions before AWS and Techfest judges at IIT Bombay on 17 December 2026.",
+    "organizer": "Indian Institute of Technology (IIT), Bombay",
     "venue": "Online",
     "mode": "Online",
     "city": null,
     "state": "online",
     "country": null,
-    "start_date": "2026-11-12T00:00:00+05:30",
-    "end_date": "2026-11-27T17:28:00+05:30",
-    "registration_deadline": "2026-11-26T00:00:00+05:30",
+    "start_date": "2026-11-19T00:00:00+05:30",
+    "end_date": "2026-11-30T00:00:00+05:30",
+    "registration_deadline": "2026-11-30T00:00:00+05:30",
     "min_team_size": 1,
     "max_team_size": 4,
     "solo_allowed": true,
     "eligibility": "Undergraduate / Postgraduate & Engineering students",
     "prize_pool": "Prizes & Certificates",
     "tracks": [
-      "Experienced Professionals",
-      "Engineering Students",
-      "Postgraduate",
-      "Undergraduate",
-      "Fresher",
-      "Management",
-      "Medical",
-      "Law",
-      "Arts, Commerce, Sciences & Others"
-    ],
-    "score": 75,
-    "matched_reasons": [
-      "🌐 **Accessible Online Mode** (+15 pts)",
-      "👤 **Solo Eligible (1 Member)** (+35 pts)",
-      "🤖 **AI & Software Tracks** (+25 pts) [AI, Agentic Ai, Cloud]"
-    ],
-    "is_nagpur_local": false,
-    "is_maharashtra": false,
-    "is_active": true,
-    "discovered_at": "2026-11-19T08:14:48.630609+00:00"
-  },
-  {
-    "id": "unstop:1807297",
-    "source": "Unstop",
-    "title": "HackKro CodeByte 2026",
-    "url": "https://unstop.com/hackathons/hackkro-codebyte-2026-hackkro-1807297",
-    "description": "Introduction: HackKro presents HackKro CodeByte 2026 , a multi-round competitive coding battle hosted on the Unstop platform. Designed for both aspiring programmers and seasoned problem solvers, HackKro CodeByte 2026 tests foundational logic, algorithm design, and core programming proficiency. Compete nationwide, solve challenging problems, and push your limits. Event Details: Detail Information Event Name HackKro CodeByte 2026 Organized By HackKro Mode Online (via Unstop) Eligibility Open to all Undergraduate &amp; Postgraduate students (all streams &amp; years) Registration Fee Free (All Rounds) Registration Deadline 30 November 2026, 11:59 PM IST Stages and Timelines: Round 1: Preliminary Assessment Window: 05 Dec 2026, 02:30 PM IST &ndash; 06 Dec 2026, 11:59 PM IST Format: 30 Minutes Scope: Programming Fundamentals (C++, Java, Python), Data Structures, and Logical Reasoning. Round 2: Java Coding Sprint (Qualified Participants Only) Window: 07 Dec 2026, 03:30 PM IST &ndash; 07 Dec 2026, 11:59 AM IST Access: Strictly for shortlisted candidates who clear Round 1. Format: 2&ndash;3 Algorithmic Coding Problems (Easy to Medium) in Java. Qualification &amp; Progression Guidelines: 100% Free Participation: Registration and participation across all rounds of HackKro CodeByte 2026 are completely free for all eligible students. Merit-Based Shortlisting: Progression to Round 2 is strictly merit-based, determined by Round 1 assessment scores and submission speed. Direct Round 2 Access: Shortlisted candidates will receive an official email/notification on Unstop with direct access instructions for the Round 2 coding sprint. Rules &amp; Code of Conduct: Official Platform: All rounds and submissions must be completed strictly through the designated Unstop assessment and coding environment. Integrity &amp; Fair Play: Zero tolerance for plagiarism, AI-assisted tools, secondary devices, or unauthorized tab switches. Violations will result in immediate disqualification. Account Verification: Single account policy is strictly enforced. Profile details (college, stream, graduation year) must match the participant's official identity documents. Final Authority: In all matters regarding evaluation, shortlisting, and dispute resolution, the decision of Team HackKro remains final and binding.",
-    "organizer": "HackKro",
-    "venue": "Online",
-    "mode": "Online",
-    "city": null,
-    "state": "online",
-    "country": null,
-    "start_date": "2026-11-12T13:56:42+05:30",
-    "end_date": "2026-12-07T23:59:00+05:30",
-    "registration_deadline": "2026-11-30T18:29:12+05:30",
-    "min_team_size": 1,
-    "max_team_size": 1,
-    "solo_allowed": true,
-    "eligibility": "Undergraduate / Postgraduate & Engineering students",
-    "prize_pool": "Prizes & Certificates",
-    "tracks": [
       "Engineering Students",
       "Postgraduate",
       "Undergraduate",
@@ -265,19 +264,19 @@
     "matched_reasons": [
       "🌐 **Accessible Online Mode** (+15 pts)",
       "👤 **Solo Eligible (1 Member)** (+35 pts)",
-      "🤖 **AI & Software Tracks** (+25 pts) [AI]"
+      "🤖 **AI & Software Tracks** (+25 pts) [Cloud]"
     ],
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-19T08:14:48.630566+00:00"
+    "discovered_at": "2026-11-19T17:52:17.957121+00:00"
   },
   {
     "id": "unstop:1817749",
     "source": "Unstop",
     "title": "CodeUnited India - National Hackathon",
     "url": "https://unstop.com/hackathons/codeunited-india-national-hackathon-hackwithpune-1817749",
-    "description": "Join the official group for information and updates:&nbsp; https://chat.whatsapp.com/DE4JhUortEqAD35baNLw4k Benefits and Opportunities: Top 3 teams: Paid internship opportunities Top 3 teams : 30,000 prize pool Every participant: &nbsp; .xyz domain and .cv domain Every participant: $100 in Inkloom AI credits, $500 in Adaption platform credits, 100$ ASI Credits Every participant: Verifiable digital certificate Rewards and benefits: 100+ recipients across the hackathon Format: Hackathon Date: 3 December &mdash; 13 December 2026 No.of Rounds: 3 Mode: Completely online Team size: 1&ndash;6 members Registration fee: &nbsp;free Track: Agentic AI, Full Stack Development Rules: Participants must submit original work within the deadline and follow all event guidelines. Plagiarism, false information, or multiple submissions may result in disqualification. Eligibility: Open to students, developers, designers, and technology enthusiasts across India. Participants may join individually or form a team according to the event&rsquo;s permitted team size. Process: Register for the event, join the official communication group, and complete every announced round. Qualified participants will receive the instructions and submission details for the next stage. &nbsp;",
+    "description": "Join the official group for information and updates:&nbsp; https://chat.whatsapp.com/DE4JhUortEqAD35baNLw4k Benefits and Opportunities: Top 3 teams: Paid internship opportunities Top 3 teams : 30,000 prize pool Every participant: &nbsp; .xyz domain and .cv domain Every participant: $100 in Inkloom AI credits, $500 in Adaption platform credits, 100$ ASI Credits Every participant: Verifiable digital certificate Rewards and benefits: 100+ recipients across the hackathon Format: Hackathon Date: 3 December &mdash; 13 December 2026 No.of Rounds: 3 Mode: Completely online Team size: 1&ndash;6 members Registration fee: &nbsp;free Track: Agentic AI, Full Stack Development Rules: Participants must submit original work within the deadline and follow all event guidelines. Plagiarism, false information, or multiple submissions may result in disqualification. Eligibility: Open to students, developers, designers, and technology enthusiasts across India. Participants may join individually or form a team according to the event&rsquo;s permitted team size. Process: Register for the event, join the official communication group, and complete every announced round. Qualified participants will receive the instructions and submission details for the next stage. &nbsp; Note: Teams selected for Round 3 pay a participation fee of ₹399 per team &mdash; one payment for the whole team, not one each. The fee covers the cost of running the event: infrastructure, the time and effort of organising it, and paying the people who do that work. Registering and Rounds 1 and 2 are free, and this is the only payment anywhere in this event. It falls due only once your team is selected for Round 3, so a team that is not selected pays nothing at all.",
     "organizer": "HackWithPune",
     "venue": "Online",
     "mode": "Online",
@@ -304,7 +303,41 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-19T08:14:46.311705+00:00"
+    "discovered_at": "2026-11-19T17:52:17.960246+00:00"
+  },
+  {
+    "id": "unstop:1817737",
+    "source": "Unstop",
+    "title": "CodeWarriors India 2026 - National Hackathon",
+    "url": "https://unstop.com/hackathons/codewarriors-india-2026-national-hackathon-buildx-1817737",
+    "description": "Join the official group for information and updates: https://chat.whatsapp.com/LQQ76cEkFN2DppeGkXWHb3 About: Top three teams: Paid internship opportunities Top three teams Prize Pool: 30,000 Rs Every participant: One complimentary .xyz domain Every participant: $100 in Inkloom AI credits, 500$ Adaption AI credits, 100$ ASI Credits Every eligible participant: Verifiable digital certificate Rewards: 100+ recipients across the hackathon No. of Rounds: 3 Hackathon Dates: 4 December &ndash; 14 December 2026 Mode: Completely online Team size: 1&ndash;6 members Registration Fee: Free Tracks: Agentic AI, Full-Stack Product Engineering Join the official WhatsApp group for participation details, announcements and important hackathon updates. A participant must complete the hackathon and make a valid final submission to receive a verifiable digital certificate. Registration alone will not qualify a participant for a certificate. PPOs and partner benefits are subject to eligibility requirements, availability and the respective partner&rsquo;s selection process.",
+    "organizer": "BuildX",
+    "venue": "Online",
+    "mode": "Online",
+    "city": null,
+    "state": "online",
+    "country": null,
+    "start_date": "2026-11-19T00:00:00+05:30",
+    "end_date": "2026-12-13T09:50:44+05:30",
+    "registration_deadline": "2026-12-03T23:59:00+05:30",
+    "min_team_size": 1,
+    "max_team_size": 6,
+    "solo_allowed": true,
+    "eligibility": "Open to college students & coders",
+    "prize_pool": "Prizes & Certificates",
+    "tracks": [
+      "All"
+    ],
+    "score": 75,
+    "matched_reasons": [
+      "🌐 **Accessible Online Mode** (+15 pts)",
+      "👤 **Solo Eligible (1 Member)** (+35 pts)",
+      "🤖 **AI & Software Tracks** (+25 pts) [AI, Agentic Ai]"
+    ],
+    "is_nagpur_local": false,
+    "is_maharashtra": false,
+    "is_active": true,
+    "discovered_at": "2026-11-19T17:52:17.959529+00:00"
   },
   {
     "id": "unstop:1818490",
@@ -338,7 +371,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": true,
     "is_active": true,
-    "discovered_at": "2026-11-19T08:14:46.310801+00:00"
+    "discovered_at": "2026-11-19T17:52:17.959646+00:00"
   },
   {
     "id": "unstop:1782995",
@@ -378,7 +411,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-19T08:14:46.310894+00:00"
+    "discovered_at": "2026-11-19T17:52:17.957702+00:00"
   },
   {
     "id": "unstop:1814002",
@@ -415,7 +448,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-19T08:14:46.312257+00:00"
+    "discovered_at": "2026-11-19T17:52:17.960863+00:00"
   },
   {
     "id": "unstop:1811349",
@@ -453,7 +486,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-19T08:14:46.312182+00:00"
+    "discovered_at": "2026-11-19T17:52:17.960763+00:00"
   },
   {
     "id": "unstop:1817757",
@@ -491,7 +524,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-19T08:14:46.310687+00:00"
+    "discovered_at": "2026-11-19T17:52:17.957434+00:00"
   },
   {
     "id": "unstop:1811016",
@@ -532,7 +565,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-19T08:14:46.312939+00:00"
+    "discovered_at": "2026-11-19T17:52:19.886263+00:00"
   },
   {
     "id": "unstop:1811493",
@@ -566,7 +599,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-19T08:14:46.312790+00:00"
+    "discovered_at": "2026-11-19T17:52:19.885987+00:00"
   },
   {
     "id": "unstop:1817499",
@@ -600,14 +633,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-19T08:14:46.312080+00:00"
+    "discovered_at": "2026-11-19T17:52:17.960487+00:00"
   },
   {
     "id": "unstop:1817240",
     "source": "Unstop",
     "title": "REFRACT 1.0 Hackathon",
     "url": "https://unstop.com/hackathons/refract-10-hackathon-university-of-engineering-and-management-kolkata-1817240",
-    "description": "About The Event REFRACT 1.0 marks the inaugural edition of a 30-hour national-level hackathon. The event is organised by the SPIE OPTICA Student Chapter, University of Engineering and Management, Kolkata, in collaboration with the UEMK Space Observatory. Event Dates: 30th&ndash;31st January 2027 REFRACT 1.0 aims to bring together creative thinkers, developers, researchers and aspiring innovators from across the country to transform ideas into impactful solutions. The event provides a platform for participants to ideate, collaborate, experiment and develop innovative solutions to real-world challenges. With six diverse innovation tracks, the hackathon encourages interdisciplinary exploration across emerging technologies, engineering, scientific research and creative problem-solving. Themes &amp; Innovation Tracks Participants can develop solutions under any one of the following six tracks: Photonics &amp; Optical Innovation Applied Optics Fibre Communication Laser Systems Optical Sensing Silicon Photonics Biophotonics Applications AI &amp; Intelligent Systems Machine Learning Computer Vision Natural Language Processing Agentic AI Frameworks Automation Of Complex Tasks Robotics &amp; IoT (Hardware Track) Embedded Systems Custom Microcontrollers Robotics Smart Automation Sensor Integration Physical Computing Solutions App &amp; Game Development Mobile Applications Progressive Web Apps Interactive 3D Simulations Game Engines Immersive User Experiences Space Technology Innovative Solutions Focused On Space Technology Space Exploration Real-World Applications Of Space Technology Open Innovation Sustainability Healthcare Finance Social Utility Other Creative Solutions Addressing Real-World Challenges Event Format &amp; Process REFRACT 1.0 Will Follow A Hybrid Format Consisting Of Two Phases: Phase 1: Online Preliminary Round Participants Must Register And Submit Their Project Ideas Or Proposals. Submissions Will Be Evaluated By The Organising Team And/Or Designated Evaluators. Shortlisted Teams Will Qualify For The Offline Finale. Phase 2: Offline Grand Finale Selected Teams Will Participate In The 30-Hour Offline Hackathon. Participants Will Work On Developing And Refining Their Proposed Solutions. Teams Will Present Their Projects Before The Judging Panel. Winners Will Be Determined Based On The Evaluation Criteria. Event Details: Event Dates: 30th&ndash;31st January 2027 Venue: University Of Engineering And Management, Kolkata (New Town) Mode: Hybrid (Online Idea Submission Preliminary Round + Offline Finale) Eligibility The Hackathon Is Intended For Students And Aspiring Innovators Interested In Technology, Engineering, Research And Problem-Solving. Participants From Diverse Academic Backgrounds And Institutions Are Encouraged To Apply. Teams Must Register Through The Official Registration Portal. Participants Must Provide Accurate Information During Registration. Shortlisted Teams Must Be Available To Attend The Offline Finale At The Designated Venue. Rules &amp; Guidelines Participants Must Register Within The Stipulated Registration Period. All Team Members Must Be Registered Through The Official Registration Process. Each Team Must Select One Of The Six Designated Innovation Tracks. Submitted Projects Must Be Original And Must Not Infringe Upon Any Third-Party Intellectual Property Rights. Plagiarism, Impersonation, Misrepresentation Or Submission Of Previously Completed Projects As Entirely New Work May Lead To Disqualification. Teams Must Adhere To All Submission Deadlines And Instructions Communicated By The Organising Committee. Shortlisted Teams Must Participate In The Offline Finale As Per The Schedule Shared By The Organisers. Participants Are Expected To Maintain Professional Conduct And Follow The Event Guidelines Throughout The Competition. The Organising Committee Reserves The Right To Disqualify Participants Or Teams Found Violating The Rules. Decisions Made By The Judging Panel And Organising Committee Regarding Evaluation And Results Will Be Final. Evaluation Criteria Projects Will Be Evaluated On The Basis Of The Following Broad Parameters: Innovation &amp; Originality: Uniqueness And Creativity Of The Proposed Solution. Technical Implementation: Quality Of Execution And Effective Use Of Technology. Problem Relevance: Understanding Of The Problem And Practical Applicability. Feasibility &amp; Scalability: Potential For Real-World Implementation And Future Development. Presentation &amp; Demonstration: Clarity Of Communication, Demonstration And Overall Project Understanding.",
+    "description": "About The Event REFRACT 1.0 marks the inaugural edition of a 30-hour national-level hackathon. The event is organised by the SPIE OPTICA Student Chapter, University of Engineering and Management, Kolkata, in collaboration with the UEMK Space Observatory. Event Dates: 30th&ndash;31st January 2027 REFRACT 1.0 aims to bring together creative thinkers, developers, researchers and aspiring innovators from across the country to transform ideas into impactful solutions. The event provides a platform for participants to ideate, collaborate, experiment and develop innovative solutions to real-world challenges. With six diverse innovation tracks, the hackathon encourages interdisciplinary exploration across emerging technologies, engineering, scientific research and creative problem-solving. Join our Official Discord Server for updates &amp; team formation: https://discord.gg/DMhmUEJtK Themes &amp; Innovation Tracks Participants can develop solutions under any one of the following six tracks: Photonics &amp; Optical Innovation: Innovate with light. Build real-world solutions using optical sensors, lasers, fiber-optic communication, smart displays, solar devices, or optical imaging systems. AI &amp; Intelligent Systems:&nbsp; Deploy ultra-low latency neural architectures, autonomous multi-agent workflows, computer vision algorithms, real-time sensor intelligence, and local edge inference models. Robotics &amp; IoT (Hardware Track):&nbsp; Bring hardware to life. Build autonomous robots, smart gadgets, automated control systems, and connected IoT devices using microcontrollers, sensors, and actuators. App &amp; Game Development: Create high-performance mobile applications, immersive web platforms, interactive game mechanics, real-time 3D rendering engines, and next-generation digital experiences. Space Technology:&nbsp; Create solutions inspired by the cosmos. Work on satellite systems, orbital tracking, space data processing, CubeSat hardware, or astronomy-related applications. Open Innovation:&nbsp; Ideas beyond boundaries. Defy traditional tech silos with unconstrained multidisciplinary inventions, wildcard solutions, and unconventional prototypes solving high-impact problems. Event Format &amp; Process REFRACT 1.0 Will Follow A Hybrid Format Consisting Of Two Phases: Phase 1: Online Preliminary Round: Participants Must Register And Submit Their Project Ideas Or Proposals. Submissions Will Be Evaluated By The Organising Team And/Or Designated Evaluators. Shortlisted Teams Will Qualify For The Offline Finale. Phase 2: Offline Grand Finale Selected Teams Will Participate In The 30-Hour Offline Hackathon. Participants Will Work On Developing And Refining Their Proposed Solutions. Teams Will Present Their Projects Before The Judging Panel. Winners Will Be Determined Based On The Evaluation Criteria. Event Details Event Dates: 30th&ndash;31st January 2027 Venue: University Of Engineering And Management, Kolkata (New Town) Mode: Hybrid (Online Idea Submission Preliminary Round + Offline Finale) Eligibility The Hackathon Is Intended For Students And Aspiring Innovators Interested In Technology, Engineering, Research And Problem-Solving. Participants From Diverse Academic Backgrounds And Institutions Are Encouraged To Apply. Teams Must Register Through The Official Registration Portal. Participants Must Provide Accurate Information During Registration. Shortlisted Teams Must Be Available To Attend The Offline Finale At The Designated Venue. Rules &amp; Guidelines Participants Must Register Within The Stipulated Registration Period. All Team Members Must Be Registered Through The Official Registration Process. Each Team Must Select One Of The Six Designated Innovation Tracks. Submitted Projects Must Be Original And Must Not Infringe Upon Any Third-Party Intellectual Property Rights. Plagiarism, Impersonation, Misrepresentation Or Submission Of Previously Completed Projects As Entirely New Work May Lead To Disqualification. Teams Must Adhere To All Submission Deadlines And Instructions Communicated By The Organising Committee. Shortlisted Teams Must Participate In The Offline Finale As Per The Schedule Shared By The Organisers. Participants Are Expected To Maintain Professional Conduct And Follow The Event Guidelines Throughout The Competition. The Organising Committee Reserves The Right To Disqualify Participants Or Teams Found Violating The Rules. Decisions Made By The Judging Panel And Organising Committee Regarding Evaluation And Results Will Be Final. Evaluation Criteria Projects Will Be Evaluated On The Basis Of The Following Broad Parameters: Innovation &amp; Originality: Uniqueness And Creativity Of The Proposed Solution. Technical Implementation: Quality Of Execution And Effective Use Of Technology. Problem Relevance: Understanding Of The Problem And Practical Applicability. Feasibility &amp; Scalability: Potential For Real-World Implementation And Future Development. Presentation &amp; Demonstration: Clarity Of Communication, Demonstration And Overall Project Understanding.",
     "organizer": "University Of Engineering And Management, Kolkata ",
     "venue": "hybrid",
     "mode": "In-Person",
@@ -615,7 +648,7 @@
     "state": "hybrid",
     "country": null,
     "start_date": "2026-11-20T12:00:00+05:30",
-    "end_date": "2027-01-31T16:00:00+05:30",
+    "end_date": "2027-01-31T15:00:00+05:30",
     "registration_deadline": "2027-01-09T23:59:00+05:30",
     "min_team_size": 1,
     "max_team_size": 4,
@@ -624,18 +657,20 @@
     "prize_pool": "Prizes & Certificates",
     "tracks": [
       "Engineering Students",
-      "Undergraduate"
+      "Postgraduate",
+      "Undergraduate",
+      "Arts, Commerce, Sciences & Others"
     ],
     "score": 75,
     "matched_reasons": [
       "🌐 **Accessible In-Person Mode** (+15 pts)",
       "👤 **Solo Eligible (1 Member)** (+35 pts)",
-      "🤖 **AI & Software Tracks** (+25 pts) [AI, Machine Learning, Agentic Ai]"
+      "🤖 **AI & Software Tracks** (+25 pts) [AI, Computer Vision, Open Innovation]"
     ],
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-19T08:14:46.311520+00:00"
+    "discovered_at": "2026-11-19T17:52:17.958749+00:00"
   },
   {
     "id": "hackerearth:contextcon-remember-everything",
@@ -671,7 +706,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-19T08:14:54.186902+00:00"
+    "discovered_at": "2026-11-19T17:52:24.979318+00:00"
   },
   {
     "id": "devpost:30740",
@@ -707,7 +742,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-19T08:14:53.033843+00:00"
+    "discovered_at": "2026-11-19T17:52:24.071782+00:00"
   },
   {
     "id": "devpost:30764",
@@ -743,7 +778,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-19T08:14:53.245991+00:00"
+    "discovered_at": "2026-11-19T17:52:24.262390+00:00"
   },
   {
     "id": "devpost:31787",
@@ -779,14 +814,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-19T08:14:53.122592+00:00"
+    "discovered_at": "2026-11-19T17:52:24.147389+00:00"
   },
   {
     "id": "devpost:31642",
     "source": "Devpost",
     "title": "AWS MSP AI Hackathon",
     "url": "https://aws-agentic-msp.devpost.com/",
-    "description": "Devpost hackathon. 23 days left",
+    "description": "Devpost hackathon. 22 days left",
     "organizer": "AWS",
     "venue": "Online",
     "mode": "Online",
@@ -815,7 +850,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-19T08:14:53.122549+00:00"
+    "discovered_at": "2026-11-19T17:52:24.147345+00:00"
   },
   {
     "id": "devpost:31083",
@@ -851,14 +886,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-19T08:14:53.033821+00:00"
+    "discovered_at": "2026-11-19T17:52:24.071749+00:00"
   },
   {
     "id": "devpost:31480",
     "source": "Devpost",
     "title": "AI Agents for Founders Challenge — HETIC 2026",
     "url": "https://ai-agents-founders-hetic-26.devpost.com/",
-    "description": "Devpost hackathon. 30 days left",
+    "description": "Devpost hackathon. 29 days left",
     "organizer": "HETIC",
     "venue": "Online",
     "mode": "Online",
@@ -887,14 +922,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-19T08:14:53.245977+00:00"
+    "discovered_at": "2026-11-19T17:52:24.262370+00:00"
   },
   {
     "id": "devpost:31972",
     "source": "Devpost",
     "title": "SLAY HACKS",
     "url": "https://slayy-hacks.devpost.com/",
-    "description": "Devpost hackathon. 19 days left",
+    "description": "Devpost hackathon. 18 days left",
     "organizer": "cite & slayy",
     "venue": "Online",
     "mode": "Online",
@@ -923,14 +958,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-19T08:14:53.246001+00:00"
+    "discovered_at": "2026-11-19T17:52:24.262399+00:00"
   },
   {
     "id": "devpost:31973",
     "source": "Devpost",
     "title": "Deck the Pixels",
     "url": "https://deckthepixels.devpost.com/",
-    "description": "Devpost hackathon. 19 days left",
+    "description": "Devpost hackathon. 18 days left",
     "organizer": "Google",
     "venue": "Online",
     "mode": "Online",
@@ -959,14 +994,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-19T08:14:53.033830+00:00"
+    "discovered_at": "2026-11-19T17:52:24.071762+00:00"
   },
   {
     "id": "devpost:32079",
     "source": "Devpost",
     "title": "Learn AR with SPECS",
     "url": "https://learn-specs.devpost.com/",
-    "description": "Devpost hackathon. 19 days left",
+    "description": "Devpost hackathon. 18 days left",
     "organizer": "Devpost",
     "venue": "Online",
     "mode": "Online",
@@ -995,14 +1030,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-19T08:14:53.122572+00:00"
+    "discovered_at": "2026-11-19T17:52:24.147354+00:00"
   },
   {
     "id": "devpost:31808",
     "source": "Devpost",
     "title": "#BuildHybridAI 2026",
     "url": "https://firebasehybridaihackathon.devpost.com/",
-    "description": "Devpost hackathon. 12 days left",
+    "description": "Devpost hackathon. 11 days left",
     "organizer": "Google",
     "venue": "Online",
     "mode": "Online",
@@ -1031,14 +1066,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-19T08:14:53.033815+00:00"
+    "discovered_at": "2026-11-19T17:52:24.071741+00:00"
   },
   {
     "id": "devpost:32024",
     "source": "Devpost",
     "title": "Relate by Neo4j Hackathon",
     "url": "https://relate.devpost.com/",
-    "description": "Devpost hackathon. 23 days left",
+    "description": "Devpost hackathon. 22 days left",
     "organizer": "Neo4j",
     "venue": "Online",
     "mode": "Online",
@@ -1067,7 +1102,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-19T08:14:53.122580+00:00"
+    "discovered_at": "2026-11-19T17:52:24.147363+00:00"
   },
   {
     "id": "devpost:32026",
@@ -1103,7 +1138,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-19T08:14:53.033835+00:00"
+    "discovered_at": "2026-11-19T17:52:24.071769+00:00"
   },
   {
     "id": "devpost:31571",
@@ -1139,7 +1174,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-19T08:14:53.122566+00:00"
+    "discovered_at": "2026-11-19T17:52:24.147329+00:00"
   },
   {
     "id": "devpost:31886",
@@ -1175,7 +1210,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-19T08:14:53.246013+00:00"
+    "discovered_at": "2026-11-19T17:52:24.262419+00:00"
   },
   {
     "id": "hackerearth:groww-next-2026",
@@ -1211,14 +1246,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-19T08:14:54.186927+00:00"
+    "discovered_at": "2026-11-19T17:52:24.979342+00:00"
   },
   {
     "id": "devpost:31796",
     "source": "Devpost",
     "title": "SafeSpace Hacks - Judges Needed",
     "url": "https://safespace-hacks.devpost.com/",
-    "description": "Devpost hackathon. 21 days left",
+    "description": "Devpost hackathon. 20 days left",
     "organizer": "SafeSpace",
     "venue": "Online",
     "mode": "Online",
@@ -1247,14 +1282,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-19T08:14:53.122596+00:00"
+    "discovered_at": "2026-11-19T17:52:24.147395+00:00"
   },
   {
     "id": "devpost:31789",
     "source": "Devpost",
     "title": "STEM2Connect AI Hackathon",
     "url": "https://stem2connect-online-hackathon.devpost.com/",
-    "description": "Devpost hackathon. 3 days left",
+    "description": "Devpost hackathon. 2 days left",
     "organizer": "STEM2Connect",
     "venue": "Online",
     "mode": "Online",
@@ -1283,7 +1318,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-19T08:14:53.122584+00:00"
+    "discovered_at": "2026-11-19T17:52:24.147376+00:00"
   },
   {
     "id": "devpost:30789",
@@ -1319,7 +1354,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-19T08:14:53.033839+00:00"
+    "discovered_at": "2026-11-19T17:52:24.071775+00:00"
   },
   {
     "id": "devpost:26475",
@@ -1355,7 +1390,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-19T08:14:53.246010+00:00"
+    "discovered_at": "2026-11-19T17:52:24.262425+00:00"
   },
   {
     "id": "devpost:31572",
@@ -1391,14 +1426,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-19T08:14:53.033807+00:00"
+    "discovered_at": "2026-11-19T17:52:24.071729+00:00"
   },
   {
     "id": "devpost:31907",
     "source": "Devpost",
     "title": "Build Your First AI App",
     "url": "https://build-your-first-ai-app.devpost.com/",
-    "description": "Devpost hackathon. 9 days left",
+    "description": "Devpost hackathon. 8 days left",
     "organizer": "Yasir Insights",
     "venue": "Online",
     "mode": "Online",
@@ -1427,14 +1462,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-19T08:14:53.122576+00:00"
+    "discovered_at": "2026-11-19T17:52:24.147370+00:00"
   },
   {
     "id": "devpost:31667",
     "source": "Devpost",
     "title": "Kiroween 2026",
     "url": "https://kiroween.devpost.com/",
-    "description": "Devpost hackathon. 16 days left",
+    "description": "Devpost hackathon. 15 days left",
     "organizer": "Kiro",
     "venue": "Online",
     "mode": "Online",
@@ -1463,46 +1498,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-19T08:14:53.033788+00:00"
-  },
-  {
-    "id": "unstop:1807596",
-    "source": "Unstop",
-    "title": "PromptWars X AITH Kanpur ",
-    "url": "https://unstop.com/hackathons/promptwars-x-aith-dr-ambedkar-institute-of-technology-for-divyangjan-1807596",
-    "description": "REGISTRATION PROCESS Important: Participants must complete BOTH registration steps to participate in the hackathon. Step 1: Register on Unstop Complete your registration through the official Unstop event listing. Step 2: Complete Hack2Skill Registration After successfully registering on Unstop, participants must also complete their registration on Hack2Skill using the link below. Hack2Skill Registration: https://hack2skill.com/event/promptwars-x-noor-aith/registration JOIN OUR OFFICIAL WHATSAPP COMMUNITY Join our WhatsApp group to receive important announcements, updates, instructions, and event-related information. https://chat.whatsapp.com/KSkf4oegNowGvxUuw0liu9?s=cl&amp;p=a&amp;iam=2 About the Hackathon Welcome to PromptWars X AITH , a student-led innovation initiative designed to bring together creative minds, AI enthusiasts, developers, and problem-solvers. This hackathon focuses on Artificial Intelligence, Prompt Engineering, creativity, and innovation . Participants will get an opportunity to showcase their skills, experiment with AI tools, collaborate with fellow innovators, and develop innovative solutions. Event Highlights AI and Prompt Engineering challenges. Showcase your creativity and problem-solving skills. Compete with talented innovators. Opportunity to participate in an offline hackathon round at the college campus. Learn, collaborate, build, and innovate. Event Format The initial participation and evaluation process will be conducted online. Shortlisted teams will be invited to the college campus for the final offline round. Event Date 23 November 2026 Venue Dr. AITD, Kanpur, Uttar Pradesh Organised By AITD Events Community &amp; Initiative PromptWars X AITH is an initiative aimed at encouraging students to explore the possibilities of AI-powered innovation, creative problem-solving, and practical application of emerging technologies. Think. Prompt. Build. Win. Don't just imagine the future. Build it with AI!",
-    "organizer": "Dr. Ambedkar Institute of Technology for Divyangjan",
-    "venue": "offline",
-    "mode": "In-Person",
-    "city": null,
-    "state": "offline",
-    "country": null,
-    "start_date": "2026-11-12T00:00:00+05:30",
-    "end_date": "2026-11-23T17:00:00+05:30",
-    "registration_deadline": "2026-11-20T00:00:00+05:30",
-    "min_team_size": 1,
-    "max_team_size": 1,
-    "solo_allowed": true,
-    "eligibility": "Undergraduate / Postgraduate & Engineering students",
-    "prize_pool": "Prizes & Certificates",
-    "tracks": [
-      "Engineering Students",
-      "Postgraduate",
-      "Undergraduate",
-      "Management",
-      "Medical",
-      "Law",
-      "Arts, Commerce, Sciences & Others"
-    ],
-    "score": 60,
-    "matched_reasons": [
-      "👤 **Solo Eligible (1 Member)** (+35 pts)",
-      "🤖 **AI & Software Tracks** (+25 pts) [AI, Artificial Intelligence]"
-    ],
-    "is_nagpur_local": false,
-    "is_maharashtra": false,
-    "is_active": true,
-    "discovered_at": "2026-11-19T08:14:48.630506+00:00"
+    "discovered_at": "2026-11-19T17:52:24.071705+00:00"
   },
   {
     "id": "unstop:1811240",
@@ -1541,7 +1537,46 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-19T08:14:46.312857+00:00"
+    "discovered_at": "2026-11-19T17:52:19.886119+00:00"
+  },
+  {
+    "id": "unstop:1818894",
+    "source": "Unstop",
+    "title": "Anveshak: Open-World Object Detection for Remote Sensing",
+    "url": "https://unstop.com/hackathons/anveshak-open-world-object-detection-for-remote-sensing-iit-bombay-1818894",
+    "description": "About Anveshak: Open-World Object Detection for Remote Sensing is a national computer vision competition by Techfest, IIT Bombay. Earth-observation systems support disaster response, maritime and defence surveillance, urban planning, agriculture, and climate monitoring, yet three problems limit them in practice: imagery always contains unknown objects the taxonomy does not cover, new classes arrive gradually with only a few examples, and learning new categories can quietly degrade performance on old ones. Teams build one remote sensing detector that handles all three while keeping the same model throughout, trained entirely from random initialisation with no pretrained weights of any kind. Take on the challenge at Techfest, IIT Bombay, Asia's largest science and technology festival. Structure The competition has an online Round 1, an on-site Round 2, and an on-site Finale at Techfest, IIT Bombay. Eligibility: Open to all students with a valid ID from their educational institution. Cross-institutional teams are encouraged. Team size: Maximum 4 members per team. The Challenge: Design and train one remote sensing detector that learns in two rounds and keeps the same model throughout. It must detect 40 known classes in Round 1, flag unknown objects as unknown rather than forcing them into known classes, learn 10 new classes from a small number of images each without forgetting the base classes, and then learn 10 fresh classes in Round 2 while still flagging unknowns. Key constraints: Every model is trained from random initialisation, with no ImageNet, COCO, self-supervised (e.g. DINOv2), remote sensing, or other pretrained weights. Open-source detection frameworks are allowed with pretrained-weight loading switched off; open-vocabulary models are not permitted as the detector. The model must remain one lineage: train on Set A, continue on Set B, then continue into Round 2, with the same architecture and no retraining from scratch or replacement. Round 1 - Online Teams receive Dataset A, Dataset B, unlabelled Round 1 test images, the class list, and a validator script. They train on Dataset A first, then continue on Dataset B with the same model; training images may contain unlabelled objects of unknown classes. Teams submit one Google Drive folder containing a predictions CSV for the Round 1 test images, the Round 1 checkpoint (weights after Set A then Set B), training and inference code with a README, and a 5-7 slide methodology PPT (problem understanding, methodology, first implementation, Round 2 plan, and team roles). Screening is on the OE-Score, computed on the full Round 1 test set, plus checkpoint reproduction: organisers re-run the checkpoint on the Round 1 test images and its predictions must match the submitted CSV within tolerance. The PPT is also checked for completeness. Round 2 - On-site, 16th December 2026 Held at Techfest, IIT Bombay. The Round 2 dataset and unlabelled test images are released at the start of the Round 2 window. Teams learn 10 fresh classes from a small number of images, starting from their verified Round 1 checkpoint (no other starting weights are permitted), without forgetting earlier classes and while still flagging unknowns. Round 2 training images may contain unlabelled objects of base, few-shot, and unknown classes. Teams train on the Round 2 dataset plus data released in earlier rounds only. The window closes at a fixed time to be announced on the day; teams may submit at any point within the window. The deliverable is a predictions CSV for the Round 2 test images. Outcome: shortlisting for the Finale. Finale - On-site, 17th December 2026 Organisers re-run inference for each shortlisted team on the Round 2 test images. Shortlisted teams submit code, weights, and a two-page technical note, present their approach to the panel, and answer questions. Outcome: final ranking. Scoring Primary score is the OE-Score = 100 x 2 x mAP_K x U-F1 / (mAP_K + U-F1), built from known-class detection (mAP_K) and unknown-object handling (U-F1, the harmonic mean of unknown recall and precision). All matching uses IoU 0.5. Ranking is by OE-Score on the full test set; tie-breaks in both rounds are higher mAP_K, then higher U-F1, then earlier submission time. Timeline Registration closes - 30th November 2026, 11:59 PM Round 1 submission deadline - 30th November 2026, 11:59 PM Round 1 results announcement - 3rd December 2026 Round 2 (On-site) - 16th December 2026 Finale (On-site) - 17th December 2026 Rewards and Prizes INR 1,50,000 for the top 3 winners. Certificates for all participants who qualify for Round 2",
+    "organizer": "Indian Institute of Technology (IIT), Bombay",
+    "venue": "offline",
+    "mode": "In-Person",
+    "city": null,
+    "state": "offline",
+    "country": null,
+    "start_date": "2026-11-19T00:00:00+05:30",
+    "end_date": "2026-11-30T00:01:00+05:30",
+    "registration_deadline": "2026-11-30T00:01:00+05:30",
+    "min_team_size": 1,
+    "max_team_size": 4,
+    "solo_allowed": true,
+    "eligibility": "Undergraduate / Postgraduate & Engineering students",
+    "prize_pool": "Prizes & Certificates",
+    "tracks": [
+      "Engineering Students",
+      "Postgraduate",
+      "Undergraduate",
+      "Management",
+      "Medical",
+      "Law",
+      "Arts, Commerce, Sciences & Others"
+    ],
+    "score": 60,
+    "matched_reasons": [
+      "👤 **Solo Eligible (1 Member)** (+35 pts)",
+      "🤖 **AI & Software Tracks** (+25 pts) [Computer Vision]"
+    ],
+    "is_nagpur_local": false,
+    "is_maharashtra": false,
+    "is_active": true,
+    "discovered_at": "2026-11-19T17:52:17.957267+00:00"
   },
   {
     "id": "unstop:1781454",
@@ -1580,7 +1615,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-19T08:14:48.630778+00:00"
+    "discovered_at": "2026-11-19T17:52:19.887363+00:00"
   },
   {
     "id": "unstop:1817389",
@@ -1619,7 +1654,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-19T08:14:46.311777+00:00"
+    "discovered_at": "2026-11-19T17:52:17.960605+00:00"
   },
   {
     "id": "unstop:1770707",
@@ -1655,7 +1690,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-19T08:14:46.311359+00:00"
+    "discovered_at": "2026-11-19T17:52:17.958446+00:00"
   },
   {
     "id": "devpost:31746",
@@ -1690,7 +1725,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-19T08:14:53.245997+00:00"
+    "discovered_at": "2026-11-19T17:52:24.262406+00:00"
   },
   {
     "id": "unstop:1811085",
@@ -1723,7 +1758,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-19T08:14:46.312898+00:00"
+    "discovered_at": "2026-11-19T17:52:19.886193+00:00"
   },
   {
     "id": "devpost:31108",
@@ -1758,14 +1793,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-19T08:14:53.246006+00:00"
+    "discovered_at": "2026-11-19T17:52:24.262413+00:00"
   },
   {
     "id": "devpost:31644",
     "source": "Devpost",
     "title": "Reddit’s Game of the Day Hackathon",
     "url": "https://redditgameofday2026.devpost.com/",
-    "description": "Devpost hackathon. 20 days left",
+    "description": "Devpost hackathon. 19 days left",
     "organizer": "reddit",
     "venue": "Online",
     "mode": "Online",
@@ -1792,14 +1827,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-19T08:14:53.033826+00:00"
+    "discovered_at": "2026-11-19T17:52:24.071756+00:00"
   },
   {
     "id": "devpost:31773",
     "source": "Devpost",
     "title": "LaunchPad Hacks (580k In Prizes!)",
     "url": "https://launchpad-hacks.devpost.com/",
-    "description": "Devpost hackathon. 16 days left",
+    "description": "Devpost hackathon. 15 days left",
     "organizer": "Hack4TodayOrg",
     "venue": "Online",
     "mode": "Online",
@@ -1826,7 +1861,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-19T08:14:53.122588+00:00"
+    "discovered_at": "2026-11-19T17:52:24.147382+00:00"
   },
   {
     "id": "devpost:31795",
@@ -1861,14 +1896,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-19T08:14:53.246018+00:00"
+    "discovered_at": "2026-11-19T17:52:24.262432+00:00"
   },
   {
     "id": "devpost:31797",
     "source": "Devpost",
     "title": "Green Shift Hacks",
     "url": "https://green-shift-hacks.devpost.com/",
-    "description": "Devpost hackathon. 22 days left",
+    "description": "Devpost hackathon. 21 days left",
     "organizer": "HackathonForEveryone",
     "venue": "Online",
     "mode": "Online",
@@ -1895,7 +1930,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-19T08:14:53.246021+00:00"
+    "discovered_at": "2026-11-19T17:52:24.262444+00:00"
   },
   {
     "id": "unstop:1798287",
@@ -1928,7 +1963,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-19T08:14:46.313140+00:00"
+    "discovered_at": "2026-11-19T17:52:19.886621+00:00"
   },
   {
     "id": "unstop:1814263",
@@ -1969,7 +2004,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-19T08:14:46.312134+00:00"
+    "discovered_at": "2026-11-19T17:52:17.960693+00:00"
   },
   {
     "id": "unstop:1810268",
@@ -2003,7 +2038,46 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-19T08:14:46.313004+00:00"
+    "discovered_at": "2026-11-19T17:52:19.886371+00:00"
+  },
+  {
+    "id": "unstop:1806016",
+    "source": "Unstop",
+    "title": "Incursion 2027 24-Hour National Level Hackathon",
+    "url": "https://unstop.com/hackathons/incursion-2027-24-hour-national-level-hackathon-dr-dy-patil-institute-of-technology-1806016",
+    "description": "INCURSION 2027 | 24-Hour National Level Hackathon in India INCURSION 2027 is a FREE-TO-REGISTER National Level Hackathon organized by Dr. D. Y. Patil Institute of Technology, Pimpri, Pune. Bring your ideas to life, collaborate with innovators from across India and build technology-driven solutions to real-world challenges. INCURSION 2027 is a 24-hour national-level student hackathon featuring multiple online selection rounds and an offline Grand Finale on 30&ndash;31 January 2027 at Dr. D. Y. Patil Institute of Technology, Pimpri, Pune. Open to students from all academic domains, engineering branches and technical specializations, the hackathon encourages interdisciplinary collaboration across Artificial Intelligence, Machine Learning, Software Development, Cybersecurity, Cloud Computing, Electronics, Robotics, IoT and other emerging technologies. With a prize pool worth ₹2,00,000, INCURSION 2027 provides a platform to demonstrate technical expertise, creativity, innovation and practical problem-solving skills. EVENT HIGHLIGHTS Event: INCURSION 2027 Type: National Level 24-Hour Hackathon Organizer: Dr. D. Y. Patil Institute of Technology, Pune Registration: FREE for preliminary rounds Team Size: 2&ndash;4 Members Eligibility: Undergraduate and postgraduate students across academic domains Cross-Domain Participation: Allowed Competition Mode: Online Selection Rounds + Offline Grand Finale Finalists: Top 50 Teams Finalist Confirmation Fee: ₹899 per team Prize Pool: ₹2,00,000 Grand Finale: 30&ndash;31 January 2027 Venue: DIT Pimpri, Pune, Maharashtra, India IMPORTANT: FREE REGISTRATION &amp; PARTICIPATION Registration and participation in all preliminary online rounds are completely FREE! There is absolutely no registration or participation fee for Round 0, Round 1, Round 2, Round 3 or Round 4. Competition Stage Participation Fee Round 0: Registration &amp; Team Formation FREE Round 1: PPT Submission FREE Round 2: Online PPT Evaluation FREE Round 3: Working Prototype Submission FREE Round 4: Online Prototype Evaluation FREE Round 5: Offline Grand Finale ₹899 per shortlisted team ONLY THE TOP 50 SHORTLISTED TEAMS WILL BE REQUIRED TO PAY ₹899 PER TEAM to confirm their participation in the offline Grand Finale. No payment is required during initial registration. No payment is required for preliminary online rounds. The ₹899 fee is charged per team, not per participant. Payment instructions will be shared directly with shortlisted team leaders. Final participation is subject to successful confirmation and verification. Register for FREE. Compete through the online rounds. Earn your place among the Top 50 finalists! ABOUT INCURSION 2027 INCURSION 2027 is a national-level 24-hour hackathon designed to bring together students, developers, programmers, engineers, designers, researchers and innovators from diverse academic backgrounds. The competition focuses on identifying real-world problems and developing practical, scalable and innovative solutions using technology. Through a structured multi-round competition, participating teams will progress from idea presentations to technical evaluations and working prototype demonstrations. The hackathon encourages domain-specific and interdisciplinary approaches, allowing participants to combine different areas of knowledge and develop impactful solutions. The Top 50 shortlisted teams will qualify for the offline Grand Finale at DIT Pimpri, Pune. ELIGIBILITY &amp; CROSS-DOMAIN PARTICIPATION INCURSION 2027 welcomes students from ALL academic disciplines, educational backgrounds and technical specializations. The hackathon is not restricted to Computer Science or Information Technology students. Eligible academic domains include: 1. Computer Science &amp; Computing Computer Science and Engineering (CSE) Information Technology (IT) Computer Engineering Software Engineering Artificial Intelligence and Machine Learning Artificial Intelligence and Data Science Data Science and Big Data Analytics Cybersecurity and Information Security Cloud Computing Computer Networks 2. Core Engineering &amp; Technology Electronics and Communication Engineering (ECE) Electrical Engineering Electrical and Electronics Engineering (EEE) Mechanical Engineering Civil Engineering Instrumentation Engineering Robotics and Automation Mechatronics Engineering Internet of Things (IoT) Other engineering and technology specializations 3. Management &amp; Business Business Administration Management Studies Finance Marketing Entrepreneurship Business Analytics 4. Other Academic Domains Science and Mathematics Physics and Chemistry Life Sciences Commerce and Economics Arts and Humanities Design and User Experience Law Medical and Allied Disciplines Other undergraduate and postgraduate disciplines CROSS-DOMAIN AND INTERDISCIPLINARY TEAMS ARE ALLOWED! Students from different academic branches, departments, colleges, universities and specializations can collaborate in one team, subject to the team-size requirements. Examples of interdisciplinary teams: Computer Science + Electronics AI &amp; Data Science + Mechanical Engineering Cybersecurity + Management Civil Engineering + IoT Design + Software Development Medical or Life Sciences + Artificial Intelligence Your academic branch does not limit your opportunity to participate. Your ideas, innovation, implementation and problem-solving approach matter. TEAM FORMATION GUIDELINES Minimum Team Size: 2 Members Maximum Team Size: 4 Members Cross-domain teams are allowed. Inter-college and interdisciplinary collaboration is welcome. Each team must designate one Team Leader. Every participant must complete the required Unstop registration. Each participant can belong to only one registered team. Teams must provide accurate participant and institutional information. HACKATHON TRACKS &amp; TECHNOLOGY AREAS INCURSION 2027 features five dedicated tracks covering emerging technologies, real-world challenges and open innovation. 1. ROGUE PROTOCOL: AI &amp; AGENTIC AI Explore the possibilities of Artificial Intelligence and autonomous systems. Suggested areas: Artificial Intelligence and Machine Learning Generative AI Agentic AI and AI Agents Natural Language Processing Computer Vision Intelligent Automation AI-powered applications 2. FIREWALL ZERO: CYBERSECURITY &amp; FINTECH Develop secure, intelligent and innovative solutions for digital security and financial technology. Suggested areas: Cybersecurity Information Security Threat Detection Fraud Detection Financial Technology Secure Digital Transactions Privacy and Data Protection 3. FINAL HOUR: OPEN INNOVATION Build innovative solutions addressing real-world problems across any suitable technology domain. Suggested areas: Software Development Web and Mobile Applications Cloud Computing Data Science Automation Emerging Technologies Interdisciplinary Innovation 4. GLASS WALL: GOVTECH Use technology to improve governance, public services and civic infrastructure. Suggested areas: Digital Governance Public Service Technology Civic Innovation E-Governance Government Process Automation Digital Infrastructure Public Welfare Solutions 5. SURVIVAL CITY: SMART CITIES Develop intelligent solutions for sustainable, connected and efficient urban environments. Suggested areas: Internet of Things Smart Infrastructure Robotics and Automation Sustainable Technology Urban Mobility Environmental Monitoring Connected Systems Participants should select the track that best matches their proposed solution. COMPETITION STRUCTURE &amp; SELECTION PROCESS INCURSION 2027 follows a six-stage competition structure. All preliminary selection rounds are conducted online. ROUND 0: REGISTRATION &amp; TEAM FORMATION PARTICIPATION FEE: FREE Register through the official Unstop opportunity page, form a team of 2&ndash;4 members and complete the required participant details. Registration Period: 11 November &ndash; 5 December 2026. Registration Guidelines: Register through Unstop. Add all team members to the same team. Designate one Team Leader. Complete all mandatory profile details. Finalize team formation before the deadline. ROUND 1: PPT SUBMISSION PARTICIPATION FEE: FREE Registered teams must submit a PowerPoint presentation outlining their proposed solution to a real-world problem. Expected PPT contents: Problem statement and understanding Proposed solution and key features Proposed system architecture Technology stack Implementation approach Potential impact and feasibility Submission Guidelines: Submit your presentation in PPT or PDF format. Ensure the presentation is clear and well-structured. Only one submission per team is required. Submit before the deadline. Submission Period: 6&ndash;12 December 2026. ROUND 2: ONLINE PPT EVALUATION &amp; EXPERT REVIEW PARTICIPATION FEE: FREE All submitted presentations will be evaluated online by a panel of industry professionals and faculty members. Evaluation Criteria: Problem understanding and clarity Innovation and originality Technical approach and architecture Feasibility and execution plan Real-world impact and scalability Promising teams will be shortlisted for the Working Prototype Submission Round. Evaluation Period: 13&ndash;19 December 2026. ROUND 3: WORKING PROTOTYPE SUBMISSION PARTICIPATION FEE: FREE Shortlisted teams must demonstrate their proposed solutions through a working prototype. Required Submissions: Demo Video: A 3&ndash;5 minute video showcasing the working prototype and key functionalities. GitHub Repository: An accessible repository containing the source code and README documentation with setup instructions. Project Details: Project description, technologies used and implemented features. Live Demo: Deployment link, if available. Guidelines: Ensure all submission links are accessible. Demonstrate the actual working implementation. Provide complete and accurate information. Submit all materials before the deadline. Submission Deadline: 25 December 2026, 10:00 PM IST. ROUND 4: ONLINE PROTOTYPE EVALUATION &amp; TECHNICAL ASSESSMENT PARTICIPATION FEE: FREE Submitted prototypes and GitHub repositories will undergo an in-depth technical assessment by the evaluation panel. Evaluation Criteria: Working prototype and functionality Technical implementation and code quality Innovation and originality System architecture and scalability Feasibility and problem relevance Based on the evaluation, the Top 50 performing teams will be shortlisted for the INCURSION 2027 Grand Finale. Evaluation Period: 25 December 2026 &ndash; 5 January 2027. Top 50 Finalist Announcement: 6 January 2027. ROUND 5: GRAND FINALE &ndash; 24-HOUR NATIONAL HACKATHON FINALIST CONFIRMATION FEE: ₹899 PER TEAM The Top 50 shortlisted teams will compete in the offline 24-hour Grand Finale at Dr. D. Y. Patil Institute of Technology, Pimpri, Pune. Mode: Offline Duration: 24 Hours Dates: 30&ndash;31 January 2027 Venue: Dr. D. Y. Patil Institute of Technology, Pimpri, Pune Selected teams will collaborate, develop their solutions and demonstrate their technical capabilities through an intensive hackathon experience. Participation is restricted to officially selected finalist teams that complete the confirmation process. FINALIST CONFIRMATION FEE The ₹899 finalist confirmation fee applies exclusively to the Top 50 shortlisted teams. ₹899 per team, not per participant. No payment during initial registration. No payment for Rounds 0&ndash;4. Payment instructions will be shared with shortlisted Team Leaders. Final participation is subject to payment and verification within the communicated deadline. IMPORTANT DATES &amp; TIMELINE All dates and times are in Indian Standard Time (IST). Competition Milestone Start Date &amp; Time (IST) End Date &amp; Time (IST) Round 0: Registration &amp; Team Formation 11 November 2026, 10:00 PM 5 December 2026, 10:00 PM Round 1: PPT Submission 6 December 2026, 10:00 PM 12 December 2026, 10:00 PM Round 2: Online PPT Evaluation 13 December 2026, 10:00 PM 19 December 2026, 10:00 PM Round 3: Working Prototype Submission 20 December 2026, 10:00 PM 25 December 2026, 10:00 PM Round 4: Online Prototype Evaluation 25 December 2026, 10:00 PM 5 January 2027, 10:00 PM Top 50 Finalist Announcement 6 January 2027 6 January 2027 Round 5: Grand Finale 30 January 2027, 9:00 AM 31 January 2027, 9:00 AM All preliminary rounds are free. Only the Top 50 shortlisted teams pay ₹899 per team to confirm their offline Grand Finale participation. PRIZES &amp; REWARDS TOTAL PRIZE POOL: ₹2,00,000 INCURSION 2027 recognizes outstanding innovation, technical implementation, creativity and real-world impact. OVERALL WINNER: ₹1,00,000 Awarded to the team demonstrating the best overall solution, execution, impact and demonstration. 1ST RUNNER-UP: ₹50,000 Awarded to the second-best overall project. 2ND RUNNER-UP: ₹25,000 Awarded to the third-best overall project. TRACK-WISE AWARDS Best Rogue Protocol: ₹5,000 &ndash; AI &amp; Agentic Systems track excellence. Best Firewall Zero: ₹5,000 &ndash; Cybersecurity &amp; FinTech track excellence. Best Glass Wall: ₹5,000 &ndash; GovTech track excellence. Best Survival City: ₹5,000 &ndash; Smart Cities track excellence. Best Final Hour: ₹5,000 &ndash; Open Innovation, with additional emphasis on solving important real-world problems. ADDITIONAL RECOGNITION Participation Certificate Recognition for outstanding projects Opportunity to showcase solutions at a national-level hackathon All prizes and certificates will be released within 30 days after the event is over. GRAND FINALE VENUE Dr. D. Y. Patil Institute of Technology, Pimpri, Pune. Address: Sant Tukaram Nagar, Pimpri, Pune &ndash; 411018, Maharashtra, India. Dates: 30&ndash;31 January 2027 Duration: 24 Hours Mode: Offline Finalists: Top 50 Teams RULES &amp; GUIDELINES Each team must consist of 2&ndash;4 registered members. Students from different academic domains, branches and institutions may form a team, subject to official registration requirements. Every participant must complete the required registration process. Teams must follow official submission instructions and deadlines. PPT submissions must explain the problem, proposed solution and technical approach. Prototype submissions must include a demonstration video and accessible GitHub repository. Teams must provide accurate participant and institutional information. Only officially shortlisted teams qualify for the Grand Finale. The ₹899 finalist confirmation fee applies only to the Top 50 shortlisted teams. Finalists must attend the offline Grand Finale at DIT Pimpri, Pune. All participants must follow the organizing committee's official instructions and code of conduct. OFFICIAL WEBSITE &amp; COMMUNITY Official Website: https://incursion.tech Discord Community: https://discord.com/invite/QYQZBEmgQ WhatsApp Community: https://chat.whatsapp.com/Ft9BS6SI4ar5cyiev5muGh Join the official communities to receive: Hackathon announcements Round-wise submission reminders Important deadlines and updates Clarifications and participant support Finalist and Grand Finale information FREQUENTLY ASKED QUESTIONS 1. Is INCURSION 2027 free to register? Yes. Registration and participation in all preliminary online rounds are completely free. 2. Can students from non-Computer Science branches participate? Yes. Students from all eligible academic domains and engineering branches are welcome. 3. Are cross-domain teams allowed? Yes. Students from different branches, departments and academic specializations can form a team. 4. Can students from different colleges participate together? Teams may include students from different institutions, subject to the official registration and eligibility requirements. 5. What is the team size? Each team must have a minimum of 2 and a maximum of 4 members. 6. Is ₹899 required during registration? No. Under the stated fee policy, only the Top 50 shortlisted teams pay ₹899 per team to confirm their offline Grand Finale participation. 7. Is the hackathon online or offline? The preliminary selection rounds are online. The Grand Finale is offline at DIT Pimpri, Pune. 8. How many teams will qualify for the Grand Finale? The Top 50 performing teams will be shortlisted. 9. When will the finalists be announced? 6 January 2027. 10. When and where is the Grand Finale? 30&ndash;31 January 2027 at Dr. D. Y. Patil Institute of Technology, Pimpri, Pune. 11. What is the total prize pool? The total advertised prize pool is ₹2,00,000. 12. Will participants receive certificates? Participation certificates are included as part of the event recognition. REGISTER FOR INCURSION 2027 Whether you are a Computer Science student, an AI enthusiast, a core engineering student, a designer, a researcher, a management student or an innovator from another academic domain, INCURSION 2027 welcomes your ideas. Build across domains. Collaborate across disciplines. Solve real-world problems. Compete at the national level. Register for FREE and earn your place among the Top 50 finalist teams! Official Unstop Registration: https://unstop.com/hackathons/incursion-2027-24-hour-national-level-hackathon-dr-dy-patil-institute-of-technology-1806016 Official Website: https://incursion.tech INCURSION 2027 &ndash; TIME RUNS OUT.",
+    "organizer": "Dr. DY Patil Institute of Technology",
+    "venue": "hybrid",
+    "mode": "In-Person",
+    "city": null,
+    "state": "hybrid",
+    "country": null,
+    "start_date": "2026-11-11T22:00:00+05:30",
+    "end_date": "2027-01-31T09:00:04+05:30",
+    "registration_deadline": "2026-12-05T22:00:36+05:30",
+    "min_team_size": 2,
+    "max_team_size": 4,
+    "solo_allowed": false,
+    "eligibility": "Undergraduate / Postgraduate & Engineering students",
+    "prize_pool": "Prizes & Certificates",
+    "tracks": [
+      "Engineering Students",
+      "Postgraduate",
+      "Undergraduate",
+      "Management",
+      "Medical",
+      "Law",
+      "Arts, Commerce, Sciences & Others"
+    ],
+    "score": 40,
+    "matched_reasons": [
+      "🌐 **Accessible In-Person Mode** (+15 pts)",
+      "🤖 **AI & Software Tracks** (+25 pts) [AI, Artificial Intelligence, Machine Learning]"
+    ],
+    "is_nagpur_local": false,
+    "is_maharashtra": false,
+    "is_active": true,
+    "discovered_at": "2026-11-19T17:52:17.959457+00:00"
   },
   {
     "id": "unstop:1810370",
@@ -2036,7 +2110,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-19T08:14:46.312326+00:00"
+    "discovered_at": "2026-11-19T17:52:17.960966+00:00"
   },
   {
     "id": "unstop:1809486",
@@ -2069,6 +2143,6 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-19T08:14:48.630111+00:00"
+    "discovered_at": "2026-11-19T17:52:19.886763+00:00"
   }
 ]

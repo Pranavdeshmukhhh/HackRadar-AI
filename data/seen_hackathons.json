@@ -3418,5 +3418,14 @@
     "last_notified": "2026-11-18T18:32:21.111907+00:00",
     "is_nagpur_local": false,
     "solo_allowed": true
+  },
+  "devpost:31886": {
+    "title": "Build with AI - Pico Space Program",
+    "url": "https://pico-space-program.devpost.com/",
+    "score": 75,
+    "source": "Devpost",
+    "last_notified": "2026-11-19T00:53:02.814594+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
   }
 }

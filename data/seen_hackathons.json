@@ -3427,5 +3427,41 @@
     "last_notified": "2026-11-19T00:53:02.814594+00:00",
     "is_nagpur_local": false,
     "solo_allowed": true
+  },
+  "unstop:1818490": {
+    "title": "Prompt War & Syntax Squad ",
+    "url": "https://unstop.com/hackathons/prompt-war-syntax-squad-padmabhooshan-vasantdada-patil-institute-of-technology-pvpit-pune-1818490",
+    "score": 75,
+    "source": "Unstop",
+    "last_notified": "2026-11-19T08:15:02.416548+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:1782995": {
+    "title": "CPP - Competitive Programming Potpourri",
+    "url": "https://unstop.com/hackathons/cpp-competitive-programming-potpourri-shaastra-2027-iit-madras-1782995",
+    "score": 75,
+    "source": "Unstop",
+    "last_notified": "2026-11-19T08:15:02.416548+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:1817757": {
+    "title": "Nurn 2026 – National Innovation & Technology Challenge",
+    "url": "https://unstop.com/hackathons/nurn-2026-national-innovation-technology-challenge-pranveer-singh-institute-of-technology-psit-kanpur-1817757",
+    "score": 75,
+    "source": "Unstop",
+    "last_notified": "2026-11-19T08:15:02.416548+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:1770707": {
+    "title": "Skill Hackathon 2027",
+    "url": "https://unstop.com/hackathons/skill-hackathon-2027-symbiosis-skill-hackathon-20-ssh-2027-symbiosis-university-of-applied-sciences-suas-indo-1770707",
+    "score": 60,
+    "source": "Unstop",
+    "last_notified": "2026-11-19T08:15:02.416548+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
   }
 }

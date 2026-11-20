@@ -3553,5 +3553,14 @@
     "last_notified": "2026-11-20T07:56:13.710978+00:00",
     "is_nagpur_local": false,
     "solo_allowed": true
+  },
+  "devpost:31682": {
+    "title": "CSC Winter Sparkathon",
+    "url": "https://csc-winter-sparkathon.devpost.com/",
+    "score": 50,
+    "source": "Devpost",
+    "last_notified": "2026-11-20T22:53:46.196066+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
   }
 }

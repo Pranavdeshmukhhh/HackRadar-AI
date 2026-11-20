@@ -33,7 +33,7 @@
     "is_nagpur_local": true,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-19T17:52:28.247341+00:00"
+    "discovered_at": "2026-11-20T00:05:34.584121+00:00"
   },
   {
     "id": "unstop:1819296",
@@ -49,7 +49,7 @@
     "country": null,
     "start_date": "2026-11-19T00:00:00+05:30",
     "end_date": "2026-12-18T23:59:00+05:30",
-    "registration_deadline": "2026-11-19T23:59:00+05:30",
+    "registration_deadline": "2026-11-20T23:59:41+05:30",
     "min_team_size": 1,
     "max_team_size": 5,
     "solo_allowed": true,
@@ -75,7 +75,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": true,
     "is_active": true,
-    "discovered_at": "2026-11-19T17:52:17.956818+00:00"
+    "discovered_at": "2026-11-20T00:05:24.221127+00:00"
   },
   {
     "id": "college:mindsparkorg",
@@ -111,47 +111,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": true,
     "is_active": true,
-    "discovered_at": "2026-11-19T17:52:26.394491+00:00"
-  },
-  {
-    "id": "unstop:1818980",
-    "source": "Unstop",
-    "title": "INNOVATE X",
-    "url": "https://unstop.com/hackathons/innovate-x-poornima-institute-of-engineering-technology-piet-jaipur-1818980",
-    "description": "Innovate X &ndash; 2-Day Online Innovation &amp; Coding Challenge About the Competition Innovate X is a two-day online innovation and coding challenge organized by The Cyborgs Club, PIET College, in collaboration with Unstop, on 19th and 20th November 2026. The competition aims to encourage students to transform their innovative ideas into functional software solutions. Participants will get an opportunity to showcase their creativity, technical skills, problem-solving abilities, and innovation by building a working application, website, or software prototype within 48 hours. Eligibility Criteria Open to college students from any year and any specialization/branch. Participation is strictly individual (solo participation only). Team participation is not allowed. Students from other colleges are eligible to participate. Inter-college teams are not allowed since the competition follows an individual participation format. Inter-specialization collaboration is not applicable. Competition Format The competition will be conducted entirely online over two days. Day 1 &ndash; 19th November 2026: Idea &amp; Development Phase Participants must register individually on Unstop. During registration, participants must submit their project idea and project title. Participants will start developing their solutions using their preferred programming languages, frameworks, development tools, or AI coding agents. Participants are free to choose any suitable technology stack. Day 2 &ndash; 20th November 2026: Development &amp; Submission Phase Participants will continue developing and improving their projects. A final submission link will be shared on 20th November. Participants must submit the link to their public GitHub repository containing the complete source code. The repository must be accessible to the evaluation team. Problem Statements / Questions There will be no fixed problem statements or predefined questions. Participants are free to identify a real-world problem and develop an innovative software solution. Projects may belong to domains such as Web Development, App Development, Artificial Intelligence, Machine Learning, Automation, Productivity, Education, Healthcare, Sustainability, or any other relevant domain. Originality, usefulness, creativity, and implementation will be encouraged. Duration Total competition duration: 2 days (approximately 48 hours). Start Date: 19th November 2026. End Date: 20th November 2026. Registration, development, and final submission will take place online through Unstop and the designated submission link. Submission Guidelines Participation must be individual. Each participant must submit only one project. Participants must create a public GitHub repository for their project. The repository must contain the source code and relevant project files. A README file explaining the project, its features, and instructions to run it is recommended. Participants are encouraged to provide a live demo link or deployment link, if available. Only projects submitted through the official submission link within the deadline will be considered for evaluation. Late submissions may not be accepted. Rules &amp; Regulations Participants must register individually through Unstop. Each participant is allowed to submit only one project. Projects must be developed during the competition period. Participants can use any programming language, framework, library, IDE, or development platform. The use of AI coding agents and AI-powered development tools is permitted. Participants must ensure that their submitted projects are original and must not plagiarize existing projects. Pre-built templates, libraries, and open-source resources may be used, but participants should clearly mention significant third-party resources used. The submitted GitHub repository must be public and accessible. Participants must not submit malicious software, harmful applications, or inappropriate content. Any attempt to manipulate the evaluation process or submit copied work may lead to disqualification. The decision of the evaluation panel will be final and binding. Evaluation Criteria Projects will be evaluated based on the following criteria: Innovation &amp; Originality: Uniqueness and creativity of the idea. Functionality: How effectively the developed solution works. Problem-Solving: Relevance and effectiveness in addressing the identified problem. User Interface &amp; Experience: Design, usability, and accessibility. Technical Implementation: Code quality, technology usage, and implementation. Presentation: Clarity of the project description and demonstration. Results &amp; Recognition The submitted projects will be evaluated and ranked by the evaluation panel. The top three performers (1st, 2nd, and 3rd place) will receive official certificates through Unstop. The results will be announced through the official event communication channels. Important Note Innovate X is an individual online competition focused on creativity, innovation, and practical software development. Participants are encouraged to think beyond conventional solutions and build something meaningful within the given timeframe. Organized by: The Cyborgs Club, PIET College. In Collaboration With: Unstop. Event Dates: 19th&ndash;20th November 2026. Mode: Online. Participation: Individual (Solo). &nbsp;",
-    "organizer": "Poornima Institute of Engineering & Technology (PIET), Jaipur",
-    "venue": "Online",
-    "mode": "Online",
-    "city": null,
-    "state": "online",
-    "country": null,
-    "start_date": "2026-11-19T13:00:00+05:30",
-    "end_date": "2026-11-20T00:00:00+05:30",
-    "registration_deadline": "2026-11-20T00:00:00+05:30",
-    "min_team_size": 1,
-    "max_team_size": 1,
-    "solo_allowed": true,
-    "eligibility": "Undergraduate / Postgraduate & Engineering students",
-    "prize_pool": "Prizes & Certificates",
-    "tracks": [
-      "Engineering Students",
-      "Postgraduate",
-      "Undergraduate",
-      "Management",
-      "Medical",
-      "Law",
-      "Arts, Commerce, Sciences & Others"
-    ],
-    "score": 75,
-    "matched_reasons": [
-      "🌐 **Accessible Online Mode** (+15 pts)",
-      "👤 **Solo Eligible (1 Member)** (+35 pts)",
-      "🤖 **AI & Software Tracks** (+25 pts) [AI, Artificial Intelligence, Machine Learning]"
-    ],
-    "is_nagpur_local": false,
-    "is_maharashtra": false,
-    "is_active": true,
-    "discovered_at": "2026-11-19T17:52:17.957067+00:00"
+    "discovered_at": "2026-11-20T00:05:32.241979+00:00"
   },
   {
     "id": "unstop:1817798",
@@ -189,23 +149,23 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-19T17:52:17.960163+00:00"
+    "discovered_at": "2026-11-20T00:05:24.222901+00:00"
   },
   {
-    "id": "unstop:1805107",
+    "id": "unstop:1817686",
     "source": "Unstop",
-    "title": "Bad Ideas Only",
-    "url": "https://unstop.com/hackathons/bad-ideas-only-hoollow-1805107",
-    "description": "About the Opportunity Tired of trying to build the next unicorn startup? Good. Welcome to Bad Ideas Only , hosted by Hoollow. This is a satirical, 100% online pitch competition where your only goal is to invent the absolute worst, most over-engineered, and utterly useless tech product possible. We don't want real solutions; we want chaotic system architectures, terrible business models, and AI-generated mockups for a problem that doesn't exist. No manual coding is required. Bring your best prompt engineering skills, generate a hilarious pitch deck, and sell your terrible idea to our panel of \"investors\" with absolute, deadpan confidence. &nbsp; Join Whatsapp Community:&nbsp; https://chat.whatsapp.com/COlNXWGsUNi7fervSHTgrC &nbsp; Stages and Timelines Round 1: The Pitch Deck Submission (Online) Brainstorm your useless tech product with your team. Generate your absurd business plan. Submit your idea as a presentation through the Unstop portal. Round 2: The \"Shark Tank\" Showdown (Live Pitch &amp; Q&amp;A) The Top 10 shortlisted teams from Round 1 will be invited to our live online stage (via Zoom/Google Meet). You will pitch your terrible startup live, followed by a hilarious and ruthless cross-questioning Q&amp;A session from our panel and the live audience. Rule: You must maintain character and defend your chaotic tech stack as if it is a brilliant billion-dollar idea. The Final Result From the Top 10 live pitches, the judges will crown the Top 3 ultimate winners based on the absurdity of the architecture, the humor of the pitch, and the creative use of AI. Rules &amp; Guidelines Team Size: 1 to 4 members. Zero Coding Required: This is an ideation and presentation event. You only need to build the pitch deck. Prizes &amp; Perks Top 3 Winners: Will Announced Soon.... Guaranteed Certification: A verified Participation Certificate will be provided to all participants who successfully submit a deck in Round 1.",
-    "organizer": "Hoollow",
+    "title": "MyOnne National Bug Bounty Challenge 2026",
+    "url": "https://unstop.com/hackathons/myonne-national-bug-bounty-challenge-2026-myonne-amora-private-limited-1817686",
+    "description": "MyOnne National Bug Bounty Challenge 2026 48 Hours. One Mission. Find What We Missed. MyOnne is opening its application to India's security research community. We invite independent security researchers, ethical hackers, penetration testers, application security professionals and cybersecurity students from across India to participate in the MyOnne National Bug Bounty Challenge 2026 . A 48-hour, nationwide online security research competition where participants will test the MyOnne application in an authorised testing environment, identify security vulnerabilities and responsibly report their findings. Some vulnerabilities are worth discovering. Some discoveries deserve a bounty. Event at A Glance Event: MyOnne National Bug Bounty Challenge 2026 Total Bounty Pool: ₹3,00,000* Duration: 48 Hours Challenge Begins: thursday, 26 November 2026, 5:30 Pm Ist Submissions Close: saturday, 28 November 2026, 5:30 Pm Ist Format: fully Online &ndash; India-Wide Participation: individual or Teams of 1&ndash;4 Members Organiser: My Onne Amora Private Limited Competition Platform &amp; Execution The My Onne National Bug Bounty Challenge 2026 Will Be Conducted Entirely Online Through My Onne's Security Research Platform , Which Is Developed and operated by My Onne Amora Private Limited. The Competition Will Use My Onne's Dedicated Security Research Infrastructure for Authorised Application Testing and Vulnerability Reporting. The Platform Consists Of: Testing Environment: My Onne Security Research Platform, Providing Registered and Eligible Participants Access to the designated testing application, researcher credentials, and Android Ap Ks. Vulnerability Reporting: Participants must submit all vulnerability reports, supporting evidence, and research findings through the Designated My Onne Security Research Platform. Researcher Access: Testing Access and Application Packages Will Be Distributed Exclusively to Registered and Eligible Participants. The Competition Will Be Conducted Within the Officially Authorised Testing Environment and Scope. Who Can Participate? The Challenge Is Open to Individuals and Teams from Across India, Including: Independent Security Researchers and Bug Bounty Hunters. Ethical Hackers and Penetration Testers. Application Security Professionals. Cybersecurity Students and Enthusiasts. University Cybersecurity Clubs and Research Groups. Participants Can Compete Individually or Form Teams of Up to Four Members . Whether You Are an Independent Researcher or Part of A Cybersecurity Team, This Is an Opportunity to Demonstrate Your Skills Against a Real-World Application. Testing Access &amp; Application Handover Registered and Eligible Participants Will Receive the Following Approximately 10&ndash;20 Minutes Before the Official Challenge Begins : My Onne's Designated Testing Application. Researcher Access Credentials. Android Ap Ks Required for The Authorised Testing Environment. Official Testing Scope and Rules of Engagement. Testing Guidelines and Vulnerability Reporting Instructions. This Advance Handover Allows Participants to Prepare Their Testing Environments Before the Official Competition Begins. Important: Security testing must begin only within the Authorised Scope and according to the Official Challenge Instructions. How the Challenge Works The Competition Follows a Structured Research and Reporting Process: Step 1 &ndash; Register Register for The My Onne National Bug Bounty Challenge 2026. Step 2 &ndash; Receive Testing Access Eligible Participants Receive the Designated Application, Researcher Credentials and Android Ap Ks Before the Challenge Begins. Step 3 &ndash; Review the Scope Understand the Authorised Testing Scope, Rules of Engagement and Reporting Guidelines. Step 4 &ndash; Discover Vulnerabilities Conduct Security Research and Identify Potential Vulnerabilities Within the Authorised Testing Environment. Step 5 &ndash; Submit Your Findings Report Discovered Vulnerabilities with Supporting Evidence Through the Designated My Onne Security Research Platform. Step 6 &ndash; Validation &amp; Recognition Submitted Reports Undergo Validation and Triage. Eligible Findings Are Considered for Bounty Rewards and Recognition in Accordance with The Official Programme Rules. Responsible Disclosure &amp; Important Rules All Participants Must Follow Responsible Security Research Practices. Testing Is Permitted only Within the Officially Authorised Scope. All Discovered Vulnerabilities Must Be Reported Responsibly Through the Designated Reporting Channel. Accessing, Modifying, Extracting or Disclosing Other Users' Data Is Strictly Prohibited. Destructive Testing, Denial-Of-Service Attacks and Activities Outside the Authorised Scope Are Prohibited. Duplicate, Invalid and Out-Of-Scope Reports May Not Qualify for Rewards. Participants Must Follow All Official Testing Guidelines and Rules of Engagement. Final Severity Classification, Report Validity and Bounty Eligibility Will Be Determined Through the Official Validation Process. The Complete Authorised Scope, Reporting Instructions and Programme Rules Will Be Communicated to Eligible Participants Before Testing Begins.",
+    "organizer": "MyOnne Amora Private Limited",
     "venue": "Online",
     "mode": "Online",
     "city": null,
     "state": "online",
     "country": null,
-    "start_date": "2026-11-11T00:00:00+05:30",
-    "end_date": "2026-11-30T23:59:00+05:30",
-    "registration_deadline": "2026-11-25T00:00:00+05:30",
+    "start_date": "2026-11-19T00:00:00+05:30",
+    "end_date": "2026-11-28T17:30:00+05:30",
+    "registration_deadline": "2026-11-26T17:00:00+05:30",
     "min_team_size": 1,
     "max_team_size": 4,
     "solo_allowed": true,
@@ -216,20 +176,18 @@
       "Postgraduate",
       "Undergraduate",
       "Management",
-      "Medical",
-      "Law",
       "Arts, Commerce, Sciences & Others"
     ],
     "score": 75,
     "matched_reasons": [
       "🌐 **Accessible Online Mode** (+15 pts)",
       "👤 **Solo Eligible (1 Member)** (+35 pts)",
-      "🤖 **AI & Software Tracks** (+25 pts) [AI]"
+      "🤖 **AI & Software Tracks** (+25 pts) [Cybersecurity]"
     ],
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-19T17:52:19.887282+00:00"
+    "discovered_at": "2026-11-20T00:05:24.219353+00:00"
   },
   {
     "id": "unstop:1818968",
@@ -269,7 +227,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-19T17:52:17.957121+00:00"
+    "discovered_at": "2026-11-20T00:05:24.219586+00:00"
   },
   {
     "id": "unstop:1817749",
@@ -303,14 +261,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-19T17:52:17.960246+00:00"
+    "discovered_at": "2026-11-20T00:05:24.222988+00:00"
   },
   {
     "id": "unstop:1817737",
     "source": "Unstop",
     "title": "CodeWarriors India 2026 - National Hackathon",
     "url": "https://unstop.com/hackathons/codewarriors-india-2026-national-hackathon-buildx-1817737",
-    "description": "Join the official group for information and updates: https://chat.whatsapp.com/LQQ76cEkFN2DppeGkXWHb3 About: Top three teams: Paid internship opportunities Top three teams Prize Pool: 30,000 Rs Every participant: One complimentary .xyz domain Every participant: $100 in Inkloom AI credits, 500$ Adaption AI credits, 100$ ASI Credits Every eligible participant: Verifiable digital certificate Rewards: 100+ recipients across the hackathon No. of Rounds: 3 Hackathon Dates: 4 December &ndash; 14 December 2026 Mode: Completely online Team size: 1&ndash;6 members Registration Fee: Free Tracks: Agentic AI, Full-Stack Product Engineering Join the official WhatsApp group for participation details, announcements and important hackathon updates. A participant must complete the hackathon and make a valid final submission to receive a verifiable digital certificate. Registration alone will not qualify a participant for a certificate. PPOs and partner benefits are subject to eligibility requirements, availability and the respective partner&rsquo;s selection process.",
+    "description": "Join the official group for information and updates: https://chat.whatsapp.com/LQQ76cEkFN2DppeGkXWHb3 About: Top three teams: Paid internship opportunities Top three teams Prize Pool: 30,000 Rs Every participant: One complimentary .xyz domain Every participant: $100 in Inkloom AI credits, 500$ Adaption AI credits, 100$ ASI Credits Every eligible participant: Verifiable digital certificate Rewards: 100+ recipients across the hackathon No. of Rounds: 3 Hackathon Dates: 4 December &ndash; 14 December 2026 Mode: Completely online Team size: 1&ndash;6 members Registration Fee: Free Tracks: Agentic AI, Full-Stack Product Engineering Join the official WhatsApp group for participation details, announcements and important hackathon updates. A participant must complete the hackathon and make a valid final submission to receive a verifiable digital certificate. Registration alone will not qualify a participant for a certificate. PPOs and partner benefits are subject to eligibility requirements, availability and the respective partner&rsquo;s selection process. Rules Participants must submit original work within the deadline and follow all event guidelines. Plagiarism, false information or multiple submissions may result in disqualification. Eligibility Open to students, developers, designers and technology enthusiasts across India. Participants may join individually or form a team according to the event&rsquo;s permitted team size. Process Register for the event, join the official communication group and complete every announced round. Qualified participants will receive the instructions and submission details for the next stage. &nbsp; Note: Teams selected for Round 3 pay a participation fee of ₹399 per team &mdash; one payment for the whole team, not one each. The fee covers the cost of running the event: infrastructure, the time and effort of organising it, and paying the people who do that work. Registering and Rounds 1 and 2 are free, and this is the only payment anywhere in this event. It falls due only once your team is selected for Round 3, so a team that is not selected pays nothing at all.",
     "organizer": "BuildX",
     "venue": "Online",
     "mode": "Online",
@@ -337,7 +295,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-19T17:52:17.959529+00:00"
+    "discovered_at": "2026-11-20T00:05:24.221884+00:00"
   },
   {
     "id": "unstop:1818490",
@@ -371,7 +329,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": true,
     "is_active": true,
-    "discovered_at": "2026-11-19T17:52:17.959646+00:00"
+    "discovered_at": "2026-11-20T00:05:24.222004+00:00"
   },
   {
     "id": "unstop:1782995",
@@ -411,7 +369,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-19T17:52:17.957702+00:00"
+    "discovered_at": "2026-11-20T00:05:24.220192+00:00"
   },
   {
     "id": "unstop:1814002",
@@ -448,7 +406,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-19T17:52:17.960863+00:00"
+    "discovered_at": "2026-11-20T00:05:24.223630+00:00"
   },
   {
     "id": "unstop:1811349",
@@ -486,7 +444,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-19T17:52:17.960763+00:00"
+    "discovered_at": "2026-11-20T00:05:24.223517+00:00"
   },
   {
     "id": "unstop:1817757",
@@ -524,7 +482,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-19T17:52:17.957434+00:00"
+    "discovered_at": "2026-11-20T00:05:24.219935+00:00"
   },
   {
     "id": "unstop:1811016",
@@ -565,7 +523,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-19T17:52:19.886263+00:00"
+    "discovered_at": "2026-11-20T00:05:25.923676+00:00"
   },
   {
     "id": "unstop:1811493",
@@ -599,7 +557,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-19T17:52:19.885987+00:00"
+    "discovered_at": "2026-11-20T00:05:25.923418+00:00"
   },
   {
     "id": "unstop:1817499",
@@ -633,7 +591,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-19T17:52:17.960487+00:00"
+    "discovered_at": "2026-11-20T00:05:24.223236+00:00"
   },
   {
     "id": "unstop:1817240",
@@ -670,7 +628,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-19T17:52:17.958749+00:00"
+    "discovered_at": "2026-11-20T00:05:24.222443+00:00"
   },
   {
     "id": "hackerearth:contextcon-remember-everything",
@@ -706,7 +664,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-19T17:52:24.979318+00:00"
+    "discovered_at": "2026-11-20T00:05:30.800705+00:00"
   },
   {
     "id": "devpost:30740",
@@ -742,7 +700,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-19T17:52:24.071782+00:00"
+    "discovered_at": "2026-11-20T00:05:29.939902+00:00"
   },
   {
     "id": "devpost:30764",
@@ -778,7 +736,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-19T17:52:24.262390+00:00"
+    "discovered_at": "2026-11-20T00:05:30.047003+00:00"
   },
   {
     "id": "devpost:31787",
@@ -814,7 +772,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-19T17:52:24.147389+00:00"
+    "discovered_at": "2026-11-20T00:05:29.939962+00:00"
   },
   {
     "id": "devpost:31642",
@@ -850,7 +808,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-19T17:52:24.147345+00:00"
+    "discovered_at": "2026-11-20T00:05:29.939927+00:00"
   },
   {
     "id": "devpost:31083",
@@ -886,7 +844,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-19T17:52:24.071749+00:00"
+    "discovered_at": "2026-11-20T00:05:29.862165+00:00"
   },
   {
     "id": "devpost:31480",
@@ -922,7 +880,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-19T17:52:24.262370+00:00"
+    "discovered_at": "2026-11-20T00:05:30.046978+00:00"
   },
   {
     "id": "devpost:31972",
@@ -958,7 +916,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-19T17:52:24.262399+00:00"
+    "discovered_at": "2026-11-20T00:05:30.047010+00:00"
   },
   {
     "id": "devpost:31973",
@@ -994,7 +952,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-19T17:52:24.071762+00:00"
+    "discovered_at": "2026-11-20T00:05:29.862177+00:00"
   },
   {
     "id": "devpost:32079",
@@ -1030,7 +988,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-19T17:52:24.147354+00:00"
+    "discovered_at": "2026-11-20T00:05:29.939935+00:00"
   },
   {
     "id": "devpost:31808",
@@ -1066,7 +1024,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-19T17:52:24.071741+00:00"
+    "discovered_at": "2026-11-20T00:05:29.862158+00:00"
   },
   {
     "id": "devpost:32024",
@@ -1102,7 +1060,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-19T17:52:24.147363+00:00"
+    "discovered_at": "2026-11-20T00:05:29.939941+00:00"
   },
   {
     "id": "devpost:32026",
@@ -1138,7 +1096,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-19T17:52:24.071769+00:00"
+    "discovered_at": "2026-11-20T00:05:29.862183+00:00"
   },
   {
     "id": "devpost:31571",
@@ -1174,7 +1132,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-19T17:52:24.147329+00:00"
+    "discovered_at": "2026-11-20T00:05:29.862195+00:00"
   },
   {
     "id": "devpost:31886",
@@ -1210,7 +1168,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-19T17:52:24.262419+00:00"
+    "discovered_at": "2026-11-20T00:05:30.047021+00:00"
   },
   {
     "id": "hackerearth:groww-next-2026",
@@ -1246,7 +1204,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-19T17:52:24.979342+00:00"
+    "discovered_at": "2026-11-20T00:05:30.800733+00:00"
   },
   {
     "id": "devpost:31796",
@@ -1282,7 +1240,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-19T17:52:24.147395+00:00"
+    "discovered_at": "2026-11-20T00:05:29.939968+00:00"
   },
   {
     "id": "devpost:31789",
@@ -1318,7 +1276,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-19T17:52:24.147376+00:00"
+    "discovered_at": "2026-11-20T00:05:29.939951+00:00"
   },
   {
     "id": "devpost:30789",
@@ -1354,14 +1312,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-19T17:52:24.071775+00:00"
+    "discovered_at": "2026-11-20T00:05:29.862189+00:00"
   },
   {
     "id": "devpost:26475",
     "source": "Devpost",
     "title": "Dakar Bitcoin Hack by BTrust",
     "url": "https://dakar-bitcoin-hack-2026.devpost.com/",
-    "description": "Devpost hackathon. 1 day left",
+    "description": "Devpost hackathon. about 20 hours left",
     "organizer": "Dakar Bitcoin Days",
     "venue": "Online",
     "mode": "Online",
@@ -1390,7 +1348,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-19T17:52:24.262425+00:00"
+    "discovered_at": "2026-11-20T00:05:30.047032+00:00"
   },
   {
     "id": "devpost:31572",
@@ -1426,7 +1384,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-19T17:52:24.071729+00:00"
+    "discovered_at": "2026-11-20T00:05:29.862148+00:00"
   },
   {
     "id": "devpost:31907",
@@ -1462,7 +1420,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-19T17:52:24.147370+00:00"
+    "discovered_at": "2026-11-20T00:05:29.939946+00:00"
   },
   {
     "id": "devpost:31667",
@@ -1498,7 +1456,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-19T17:52:24.071705+00:00"
+    "discovered_at": "2026-11-20T00:05:29.862119+00:00"
   },
   {
     "id": "unstop:1811240",
@@ -1537,7 +1495,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-19T17:52:19.886119+00:00"
+    "discovered_at": "2026-11-20T00:05:25.923538+00:00"
   },
   {
     "id": "unstop:1818894",
@@ -1576,7 +1534,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-19T17:52:17.957267+00:00"
+    "discovered_at": "2026-11-20T00:05:24.219745+00:00"
   },
   {
     "id": "unstop:1781454",
@@ -1615,7 +1573,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-19T17:52:19.887363+00:00"
+    "discovered_at": "2026-11-20T00:05:25.924600+00:00"
   },
   {
     "id": "unstop:1817389",
@@ -1654,7 +1612,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-19T17:52:17.960605+00:00"
+    "discovered_at": "2026-11-20T00:05:24.223348+00:00"
   },
   {
     "id": "unstop:1770707",
@@ -1690,14 +1648,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-19T17:52:17.958446+00:00"
+    "discovered_at": "2026-11-20T00:05:24.220923+00:00"
   },
   {
     "id": "devpost:31746",
     "source": "Devpost",
     "title": "University Blockchain Conference Hackathon 2026",
     "url": "https://ubc-hackathon-2026.devpost.com/",
-    "description": "Devpost hackathon. 1 day left",
+    "description": "Devpost hackathon. about 18 hours left",
     "organizer": "college.xyz",
     "venue": "University of Texas at Austin",
     "mode": "In-Person",
@@ -1725,7 +1683,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-19T17:52:24.262406+00:00"
+    "discovered_at": "2026-11-20T00:05:30.047016+00:00"
   },
   {
     "id": "unstop:1811085",
@@ -1758,7 +1716,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-19T17:52:19.886193+00:00"
+    "discovered_at": "2026-11-20T00:05:25.923611+00:00"
   },
   {
     "id": "devpost:31108",
@@ -1793,7 +1751,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-19T17:52:24.262413+00:00"
+    "discovered_at": "2026-11-20T00:05:30.047027+00:00"
   },
   {
     "id": "devpost:31644",
@@ -1827,7 +1785,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-19T17:52:24.071756+00:00"
+    "discovered_at": "2026-11-20T00:05:29.862171+00:00"
   },
   {
     "id": "devpost:31773",
@@ -1861,7 +1819,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-19T17:52:24.147382+00:00"
+    "discovered_at": "2026-11-20T00:05:29.939956+00:00"
   },
   {
     "id": "devpost:31795",
@@ -1896,7 +1854,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-19T17:52:24.262432+00:00"
+    "discovered_at": "2026-11-20T00:05:30.047038+00:00"
   },
   {
     "id": "devpost:31797",
@@ -1930,7 +1888,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-19T17:52:24.262444+00:00"
+    "discovered_at": "2026-11-20T00:05:30.047044+00:00"
   },
   {
     "id": "unstop:1798287",
@@ -1963,7 +1921,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-19T17:52:19.886621+00:00"
+    "discovered_at": "2026-11-20T00:05:25.924003+00:00"
   },
   {
     "id": "unstop:1814263",
@@ -2004,7 +1962,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-19T17:52:17.960693+00:00"
+    "discovered_at": "2026-11-20T00:05:24.223438+00:00"
   },
   {
     "id": "unstop:1810268",
@@ -2038,7 +1996,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-19T17:52:19.886371+00:00"
+    "discovered_at": "2026-11-20T00:05:25.923776+00:00"
   },
   {
     "id": "unstop:1806016",
@@ -2077,7 +2035,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-19T17:52:17.959457+00:00"
+    "discovered_at": "2026-11-20T00:05:24.221779+00:00"
   },
   {
     "id": "unstop:1810370",
@@ -2110,7 +2068,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-19T17:52:17.960966+00:00"
+    "discovered_at": "2026-11-20T00:05:24.223746+00:00"
   },
   {
     "id": "unstop:1809486",
@@ -2143,6 +2101,6 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-19T17:52:19.886763+00:00"
+    "discovered_at": "2026-11-20T00:05:25.924128+00:00"
   }
 ]

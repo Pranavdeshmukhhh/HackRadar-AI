@@ -3517,5 +3517,14 @@
     "last_notified": "2026-11-19T17:52:30.896885+00:00",
     "is_nagpur_local": false,
     "solo_allowed": false
+  },
+  "unstop:1817686": {
+    "title": "MyOnne National Bug Bounty Challenge 2026",
+    "url": "https://unstop.com/hackathons/myonne-national-bug-bounty-challenge-2026-myonne-amora-private-limited-1817686",
+    "score": 75,
+    "source": "Unstop",
+    "last_notified": "2026-11-20T00:05:35.190816+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
   }
 }

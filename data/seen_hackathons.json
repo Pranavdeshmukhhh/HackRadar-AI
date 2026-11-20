@@ -3526,5 +3526,32 @@
     "last_notified": "2026-11-20T00:05:35.190816+00:00",
     "is_nagpur_local": false,
     "solo_allowed": true
+  },
+  "unstop:1820028": {
+    "title": "Merry Shipmas Bengaluru: Christmas AI Hackathon ",
+    "url": "https://unstop.com/hackathons/merry-shipmas-bengaluru-christmas-ai-hackathon-nerdconf-1820028",
+    "score": 75,
+    "source": "Unstop",
+    "last_notified": "2026-11-20T07:56:13.710978+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:1814814": {
+    "title": "Buildfest 2026",
+    "url": "https://unstop.com/hackathons/buildfest-2026-learnix-labs-1814814",
+    "score": 75,
+    "source": "Unstop",
+    "last_notified": "2026-11-20T07:56:13.710978+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:1818639": {
+    "title": "Rajasthan Police Hackathon 2026",
+    "url": "https://unstop.com/hackathons/rajasthan-police-hackathon-2026-rajasthan-police-rajasathana-palsa-1818639",
+    "score": 60,
+    "source": "Unstop",
+    "last_notified": "2026-11-20T07:56:13.710978+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
   }
 }

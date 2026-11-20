@@ -33,7 +33,7 @@
     "is_nagpur_local": true,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-20T07:56:11.980873+00:00"
+    "discovered_at": "2026-11-20T16:37:16.522093+00:00"
   },
   {
     "id": "unstop:1819296",
@@ -75,7 +75,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": true,
     "is_active": true,
-    "discovered_at": "2026-11-20T07:56:03.364538+00:00"
+    "discovered_at": "2026-11-20T16:37:07.631534+00:00"
   },
   {
     "id": "college:mindsparkorg",
@@ -111,14 +111,48 @@
     "is_nagpur_local": false,
     "is_maharashtra": true,
     "is_active": true,
-    "discovered_at": "2026-11-20T07:56:12.303324+00:00"
+    "discovered_at": "2026-11-20T16:37:16.197979+00:00"
+  },
+  {
+    "id": "unstop:1817686",
+    "source": "Unstop",
+    "title": "MyOnne National Bug Bounty Challenge 2026",
+    "url": "https://unstop.com/hackathons/myonne-national-bug-bounty-challenge-2026-myonne-amora-private-limited-1817686",
+    "description": "MyOnne National Bug Bounty Challenge 2026 48 Hours. One Mission. Find What We Missed. MyOnne is opening its application to India's security research community. We invite independent security researchers, ethical hackers, penetration testers, application security professionals and cybersecurity students from across India to participate in the MyOnne National Bug Bounty Challenge 2026 . A 48-hour, nationwide online security research competition where participants will test the MyOnne application in an authorised testing environment, identify security vulnerabilities and responsibly report their findings. Some vulnerabilities are worth discovering. Some discoveries deserve a bounty. Event at A Glance Event: MyOnne National Bug Bounty Challenge 2026 Total Bounty Pool: ₹3,00,000* Duration: 48 Hours Challenge Begins: thursday, 26 November 2026, 5:30 Pm Ist Submissions Close: saturday, 28 November 2026, 5:30 Pm Ist Format: fully Online &ndash; India-Wide Participation: individual or Teams of 1&ndash;4 Members Organiser: My Onne Amora Private Limited Competition Platform &amp; Execution The My Onne National Bug Bounty Challenge 2026 Will Be Conducted Entirely Online Through My Onne's Security Research Platform , Which Is Developed and operated by My Onne Amora Private Limited. The Competition Will Use My Onne's Dedicated Security Research Infrastructure for Authorised Application Testing and Vulnerability Reporting. The Platform Consists Of: Testing Environment: My Onne Security Research Platform, Providing Registered and Eligible Participants Access to the designated testing application, researcher credentials, and Android Ap Ks. Vulnerability Reporting: Participants must submit all vulnerability reports, supporting evidence, and research findings through the Designated My Onne Security Research Platform. Researcher Access: Testing Access and Application Packages Will Be Distributed Exclusively to Registered and Eligible Participants. The Competition Will Be Conducted Within the Officially Authorised Testing Environment and Scope. Who Can Participate? The Challenge Is Open to Individuals and Teams from Across India, Including: Independent Security Researchers and Bug Bounty Hunters. Ethical Hackers and Penetration Testers. Application Security Professionals. Cybersecurity Students and Enthusiasts. University Cybersecurity Clubs and Research Groups. Participants Can Compete Individually or Form Teams of Up to Four Members . Whether You Are an Independent Researcher or Part of A Cybersecurity Team, This Is an Opportunity to Demonstrate Your Skills Against a Real-World Application. Testing Access &amp; Application Handover Registered and Eligible Participants Will Receive the Following Approximately 10&ndash;20 Minutes Before the Official Challenge Begins : My Onne's Designated Testing Application. Researcher Access Credentials. Android Ap Ks Required for The Authorised Testing Environment. Official Testing Scope and Rules of Engagement. Testing Guidelines and Vulnerability Reporting Instructions. This Advance Handover Allows Participants to Prepare Their Testing Environments Before the Official Competition Begins. Important: Security testing must begin only within the Authorised Scope and according to the Official Challenge Instructions. How the Challenge Works The Competition Follows a Structured Research and Reporting Process: Step 1 &ndash; Register Register for The My Onne National Bug Bounty Challenge 2026. Step 2 &ndash; Receive Testing Access Eligible Participants Receive the Designated Application, Researcher Credentials and Android Ap Ks Before the Challenge Begins. Step 3 &ndash; Review the Scope Understand the Authorised Testing Scope, Rules of Engagement and Reporting Guidelines. Step 4 &ndash; Discover Vulnerabilities Conduct Security Research and Identify Potential Vulnerabilities Within the Authorised Testing Environment. Step 5 &ndash; Submit Your Findings Report Discovered Vulnerabilities with Supporting Evidence Through the Designated My Onne Security Research Platform. Step 6 &ndash; Validation &amp; Recognition Submitted Reports Undergo Validation and Triage. Eligible Findings Are Considered for Bounty Rewards and Recognition in Accordance with The Official Programme Rules. Responsible Disclosure &amp; Important Rules All Participants Must Follow Responsible Security Research Practices. Testing Is Permitted only Within the Officially Authorised Scope. All Discovered Vulnerabilities Must Be Reported Responsibly Through the Designated Reporting Channel. Accessing, Modifying, Extracting or Disclosing Other Users' Data Is Strictly Prohibited. Destructive Testing, Denial-Of-Service Attacks and Activities Outside the Authorised Scope Are Prohibited. Duplicate, Invalid and Out-Of-Scope Reports May Not Qualify for Rewards. Participants Must Follow All Official Testing Guidelines and Rules of Engagement. Final Severity Classification, Report Validity and Bounty Eligibility Will Be Determined Through the Official Validation Process. The Complete Authorised Scope, Reporting Instructions and Programme Rules Will Be Communicated to Eligible Participants Before Testing Begins.",
+    "organizer": "MyOnne Amora Private Limited",
+    "venue": "Online",
+    "mode": "Online",
+    "city": null,
+    "state": "online",
+    "country": null,
+    "start_date": "2026-11-19T00:00:00+05:30",
+    "end_date": "2026-11-28T17:30:00+05:30",
+    "registration_deadline": "2026-11-26T17:00:00+05:30",
+    "min_team_size": 1,
+    "max_team_size": 4,
+    "solo_allowed": true,
+    "eligibility": "Open to college students & coders",
+    "prize_pool": "Prizes & Certificates",
+    "tracks": [
+      "All"
+    ],
+    "score": 75,
+    "matched_reasons": [
+      "🌐 **Accessible Online Mode** (+15 pts)",
+      "👤 **Solo Eligible (1 Member)** (+35 pts)",
+      "🤖 **AI & Software Tracks** (+25 pts) [Cybersecurity]"
+    ],
+    "is_nagpur_local": false,
+    "is_maharashtra": false,
+    "is_active": true,
+    "discovered_at": "2026-11-20T16:37:07.631274+00:00"
   },
   {
     "id": "unstop:1817798",
     "source": "Unstop",
     "title": "AI Kaushal Hackathon 2026",
     "url": "https://unstop.com/hackathons/ai-kaushal-hackathon-2026-indian-institute-of-information-technology-iiit-lucknow-1817798",
-    "description": "AI Kaushal Hackathon 2026 is a state-level AI hackathon organised by InMobi with the Department of IT &amp; Electronics, Government of Uttar Pradesh , and hosted at IIIT Lucknow . Teams build practical AI solutions for real public-sector problem statements, and the best solutions may be deployed in a UP Government department. At a Glance Prize Pool ₹5,00,000 (₹1,00,000 to each of the Top 5 teams) Format Online idea submission, then a 24-hour in-person hackathon Venue IIIT Lucknow Dates 8 and 9 December 2026 Team Size 1 to 4 members Open To Students, professionals and start-ups residing in Uttar Pradesh Entry Fee Free Why Participate ₹1,00,000 cash prize for each of the Top 5 teams Real-world impact: the best solutions may be deployed in a UP Government department Paid internships: students from top-performing teams become eligible Tech Leadership Connect: an invite-only session for top teams with leading tech minds Recognition: winner certificates and features on InMobi's social media channels For every shortlisted participant: goodies and a participation certificate Eligibility Open to anyone currently residing in Uttar Pradesh (a domicile certificate is not required) who is one of the following: Category Proof required Student at a college or university in UP Valid Student ID Professional at a company with an office in UP Employee ID or employment proof Start-up with a registered office in UP GST registration, Startup India recognition or incorporation document Use Cases Pick one of the 17 use cases . Full details are on the official website . Category Use case Agriculture 1. Farmer Market Price Intelligence - Mandi Advisory Education 2. Job Readiness &amp; Vocational Interview Coach Education 3. Unified Internship Platform Employment 4. AI-Powered Matching for Rojgar Sangam Governance 5. Vernacular Citizen Services Assistant Governance 6. Universal Intake, Triage &amp; Routing Engine Healthcare 7. Predictive Disease Outbreak Surveillance Healthcare 8. Child Nutrition &amp; At-Risk Detection for Anganwadi Workers Healthcare 9. Affordable Medicine Discovery Labour 10. AI Scheme Navigator for Construction Workers Livelihoods 11. Livelihood &amp; Micro-Enterprise Growth Assistant Tourism 12. Investment Facilitation &amp; Approval Processes Tourism 13. Grievance Redressal System Tourism 14. LLM-Powered Project Monitoring &amp; Decision Support System Youth Affairs &amp; Sports 15. AI Playground and Sports Facility Optimizer Youth Affairs &amp; Sports 16. AI Youth Volunteer and Community Project Matcher Youth Affairs &amp; Sports 17. AI Athlete and Coach Performance Monitoring How It Works Register on Unstop (by 20 Nov): register your team of 1 to 4 members on this page. Submit your idea on the InMobi portal (by 20 Nov): on the official InMobi AI Kaushal portal , choose a use case and answer five short questions. No prototype is needed. Then tick the one-time confirmation in the \"Idea Submission on InMobi Portal\" round here on Unstop. Shortlisting (27 Nov): the Expert Panel reviews every entry and announces the shortlisted teams. 24-hour hackathon (8 to 9 Dec): shortlisted teams build their MVP at IIIT Lucknow with mentor support. Final demos (9 Dec): top MVPs pitch live to industry leaders and senior government officials. Judging Criteria Idea Shortlisting: Relevance to the use case &middot; Innovation &amp; uniqueness &middot; Solution approach &amp; technical soundness &middot; Feasibility &amp; clarity of scope Hackathon Build: Working solution &amp; completeness &middot; Technical execution &amp; architecture &middot; Innovation &amp; differentiation &middot; Outcome against the use case &middot; Scalability &amp; path to production &middot; Responsible AI implementation At the Hackathon Provided: OpenAI/Gemini AI credits, workspace and campus Wi-Fi, a mentor for each team, meals and refreshments, and rest areas Bring: your laptop, charger and valid ID or eligibility proof Arrange yourself: travel to Lucknow and accommodation (the hackathon runs overnight) Final submission: a 3 to 5 minute video covering your solution, architecture and a live prototype demo, plus optional slides Jury Kumar Vineet, IAS: Special Secretary, Ministry of Youth Affairs &amp; Sports Alok Kumar, IAS: Principal Secretary, Planning &amp; Programme Implementation and IT &amp; Electronics Department, Government of Uttar Pradesh Prof. Deepak Singh: Dean Research, IIIT Lucknow Mohit Saxena: Co-founder &amp; CTO, InMobi Dr. Subi Chaturvedi: Global SVP, Chief Corporate Affairs &amp; Public Policy Officer, InMobi Group Srikanth Sundarrajan: Partner Engineer II, InMobi Organisers &amp; Partners Organised by InMobi, with the Department of IT &amp; Electronics, Government of Uttar Pradesh Conceived &amp; Curated by Dr. Subi Chaturvedi, InMobi Group Technology Partner OpenAI Academic Partner IIIT Lucknow Outreach Partners Google Developers Group HBTU Android Lucknow Cyber Intelligence Community Lucknow CNCG Lucknow Google Developer Group IIIT Allahabad GDG Kanpur Lucknow AI Labs | UPAI Labs Unstop Listing by IIIT Lucknow, with IIITL Axios and IIITL CREATE Good to Know Ideas are submitted only on the official InMobi AI Kaushal portal . You should receive a confirmation email from InMobi after submitting, and only ideas submitted there are evaluated. A maximum of one use case will be shortlisted per team. Queries: hackathon@inmobi.com",
+    "description": "AI Kaushal Hackathon 2026 is a state-level AI hackathon organised by InMobi with the Department of IT &amp; Electronics, Government of Uttar Pradesh , and hosted at IIIT Lucknow . Teams build practical AI solutions for real public-sector problem statements, and the best solutions may be deployed in a UP Government department. At a Glance Prize Pool ₹5,00,000 (₹1,00,000 to each of the Top 5 teams) Format Online idea submission, then a 24-hour in-person hackathon Venue IIIT Lucknow Dates 8 and 9 December 2026 Team Size 1 to 4 members Open To Students, professionals and start-ups residing in Uttar Pradesh Entry Fee Free Why Participate ₹1,00,000 cash prize for each of the Top 5 teams Real-world impact: the best solutions may be deployed in a UP Government department Paid internships: students from top-performing teams become eligible Tech Leadership Connect: an invite-only session for top teams with leading tech minds Recognition: winner certificates and features on InMobi's social media channels For every shortlisted participant: goodies and a participation certificate Eligibility Open to anyone currently residing in Uttar Pradesh (a domicile certificate is not required) who is one of the following: Category Proof required Student at a college or university in UP Valid Student ID Professional at a company with an office in UP Employee ID or employment proof Start-up with a registered office in UP GST registration, Startup India recognition or incorporation document Use Cases Pick one of the 17 use cases . Full details are on the official website . Category Use case Agriculture 1. Farmer Market Price Intelligence - Mandi Advisory Education 2. Job Readiness &amp; Vocational Interview Coach Education 3. Unified Internship Platform Employment 4. AI-Powered Matching for Rojgar Sangam Governance 5. Vernacular Citizen Services Assistant Governance 6. Universal Intake, Triage &amp; Routing Engine Healthcare 7. Predictive Disease Outbreak Surveillance Healthcare 8. Child Nutrition &amp; At-Risk Detection for Anganwadi Workers Healthcare 9. Affordable Medicine Discovery Labour 10. AI Scheme Navigator for Construction Workers Livelihoods 11. Livelihood &amp; Micro-Enterprise Growth Assistant Tourism 12. Investment Facilitation &amp; Approval Processes Tourism 13. Grievance Redressal System Tourism 14. LLM-Powered Project Monitoring &amp; Decision Support System Youth Affairs &amp; Sports 15. AI Playground and Sports Facility Optimizer Youth Affairs &amp; Sports 16. AI Youth Volunteer and Community Project Matcher Youth Affairs &amp; Sports 17. AI Athlete and Coach Performance Monitoring How It Works Register on Unstop (by 27 Nov): register your team of 1 to 4 members on this page. Submit your idea on the InMobi portal (by 27 Nov): on the official InMobi AI Kaushal portal , choose a use case and answer five short questions. No prototype is needed. Then tick the one-time confirmation in the \"Idea Submission on InMobi Portal\" round here on Unstop. Shortlisting (27 Nov-1 Dec): the Expert Panel reviews every entry and announces the shortlisted teams. 24-hour hackathon (8 to 9 Dec): shortlisted teams build their MVP at IIIT Lucknow with mentor support. Final demos (9 Dec): top MVPs pitch live to industry leaders and senior government officials. Judging Criteria Idea Shortlisting: Relevance to the use case &middot; Innovation &amp; uniqueness &middot; Solution approach &amp; technical soundness &middot; Feasibility &amp; clarity of scope Hackathon Build: Working solution &amp; completeness &middot; Technical execution &amp; architecture &middot; Innovation &amp; differentiation &middot; Outcome against the use case &middot; Scalability &amp; path to production &middot; Responsible AI implementation At the Hackathon Provided: OpenAI/Gemini AI credits, workspace and campus Wi-Fi, a mentor for each team, meals and refreshments, and rest areas Bring: your laptop, charger and valid ID or eligibility proof Arrange yourself: travel to Lucknow and accommodation (the hackathon runs overnight) Final submission: a 3 to 5 minute video covering your solution, architecture and a live prototype demo, plus optional slides Jury Kumar Vineet, IAS: Special Secretary, Ministry of Youth Affairs &amp; Sports Alok Kumar, IAS: Principal Secretary, Planning &amp; Programme Implementation and IT &amp; Electronics Department, Government of Uttar Pradesh Prof. Deepak Singh: Dean Research, IIIT Lucknow Mohit Saxena: Co-founder &amp; CTO, InMobi Dr. Subi Chaturvedi: Global SVP, Chief Corporate Affairs &amp; Public Policy Officer, InMobi Group Srikanth Sundarrajan: Partner Engineer II, InMobi Organisers &amp; Partners Organised by InMobi, with the Department of IT &amp; Electronics, Government of Uttar Pradesh Conceived &amp; Curated by Dr. Subi Chaturvedi, InMobi Group Technology Partner OpenAI Academic Partner IIIT Lucknow Outreach Partners Google Developers Group HBTU Android Lucknow Cyber Intelligence Community Lucknow CNCG Lucknow Google Developer Group IIIT Allahabad GDG Kanpur Lucknow AI Labs | UPAI Labs Unstop Listing by IIIT Lucknow, with IIITL Axios and IIITL CREATE Good to Know Ideas are submitted only on the official InMobi AI Kaushal portal . You should receive a confirmation email from InMobi after submitting, and only ideas submitted there are evaluated. A maximum of one use case will be shortlisted per team. Queries: hackathon@inmobi.com",
     "organizer": "Indian Institute of Information Technology (IIIT), Lucknow",
     "venue": "hybrid",
     "mode": "In-Person",
@@ -127,7 +161,7 @@
     "country": null,
     "start_date": "2026-11-18T00:00:00+05:30",
     "end_date": "2026-12-09T19:00:00+05:30",
-    "registration_deadline": "2026-11-20T23:59:44+05:30",
+    "registration_deadline": "2026-11-27T23:59:44+05:30",
     "min_team_size": 1,
     "max_team_size": 4,
     "solo_allowed": true,
@@ -149,45 +183,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-20T07:56:03.367715+00:00"
-  },
-  {
-    "id": "unstop:1817686",
-    "source": "Unstop",
-    "title": "MyOnne National Bug Bounty Challenge 2026",
-    "url": "https://unstop.com/hackathons/myonne-national-bug-bounty-challenge-2026-myonne-amora-private-limited-1817686",
-    "description": "MyOnne National Bug Bounty Challenge 2026 48 Hours. One Mission. Find What We Missed. MyOnne is opening its application to India's security research community. We invite independent security researchers, ethical hackers, penetration testers, application security professionals and cybersecurity students from across India to participate in the MyOnne National Bug Bounty Challenge 2026 . A 48-hour, nationwide online security research competition where participants will test the MyOnne application in an authorised testing environment, identify security vulnerabilities and responsibly report their findings. Some vulnerabilities are worth discovering. Some discoveries deserve a bounty. Event at A Glance Event: MyOnne National Bug Bounty Challenge 2026 Total Bounty Pool: ₹3,00,000* Duration: 48 Hours Challenge Begins: thursday, 26 November 2026, 5:30 Pm Ist Submissions Close: saturday, 28 November 2026, 5:30 Pm Ist Format: fully Online &ndash; India-Wide Participation: individual or Teams of 1&ndash;4 Members Organiser: My Onne Amora Private Limited Competition Platform &amp; Execution The My Onne National Bug Bounty Challenge 2026 Will Be Conducted Entirely Online Through My Onne's Security Research Platform , Which Is Developed and operated by My Onne Amora Private Limited. The Competition Will Use My Onne's Dedicated Security Research Infrastructure for Authorised Application Testing and Vulnerability Reporting. The Platform Consists Of: Testing Environment: My Onne Security Research Platform, Providing Registered and Eligible Participants Access to the designated testing application, researcher credentials, and Android Ap Ks. Vulnerability Reporting: Participants must submit all vulnerability reports, supporting evidence, and research findings through the Designated My Onne Security Research Platform. Researcher Access: Testing Access and Application Packages Will Be Distributed Exclusively to Registered and Eligible Participants. The Competition Will Be Conducted Within the Officially Authorised Testing Environment and Scope. Who Can Participate? The Challenge Is Open to Individuals and Teams from Across India, Including: Independent Security Researchers and Bug Bounty Hunters. Ethical Hackers and Penetration Testers. Application Security Professionals. Cybersecurity Students and Enthusiasts. University Cybersecurity Clubs and Research Groups. Participants Can Compete Individually or Form Teams of Up to Four Members . Whether You Are an Independent Researcher or Part of A Cybersecurity Team, This Is an Opportunity to Demonstrate Your Skills Against a Real-World Application. Testing Access &amp; Application Handover Registered and Eligible Participants Will Receive the Following Approximately 10&ndash;20 Minutes Before the Official Challenge Begins : My Onne's Designated Testing Application. Researcher Access Credentials. Android Ap Ks Required for The Authorised Testing Environment. Official Testing Scope and Rules of Engagement. Testing Guidelines and Vulnerability Reporting Instructions. This Advance Handover Allows Participants to Prepare Their Testing Environments Before the Official Competition Begins. Important: Security testing must begin only within the Authorised Scope and according to the Official Challenge Instructions. How the Challenge Works The Competition Follows a Structured Research and Reporting Process: Step 1 &ndash; Register Register for The My Onne National Bug Bounty Challenge 2026. Step 2 &ndash; Receive Testing Access Eligible Participants Receive the Designated Application, Researcher Credentials and Android Ap Ks Before the Challenge Begins. Step 3 &ndash; Review the Scope Understand the Authorised Testing Scope, Rules of Engagement and Reporting Guidelines. Step 4 &ndash; Discover Vulnerabilities Conduct Security Research and Identify Potential Vulnerabilities Within the Authorised Testing Environment. Step 5 &ndash; Submit Your Findings Report Discovered Vulnerabilities with Supporting Evidence Through the Designated My Onne Security Research Platform. Step 6 &ndash; Validation &amp; Recognition Submitted Reports Undergo Validation and Triage. Eligible Findings Are Considered for Bounty Rewards and Recognition in Accordance with The Official Programme Rules. Responsible Disclosure &amp; Important Rules All Participants Must Follow Responsible Security Research Practices. Testing Is Permitted only Within the Officially Authorised Scope. All Discovered Vulnerabilities Must Be Reported Responsibly Through the Designated Reporting Channel. Accessing, Modifying, Extracting or Disclosing Other Users' Data Is Strictly Prohibited. Destructive Testing, Denial-Of-Service Attacks and Activities Outside the Authorised Scope Are Prohibited. Duplicate, Invalid and Out-Of-Scope Reports May Not Qualify for Rewards. Participants Must Follow All Official Testing Guidelines and Rules of Engagement. Final Severity Classification, Report Validity and Bounty Eligibility Will Be Determined Through the Official Validation Process. The Complete Authorised Scope, Reporting Instructions and Programme Rules Will Be Communicated to Eligible Participants Before Testing Begins.",
-    "organizer": "MyOnne Amora Private Limited",
-    "venue": "Online",
-    "mode": "Online",
-    "city": null,
-    "state": "online",
-    "country": null,
-    "start_date": "2026-11-19T00:00:00+05:30",
-    "end_date": "2026-11-28T17:30:00+05:30",
-    "registration_deadline": "2026-11-26T17:00:00+05:30",
-    "min_team_size": 1,
-    "max_team_size": 4,
-    "solo_allowed": true,
-    "eligibility": "Undergraduate / Postgraduate & Engineering students",
-    "prize_pool": "Prizes & Certificates",
-    "tracks": [
-      "Engineering Students",
-      "Postgraduate",
-      "Undergraduate",
-      "Management",
-      "Arts, Commerce, Sciences & Others"
-    ],
-    "score": 75,
-    "matched_reasons": [
-      "🌐 **Accessible Online Mode** (+15 pts)",
-      "👤 **Solo Eligible (1 Member)** (+35 pts)",
-      "🤖 **AI & Software Tracks** (+25 pts) [Cybersecurity]"
-    ],
-    "is_nagpur_local": false,
-    "is_maharashtra": false,
-    "is_active": true,
-    "discovered_at": "2026-11-20T07:56:03.363981+00:00"
+    "discovered_at": "2026-11-20T16:37:07.634272+00:00"
   },
   {
     "id": "unstop:1818968",
@@ -227,7 +223,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-20T07:56:03.365353+00:00"
+    "discovered_at": "2026-11-20T16:37:07.633575+00:00"
   },
   {
     "id": "unstop:1817749",
@@ -261,7 +257,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-20T07:56:03.367799+00:00"
+    "discovered_at": "2026-11-20T16:37:07.634358+00:00"
   },
   {
     "id": "unstop:1817737",
@@ -295,7 +291,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-20T07:56:03.365449+00:00"
+    "discovered_at": "2026-11-20T16:37:07.633665+00:00"
   },
   {
     "id": "unstop:1818490",
@@ -329,7 +325,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": true,
     "is_active": true,
-    "discovered_at": "2026-11-20T07:56:03.367467+00:00"
+    "discovered_at": "2026-11-20T16:37:07.633778+00:00"
   },
   {
     "id": "unstop:1782995",
@@ -369,7 +365,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-20T07:56:03.365871+00:00"
+    "discovered_at": "2026-11-20T16:37:07.631883+00:00"
   },
   {
     "id": "unstop:1814002",
@@ -406,7 +402,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-20T07:56:03.368485+00:00"
+    "discovered_at": "2026-11-20T16:37:09.302399+00:00"
   },
   {
     "id": "unstop:1820028",
@@ -440,7 +436,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-20T07:56:03.363766+00:00"
+    "discovered_at": "2026-11-20T16:37:07.630870+00:00"
   },
   {
     "id": "unstop:1811349",
@@ -478,14 +474,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-20T07:56:03.368382+00:00"
+    "discovered_at": "2026-11-20T16:37:07.635621+00:00"
   },
   {
     "id": "unstop:1814814",
     "source": "Unstop",
     "title": "Buildfest 2026",
     "url": "https://unstop.com/hackathons/buildfest-2026-learnix-labs-1814814",
-    "description": "BUILDFEST 2026 is a national-level student project showcase competition organized by Learnix Labs, providing students across India with an opportunity to showcase their innovative technology projects, gain recognition, and connect with fellow developers. Whether you have completed a project or are currently developing one, bring your work into the spotlight! Project Domains Projects from all technology domains are welcome, including: Artificial Intelligence and Machine Learning Web and App Development Cybersecurity Data Science and Analytics IoT and Cloud Computing Blockchain and Emerging Technologies Open Source and Social Impact Solutions Other innovative technical projects are also welcome. Participation Process Register: Sign up for BUILDFEST 2026 through Unstop. Publish: Publish your project on the Learnix Labs Project Showcase at https://learnixlabs.in/ . Prepare: Create a project abstract explaining the problem, solution, technologies used, key features, and real-world applications. Submit: Submit your published Learnix Labs project URL and abstract through Unstop. Share: Share your project with the community and receive support through valid upvotes. Competition Format Project submission through Unstop. Project publishing through Learnix Labs. Verification of eligible submissions. Community voting through Learnix Labs. Independent evaluation by the judging panel. Final results and award announcements. Community Choice Award Awarded to the eligible project receiving the highest number of valid community upvotes during the official voting period. Certificates and recognition will be provided as announced by the organizers. Rules and Guidelines Only projects published on Learnix Labs during the official submission period are eligible. Both completed and ongoing projects are welcome. Submission of the Learnix Labs project URL and abstract through Unstop is mandatory. Projects must remain publicly accessible during evaluation and voting. Plagiarism, copied submissions, and misleading information may result in disqualification. Artificial engagement, duplicate accounts, and vote manipulation are strictly prohibited. Incomplete or late submissions will not be considered. Community voting will not influence judges' evaluation or rankings. Organizers reserve the right to verify submissions and voting activity. Judges' and organizers' decisions will be final.",
+    "description": "BUILDFEST 2026 is a national-level student project showcase competition organized by Learnix Labs, providing students across India with an opportunity to showcase their innovative technology projects, gain recognition, and connect with fellow developers. Whether you have completed a project or are currently developing one, bring your work into the spotlight! Project Domains Projects from all technology domains are welcome, including: Artificial Intelligence and Machine Learning Web and App Development Cybersecurity Data Science and Analytics Blockchain and Emerging Technologies Open Source and Social Impact Solutions Other innovative technical projects are also welcome. Participation Process Register: Sign up for BUILDFEST 2026 through Unstop. Publish: Publish your project on the Learnix Labs Project Showcase at https://learnixlabs.in/project . Prepare: Create a project abstract explaining the problem, solution, technologies used, key features, and real-world applications. Submit: Submit your published Learnix Labs project URL and abstract through Unstop. Share: Share your project with the community and receive support through valid upvotes. Competition Format Project submission through Unstop. Project publishing through Learnix Labs. Verification of eligible submissions. Community voting through Learnix Labs. Independent evaluation by the judging panel. Final results and award announcements. Community Choice Award Awarded to the eligible project receiving the highest number of valid community upvotes during the official voting period. Certificates and recognition will be provided as announced by the organizers. Rules and Guidelines Only projects published on Learnix Labs during the official submission period are eligible. Both completed and ongoing projects are welcome. Submission of the Learnix Labs project URL and abstract through Unstop is mandatory. Projects must remain publicly accessible during evaluation and voting. Plagiarism, copied submissions, and misleading information may result in disqualification. Artificial engagement, duplicate accounts, and vote manipulation are strictly prohibited. Incomplete or late submissions will not be considered. Community voting will not influence judges' evaluation or rankings. Organizers reserve the right to verify submissions and voting activity. Judges' and organizers' decisions will be final.",
     "organizer": "Learnix Labs",
     "venue": "Online",
     "mode": "Online",
@@ -513,12 +509,12 @@
     "matched_reasons": [
       "🌐 **Accessible Online Mode** (+15 pts)",
       "👤 **Solo Eligible (1 Member)** (+35 pts)",
-      "🤖 **AI & Software Tracks** (+25 pts) [Artificial Intelligence, Machine Learning, Cloud]"
+      "🤖 **AI & Software Tracks** (+25 pts) [Artificial Intelligence, Machine Learning, Cybersecurity]"
     ],
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-20T07:56:03.363717+00:00"
+    "discovered_at": "2026-11-20T16:37:07.630800+00:00"
   },
   {
     "id": "unstop:1817757",
@@ -556,7 +552,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-20T07:56:03.365619+00:00"
+    "discovered_at": "2026-11-20T16:37:07.631856+00:00"
   },
   {
     "id": "unstop:1811016",
@@ -597,7 +593,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-20T07:56:05.326695+00:00"
+    "discovered_at": "2026-11-20T16:37:09.303206+00:00"
   },
   {
     "id": "unstop:1811493",
@@ -631,7 +627,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-20T07:56:05.326434+00:00"
+    "discovered_at": "2026-11-20T16:37:09.302963+00:00"
   },
   {
     "id": "unstop:1817499",
@@ -665,7 +661,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-20T07:56:03.368055+00:00"
+    "discovered_at": "2026-11-20T16:37:07.634636+00:00"
   },
   {
     "id": "unstop:1817240",
@@ -702,7 +698,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-20T07:56:03.366969+00:00"
+    "discovered_at": "2026-11-20T16:37:07.632787+00:00"
   },
   {
     "id": "hackerearth:contextcon-remember-everything",
@@ -738,7 +734,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-20T07:56:10.858770+00:00"
+    "discovered_at": "2026-11-20T16:37:14.819454+00:00"
   },
   {
     "id": "devpost:30740",
@@ -774,7 +770,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-20T07:56:10.006011+00:00"
+    "discovered_at": "2026-11-20T16:37:13.827610+00:00"
   },
   {
     "id": "devpost:30764",
@@ -810,7 +806,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-20T07:56:10.086427+00:00"
+    "discovered_at": "2026-11-20T16:37:13.984017+00:00"
   },
   {
     "id": "devpost:31787",
@@ -846,14 +842,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-20T07:56:10.006079+00:00"
+    "discovered_at": "2026-11-20T16:37:13.827673+00:00"
   },
   {
     "id": "devpost:31642",
     "source": "Devpost",
     "title": "AWS MSP AI Hackathon",
     "url": "https://aws-agentic-msp.devpost.com/",
-    "description": "Devpost hackathon. 22 days left",
+    "description": "Devpost hackathon. 21 days left",
     "organizer": "AWS",
     "venue": "Online",
     "mode": "Online",
@@ -882,7 +878,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-20T07:56:10.006031+00:00"
+    "discovered_at": "2026-11-20T16:37:13.827631+00:00"
   },
   {
     "id": "devpost:31083",
@@ -918,14 +914,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-20T07:56:09.907734+00:00"
+    "discovered_at": "2026-11-20T16:37:13.665838+00:00"
   },
   {
     "id": "devpost:31480",
     "source": "Devpost",
     "title": "AI Agents for Founders Challenge — HETIC 2026",
     "url": "https://ai-agents-founders-hetic-26.devpost.com/",
-    "description": "Devpost hackathon. 29 days left",
+    "description": "Devpost hackathon. 28 days left",
     "organizer": "HETIC",
     "venue": "Online",
     "mode": "Online",
@@ -954,14 +950,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-20T07:56:10.086397+00:00"
+    "discovered_at": "2026-11-20T16:37:13.984000+00:00"
   },
   {
     "id": "devpost:31972",
     "source": "Devpost",
     "title": "SLAY HACKS",
     "url": "https://slayy-hacks.devpost.com/",
-    "description": "Devpost hackathon. 18 days left",
+    "description": "Devpost hackathon. 17 days left",
     "organizer": "cite & slayy",
     "venue": "Online",
     "mode": "Online",
@@ -990,14 +986,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-20T07:56:10.086434+00:00"
+    "discovered_at": "2026-11-20T16:37:13.984010+00:00"
   },
   {
     "id": "devpost:31973",
     "source": "Devpost",
     "title": "Deck the Pixels",
     "url": "https://deckthepixels.devpost.com/",
-    "description": "Devpost hackathon. 18 days left",
+    "description": "Devpost hackathon. 17 days left",
     "organizer": "Google",
     "venue": "Online",
     "mode": "Online",
@@ -1026,14 +1022,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-20T07:56:09.907751+00:00"
+    "discovered_at": "2026-11-20T16:37:13.665851+00:00"
   },
   {
     "id": "devpost:32079",
     "source": "Devpost",
     "title": "Learn AR with SPECS",
     "url": "https://learn-specs.devpost.com/",
-    "description": "Devpost hackathon. 18 days left",
+    "description": "Devpost hackathon. 17 days left",
     "organizer": "Devpost",
     "venue": "Online",
     "mode": "Online",
@@ -1062,14 +1058,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-20T07:56:10.006041+00:00"
+    "discovered_at": "2026-11-20T16:37:13.827639+00:00"
   },
   {
     "id": "devpost:31808",
     "source": "Devpost",
     "title": "#BuildHybridAI 2026",
     "url": "https://firebasehybridaihackathon.devpost.com/",
-    "description": "Devpost hackathon. 11 days left",
+    "description": "Devpost hackathon. 10 days left",
     "organizer": "Google",
     "venue": "Online",
     "mode": "Online",
@@ -1098,14 +1094,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-20T07:56:09.907724+00:00"
+    "discovered_at": "2026-11-20T16:37:13.665830+00:00"
   },
   {
     "id": "devpost:32024",
     "source": "Devpost",
     "title": "Relate by Neo4j Hackathon",
     "url": "https://relate.devpost.com/",
-    "description": "Devpost hackathon. 22 days left",
+    "description": "Devpost hackathon. 21 days left",
     "organizer": "Neo4j",
     "venue": "Online",
     "mode": "Online",
@@ -1134,7 +1130,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-20T07:56:10.006050+00:00"
+    "discovered_at": "2026-11-20T16:37:13.827646+00:00"
   },
   {
     "id": "devpost:32026",
@@ -1170,7 +1166,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-20T07:56:09.907758+00:00"
+    "discovered_at": "2026-11-20T16:37:13.665858+00:00"
   },
   {
     "id": "devpost:31571",
@@ -1206,7 +1202,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-20T07:56:09.907774+00:00"
+    "discovered_at": "2026-11-20T16:37:13.665871+00:00"
   },
   {
     "id": "devpost:31886",
@@ -1242,7 +1238,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-20T07:56:10.086440+00:00"
+    "discovered_at": "2026-11-20T16:37:13.984024+00:00"
   },
   {
     "id": "hackerearth:groww-next-2026",
@@ -1278,14 +1274,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-20T07:56:10.858795+00:00"
+    "discovered_at": "2026-11-20T16:37:14.819480+00:00"
   },
   {
     "id": "devpost:31796",
     "source": "Devpost",
     "title": "SafeSpace Hacks - Judges Needed",
     "url": "https://safespace-hacks.devpost.com/",
-    "description": "Devpost hackathon. 20 days left",
+    "description": "Devpost hackathon. 19 days left",
     "organizer": "SafeSpace",
     "venue": "Online",
     "mode": "Online",
@@ -1314,14 +1310,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-20T07:56:10.006086+00:00"
+    "discovered_at": "2026-11-20T16:37:13.983978+00:00"
   },
   {
     "id": "devpost:31789",
     "source": "Devpost",
     "title": "STEM2Connect AI Hackathon",
     "url": "https://stem2connect-online-hackathon.devpost.com/",
-    "description": "Devpost hackathon. 2 days left",
+    "description": "Devpost hackathon. 1 day left",
     "organizer": "STEM2Connect",
     "venue": "Online",
     "mode": "Online",
@@ -1350,7 +1346,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-20T07:56:10.006066+00:00"
+    "discovered_at": "2026-11-20T16:37:13.827659+00:00"
   },
   {
     "id": "devpost:30789",
@@ -1386,14 +1382,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-20T07:56:09.907766+00:00"
+    "discovered_at": "2026-11-20T16:37:13.665864+00:00"
   },
   {
     "id": "devpost:26475",
     "source": "Devpost",
     "title": "Dakar Bitcoin Hack by BTrust",
     "url": "https://dakar-bitcoin-hack-2026.devpost.com/",
-    "description": "Devpost hackathon. about 12 hours left",
+    "description": "Devpost hackathon. about 4 hours left",
     "organizer": "Dakar Bitcoin Days",
     "venue": "Online",
     "mode": "Online",
@@ -1422,7 +1418,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-20T07:56:10.086453+00:00"
+    "discovered_at": "2026-11-20T16:37:13.984031+00:00"
   },
   {
     "id": "devpost:31572",
@@ -1458,14 +1454,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-20T07:56:09.907711+00:00"
+    "discovered_at": "2026-11-20T16:37:13.665815+00:00"
   },
   {
     "id": "devpost:31907",
     "source": "Devpost",
     "title": "Build Your First AI App",
     "url": "https://build-your-first-ai-app.devpost.com/",
-    "description": "Devpost hackathon. 8 days left",
+    "description": "Devpost hackathon. 7 days left",
     "organizer": "Yasir Insights",
     "venue": "Online",
     "mode": "Online",
@@ -1494,14 +1490,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-20T07:56:10.006059+00:00"
+    "discovered_at": "2026-11-20T16:37:13.827653+00:00"
   },
   {
     "id": "devpost:31667",
     "source": "Devpost",
     "title": "Kiroween 2026",
     "url": "https://kiroween.devpost.com/",
-    "description": "Devpost hackathon. 15 days left",
+    "description": "Devpost hackathon. 14 days left",
     "organizer": "Kiro",
     "venue": "Online",
     "mode": "Online",
@@ -1530,7 +1526,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-20T07:56:09.907685+00:00"
+    "discovered_at": "2026-11-20T16:37:13.665787+00:00"
   },
   {
     "id": "unstop:1818639",
@@ -1563,7 +1559,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-20T07:56:03.363594+00:00"
+    "discovered_at": "2026-11-20T16:37:07.631066+00:00"
   },
   {
     "id": "unstop:1811240",
@@ -1602,7 +1598,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-20T07:56:05.326551+00:00"
+    "discovered_at": "2026-11-20T16:37:09.303070+00:00"
   },
   {
     "id": "unstop:1818894",
@@ -1641,7 +1637,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-20T07:56:03.364307+00:00"
+    "discovered_at": "2026-11-20T16:37:07.631686+00:00"
   },
   {
     "id": "unstop:1781454",
@@ -1680,7 +1676,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-20T07:56:05.327730+00:00"
+    "discovered_at": "2026-11-20T16:37:09.303866+00:00"
   },
   {
     "id": "unstop:1817389",
@@ -1719,7 +1715,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-20T07:56:03.368208+00:00"
+    "discovered_at": "2026-11-20T16:37:07.634755+00:00"
   },
   {
     "id": "unstop:1770707",
@@ -1755,14 +1751,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-20T07:56:03.366614+00:00"
+    "discovered_at": "2026-11-20T16:37:07.632624+00:00"
   },
   {
     "id": "devpost:31746",
     "source": "Devpost",
     "title": "University Blockchain Conference Hackathon 2026",
     "url": "https://ubc-hackathon-2026.devpost.com/",
-    "description": "Devpost hackathon. about 10 hours left",
+    "description": "Devpost hackathon. about 1 hour left",
     "organizer": "college.xyz",
     "venue": "University of Texas at Austin",
     "mode": "In-Person",
@@ -1790,7 +1786,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-20T07:56:10.086418+00:00"
+    "discovered_at": "2026-11-20T16:37:13.827680+00:00"
   },
   {
     "id": "unstop:1811085",
@@ -1823,7 +1819,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-20T07:56:05.326625+00:00"
+    "discovered_at": "2026-11-20T16:37:09.303141+00:00"
   },
   {
     "id": "devpost:31108",
@@ -1858,14 +1854,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-20T07:56:10.086447+00:00"
+    "discovered_at": "2026-11-20T16:37:13.984038+00:00"
   },
   {
     "id": "devpost:31644",
     "source": "Devpost",
     "title": "Reddit’s Game of the Day Hackathon",
     "url": "https://redditgameofday2026.devpost.com/",
-    "description": "Devpost hackathon. 19 days left",
+    "description": "Devpost hackathon. 18 days left",
     "organizer": "reddit",
     "venue": "Online",
     "mode": "Online",
@@ -1892,14 +1888,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-20T07:56:09.907743+00:00"
+    "discovered_at": "2026-11-20T16:37:13.665845+00:00"
   },
   {
     "id": "devpost:31773",
     "source": "Devpost",
     "title": "LaunchPad Hacks (580k In Prizes!)",
     "url": "https://launchpad-hacks.devpost.com/",
-    "description": "Devpost hackathon. 15 days left",
+    "description": "Devpost hackathon. 14 days left",
     "organizer": "Hack4TodayOrg",
     "venue": "Online",
     "mode": "Online",
@@ -1926,7 +1922,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-20T07:56:10.006072+00:00"
+    "discovered_at": "2026-11-20T16:37:13.827666+00:00"
   },
   {
     "id": "devpost:31795",
@@ -1961,14 +1957,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-20T07:56:10.086459+00:00"
+    "discovered_at": "2026-11-20T16:37:13.984046+00:00"
   },
   {
     "id": "devpost:31797",
     "source": "Devpost",
     "title": "Green Shift Hacks",
     "url": "https://green-shift-hacks.devpost.com/",
-    "description": "Devpost hackathon. 21 days left",
+    "description": "Devpost hackathon. 20 days left",
     "organizer": "HackathonForEveryone",
     "venue": "Online",
     "mode": "Online",
@@ -1995,7 +1991,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-20T07:56:10.086466+00:00"
+    "discovered_at": "2026-11-20T16:37:13.984052+00:00"
   },
   {
     "id": "unstop:1798287",
@@ -2028,7 +2024,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-20T07:56:05.327039+00:00"
+    "discovered_at": "2026-11-20T16:37:09.303535+00:00"
   },
   {
     "id": "unstop:1814263",
@@ -2069,7 +2065,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-20T07:56:03.368307+00:00"
+    "discovered_at": "2026-11-20T16:37:07.634850+00:00"
   },
   {
     "id": "unstop:1810268",
@@ -2103,7 +2099,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-20T07:56:05.326803+00:00"
+    "discovered_at": "2026-11-20T16:37:09.303307+00:00"
   },
   {
     "id": "unstop:1806016",
@@ -2142,7 +2138,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-20T07:56:03.365304+00:00"
+    "discovered_at": "2026-11-20T16:37:07.633528+00:00"
   },
   {
     "id": "unstop:1810370",
@@ -2175,7 +2171,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-20T07:56:03.368590+00:00"
+    "discovered_at": "2026-11-20T16:37:09.302527+00:00"
   },
   {
     "id": "unstop:1809486",
@@ -2208,6 +2204,6 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-20T07:56:05.327191+00:00"
+    "discovered_at": "2026-11-20T16:37:09.303662+00:00"
   }
 ]

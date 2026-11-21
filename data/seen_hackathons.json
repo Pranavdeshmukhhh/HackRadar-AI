@@ -3562,5 +3562,41 @@
     "last_notified": "2026-11-20T22:53:46.196066+00:00",
     "is_nagpur_local": false,
     "solo_allowed": true
+  },
+  "unstop:1822078": {
+    "title": "Promptwars ",
+    "url": "https://unstop.com/hackathons/promptwars-techverse-solutions-1822078",
+    "score": 75,
+    "source": "Unstop",
+    "last_notified": "2026-11-21T11:56:32.274615+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:1820715": {
+    "title": "Tauras by Revat: Crypto Trading Hackathon | Prove Your Edge, Then Trade It Live",
+    "url": "https://unstop.com/hackathons/tauras-by-revat-crypto-trading-hackathon-prove-your-edge-then-trade-it-live-revat-crypto-fund-1820715",
+    "score": 75,
+    "source": "Unstop",
+    "last_notified": "2026-11-21T11:56:32.274615+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "devpost:31826": {
+    "title": "Global AI Builder’s Challenge",
+    "url": "https://global-ai-builders-challenge.devpost.com/",
+    "score": 75,
+    "source": "Devpost",
+    "last_notified": "2026-11-21T11:56:32.274615+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:1821962": {
+    "title": "ThinCovation 2026",
+    "url": "https://unstop.com/hackathons/thincovation-2026-thincovation-2026-mdi-1821962",
+    "score": 50,
+    "source": "Unstop",
+    "last_notified": "2026-11-21T11:56:32.274615+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
   }
 }

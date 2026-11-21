@@ -3643,5 +3643,23 @@
     "last_notified": "2026-11-21T18:38:07.179138+00:00",
     "is_nagpur_local": false,
     "solo_allowed": false
+  },
+  "unstop:1821954": {
+    "title": "AI-Powered Career Development Hackathon",
+    "url": "https://unstop.com/hackathons/ai-powered-career-development-hackathon-unsaidtalks-education-1821954",
+    "score": 75,
+    "source": "Unstop",
+    "last_notified": "2026-11-21T23:39:31.382870+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:1821984": {
+    "title": "PromptWars x Quad Patna",
+    "url": "https://unstop.com/hackathons/promptwars-x-quad-patna-quad-ai-school-of-technology-management-1821984",
+    "score": 60,
+    "source": "Unstop",
+    "last_notified": "2026-11-21T23:39:31.382870+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
   }
 }

@@ -3598,5 +3598,50 @@
     "last_notified": "2026-11-21T11:56:32.274615+00:00",
     "is_nagpur_local": false,
     "solo_allowed": true
+  },
+  "unstop:1820882": {
+    "title": "EinoHacks",
+    "url": "https://unstop.com/hackathons/einohacks-altairx-tech-1820882",
+    "score": 75,
+    "source": "Unstop",
+    "last_notified": "2026-11-21T18:38:07.179138+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:1822588": {
+    "title": "Mogoj Dholai",
+    "url": "https://unstop.com/hackathons/mogoj-dholai-kernel-10-department-of-information-technology-jadavpur-university-1822588",
+    "score": 75,
+    "source": "Unstop",
+    "last_notified": "2026-11-21T18:38:07.179138+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:1822587": {
+    "title": "Hojohborolo",
+    "url": "https://unstop.com/hackathons/hojohborolo-kernel-10-department-of-information-technology-jadavpur-university-1822587",
+    "score": 50,
+    "source": "Unstop",
+    "last_notified": "2026-11-21T18:38:07.179138+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:1819682": {
+    "title": "BIOFORGE 2026 – Interdisciplinary Healthcare Innovation Hackathon",
+    "url": "https://unstop.com/hackathons/bioforge-2026-interdisciplinary-healthcare-innovation-hackathon-dayananda-sagar-college-of-engineering-dsce-b-1819682",
+    "score": 40,
+    "source": "Unstop",
+    "last_notified": "2026-11-21T18:38:07.179138+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": false
+  },
+  "unstop:1822546": {
+    "title": "Data Nilaam",
+    "url": "https://unstop.com/hackathons/data-nilaam-kernel-10-department-of-information-technology-jadavpur-university-1822546",
+    "score": 40,
+    "source": "Unstop",
+    "last_notified": "2026-11-21T18:38:07.179138+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": false
   }
 }

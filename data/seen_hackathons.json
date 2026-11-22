@@ -3661,5 +3661,50 @@
     "last_notified": "2026-11-21T23:39:31.382870+00:00",
     "is_nagpur_local": false,
     "solo_allowed": true
+  },
+  "unstop:1820870": {
+    "title": "AWS Winter League 2026",
+    "url": "https://unstop.com/hackathons/aws-winter-league-2026-rajiv-gandhi-university-of-knowledge-technologies-rgukt-nuzvid-1820870",
+    "score": 75,
+    "source": "Unstop",
+    "last_notified": "2026-11-22T12:58:35.252002+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:1821912": {
+    "title": "Claude Build Challenge 2026",
+    "url": "https://unstop.com/hackathons/claude-build-challenge-2026-sage-university-bhopal-1821912",
+    "score": 75,
+    "source": "Unstop",
+    "last_notified": "2026-11-22T12:58:35.252002+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:1822209": {
+    "title": "IIT Bombay Physical AI Hackathon",
+    "url": "https://unstop.com/hackathons/iit-bombay-physical-ai-hackathon-iit-bombay-1822209",
+    "score": 65,
+    "source": "Unstop",
+    "last_notified": "2026-11-22T12:58:35.252002+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": false
+  },
+  "unstop:1822884": {
+    "title": "ELUCode - 9",
+    "url": "https://unstop.com/hackathons/elucode-9-edulinkup-1822884",
+    "score": 50,
+    "source": "Unstop",
+    "last_notified": "2026-11-22T12:58:35.252002+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:1823379": {
+    "title": "Hack 2027",
+    "url": "https://unstop.com/hackathons/hack-2027-saveetha-university-1823379",
+    "score": 40,
+    "source": "Unstop",
+    "last_notified": "2026-11-22T12:58:35.252002+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": false
   }
 }

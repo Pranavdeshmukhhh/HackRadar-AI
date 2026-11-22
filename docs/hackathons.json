@@ -33,7 +33,7 @@
     "is_nagpur_local": true,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-22T04:23:33.663029+00:00"
+    "discovered_at": "2026-11-22T12:58:32.574684+00:00"
   },
   {
     "id": "college:mindsparkorg",
@@ -69,7 +69,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": true,
     "is_active": true,
-    "discovered_at": "2026-11-22T04:23:33.816199+00:00"
+    "discovered_at": "2026-11-22T12:58:33.007472+00:00"
   },
   {
     "id": "unstop:1820882",
@@ -85,7 +85,7 @@
     "country": null,
     "start_date": "2026-11-20T00:00:00+05:30",
     "end_date": "2026-11-23T18:01:00+05:30",
-    "registration_deadline": "2026-11-22T18:00:00+05:30",
+    "registration_deadline": "2026-11-23T16:00:00+05:30",
     "min_team_size": 1,
     "max_team_size": 1,
     "solo_allowed": true,
@@ -109,7 +109,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-22T04:23:25.351288+00:00"
+    "discovered_at": "2026-11-22T12:58:24.941026+00:00"
   },
   {
     "id": "unstop:1817686",
@@ -143,7 +143,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-22T04:23:25.352563+00:00"
+    "discovered_at": "2026-11-22T12:58:24.942442+00:00"
   },
   {
     "id": "unstop:1817798",
@@ -181,7 +181,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-22T04:23:27.688274+00:00"
+    "discovered_at": "2026-11-22T12:58:26.845850+00:00"
   },
   {
     "id": "unstop:1821954",
@@ -215,7 +215,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-22T04:23:25.351780+00:00"
+    "discovered_at": "2026-11-22T12:58:24.941403+00:00"
   },
   {
     "id": "unstop:1818968",
@@ -255,7 +255,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-22T04:23:25.353229+00:00"
+    "discovered_at": "2026-11-22T12:58:26.844152+00:00"
   },
   {
     "id": "unstop:1817749",
@@ -289,7 +289,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-22T04:23:27.688339+00:00"
+    "discovered_at": "2026-11-22T12:58:26.845934+00:00"
   },
   {
     "id": "unstop:1817737",
@@ -323,7 +323,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-22T04:23:25.353300+00:00"
+    "discovered_at": "2026-11-22T12:58:26.844263+00:00"
   },
   {
     "id": "unstop:1822588",
@@ -357,7 +357,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-22T04:23:25.351099+00:00"
+    "discovered_at": "2026-11-22T12:58:24.940784+00:00"
   },
   {
     "id": "unstop:1820715",
@@ -391,7 +391,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-22T04:23:25.351727+00:00"
+    "discovered_at": "2026-11-22T12:58:24.941992+00:00"
   },
   {
     "id": "unstop:1818490",
@@ -425,7 +425,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": true,
     "is_active": true,
-    "discovered_at": "2026-11-22T04:23:25.353395+00:00"
+    "discovered_at": "2026-11-22T12:58:26.844385+00:00"
   },
   {
     "id": "unstop:1782995",
@@ -465,7 +465,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-22T04:23:25.353583+00:00"
+    "discovered_at": "2026-11-22T12:58:26.844643+00:00"
   },
   {
     "id": "unstop:1814002",
@@ -502,7 +502,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-22T04:23:27.688833+00:00"
+    "discovered_at": "2026-11-22T12:58:26.846669+00:00"
   },
   {
     "id": "unstop:1820028",
@@ -536,7 +536,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-22T04:23:25.352415+00:00"
+    "discovered_at": "2026-11-22T12:58:24.942219+00:00"
   },
   {
     "id": "unstop:1811349",
@@ -574,14 +574,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-22T04:23:27.688749+00:00"
+    "discovered_at": "2026-11-22T12:58:26.846564+00:00"
   },
   {
     "id": "unstop:1814814",
     "source": "Unstop",
-    "title": "Buildfest 2026",
+    "title": "BUILDFEST 2026 – National Student Hackathon",
     "url": "https://unstop.com/hackathons/buildfest-2026-learnix-labs-1814814",
-    "description": "BUILDFEST 2026 is a national-level student project showcase competition organized by Learnix Labs, providing students across India with an opportunity to showcase their innovative technology projects, gain recognition, and connect with fellow developers. Whether you have completed a project or are currently developing one, bring your work into the spotlight! Project Domains Projects from all technology domains are welcome, including: Artificial Intelligence and Machine Learning Web and App Development Cybersecurity Data Science and Analytics Blockchain and Emerging Technologies Open Source and Social Impact Solutions Other innovative technical projects are also welcome. Participation Process Register: Sign up for BUILDFEST 2026 through Unstop. Publish: Publish your project on the Learnix Labs Project Showcase at https://learnixlabs.in/project . Prepare: Create a project abstract explaining the problem, solution, technologies used, key features, and real-world applications. Submit: Submit your published Learnix Labs project URL and abstract through Unstop. Share: Share your project with the community and receive support through valid upvotes. Competition Format Project submission through Unstop. Project publishing through Learnix Labs. Verification of eligible submissions. Community voting through Learnix Labs. Independent evaluation by the judging panel. Final results and award announcements. Community Choice Award Awarded to the eligible project receiving the highest number of valid community upvotes during the official voting period. Certificates and recognition will be provided as announced by the organizers. Rules and Guidelines Only projects published on Learnix Labs during the official submission period are eligible. Both completed and ongoing projects are welcome. Submission of the Learnix Labs project URL and abstract through Unstop is mandatory. Projects must remain publicly accessible during evaluation and voting. Plagiarism, copied submissions, and misleading information may result in disqualification. Artificial engagement, duplicate accounts, and vote manipulation are strictly prohibited. Incomplete or late submissions will not be considered. Community voting will not influence judges' evaluation or rankings. Organizers reserve the right to verify submissions and voting activity. Judges' and organizers' decisions will be final.",
+    "description": "BUILDFEST 2026 is a National-Level Student Hackathon organized by Learnix Labs, providing students across India with an opportunity to showcase their innovative technology projects, gain recognition, and connect with fellow developers. Whether you have completed a project or are currently developing one, bring your work into the spotlight! Project Domains Projects from all technology domains are welcome, including: Artificial Intelligence and Machine Learning Web and App Development Cybersecurity Data Science and Analytics Blockchain and Emerging Technologies Open Source and Social Impact Solutions Other innovative technical projects are also welcome. Participation Process Register: Sign up for BUILDFEST 2026 through Unstop. Publish: Publish your project on the Learnix Labs Project Showcase at https://learnixlabs.in/project . Prepare: Create a project abstract explaining the problem, solution, technologies used, key features, and real-world applications. Submit: Submit your published Learnix Labs project URL and abstract through Unstop. Share: Share your project with the community and receive support through valid upvotes. Competition Format Project submission through Unstop. Project publishing through Learnix Labs. Verification of eligible submissions. Community voting through Learnix Labs. Independent evaluation by the judging panel. Final results and award announcements. Community Choice Award Awarded to the eligible project receiving the highest number of valid community upvotes during the official voting period. Certificates and recognition will be provided as announced by the organizers. Rules and Guidelines Only projects published on Learnix Labs during the official submission period are eligible. Both completed and ongoing projects are welcome. Submission of the Learnix Labs project URL and abstract through Unstop is mandatory. Projects must remain publicly accessible during evaluation and voting. Plagiarism, copied submissions, and misleading information may result in disqualification. Artificial engagement, duplicate accounts, and vote manipulation are strictly prohibited. Incomplete or late submissions will not be considered. Community voting will not influence judges' evaluation or rankings. Organizers reserve the right to verify submissions and voting activity. Judges' and organizers' decisions will be final.",
     "organizer": "Learnix Labs",
     "venue": "Online",
     "mode": "Online",
@@ -614,7 +614,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-22T04:23:25.351888+00:00"
+    "discovered_at": "2026-11-22T12:58:24.942077+00:00"
   },
   {
     "id": "unstop:1817757",
@@ -652,7 +652,79 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-22T04:23:25.352140+00:00"
+    "discovered_at": "2026-11-22T12:58:24.942886+00:00"
+  },
+  {
+    "id": "unstop:1820870",
+    "source": "Unstop",
+    "title": "AWS Winter League 2026",
+    "url": "https://unstop.com/hackathons/aws-winter-league-2026-rajiv-gandhi-university-of-knowledge-technologies-rgukt-nuzvid-1820870",
+    "description": "Overview Learn. Build. Compete. Win. Three Challenges. One League. Endless Possibilities. Welcome to AWS Winter League 2026 , a multi-stage technology competition designed to encourage students and aspiring developers to explore cloud computing, build real-world applications, and showcase their technical and creative skills using Amazon Web Services (AWS). This league takes participants through three exciting challenges, starting with AWS Builder Center registration and student verification, progressing to professional community engagement on LinkedIn, and culminating in the Main Challenge &mdash; building a website using AWS services and sharing your project journey with the developer community. Whether you're beginning your cloud journey or already building applications, AWS Winter League is an opportunity to learn by doing, demonstrate your skills, connect with the builder community, and compete for exciting rewards. Total Prize Pool: $10,000 USD 100 Best Participants | Rewards Worth Up to $100 Each THE THREE CHALLENGES AWS Winter League 2026 consists of three stages. Each challenge has a specific opening date and submission deadline. Participants must complete the required activities within the announced timeline. Challenge 1: AWS Builder Center Registration &amp; Student Verification 1 December &ndash; 20 December 2026 Your first step into the AWS Builder Community! Get started by creating your AWS Builder ID, completing your student verification, and registering for AWS Winter League 2026. What you need to do: Visit AWS Builder Center. Sign in or create your free AWS Builder ID. Complete your student status verification through the available verification process. Fill out the official Challenge 1 registration form. Important: The registration form link and detailed instructions will be shared through the official communication channels. Challenge 2: LinkedIn Community Challenge 8 December &ndash; 20 December 2026 Share your AWS journey. Build your professional presence! Showcase your participation in AWS Winter League 2026 and your journey with AWS Builder Center through LinkedIn. What you need to do: Create a LinkedIn post highlighting your participation in AWS Winter League 2026 and your AWS Builder Center journey. Mention/tag the official AWS account as instructed in the challenge guidelines. Share your post publicly. Submit your LinkedIn post link through the official Challenge 2 submission form. Note: Detailed posting guidelines, tagging instructions, and the submission form will be shared before the challenge begins. Main Challenge: Build with AWS 15 December &ndash; 20 December 2026 Turn your ideas into real-world applications! This is the main technical challenge of AWS Winter League 2026. Participants will demonstrate their development skills by building a website or web application using AWS services. What you need to do: Build a functional website or web application using one or more AWS services. Implement AWS services meaningfully in your project. Document your project, including its concept, features, technology stack, and AWS services used. Publish a technical project article on AWS Builder Center. Submit your project and published article details according to the official Main Challenge submission guidelines. What can you build? Explore ideas across domains such as: Artificial Intelligence and Generative AI Cloud-powered web applications Serverless applications Data analytics and dashboards Automation and productivity tools Innovative solutions for real-world problems Creativity, meaningful AWS integration, functionality, and project documentation will be important aspects of the challenge. Note: Detailed evaluation criteria, submission instructions, and deadlines will be announced before the Main Challenge starts. Rewards Your skills, creativity, and participation could take you one step closer to exciting rewards! Total Prize Pool: $10,000 USD 100 Best Participants will be selected for rewards worth up to $100 USD per winner . The final reward distribution, winner selection process, and applicable terms will be communicated through the official event channels. Timeline Mark your calendars! Here is the complete AWS Winter League 2026 schedule. Challenge 1 &ndash; AWS Builder Center Registration Opening Date: 1 December 2026 Deadline: 20 December 2026 Challenge 2 &ndash; LinkedIn Community Challenge Opening Date: 8 December 2026 Deadline: 20 December 2026 Main Challenge &ndash; Build with AWS Opening Date: 15 December 2026 Deadline: 20 December 2026 Winners Announcement Date: 25 December 2026 All challenge submissions must be completed by 20 December 2026. Winners will be announced on 25 December 2026 through the official communication channels. GET STARTED WITH AWS BUILDER CENTER AWS Builder Center is a community platform where developers can learn, build, share knowledge, and connect with fellow builders. By joining AWS Builder Center, you can: Explore learning resources on cloud computing, Generative AI, and emerging technologies. Participate in hands-on learning experiences and community activities. Publish technical articles and share your projects. Connect with AWS experts, community builders, and fellow developers. Explore student-focused benefits and opportunities, subject to eligibility and applicable terms. Instructions Complete each challenge within its respective timeline. Follow the official instructions and submission guidelines for every stage. Use your own AWS Builder ID and provide accurate registration information. Submit genuine work and original project content. Keep your LinkedIn post and AWS Builder Center article accessible for verification. Only eligible and verified submissions will be considered for evaluation. Detailed challenge instructions, submission forms, and evaluation criteria will be shared through official communication channels. Rewards are subject to the final selection process, verification, and applicable terms and conditions. YOUR WINTER. YOUR IDEAS. YOUR BUILD. Don't just learn about cloud technology &mdash; build something with it. Take on all three challenges, explore the AWS ecosystem, showcase your creativity, and compete with builders from across the community. AWS WINTER LEAGUE 2026 Learn. Build. Compete. Win. Your cloud-building journey starts here!",
+    "organizer": "Rajiv Gandhi University of Knowledge Technologies (RGUKT), Nuzvid",
+    "venue": "Online",
+    "mode": "Online",
+    "city": null,
+    "state": "online",
+    "country": null,
+    "start_date": "2026-11-20T00:00:00+05:30",
+    "end_date": "2026-12-25T23:59:00+05:30",
+    "registration_deadline": "2026-12-20T23:59:00+05:30",
+    "min_team_size": 1,
+    "max_team_size": 1,
+    "solo_allowed": true,
+    "eligibility": "Open to college students & coders",
+    "prize_pool": "Prizes & Certificates",
+    "tracks": [
+      "All"
+    ],
+    "score": 75,
+    "matched_reasons": [
+      "🌐 **Accessible Online Mode** (+15 pts)",
+      "👤 **Solo Eligible (1 Member)** (+35 pts)",
+      "🤖 **AI & Software Tracks** (+25 pts) [AI, Artificial Intelligence, Generative Ai]"
+    ],
+    "is_nagpur_local": false,
+    "is_maharashtra": false,
+    "is_active": true,
+    "discovered_at": "2026-11-22T12:58:24.941330+00:00"
+  },
+  {
+    "id": "unstop:1821912",
+    "source": "Unstop",
+    "title": "Claude Build Challenge 2026",
+    "url": "https://unstop.com/hackathons/claude-build-challenge-2026-sage-university-bhopal-1821912",
+    "description": "Overview Put your AI knowledge to the test! Claude Build Challenge 2026 is a fast-paced online quiz designed for students, developers, and tech enthusiasts to showcase their understanding of Claude AI, generative AI fundamentals, and prompt engineering. About the Quiz This challenge is a straightforward, knowledge-based competition focused on speed and accuracy. Whether you are just getting started with AI or actively exploring large language models, this quiz is a great way to benchmark your skills and earn recognition. Quiz Format &amp; Details Mode: Online (hosted on Unstop) Participation: Individual (Solo) Format: Multiple Choice Questions (MCQs) Eligibility: Open to all undergraduate/postgraduate students and tech enthusiasts. Rules &amp; Guidelines All participants must complete the quiz within the given time window. Each question carries equal weightage, with no negative marking (update if applicable). Tie-Breaker: In case of a tie in scores, the participant who finishes in less time will be ranked higher. Participants can only attempt the quiz once; multiple entries will lead to disqualification. The decision of the organizing team will be final and binding. Rewards &amp; Certificates Winners: Winner Certificates Participation: Verified Participation Certificates for all participants who successfully complete the quiz.",
+    "organizer": "SAGE University Bhopal",
+    "venue": "Online",
+    "mode": "Online",
+    "city": null,
+    "state": "online",
+    "country": null,
+    "start_date": "2026-11-21T00:00:00+05:30",
+    "end_date": "2026-12-25T23:59:00+05:30",
+    "registration_deadline": "2026-12-25T23:59:00+05:30",
+    "min_team_size": 1,
+    "max_team_size": 1,
+    "solo_allowed": true,
+    "eligibility": "Undergraduate / Postgraduate & Engineering students",
+    "prize_pool": "Prizes & Certificates",
+    "tracks": [
+      "Engineering Students",
+      "Postgraduate",
+      "Undergraduate",
+      "Management",
+      "Arts, Commerce, Sciences & Others"
+    ],
+    "score": 75,
+    "matched_reasons": [
+      "🌐 **Accessible Online Mode** (+15 pts)",
+      "👤 **Solo Eligible (1 Member)** (+35 pts)",
+      "🤖 **AI & Software Tracks** (+25 pts) [AI, Generative Ai]"
+    ],
+    "is_nagpur_local": false,
+    "is_maharashtra": false,
+    "is_active": true,
+    "discovered_at": "2026-11-22T12:58:24.940559+00:00"
   },
   {
     "id": "unstop:1811493",
@@ -686,7 +758,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-22T04:23:27.689269+00:00"
+    "discovered_at": "2026-11-22T12:58:26.847203+00:00"
   },
   {
     "id": "unstop:1817499",
@@ -720,7 +792,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-22T04:23:27.688533+00:00"
+    "discovered_at": "2026-11-22T12:58:26.846281+00:00"
   },
   {
     "id": "unstop:1817240",
@@ -757,7 +829,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-22T04:23:27.688080+00:00"
+    "discovered_at": "2026-11-22T12:58:26.845597+00:00"
   },
   {
     "id": "hackerearth:contextcon-remember-everything",
@@ -793,7 +865,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-22T04:23:32.674634+00:00"
+    "discovered_at": "2026-11-22T12:58:31.546433+00:00"
   },
   {
     "id": "devpost:30740",
@@ -829,7 +901,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-22T04:23:31.900414+00:00"
+    "discovered_at": "2026-11-22T12:58:30.674374+00:00"
   },
   {
     "id": "devpost:30764",
@@ -865,7 +937,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-22T04:23:31.991369+00:00"
+    "discovered_at": "2026-11-22T12:58:30.778918+00:00"
   },
   {
     "id": "devpost:31787",
@@ -901,14 +973,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-22T04:23:31.900459+00:00"
+    "discovered_at": "2026-11-22T12:58:30.674428+00:00"
   },
   {
     "id": "devpost:31642",
     "source": "Devpost",
     "title": "AWS MSP AI Hackathon",
     "url": "https://aws-agentic-msp.devpost.com/",
-    "description": "Devpost hackathon. 20 days left",
+    "description": "Devpost hackathon. 19 days left",
     "organizer": "AWS",
     "venue": "Online",
     "mode": "Online",
@@ -937,14 +1009,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-22T04:23:31.900434+00:00"
+    "discovered_at": "2026-11-22T12:58:30.674388+00:00"
   },
   {
     "id": "devpost:31083",
     "source": "Devpost",
     "title": "QNX Global Hackathon",
     "url": "https://qnx.devpost.com/",
-    "description": "Devpost hackathon. 24 days left",
+    "description": "Devpost hackathon. 23 days left",
     "organizer": "QNX",
     "venue": "Online",
     "mode": "Online",
@@ -973,14 +1045,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-22T04:23:31.817471+00:00"
+    "discovered_at": "2026-11-22T12:58:30.592966+00:00"
   },
   {
     "id": "devpost:31480",
     "source": "Devpost",
     "title": "AI Agents for Founders Challenge — HETIC 2026",
     "url": "https://ai-agents-founders-hetic-26.devpost.com/",
-    "description": "Devpost hackathon. 27 days left",
+    "description": "Devpost hackathon. 26 days left",
     "organizer": "HETIC",
     "venue": "Online",
     "mode": "Online",
@@ -1009,14 +1081,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-22T04:23:31.991364+00:00"
+    "discovered_at": "2026-11-22T12:58:30.778911+00:00"
   },
   {
     "id": "devpost:31972",
     "source": "Devpost",
     "title": "SLAY HACKS",
     "url": "https://slayy-hacks.devpost.com/",
-    "description": "Devpost hackathon. 16 days left",
+    "description": "Devpost hackathon. 15 days left",
     "organizer": "cite & slayy",
     "venue": "Online",
     "mode": "Online",
@@ -1045,14 +1117,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-22T04:23:31.991357+00:00"
+    "discovered_at": "2026-11-22T12:58:30.778887+00:00"
   },
   {
     "id": "devpost:31973",
     "source": "Devpost",
     "title": "Deck the Pixels",
     "url": "https://deckthepixels.devpost.com/",
-    "description": "Devpost hackathon. 16 days left",
+    "description": "Devpost hackathon. 15 days left",
     "organizer": "Google",
     "venue": "Online",
     "mode": "Online",
@@ -1081,14 +1153,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-22T04:23:31.817480+00:00"
+    "discovered_at": "2026-11-22T12:58:30.592979+00:00"
   },
   {
     "id": "devpost:32079",
     "source": "Devpost",
     "title": "Learn AR with SPECS",
     "url": "https://learn-specs.devpost.com/",
-    "description": "Devpost hackathon. 16 days left",
+    "description": "Devpost hackathon. 15 days left",
     "organizer": "Devpost",
     "venue": "Online",
     "mode": "Online",
@@ -1117,14 +1189,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-22T04:23:31.900439+00:00"
+    "discovered_at": "2026-11-22T12:58:30.674396+00:00"
   },
   {
     "id": "devpost:31808",
     "source": "Devpost",
     "title": "#BuildHybridAI 2026",
     "url": "https://firebasehybridaihackathon.devpost.com/",
-    "description": "Devpost hackathon. 9 days left",
+    "description": "Devpost hackathon. 8 days left",
     "organizer": "Google",
     "venue": "Online",
     "mode": "Online",
@@ -1153,7 +1225,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-22T04:23:31.817458+00:00"
+    "discovered_at": "2026-11-22T12:58:30.592942+00:00"
   },
   {
     "id": "devpost:32024",
@@ -1189,7 +1261,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-22T04:23:31.900443+00:00"
+    "discovered_at": "2026-11-22T12:58:30.674403+00:00"
   },
   {
     "id": "devpost:32026",
@@ -1225,7 +1297,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-22T04:23:31.817484+00:00"
+    "discovered_at": "2026-11-22T12:58:30.592986+00:00"
   },
   {
     "id": "devpost:31571",
@@ -1261,7 +1333,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-22T04:23:31.817493+00:00"
+    "discovered_at": "2026-11-22T12:58:30.592998+00:00"
   },
   {
     "id": "devpost:31886",
@@ -1297,14 +1369,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-22T04:23:31.900463+00:00"
+    "discovered_at": "2026-11-22T12:58:30.674435+00:00"
   },
   {
     "id": "devpost:31826",
     "source": "Devpost",
     "title": "Global AI Builder’s Challenge",
     "url": "https://global-ai-builders-challenge.devpost.com/",
-    "description": "Devpost hackathon. 7 days left",
+    "description": "Devpost hackathon. 6 days left",
     "organizer": "Refactor The World",
     "venue": "Online",
     "mode": "Online",
@@ -1331,7 +1403,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-22T04:23:31.991373+00:00"
+    "discovered_at": "2026-11-22T12:58:30.778924+00:00"
   },
   {
     "id": "hackerearth:groww-next-2026",
@@ -1367,14 +1439,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-22T04:23:32.674658+00:00"
+    "discovered_at": "2026-11-22T12:58:31.546457+00:00"
   },
   {
     "id": "devpost:31796",
     "source": "Devpost",
     "title": "SafeSpace Hacks - Judges Needed",
     "url": "https://safespace-hacks.devpost.com/",
-    "description": "Devpost hackathon. 18 days left",
+    "description": "Devpost hackathon. 17 days left",
     "organizer": "SafeSpace",
     "venue": "Online",
     "mode": "Online",
@@ -1403,7 +1475,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-22T04:23:31.991336+00:00"
+    "discovered_at": "2026-11-22T12:58:30.778901+00:00"
   },
   {
     "id": "devpost:31789",
@@ -1439,7 +1511,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-22T04:23:31.900447+00:00"
+    "discovered_at": "2026-11-22T12:58:30.674416+00:00"
   },
   {
     "id": "devpost:30789",
@@ -1475,7 +1547,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-22T04:23:31.817488+00:00"
+    "discovered_at": "2026-11-22T12:58:30.592992+00:00"
   },
   {
     "id": "devpost:31572",
@@ -1511,14 +1583,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-22T04:23:31.817466+00:00"
+    "discovered_at": "2026-11-22T12:58:30.592958+00:00"
   },
   {
     "id": "devpost:31907",
     "source": "Devpost",
     "title": "Build Your First AI App",
     "url": "https://build-your-first-ai-app.devpost.com/",
-    "description": "Devpost hackathon. 6 days left",
+    "description": "Devpost hackathon. 5 days left",
     "organizer": "Yasir Insights",
     "venue": "Online",
     "mode": "Online",
@@ -1547,14 +1619,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-22T04:23:31.900451+00:00"
+    "discovered_at": "2026-11-22T12:58:30.674410+00:00"
   },
   {
     "id": "devpost:31667",
     "source": "Devpost",
     "title": "Kiroween 2026",
     "url": "https://kiroween.devpost.com/",
-    "description": "Devpost hackathon. 13 days left",
+    "description": "Devpost hackathon. 12 days left",
     "organizer": "Kiro",
     "venue": "Online",
     "mode": "Online",
@@ -1583,7 +1655,46 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-22T04:23:31.817433+00:00"
+    "discovered_at": "2026-11-22T12:58:30.592920+00:00"
+  },
+  {
+    "id": "unstop:1822209",
+    "source": "Unstop",
+    "title": "IIT Bombay Physical AI Hackathon",
+    "url": "https://unstop.com/hackathons/iit-bombay-physical-ai-hackathon-iit-bombay-1822209",
+    "description": "TiH Hackathon &ndash; Physical AI: From Simulation to Reality Building Intelligent Systems That Perceive, Decide, and Act in the Real World. Get ready to turn your ideas into reality! The TiH Hackathon , presented as part of E-Summit&rsquo;26 at IIT Bombay, challenges undergraduate students and early-stage startups to solve real-world problems using AI-driven robotics and IoT. Participants will embark on a journey from developing intelligent algorithms in simulation environments to demonstrating their solutions on actual robots and physical IoT devices. Prize Pool ₹1,50,000 Competition Timeline Round 1 &ndash; Online Submission: Submit your solution online by 26th November 2026, 11:59 PM . Shortlisting: All submissions will be evaluated by an expert jury. The shortlisted teams advancing to the Grand Finale will be announced after the first round of submissions. Grand Finale &ndash; 12th &amp; 13th December 2026: The selected finalists will compete at E-Summit&rsquo;26, IIT Bombay , showcasing their solutions through physical prototypes and live demonstrations. Problem Tracks Participants can choose from seven problem tracks: IoT in Agriculture Warehouse Automation AI for Sustainability / Green Tech AI in Water Management Disaster Management (Robotics + AI) Robot-Assisted Manufacturing AI / IoT in Healthcare Round 1 Submission Requirements Each team must submit: A demo video (maximum 5 minutes) showcasing the solution working in a simulation environment. A 2&ndash;3 page concept note covering the problem, proposed approach, system architecture, and expected impact. A link to the code repository (GitHub or similar). Team details and the selected problem track. Important: Entries must have a Technology Readiness Level (TRL) above 3. Who Can Participate? Undergraduate students from any recognised institution and discipline. Early-stage startups working in robotics, IoT, embedded AI, or automation. Teams comprising 2&ndash;5 members. Interdisciplinary and cross-institutional teams are encouraged. Don't Miss Out! This is your opportunity to push the boundaries of Physical AI, work on meaningful real-world challenges, and showcase your innovation on one of India's biggest entrepreneurship platforms. Submission Deadline: 26th November 2026 | 11:59 PM Grand Finale: 12th&ndash;13th December 2026 | E-Summit&rsquo;26, IIT Bombay Bring your ideas to life. Move beyond simulation. Build for reality!",
+    "organizer": "Indian Institute of Technology (IIT), Bombay",
+    "venue": "hybrid",
+    "mode": "In-Person",
+    "city": null,
+    "state": "hybrid",
+    "country": null,
+    "start_date": "2026-11-21T00:00:00+05:30",
+    "end_date": "2026-11-26T23:59:00+05:30",
+    "registration_deadline": "2026-11-26T23:59:00+05:30",
+    "min_team_size": 2,
+    "max_team_size": 5,
+    "solo_allowed": false,
+    "eligibility": "Undergraduate / Postgraduate & Engineering students",
+    "prize_pool": "Prizes & Certificates",
+    "tracks": [
+      "Engineering Students",
+      "Undergraduate",
+      "Management",
+      "Medical",
+      "Law",
+      "Arts, Commerce, Sciences & Others"
+    ],
+    "score": 65,
+    "matched_reasons": [
+      "🏢 **Maharashtra Proximity** (+25 pts) [Iit Bombay]",
+      "🌐 **Accessible In-Person Mode** (+15 pts)",
+      "🤖 **AI & Software Tracks** (+25 pts) [AI]"
+    ],
+    "is_nagpur_local": false,
+    "is_maharashtra": true,
+    "is_active": true,
+    "discovered_at": "2026-11-22T12:58:24.940467+00:00"
   },
   {
     "id": "unstop:1818639",
@@ -1616,46 +1727,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-22T04:23:25.352382+00:00"
-  },
-  {
-    "id": "unstop:1811240",
-    "source": "Unstop",
-    "title": "The Algo Trading Innovation Challenge",
-    "url": "https://unstop.com/hackathons/the-algo-trading-innovation-challenge-iit-bombay-1811240",
-    "description": "Complete Regsiteration and Submission at: https://techfest.org/competitions/Algo It is mandatory to register on Techfest Website . further details will be updated on the Website only . About The Algo Trading Innovation Challenge is a national fintech competition by Delta Exchange and Techfest, IIT Bombay, built around a stark fact: SEBI found that 87.7% of individual equity-derivatives traders made net losses in FY26. Teams study Delta Exchange's AlgoHub, its ecosystem of six algorithmic trading features, identify a significant gap that Futures and Options traders face, and design an original, AI-assisted capability that goes beyond what the platform offers today. The top 50 teams turn their ideas into working prototypes at an on-campus hackathon at Techfest, IIT Bombay, Asia's largest science and technology festival. Structure The competition runs in two rounds, with Round 2 as an on-campus hackathon at Techfest, IIT Bombay. Eligibility: Open to all students with a valid ID from their educational institution. Cross-institutional teams are encouraged. Team size: Maximum 4 members per team. The Challenge: Teams select one or two (maximum two) of the six AlgoHub features, Algo Marketplace, Algo Builder, API Copilot, Trading Bot, APIs, or Trade Data, identify a significant product gap or unmet need that F&amp;O traders face within them, and design an innovative, AI-assisted capability that adds meaningful functionality beyond what exists today. Teams may propose an independent innovation per feature or one unified solution covering both. Delta Exchange is already working on natural-language strategy creation, backtesting, and trading intelligence, so teams are encouraged not to build their proposal primarily around those capabilities. Round 1 - Online Submission (Screening) A conceptual round; no working prototype is required and teams do not need to deploy live strategies or trade with real capital. Teams submit a presentation of no more than 6 slides (PPT/PPTX or PDF export) covering: Selected Feature(s) &amp; Product Understanding Problem Identification &amp; Product Gap Proposed AI-Assisted Innovation Real-World Trading Use Case Technical Approach &amp; Feasibility Expected Impact &amp; Value Only the Team Leader may submit. The 50 highest-scoring teams qualify for Round 2; ties at the cutoff are broken by the higher score in Innovation &amp; AI Application, then Problem Identification &amp; Trader Relevance, then Technical Feasibility. Round 2 - On-Campus Hackathon at IIT Bombay The top 50 teams develop their proposed innovations into working prototypes and demonstrate them at Techfest, IIT Bombay. Detailed format and judging guidelines will be shared with shortlisted teams. Timeline Registration closes - 30th November 2026 Round 1 submission deadline - 30th November 2026 Shortlist announcement - 5th December 2026 Finals (on-campus hackathon at IIT Bombay) - 15th-18th December 2026 Rewards and Prizes INR 50,000 for the top 3 winners. Certificates for all participants who qualify for Round 2.",
-    "organizer": "Indian Institute of Technology (IIT), Bombay",
-    "venue": "offline",
-    "mode": "In-Person",
-    "city": null,
-    "state": "offline",
-    "country": null,
-    "start_date": "2026-11-15T00:00:00+05:30",
-    "end_date": "2026-11-29T00:00:00+05:30",
-    "registration_deadline": "2026-11-29T00:00:00+05:30",
-    "min_team_size": 1,
-    "max_team_size": 4,
-    "solo_allowed": true,
-    "eligibility": "Undergraduate / Postgraduate & Engineering students",
-    "prize_pool": "Prizes & Certificates",
-    "tracks": [
-      "Engineering Students",
-      "Postgraduate",
-      "Undergraduate",
-      "Management",
-      "Medical",
-      "Law",
-      "Arts, Commerce, Sciences & Others"
-    ],
-    "score": 60,
-    "matched_reasons": [
-      "👤 **Solo Eligible (1 Member)** (+35 pts)",
-      "🤖 **AI & Software Tracks** (+25 pts) [AI, API]"
-    ],
-    "is_nagpur_local": false,
-    "is_maharashtra": false,
-    "is_active": true,
-    "discovered_at": "2026-11-22T04:23:27.689355+00:00"
+    "discovered_at": "2026-11-22T12:58:24.942177+00:00"
   },
   {
     "id": "unstop:1818894",
@@ -1694,7 +1766,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-22T04:23:25.352014+00:00"
+    "discovered_at": "2026-11-22T12:58:24.942722+00:00"
   },
   {
     "id": "unstop:1781454",
@@ -1733,7 +1805,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-22T04:23:27.689660+00:00"
+    "discovered_at": "2026-11-22T12:58:26.847621+00:00"
   },
   {
     "id": "unstop:1817389",
@@ -1772,7 +1844,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-22T04:23:27.688622+00:00"
+    "discovered_at": "2026-11-22T12:58:26.846399+00:00"
   },
   {
     "id": "unstop:1821984",
@@ -1813,7 +1885,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-22T04:23:25.351025+00:00"
+    "discovered_at": "2026-11-22T12:58:24.940734+00:00"
   },
   {
     "id": "unstop:1770707",
@@ -1849,7 +1921,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-22T04:23:25.354143+00:00"
+    "discovered_at": "2026-11-22T12:58:26.845425+00:00"
   },
   {
     "id": "unstop:1821962",
@@ -1865,7 +1937,7 @@
     "country": null,
     "start_date": "2026-11-21T00:00:00+05:30",
     "end_date": "2026-12-15T23:59:00+05:30",
-    "registration_deadline": "2026-11-27T00:01:00+05:30",
+    "registration_deadline": "2026-11-28T00:00:00+05:30",
     "min_team_size": 1,
     "max_team_size": 3,
     "solo_allowed": true,
@@ -1882,7 +1954,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-22T04:23:25.351819+00:00"
+    "discovered_at": "2026-11-22T12:58:24.942133+00:00"
   },
   {
     "id": "unstop:1822587",
@@ -1915,7 +1987,44 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-22T04:23:25.351139+00:00"
+    "discovered_at": "2026-11-22T12:58:24.940833+00:00"
+  },
+  {
+    "id": "unstop:1822884",
+    "source": "Unstop",
+    "title": "ELUCode - 9",
+    "url": "https://unstop.com/hackathons/elucode-9-edulinkup-1822884",
+    "description": "Overview: ELUCode is a fast-paced 2-hour competitive coding contest by EduLinkUp designed to challenge your problem-solving ability, algorithmic thinking, and coding speed. The contest brings together students and developers from across the community to compete on a set of carefully curated problems ranging from logical puzzles to algorithmic challenges. Participants will face multiple problems of varying difficulty levels, testing their understanding of data structures, algorithms, logic building, and efficient coding practices. Whether you are a beginner exploring competitive programming or an experienced coder looking to sharpen your skills, ELUCode provides a platform to learn, compete, and showcase your abilities. Top performers will be recognised through special achievement badges and certificates within the EduLinkUp ecosystem. Scoring: Each challenge carries a predefined score, based on its difficulty level. A participant&rsquo;s score for a challenge depends on the number of test cases successfully passed by their submission. Submissions are automatically evaluated against hidden and visible test cases to ensure correctness and efficiency. The overall leaderboard is determined by the total score obtained across all challenges. If two or more participants achieve the same score, the tie will be broken based on the sum of time of the first correct solution for all the problems. The participant who reaches the score earlier will rank higher.",
+    "organizer": "EduLinkUp",
+    "venue": "Online",
+    "mode": "Online",
+    "city": null,
+    "state": "online",
+    "country": null,
+    "start_date": "2026-11-22T04:09:31+05:30",
+    "end_date": "2026-12-06T21:00:31+05:30",
+    "registration_deadline": "2026-12-06T21:00:31+05:30",
+    "min_team_size": 1,
+    "max_team_size": 1,
+    "solo_allowed": true,
+    "eligibility": "Undergraduate / Postgraduate & Engineering students",
+    "prize_pool": "Prizes & Certificates",
+    "tracks": [
+      "Engineering Students",
+      "Postgraduate",
+      "Undergraduate",
+      "Management",
+      "Arts, Commerce, Sciences & Others"
+    ],
+    "score": 50,
+    "matched_reasons": [
+      "🌐 **Accessible Online Mode** (+15 pts)",
+      "👤 **Solo Eligible (1 Member)** (+35 pts)"
+    ],
+    "is_nagpur_local": false,
+    "is_maharashtra": false,
+    "is_active": true,
+    "discovered_at": "2026-11-22T12:58:24.940619+00:00"
   },
   {
     "id": "devpost:31108",
@@ -1950,7 +2059,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-22T04:23:31.991376+00:00"
+    "discovered_at": "2026-11-22T12:58:30.778930+00:00"
   },
   {
     "id": "devpost:31644",
@@ -1984,14 +2093,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-22T04:23:31.817476+00:00"
+    "discovered_at": "2026-11-22T12:58:30.592973+00:00"
   },
   {
     "id": "devpost:31773",
     "source": "Devpost",
     "title": "LaunchPad Hacks (580k In Prizes!)",
     "url": "https://launchpad-hacks.devpost.com/",
-    "description": "Devpost hackathon. 13 days left",
+    "description": "Devpost hackathon. 12 days left",
     "organizer": "Hack4TodayOrg",
     "venue": "Online",
     "mode": "Online",
@@ -2018,14 +2127,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-22T04:23:31.900455+00:00"
+    "discovered_at": "2026-11-22T12:58:30.674422+00:00"
   },
   {
     "id": "devpost:31795",
     "source": "Devpost",
     "title": "AccessED Hacks",
     "url": "https://accessed-hacks.devpost.com/",
-    "description": "Devpost hackathon. 29 days left",
+    "description": "Devpost hackathon. 28 days left",
     "organizer": "AccessEDnpo",
     "venue": "Online",
     "mode": "Online",
@@ -2053,7 +2162,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-22T04:23:31.991381+00:00"
+    "discovered_at": "2026-11-22T12:58:30.778936+00:00"
   },
   {
     "id": "devpost:31682",
@@ -2088,7 +2197,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-22T04:23:31.991391+00:00"
+    "discovered_at": "2026-11-22T12:58:30.778949+00:00"
   },
   {
     "id": "unstop:1819682",
@@ -2123,7 +2232,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-22T04:23:25.351446+00:00"
+    "discovered_at": "2026-11-22T12:58:24.941615+00:00"
   },
   {
     "id": "unstop:1814263",
@@ -2164,46 +2273,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-22T04:23:27.688689+00:00"
-  },
-  {
-    "id": "unstop:1822546",
-    "source": "Unstop",
-    "title": "Data Nilaam",
-    "url": "https://unstop.com/hackathons/data-nilaam-kernel-10-department-of-information-technology-jadavpur-university-1822546",
-    "description": "Run NovaCredit, a new digital lender, and decide who gets which of four credit cards to earn the most profit. The catch: the safest customers aren't the most profitable, and good data isn't free. Start with a basic dataset and a fixed budget, cross profit thresholds to unlock exclusive data packs, and outbid rival teams before the data is gone. Judging Criteria: Winners are decided by a published scoring formula and a panel of judges, so every result can be checked. Scoring considers: Portfolio Profit : How much your card decisions earn on a hidden set of applicants nobody sees until the end. Smart Spending : How little of your budget you needed to get there. Memo : How well you justify your data purchases, and whether your lending is fair and responsible. The final reveal shows which data packs were treasure, which were traps, and who overpaid.&nbsp; Rules: Team Size : 2&ndash;4 members. Duration : 4 hours. Participation : Open to all college students. Tools : Python on your own laptop. No GPU needed; any library or AI assistant is allowed. Deliverables : A card decision for every applicant, the notebook that produced it, and a one-page memo explaining your data purchases and lending choices.&nbsp;",
-    "organizer": "Department of Information Technology, Jadavpur University",
-    "venue": "hybrid",
-    "mode": "In-Person",
-    "city": null,
-    "state": "hybrid",
-    "country": null,
-    "start_date": "2026-11-21T00:00:00+05:30",
-    "end_date": "2026-12-12T21:00:00+05:30",
-    "registration_deadline": "2026-12-05T00:00:00+05:30",
-    "min_team_size": 2,
-    "max_team_size": 4,
-    "solo_allowed": false,
-    "eligibility": "Undergraduate / Postgraduate & Engineering students",
-    "prize_pool": "Prizes & Certificates",
-    "tracks": [
-      "Engineering Students",
-      "Postgraduate",
-      "Undergraduate",
-      "Management",
-      "Medical",
-      "Law",
-      "Arts, Commerce, Sciences & Others"
-    ],
-    "score": 40,
-    "matched_reasons": [
-      "🌐 **Accessible In-Person Mode** (+15 pts)",
-      "🤖 **AI & Software Tracks** (+25 pts) [AI]"
-    ],
-    "is_nagpur_local": false,
-    "is_maharashtra": false,
-    "is_active": true,
-    "discovered_at": "2026-11-22T04:23:25.351180+00:00"
+    "discovered_at": "2026-11-22T12:58:26.846489+00:00"
   },
   {
     "id": "unstop:1806016",
@@ -2242,7 +2312,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-22T04:23:25.353193+00:00"
+    "discovered_at": "2026-11-22T12:58:26.844089+00:00"
   },
   {
     "id": "unstop:1810370",
@@ -2275,6 +2345,39 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-22T04:23:27.688936+00:00"
+    "discovered_at": "2026-11-22T12:58:26.846782+00:00"
+  },
+  {
+    "id": "unstop:1823379",
+    "source": "Unstop",
+    "title": "Hack 2027",
+    "url": "https://unstop.com/hackathons/hack-2027-saveetha-university-1823379",
+    "description": "Overview Innovate. Build. Disrupt. 24 Hours at SIMATS. HACK.2027 is the flagship National-Level 24-Hour Hybrid Hackathon hosted by SIMATS Engineering (Saveetha School of Engineering), Chennai . Designed to bring together 1,000+ student innovators, developers, and problem-solvers from across India, HACK.2027 challenges builders to turn bold ideas into working, real-world prototypes. Whether you are passionate about software engineering, artificial intelligence, hardware &amp; smart systems, or interdisciplinary engineering, HACK.2027 offers a high-energy environment to collaborate, build under pressure, and showcase your technical creativity in front of industry leaders and academic experts. Event Dates &amp; Venue Finale Dates: February 18&ndash;19, 2027 (24-Hour Offline Hackathon) Venue: SIMATS Engineering (Saveetha School of Engineering), Chennai, Tamil Nadu Hackathon Format Round 1: Online Idea &amp; PPT Screening (Late January 2027) Teams register on Devfolio and submit their project proposal / presentation (PPT) outlining the problem statement, proposed architecture, innovation, and feasibility. Submissions are evaluated on originality, technical depth, and real-world impact to shortlist the top 60 teams . Round 2: 24-Hour Offline Finale on Campus (February 18&ndash;19, 2027) Shortlisted finalist teams travel to the SIMATS Engineering campus in Chennai for an intense, non-stop 24-hour live build . Teams will prototype from scratch and pitch their working solutions to an jury panel for top honors and prizes. Mandatory Registration Steps for HACK.2027 Join our WhatsApp Community: Hop into our official WhatsApp group ( https://chat.whatsapp.com/C0jcG6eJ9kx1afpPby0YbJ ) so you don't miss Round 1 deadlines, announcements, and finale shortlists for Feb 18&ndash;19, 2027 at SIMATS Engineering, Chennai! Why Participate? Compete alongside top student builders from across the country. Receive hands-on mentorship and feedback from industry practitioners and researchers. Build a functional prototype in 24 hours and showcase it live to an expert jury. Win exciting cash prizes, awards, and recognition.",
+    "organizer": "Saveetha University",
+    "venue": "hybrid",
+    "mode": "In-Person",
+    "city": null,
+    "state": "hybrid",
+    "country": null,
+    "start_date": "2026-11-22T17:15:00+05:30",
+    "end_date": "2027-01-20T00:35:29+05:30",
+    "registration_deadline": "2027-01-20T00:00:00+05:30",
+    "min_team_size": 2,
+    "max_team_size": 4,
+    "solo_allowed": false,
+    "eligibility": "Open to college students & coders",
+    "prize_pool": "Prizes & Certificates",
+    "tracks": [
+      "All"
+    ],
+    "score": 40,
+    "matched_reasons": [
+      "🌐 **Accessible In-Person Mode** (+15 pts)",
+      "🤖 **AI & Software Tracks** (+25 pts) [Artificial Intelligence, Software Engineering]"
+    ],
+    "is_nagpur_local": false,
+    "is_maharashtra": false,
+    "is_active": true,
+    "discovered_at": "2026-11-22T12:58:24.941099+00:00"
   }
 ]

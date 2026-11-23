@@ -3706,5 +3706,68 @@
     "last_notified": "2026-11-22T12:58:35.252002+00:00",
     "is_nagpur_local": false,
     "solo_allowed": false
+  },
+  "unstop:1820854": {
+    "title": "Apex CTF",
+    "url": "https://unstop.com/hackathons/apex-ctf-st-vincent-pallotti-college-of-engineering-and-technology-svpcet-nagpur-1820854",
+    "score": 85,
+    "source": "Unstop",
+    "last_notified": "2026-11-23T10:04:00.351415+00:00",
+    "is_nagpur_local": true,
+    "solo_allowed": false
+  },
+  "unstop:1820895": {
+    "title": "Agentic Arena",
+    "url": "https://unstop.com/hackathons/agentic-arena-st-vincent-pallotti-college-of-engineering-and-technology-svpcet-nagpur-1820895",
+    "score": 70,
+    "source": "Unstop",
+    "last_notified": "2026-11-23T10:04:00.351415+00:00",
+    "is_nagpur_local": true,
+    "solo_allowed": false
+  },
+  "unstop:1820868": {
+    "title": "Hackathon",
+    "url": "https://unstop.com/hackathons/hackathon-st-vincent-pallotti-college-of-engineering-and-technology-svpcet-nagpur-1820868",
+    "score": 60,
+    "source": "Unstop",
+    "last_notified": "2026-11-23T10:04:00.351415+00:00",
+    "is_nagpur_local": true,
+    "solo_allowed": false
+  },
+  "unstop:1824377": {
+    "title": "AgentX",
+    "url": "https://unstop.com/hackathons/agentx-ai-academia-1824377",
+    "score": 75,
+    "source": "Unstop",
+    "last_notified": "2026-11-23T10:04:00.351415+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:1823739": {
+    "title": "CodeEncoders India 2026 — National Hackathon",
+    "url": "https://unstop.com/hackathons/codeencoders-india-2026-national-hackathon-wecodecoders-1823739",
+    "score": 75,
+    "source": "Unstop",
+    "last_notified": "2026-11-23T10:04:00.351415+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:1824394": {
+    "title": "Starlight Arena - AI Red Teaming Competition",
+    "url": "https://unstop.com/hackathons/starlight-arena-ai-red-teaming-competition-starlight-arena-parsewave-ai-1824394",
+    "score": 75,
+    "source": "Unstop",
+    "last_notified": "2026-11-23T10:04:00.351415+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:1823841": {
+    "title": "Ideathon: Idea to Prototyping Challenge",
+    "url": "https://unstop.com/hackathons/ideathon-idea-to-prototyping-challenge-iit-bombay-1823841",
+    "score": 40,
+    "source": "Unstop",
+    "last_notified": "2026-11-23T10:04:00.351415+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": false
   }
 }

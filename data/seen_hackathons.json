@@ -3769,5 +3769,41 @@
     "last_notified": "2026-11-23T10:04:00.351415+00:00",
     "is_nagpur_local": false,
     "solo_allowed": false
+  },
+  "unstop:1820851": {
+    "title": "Hack The Hardware",
+    "url": "https://unstop.com/hackathons/hack-the-hardware-st-vincent-pallotti-college-of-engineering-and-technology-svpcet-nagpur-1820851",
+    "score": 80,
+    "source": "Unstop",
+    "last_notified": "2026-11-23T22:21:16.364521+00:00",
+    "is_nagpur_local": true,
+    "solo_allowed": true
+  },
+  "unstop:1823604": {
+    "title": "Adaptics - Open Innovation Hackathon",
+    "url": "https://unstop.com/hackathons/adaptics-open-innovation-hackathon-makers-need-more-mnm-1823604",
+    "score": 75,
+    "source": "Unstop",
+    "last_notified": "2026-11-23T22:21:16.364521+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:1820502": {
+    "title": "India AI Open 2026: Free AI Talent Contest for Students and Engineers",
+    "url": "https://unstop.com/hackathons/india-ai-open-2026-free-ai-talent-contest-for-students-and-engineers-acciojob-1820502",
+    "score": 75,
+    "source": "Unstop",
+    "last_notified": "2026-11-23T22:21:16.364521+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:1800622": {
+    "title": "Codathon",
+    "url": "https://unstop.com/hackathons/codathon-vortex-140-institute-of-chemical-technology-mumbai-1800622",
+    "score": 60,
+    "source": "Unstop",
+    "last_notified": "2026-11-23T22:21:16.364521+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
   }
 }

@@ -3823,5 +3823,50 @@
     "last_notified": "2026-11-24T06:38:28.341178+00:00",
     "is_nagpur_local": false,
     "solo_allowed": true
+  },
+  "unstop:1826250": {
+    "title": "Bharat Academix Global Innovatex 2027",
+    "url": "https://unstop.com/hackathons/bharat-academix-global-innovatex-2027-bharat-academix-1826250",
+    "score": 75,
+    "source": "Unstop",
+    "last_notified": "2026-11-24T18:30:58.757279+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:1826157": {
+    "title": "Parallax Hackathon 2026",
+    "url": "https://unstop.com/hackathons/parallax-hackathon-2026-invoqe-1826157",
+    "score": 75,
+    "source": "Unstop",
+    "last_notified": "2026-11-24T18:30:58.757279+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:1826567": {
+    "title": "TryHackingMe Hackathon",
+    "url": "https://unstop.com/hackathons/tryhackingme-hackathon-buildx-1826567",
+    "score": 75,
+    "source": "Unstop",
+    "last_notified": "2026-11-24T18:30:58.757279+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:1826401": {
+    "title": "AI CodeStorm 2026 ",
+    "url": "https://unstop.com/hackathons/ai-codestorm-2026-proton-solutions-1826401",
+    "score": 75,
+    "source": "Unstop",
+    "last_notified": "2026-11-24T18:30:58.757279+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:1814036": {
+    "title": "Divergent Merch Design Challenge",
+    "url": "https://unstop.com/hackathons/divergent-merch-design-challenge-divergent-classes-1814036",
+    "score": 50,
+    "source": "Unstop",
+    "last_notified": "2026-11-24T18:30:58.757279+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
   }
 }

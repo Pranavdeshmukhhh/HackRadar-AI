@@ -3805,5 +3805,23 @@
     "last_notified": "2026-11-23T22:21:16.364521+00:00",
     "is_nagpur_local": false,
     "solo_allowed": true
+  },
+  "unstop:1825506": {
+    "title": "BlackPanda Labs CTF 2026 | Free International Cybersecurity Competition",
+    "url": "https://unstop.com/hackathons/blackpanda-labs-ctf-2026-free-international-cybersecurity-competition-blackpandalabs-1825506",
+    "score": 75,
+    "source": "Unstop",
+    "last_notified": "2026-11-24T06:38:28.341178+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:1821473": {
+    "title": "OpenVerse '26",
+    "url": "https://unstop.com/hackathons/openverse-26-campus-code-1821473",
+    "score": 75,
+    "source": "Unstop",
+    "last_notified": "2026-11-24T06:38:28.341178+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
   }
 }

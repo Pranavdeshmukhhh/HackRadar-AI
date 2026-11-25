@@ -3895,5 +3895,50 @@
     "last_notified": "2026-11-25T11:56:12.967998+00:00",
     "is_nagpur_local": false,
     "solo_allowed": true
+  },
+  "unstop:1827866": {
+    "title": "CodePulse 48 - National Hackathon",
+    "url": "https://unstop.com/hackathons/codepulse-48-national-hackathon-wecodecoders-1827866",
+    "score": 75,
+    "source": "Unstop",
+    "last_notified": "2026-11-25T20:58:07.694979+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:1826867": {
+    "title": "UNIVION: CHRONOS DE NOVO",
+    "url": "https://unstop.com/hackathons/univion-chronos-de-novo-sieeds-1826867",
+    "score": 75,
+    "source": "Unstop",
+    "last_notified": "2026-11-25T20:58:07.694979+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "devpost:32009": {
+    "title": "AI for Medicine: A Global Student Hackathon on the Future of Care",
+    "url": "https://ai-for-medicine.devpost.com/",
+    "score": 75,
+    "source": "Devpost",
+    "last_notified": "2026-11-25T20:58:07.694979+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:1828497": {
+    "title": "Snow Code",
+    "url": "https://unstop.com/hackathons/snow-code-stampers-1828497",
+    "score": 50,
+    "source": "Unstop",
+    "last_notified": "2026-11-25T20:58:07.694979+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:1828382": {
+    "title": "Hack for Good: Open Innovation Hackathon",
+    "url": "https://unstop.com/hackathons/hack-for-good-open-innovation-hackathon-ibs-hyderabad-1828382",
+    "score": 40,
+    "source": "Unstop",
+    "last_notified": "2026-11-25T20:58:07.694979+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": false
   }
 }

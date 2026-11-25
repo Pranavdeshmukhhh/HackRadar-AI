@@ -33,7 +33,7 @@
     "is_nagpur_local": true,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-25T11:56:10.575010+00:00"
+    "discovered_at": "2026-11-25T20:58:03.225183+00:00"
   },
   {
     "id": "unstop:1820854",
@@ -73,7 +73,7 @@
     "is_nagpur_local": true,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-25T11:56:01.694876+00:00"
+    "discovered_at": "2026-11-25T20:57:52.821328+00:00"
   },
   {
     "id": "unstop:1820851",
@@ -110,7 +110,7 @@
     "is_nagpur_local": true,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-25T11:56:01.694576+00:00"
+    "discovered_at": "2026-11-25T20:57:52.820788+00:00"
   },
   {
     "id": "unstop:1820895",
@@ -149,7 +149,7 @@
     "is_nagpur_local": true,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-25T11:56:01.694711+00:00"
+    "discovered_at": "2026-11-25T20:57:52.821027+00:00"
   },
   {
     "id": "unstop:1820868",
@@ -184,7 +184,7 @@
     "is_nagpur_local": true,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-25T11:56:01.694777+00:00"
+    "discovered_at": "2026-11-25T20:57:52.821149+00:00"
   },
   {
     "id": "college:mindsparkorg",
@@ -220,7 +220,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": true,
     "is_active": true,
-    "discovered_at": "2026-11-25T11:56:10.408637+00:00"
+    "discovered_at": "2026-11-25T20:58:02.997523+00:00"
   },
   {
     "id": "unstop:1817686",
@@ -236,7 +236,7 @@
     "country": null,
     "start_date": "2026-11-19T00:00:00+05:30",
     "end_date": "2026-11-28T17:30:00+05:30",
-    "registration_deadline": "2026-11-26T17:00:00+05:30",
+    "registration_deadline": "2026-11-26T10:00:00+05:30",
     "min_team_size": 1,
     "max_team_size": 4,
     "solo_allowed": true,
@@ -254,45 +254,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-25T11:56:03.397875+00:00"
-  },
-  {
-    "id": "unstop:1817798",
-    "source": "Unstop",
-    "title": "AI Kaushal Hackathon 2026",
-    "url": "https://unstop.com/hackathons/ai-kaushal-hackathon-2026-indian-institute-of-information-technology-iiit-lucknow-1817798",
-    "description": "AI Kaushal Hackathon 2026 is a state-level AI hackathon organised by InMobi with the Department of IT &amp; Electronics, Government of Uttar Pradesh , and hosted at IIIT Lucknow . Teams build practical AI solutions for real public-sector problem statements, and the best solutions may be deployed in a UP Government department. At a Glance Prize Pool ₹5,00,000 (₹1,00,000 to each of the Top 5 teams) Format Online idea submission, then a 24-hour in-person hackathon Venue IIIT Lucknow Dates 8 and 9 December 2026 Team Size 1 to 4 members Open To Students, professionals and start-ups residing in Uttar Pradesh Entry Fee Free Why Participate ₹1,00,000 cash prize for each of the Top 5 teams Real-world impact: the best solutions may be deployed in a UP Government department Paid internships: students from top-performing teams become eligible Tech Leadership Connect: an invite-only session for top teams with leading tech minds Recognition: winner certificates and features on InMobi's social media channels For every shortlisted participant: goodies and a participation certificate Eligibility Open to anyone currently residing in Uttar Pradesh (a domicile certificate is not required) who is one of the following: Category Proof required Student at a college or university in UP Valid Student ID Professional at a company with an office in UP Employee ID or employment proof Start-up with a registered office in UP GST registration, Startup India recognition or incorporation document Use Cases Pick one of the 17 use cases . Full details are on the official website . Category Use case Agriculture 1. Farmer Market Price Intelligence - Mandi Advisory Education 2. Job Readiness &amp; Vocational Interview Coach Education 3. Unified Internship Platform Employment 4. AI-Powered Matching for Rojgar Sangam Governance 5. Vernacular Citizen Services Assistant Governance 6. Universal Intake, Triage &amp; Routing Engine Healthcare 7. Predictive Disease Outbreak Surveillance Healthcare 8. Child Nutrition &amp; At-Risk Detection for Anganwadi Workers Healthcare 9. Affordable Medicine Discovery Labour 10. AI Scheme Navigator for Construction Workers Livelihoods 11. Livelihood &amp; Micro-Enterprise Growth Assistant Tourism 12. Investment Facilitation &amp; Approval Processes Tourism 13. Grievance Redressal System Tourism 14. LLM-Powered Project Monitoring &amp; Decision Support System Youth Affairs &amp; Sports 15. AI Playground and Sports Facility Optimizer Youth Affairs &amp; Sports 16. AI Youth Volunteer and Community Project Matcher Youth Affairs &amp; Sports 17. AI Athlete and Coach Performance Monitoring How It Works Register on Unstop (by 27 Nov): register your team of 1 to 4 members on this page. Submit your idea on the InMobi portal (by 27 Nov): on the official InMobi AI Kaushal portal , choose a use case and answer five short questions. No prototype is needed. Then tick the one-time confirmation in the \"Idea Submission on InMobi Portal\" round here on Unstop. Shortlisting (27 Nov-1 Dec): the Expert Panel reviews every entry and announces the shortlisted teams. 24-hour hackathon (8 to 9 Dec): shortlisted teams build their MVP at IIIT Lucknow with mentor support. Final demos (9 Dec): top MVPs pitch live to industry leaders and senior government officials. Judging Criteria Idea Shortlisting: Relevance to the use case &middot; Innovation &amp; uniqueness &middot; Solution approach &amp; technical soundness &middot; Feasibility &amp; clarity of scope Hackathon Build: Working solution &amp; completeness &middot; Technical execution &amp; architecture &middot; Innovation &amp; differentiation &middot; Outcome against the use case &middot; Scalability &amp; path to production &middot; Responsible AI implementation At the Hackathon Provided: OpenAI/Gemini AI credits, workspace and campus Wi-Fi, a mentor for each team, meals and refreshments, and rest areas Bring: your laptop, charger and valid ID or eligibility proof Arrange yourself: travel to Lucknow and accommodation (the hackathon runs overnight) Final submission: a 3 to 5 minute video covering your solution, architecture and a live prototype demo, plus optional slides Jury Kumar Vineet, IAS: Special Secretary, Ministry of Youth Affairs &amp; Sports Alok Kumar, IAS: Principal Secretary, Planning &amp; Programme Implementation and IT &amp; Electronics Department, Government of Uttar Pradesh Prof. Deepak Singh: Dean Research, IIIT Lucknow Mohit Saxena: Co-founder &amp; CTO, InMobi Dr. Subi Chaturvedi: Global SVP, Chief Corporate Affairs &amp; Public Policy Officer, InMobi Group Srikanth Sundarrajan: Partner Engineer II, InMobi Organisers &amp; Partners Organised by InMobi, with the Department of IT &amp; Electronics, Government of Uttar Pradesh Conceived &amp; Curated by Dr. Subi Chaturvedi, InMobi Group Technology Partner OpenAI Academic Partner IIIT Lucknow Outreach Partners Google Developers Group HBTU Android Lucknow Cyber Intelligence Community Lucknow CNCG Lucknow Google Developer Group IIIT Allahabad GDG Kanpur Lucknow AI Labs | UPAI Labs Unstop Listing by IIIT Lucknow, with IIITL Axios and IIITL CREATE Good to Know Ideas are submitted only on the official InMobi AI Kaushal portal . You should receive a confirmation email from InMobi after submitting, and only ideas submitted there are evaluated. A maximum of one use case will be shortlisted per team. Queries: hackathon@inmobi.com",
-    "organizer": "Indian Institute of Information Technology (IIIT), Lucknow",
-    "venue": "hybrid",
-    "mode": "In-Person",
-    "city": null,
-    "state": "hybrid",
-    "country": null,
-    "start_date": "2026-11-18T00:00:00+05:30",
-    "end_date": "2026-12-09T19:00:00+05:30",
-    "registration_deadline": "2026-11-27T23:59:44+05:30",
-    "min_team_size": 1,
-    "max_team_size": 4,
-    "solo_allowed": true,
-    "eligibility": "Undergraduate / Postgraduate & Engineering students",
-    "prize_pool": "Prizes & Certificates",
-    "tracks": [
-      "Engineering Students",
-      "Postgraduate",
-      "Undergraduate",
-      "Management",
-      "Arts, Commerce, Sciences & Others"
-    ],
-    "score": 75,
-    "matched_reasons": [
-      "🌐 **Accessible In-Person Mode** (+15 pts)",
-      "👤 **Solo Eligible (1 Member)** (+35 pts)",
-      "🤖 **AI & Software Tracks** (+25 pts) [AI, LLM]"
-    ],
-    "is_nagpur_local": false,
-    "is_maharashtra": false,
-    "is_active": true,
-    "discovered_at": "2026-11-25T11:56:03.399562+00:00"
+    "discovered_at": "2026-11-25T20:57:54.971497+00:00"
   },
   {
     "id": "unstop:1821954",
@@ -326,7 +288,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-25T11:56:03.397454+00:00"
+    "discovered_at": "2026-11-25T20:57:54.970643+00:00"
   },
   {
     "id": "unstop:1818968",
@@ -366,41 +328,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-25T11:56:03.398448+00:00"
-  },
-  {
-    "id": "unstop:1817749",
-    "source": "Unstop",
-    "title": "CodeUnited India - National Hackathon",
-    "url": "https://unstop.com/hackathons/codeunited-india-national-hackathon-hackwithpune-1817749",
-    "description": "Join the official group for information and updates:&nbsp; https://chat.whatsapp.com/DE4JhUortEqAD35baNLw4k Benefits and Opportunities: Top 3 teams: Paid internship opportunities Top 3 teams : 30,000 prize pool Every participant: &nbsp; .xyz domain and .cv domain Every participant: Verifiable digital certificate Every participant: $100 in Inkloom AI credits, $500 in Adaption platform credits, 100$ ASI Credits Rewards and benefits: 100+ recipients across the hackathon Format: Hackathon Date: 3 December &mdash; 13 December 2026 No.of Rounds: 3 Mode: Completely online Team size: 1&ndash;6 members Registration fee: &nbsp;free Track: Agentic AI, Full Stack Development Rules: Participants must submit original work within the deadline and follow all event guidelines. Plagiarism, false information, or multiple submissions may result in disqualification. Eligibility: Open to students, developers, designers, and technology enthusiasts across India. Participants may join individually or form a team according to the event&rsquo;s permitted team size. Process: Register for the event, join the official communication group, and complete every announced round. Qualified participants will receive the instructions and submission details for the next stage. &nbsp; Note: Teams selected for Round 3 pay a participation fee of ₹399 per team &mdash; one payment for the whole team, not one each. The fee covers the cost of running the event: infrastructure, the time and effort of organising it, and paying the people who do that work. Registering and Rounds 1 and 2 are free, and this is the only payment anywhere in this event. It falls due only once your team is selected for Round 3, so a team that is not selected pays nothing at all.",
-    "organizer": "HackWithPune",
-    "venue": "Online",
-    "mode": "Online",
-    "city": null,
-    "state": "online",
-    "country": null,
-    "start_date": "2026-11-17T18:30:52+05:30",
-    "end_date": "2026-12-13T10:00:00+05:30",
-    "registration_deadline": "2026-12-02T13:00:48+05:30",
-    "min_team_size": 1,
-    "max_team_size": 6,
-    "solo_allowed": true,
-    "eligibility": "Open to college students & coders",
-    "prize_pool": "Prizes & Certificates",
-    "tracks": [
-      "All"
-    ],
-    "score": 75,
-    "matched_reasons": [
-      "🌐 **Accessible Online Mode** (+15 pts)",
-      "👤 **Solo Eligible (1 Member)** (+35 pts)",
-      "🤖 **AI & Software Tracks** (+25 pts) [AI, Agentic Ai, Full Stack]"
-    ],
-    "is_nagpur_local": false,
-    "is_maharashtra": false,
-    "is_active": true,
-    "discovered_at": "2026-11-25T11:56:03.399612+00:00"
+    "discovered_at": "2026-11-25T20:57:54.972465+00:00"
   },
   {
     "id": "unstop:1812323",
@@ -441,7 +369,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-25T11:56:01.693429+00:00"
+    "discovered_at": "2026-11-25T20:57:52.818767+00:00"
   },
   {
     "id": "unstop:1817737",
@@ -475,7 +403,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-25T11:56:03.398505+00:00"
+    "discovered_at": "2026-11-25T20:57:54.972578+00:00"
   },
   {
     "id": "unstop:1824377",
@@ -515,7 +443,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-25T11:56:01.694955+00:00"
+    "discovered_at": "2026-11-25T20:57:52.821440+00:00"
   },
   {
     "id": "unstop:1820715",
@@ -549,7 +477,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-25T11:56:03.397644+00:00"
+    "discovered_at": "2026-11-25T20:57:54.971116+00:00"
   },
   {
     "id": "unstop:1823739",
@@ -586,14 +514,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-25T11:56:01.695109+00:00"
+    "discovered_at": "2026-11-25T20:57:54.969240+00:00"
   },
   {
     "id": "unstop:1825938",
     "source": "Unstop",
     "title": "CoMemor Contributor Challenge",
     "url": "https://unstop.com/hackathons/comemor-contributor-challenge-comemor-1825938",
-    "description": "AI coding agents are powerful&mdash;until they hit the same build, dependency, or runtime error for the third session in a row and burn tokens re-debugging it from scratch. CoMemor is a fast-growing, local-first Model Context Protocol (MCP) server ( npx comemor , freshly launched v1.1.0) that equips AI coding agents&mdash;including Cursor, Claude Desktop &amp; Code, VS Code + Copilot, Windsurf, and Google Antigravity&mdash;with deterministic, repository-scoped engineering memory powered by SHA-256 error fingerprinting, SQLite FTS5 lexical search, automated secret redaction, and prompt-injection quarantine. The CoMemor Contributor Challenge invites developers, AI builders, and open-source enthusiasts to ship real production code, sharpen our security and retrieval engine, hunt edge-case bugs, and showcase their engineering work in public. Top contributors earn official certificates and a direct shot at an internship opportunity with the CoMemor team. Contribution Tracks (Pick Any or Multiple) Core MCP Engine &amp; Retrieval: Improve TypeScript modules, SQLite FTS5 ranking, error normalization, and find_fix / record_failure / verify_fix edge cases. Security, Hardening &amp; Testing: Strengthen secret-redaction patterns, prompt-injection heuristics, Vitest unit/integration tests, and retrieval benchmarks. Memory Console &amp; Developer Experience: Enhance the local Memory Console UI, IDE setup workflows, cross-platform Windows/macOS/Linux compatibility, and documentation. High-Signal Bug Hunting &amp; RFCs: Identify reproducible bugs, security edge cases, or well-scoped architectural feature proposals via GitHub Issues. How to Participate (Step-by-Step) Register on Unstop: Complete your individual registration before the deadline. Connect with the Project: Star and Watch the CoMemor GitHub repository to track open issues and releases. Pick or Propose Work: Browse issues labeled good first issue , help wanted , or contributor-challenge or open a clear, reproducible new issue before coding. Ship Quality Contributions: Fork the repo, follow Contributing.md , ensure tests pass locally, and open a well-documented Pull Request. Showcase Your Work on LinkedIn (Required for Leaderboard Scoring): After submitting your PR or verified issue, publish a short video demo (30&ndash;90 seconds) or a concise technical article/post on LinkedIn explaining the problem you solved and what you added or fixed in CoMemor. Tag the CoMemor LinkedIn page and include the hashtags #comemor , #comemorcontributor , #opensource , and #mcp . Submit Proof on Unstop: Submit your GitHub username, PR/Issue links, and LinkedIn post link during the submission window. Format &amp; Rounds Round 1: Registration &amp; Repo Onboarding: Register on Unstop, star &amp; watch the repository, follow CoMemor on LinkedIn, set up the project locally and claim or open your first issue. Round 2: Contribution &amp; Build-in-Public Sprint: Submit Pull Requests and/or high-impact issues, respond to maintainer reviews, and publish your LinkedIn demo video or walkthrough post. Round 3: Maintainer Review &amp; Results: Final scoring of merged/accepted contributions, leaderboard announcement, certificate distribution, and internship interview invites for top contributors. Guidelines &amp; Eligibility Eligibility: Open to college students, freshers, and working professionals from all branches and specializations. Participation Format: Individual participation only (inter-college / open to all institutions). Number of Contributions: Unlimited, you may submit multiple PRs or issues, and every merged/accepted contribution counts toward your final rank. Rules &amp; Quality Standards All code and write-ups must be your original work and comply with CoMemor's GPL-3.0 license and CONTRIBUTING.md . Use of AI is allowed and it is recommended to mention the specific AI Model or tool used for development. Pull Requests must pass repository build and automated test checks (CI) and address a real bug, test gap, feature, or substantive docs improvement. Zero Spam Policy: Low-effort PRs (trivial typo/whitespace edits, duplicate issues, or unverified AI-generated code dumps) will be closed and disqualified from certification. You must comment on an issue to claim it before opening a PR if someone else is not already assigned. Maintainer review and merge decisions are final. Evaluation Criteria Technical Depth &amp; Code/Issue Quality (45%): Clean architecture, correctness, and real impact on CoMemor users. Testing &amp; Engineering Hygiene (25%): Test coverage, clear PR descriptions, adherence to repo conventions, and zero regressions. LinkedIn Demo / Walkthrough Clarity (20%): Clear explanation of why the fix/feature matters and how it works in practice. Collaboration &amp; Review Responsiveness (10%): Constructive communication and timely iteration on maintainer feedback. Rewards &amp; Perks Top Contributors: Chance to land an Internship Opportunity with the CoMemor team (shortlisted top performers invited for a direct technical conversation with the founder), Certificate of excellence, and a featured contributor spotlight on CoMemor's LinkedIn page and release notes. Verified Contributors (All Merged PRs / Accepted High-Impact Issues + LinkedIn Demo): Official Verified Open-Source Contributor Certificate and permanent credit in CoMemor's GitHub release history.",
+    "description": "AI coding agents are powerful until they hit the same build, dependency, or runtime error for the third session in a row and burn tokens re-debugging it from scratch. CoMemor is a fast-growing, local-first Model Context Protocol (MCP) server ( npx comemor , freshly launched v1.1.0) that equips AI coding agents including Cursor, Claude Desktop &amp; Code, VS Code + Copilot, Windsurf, and Google Antigravity with deterministic, repository-scoped engineering memory powered by SHA-256 error fingerprinting, SQLite FTS5 lexical search, automated secret redaction, and prompt-injection quarantine. The CoMemor Contributor Challenge invites developers, AI builders, and open-source enthusiasts to ship real production code, sharpen our security and retrieval engine, hunt edge-case bugs, and showcase their engineering work in public. Top contributors earn official certificates and a direct shot at an internship opportunity with the CoMemor team. Contribution Tracks (Pick Any or Multiple) Core MCP Engine &amp; Retrieval: Improve TypeScript modules, SQLite FTS5 ranking, error normalization and find_fix / record_failure / verify_fix edge cases. Security, Hardening &amp; Testing: Strengthen secret-redaction patterns, prompt-injection heuristics, Vitest unit/integration tests, and retrieval benchmarks. Memory Console &amp; Developer Experience: Enhance the local Memory Console UI, IDE setup workflows, cross-platform Windows/macOS/Linux compatibility, and documentation. High-Signal Bug Hunting &amp; RFCs: Identify reproducible bugs, security edge cases, or well-scoped architectural feature proposals via GitHub Issues. How to Participate (Step-by-Step) Register on Unstop: Complete your individual registration before the deadline. Connect with the Project: Star and Watch the CoMemor GitHub repository to track open issues and releases. Pick or Propose Work: Browse issues labeled good first issue , help wanted , or contributor-challenge or open a clear, reproducible new issue before coding. Ship Quality Contributions: Fork the repo, follow Contributing.md , ensure tests pass locally, and open a well-documented Pull Request. Showcase Your Work on LinkedIn (Required for Leaderboard Scoring): After submitting your PR or verified issue, publish a short video demo (30&ndash;90 seconds) or a concise technical article/post on LinkedIn explaining the problem you solved and what you added or fixed in CoMemor. Tag the CoMemor LinkedIn page and include the hashtags #comemor , #comemorcontributor , #opensource , and #mcp . Submit Proof on Unstop: Submit your GitHub username, PR/Issue links, and LinkedIn post link during the submission window. Format &amp; Rounds Round 1: Registration &amp; Repo Onboarding: Register on Unstop, star &amp; watch the repository, follow CoMemor on LinkedIn, set up the project locally and claim or open your first issue. Round 2: Contribution &amp; Build-in-Public Sprint: Submit Pull Requests and/or high-impact issues, respond to maintainer reviews, and publish your LinkedIn demo video or walkthrough post. Round 3: Maintainer Review &amp; Results: Final scoring of merged/accepted contributions, leaderboard announcement, certificate distribution, and internship interview invites for top contributors. Guidelines &amp; Eligibility Eligibility: Open to college students, freshers, and working professionals from all branches and specializations. Participation Format: Individual participation only (inter-college / open to all institutions). Number of Contributions: Unlimited, you may submit multiple PRs or issues, and every merged/accepted contribution counts toward your final rank. Rules &amp; Quality Standards All code and write-ups must be your original work and comply with CoMemor's GPL-3.0 license and CONTRIBUTING.md . Use of AI is allowed and it is recommended to mention the specific AI Model or tool used for development. Pull Requests must pass repository build and automated test checks (CI) and address a real bug, test gap, feature, or substantive docs improvement. Zero Spam Policy: Low-effort PRs (trivial typo/whitespace edits, duplicate issues, or unverified AI-generated code dumps) will be closed and disqualified from certification. You must comment on an issue to claim it before opening a PR if someone else is not already assigned. Maintainer review and merge decisions are final. Evaluation Criteria Technical Depth &amp; Code/Issue Quality (45%): Clean architecture, correctness, and real impact on CoMemor users. Testing &amp; Engineering Hygiene (25%): Test coverage, clear PR descriptions, adherence to repo conventions, and zero regressions. LinkedIn Demo / Walkthrough Clarity (20%): Clear explanation of why the fix/feature matters and how it works in practice. Collaboration &amp; Review Responsiveness (10%): Constructive communication and timely iteration on maintainer feedback. Rewards &amp; Perks Top Contributors: Chance to land an Internship Opportunity with the CoMemor team (shortlisted top performers invited for a direct technical conversation with the founder), Certificate of excellence, and a featured contributor spotlight on CoMemor's LinkedIn page and release notes. Verified Contributors (All Merged PRs / Accepted High-Impact Issues + LinkedIn Demo): Official Verified Open-Source Contributor Certificate and permanent credit in CoMemor's GitHub release history.",
     "organizer": "CoMemor",
     "venue": "Online",
     "mode": "Online",
@@ -613,11 +541,7 @@
       "Engineering Students",
       "Postgraduate",
       "Undergraduate",
-      "Fresher",
-      "Management",
-      "Medical",
-      "Law",
-      "Arts, Commerce, Sciences & Others"
+      "Fresher"
     ],
     "score": 75,
     "matched_reasons": [
@@ -628,7 +552,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-25T11:56:01.693541+00:00"
+    "discovered_at": "2026-11-25T20:57:52.818956+00:00"
   },
   {
     "id": "unstop:1826250",
@@ -670,7 +594,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-25T11:56:01.694246+00:00"
+    "discovered_at": "2026-11-25T20:57:52.820154+00:00"
   },
   {
     "id": "unstop:1826157",
@@ -708,7 +632,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-25T11:56:01.694357+00:00"
+    "discovered_at": "2026-11-25T20:57:52.820338+00:00"
   },
   {
     "id": "unstop:1825506",
@@ -742,7 +666,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-25T11:56:01.694399+00:00"
+    "discovered_at": "2026-11-25T20:57:52.820466+00:00"
   },
   {
     "id": "unstop:1818490",
@@ -776,7 +700,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": true,
     "is_active": true,
-    "discovered_at": "2026-11-25T11:56:03.398675+00:00"
+    "discovered_at": "2026-11-25T20:57:54.972880+00:00"
   },
   {
     "id": "unstop:1823604",
@@ -810,7 +734,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-25T11:56:01.694434+00:00"
+    "discovered_at": "2026-11-25T20:57:52.820534+00:00"
   },
   {
     "id": "unstop:1782995",
@@ -825,7 +749,7 @@
     "state": "hybrid",
     "country": null,
     "start_date": "2026-10-31T00:00:00+05:30",
-    "end_date": "2027-01-04T23:59:00+05:30",
+    "end_date": "2027-01-05T23:59:00+05:30",
     "registration_deadline": "2026-12-10T00:00:00+05:30",
     "min_team_size": 1,
     "max_team_size": 1,
@@ -850,7 +774,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-25T11:56:03.398826+00:00"
+    "discovered_at": "2026-11-25T20:57:57.564580+00:00"
   },
   {
     "id": "unstop:1820502",
@@ -892,7 +816,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-25T11:56:01.694538+00:00"
+    "discovered_at": "2026-11-25T20:57:52.820722+00:00"
   },
   {
     "id": "unstop:1820028",
@@ -926,7 +850,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-25T11:56:03.397746+00:00"
+    "discovered_at": "2026-11-25T20:57:54.971282+00:00"
   },
   {
     "id": "unstop:1824394",
@@ -960,7 +884,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-25T11:56:01.694613+00:00"
+    "discovered_at": "2026-11-25T20:57:52.820855+00:00"
   },
   {
     "id": "unstop:1814814",
@@ -996,7 +920,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-25T11:56:03.397721+00:00"
+    "discovered_at": "2026-11-25T20:57:54.971239+00:00"
   },
   {
     "id": "unstop:1817757",
@@ -1034,7 +958,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-25T11:56:03.398607+00:00"
+    "discovered_at": "2026-11-25T20:57:54.972760+00:00"
   },
   {
     "id": "unstop:1820870",
@@ -1068,7 +992,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-25T11:56:03.397369+00:00"
+    "discovered_at": "2026-11-25T20:57:54.970497+00:00"
   },
   {
     "id": "unstop:1826567",
@@ -1105,7 +1029,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-25T11:56:01.693955+00:00"
+    "discovered_at": "2026-11-25T20:57:52.820002+00:00"
   },
   {
     "id": "unstop:1821473",
@@ -1145,7 +1069,45 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-25T11:56:01.693991+00:00"
+    "discovered_at": "2026-11-25T20:57:52.820397+00:00"
+  },
+  {
+    "id": "unstop:1827866",
+    "source": "Unstop",
+    "title": "CodePulse 48 - National Hackathon",
+    "url": "https://unstop.com/hackathons/codepulse-48-national-hackathon-wecodecoders-1827866",
+    "description": "Join the official group for information and updates: &nbsp; https://chat.whatsapp.com/Gaw6O6D9nH9BeFKXqAcUb9 About: Top three teams: Paid internship opportunities Top three teams: Incubation and product-development support Top three teams Prize Pool: 30,000 Rs Every participant: One complimentary .xyz domain and .cv domain Every participant: $100 in Inkloom AI credits, 500$ Adaption AI credits Every participant: Verifiable digital certificate Rewards: 100+ recipients across the hackathon Dates: 27th December 10 AM to 29th December 10 AM Mode: Completely online Team size: 1&ndash;4 members Registration fee: Absolutely free Tracks: Agentic AI, Full-Stack Product Engineering and Open Innovation Join the official WhatsApp group for participation details, announcements and important hackathon updates. A participant must complete the hackathon and make a valid final submission to receive a verifiable digital certificate. Registration alone will not qualify a participant for a certificate.",
+    "organizer": "WeCodeCoders",
+    "venue": "Online",
+    "mode": "Online",
+    "city": null,
+    "state": "online",
+    "country": null,
+    "start_date": "2026-11-24T18:30:05+05:30",
+    "end_date": "2026-12-29T10:00:51+05:30",
+    "registration_deadline": "2026-12-25T06:06:26+05:30",
+    "min_team_size": 1,
+    "max_team_size": 4,
+    "solo_allowed": true,
+    "eligibility": "Undergraduate / Postgraduate & Engineering students",
+    "prize_pool": "Prizes & Certificates",
+    "tracks": [
+      "Engineering Students",
+      "Postgraduate",
+      "Undergraduate",
+      "Management",
+      "Arts, Commerce, Sciences & Others"
+    ],
+    "score": 75,
+    "matched_reasons": [
+      "🌐 **Accessible Online Mode** (+15 pts)",
+      "👤 **Solo Eligible (1 Member)** (+35 pts)",
+      "🤖 **AI & Software Tracks** (+25 pts) [AI, Agentic Ai, Open Innovation]"
+    ],
+    "is_nagpur_local": false,
+    "is_maharashtra": false,
+    "is_active": true,
+    "discovered_at": "2026-11-25T20:57:52.819294+00:00"
   },
   {
     "id": "unstop:1821912",
@@ -1183,7 +1145,75 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-25T11:56:03.397228+00:00"
+    "discovered_at": "2026-11-25T20:57:54.970266+00:00"
+  },
+  {
+    "id": "unstop:1826867",
+    "source": "Unstop",
+    "title": "UNIVION: CHRONOS DE NOVO",
+    "url": "https://unstop.com/hackathons/univion-chronos-de-novo-sieeds-1826867",
+    "description": "UNIVION: CHRONOS DE NOVO National-Level 36-Hour Hackathon | SIEEDS Foundation About the Event UNIVION: CHRONOS DE NOVO is the flagship national-level hackathon organised by the SIEEDS Foundation (SIEEDS4SAGE), scheduled for 15-16 January 2027 at IIT Delhi . The event brings together student developers, researchers, engineers, designers and innovators from across India to build technology-driven solutions to real-world challenges. The hackathon promotes interdisciplinary collaboration, innovation and practical problem-solving across six frontier technology domains. Tracks Artificial Intelligence: Machine learning, generative AI and intelligent automation. Quantum Computing: Quantum algorithms, simulation and quantum information processing. Quant Finance: Algorithmic trading, financial modelling and risk analytics. Web3: Blockchain, decentralised applications and digital identity. Robo-Autonomics: Robotics, embedded systems and autonomous technologies. Cybersecurity: Cryptography, network security and threat intelligence. Eligibility &amp; Team Formation Open to undergraduate and postgraduate students from recognised institutions across India. Inter-college and interdisciplinary teams are permitted. Participants must provide valid institutional identification when required. Each participant may register with only one team. Final team-size requirements will be specified in the official registration guidelines. Competition Format &amp; Timeline The competition will consist of two rounds: Round 1: Online Submission Round 26 November 2026: Registrations and submissions open. 26 December 2026: Submission deadline. 4 January 2027: Finalist announcement. Round 2: Offline Grand Finale 8 January 2027: Finalist onboarding. 15-16 January 2027: 36-hour Grand Finale at IIT Delhi. Approximately 100 finalist teams will be shortlisted from the online round to compete in the offline finale. Evaluation Criteria Projects will be assessed on: Innovation and originality. Technical implementation and complexity. Practical applicability and feasibility. Scalability and potential impact. Prototype quality and demonstration. Presentation and clarity. Rules &amp; Guidelines All participants must register through the official platform and provide accurate information. Projects must align with the selected technology track. Plagiarism, misrepresentation and unfair practices are strictly prohibited. Third-party APIs, datasets, libraries and open-source components must be disclosed. Teams must adhere to submission deadlines and evaluation guidelines. Participants attending the offline finale must comply with IIT Delhi campus protocols. Organisers reserve the right to modify operational arrangements when necessary.",
+    "organizer": "SIEEDS",
+    "venue": "hybrid",
+    "mode": "In-Person",
+    "city": null,
+    "state": "hybrid",
+    "country": null,
+    "start_date": "2026-11-25T00:00:00+05:30",
+    "end_date": "2027-01-16T19:30:00+05:30",
+    "registration_deadline": "2026-12-26T00:00:05+05:30",
+    "min_team_size": 1,
+    "max_team_size": 4,
+    "solo_allowed": true,
+    "eligibility": "Open to college students & coders",
+    "prize_pool": "Prizes & Certificates",
+    "tracks": [
+      "All"
+    ],
+    "score": 75,
+    "matched_reasons": [
+      "🌐 **Accessible In-Person Mode** (+15 pts)",
+      "👤 **Solo Eligible (1 Member)** (+35 pts)",
+      "🤖 **AI & Software Tracks** (+25 pts) [AI, Artificial Intelligence, Machine Learning]"
+    ],
+    "is_nagpur_local": false,
+    "is_maharashtra": false,
+    "is_active": true,
+    "discovered_at": "2026-11-25T20:57:52.818130+00:00"
+  },
+  {
+    "id": "unstop:1827472",
+    "source": "Unstop",
+    "title": "Finance Next Hackathon 2026",
+    "url": "https://unstop.com/hackathons/finance-next-hackathon-2026-proton-solutions-1827472",
+    "description": "FinTech Forge 2026 &ndash; Innovate Finance. Build Tomorrow. Organised by Proton Solutions FinTech Forge 2026 is an innovation-driven hackathon designed to bring together students, developers, programmers, entrepreneurs and technology enthusiasts to explore the future of financial technology. The hackathon challenges participants to develop innovative, secure, scalable and user-friendly technology solutions that address real-world financial challenges. Participants will have the opportunity to explore emerging technologies such as Artificial Intelligence, Machine Learning, Blockchain, Digital Payments, Financial Automation, Open Banking and Data Analytics to create impactful financial applications. From intelligent personal finance management and fraud detection to digital payment systems and financial inclusion, participants are encouraged to transform their ideas into practical technology solutions. Hackathon Focus Areas Digital Payments and Payment Innovation AI-Powered Financial Applications Fraud Detection and Financial Security Blockchain and Decentralized Finance Personal Finance and Wealth Management Financial Inclusion and Digital Banking Smart Investment and Risk Analysis Financial Automation and Data Analytics Who Can Participate? Students, developers, programmers, entrepreneurs, innovators and technology enthusiasts from all academic backgrounds are welcome. Why Participate? Build practical FinTech solutions. Explore emerging financial technologies. Gain hands-on software development experience. Demonstrate creativity and problem-solving skills. Collaborate with fellow innovators. Showcase your project to an evaluation panel. Event Format FinTech Forge 2026 will be conducted entirely online through a multi-round competition. Participants will progress through idea submission, prototype development, final project submission and project presentation. Organised By Proton Solutions Join FinTech Forge 2026 and help shape the next generation of financial innovation. Think Beyond Banking. Innovate Beyond Limits.",
+    "organizer": "Proton Solutions",
+    "venue": "Online",
+    "mode": "Online",
+    "city": null,
+    "state": "online",
+    "country": null,
+    "start_date": "2026-11-26T00:00:00+05:30",
+    "end_date": "2027-01-30T00:01:00+05:30",
+    "registration_deadline": "2026-12-31T00:00:00+05:30",
+    "min_team_size": 1,
+    "max_team_size": 2,
+    "solo_allowed": true,
+    "eligibility": "Open to college students & coders",
+    "prize_pool": "Prizes & Certificates",
+    "tracks": [
+      "All"
+    ],
+    "score": 75,
+    "matched_reasons": [
+      "🌐 **Accessible Online Mode** (+15 pts)",
+      "👤 **Solo Eligible (1 Member)** (+35 pts)",
+      "🤖 **AI & Software Tracks** (+25 pts) [AI, Artificial Intelligence, Machine Learning]"
+    ],
+    "is_nagpur_local": false,
+    "is_maharashtra": false,
+    "is_active": true,
+    "discovered_at": "2026-11-25T20:57:52.819131+00:00"
   },
   {
     "id": "unstop:1826401",
@@ -1221,78 +1251,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-25T11:56:01.693581+00:00"
-  },
-  {
-    "id": "unstop:1827472",
-    "source": "Unstop",
-    "title": "Finance Next Hackathon 2026",
-    "url": "https://unstop.com/hackathons/finance-next-hackathon-2026-proton-solutions-1827472",
-    "description": "FinTech Forge 2026 &ndash; Innovate Finance. Build Tomorrow. Organised by Proton Solutions FinTech Forge 2026 is an innovation-driven hackathon designed to bring together students, developers, programmers, entrepreneurs and technology enthusiasts to explore the future of financial technology. The hackathon challenges participants to develop innovative, secure, scalable and user-friendly technology solutions that address real-world financial challenges. Participants will have the opportunity to explore emerging technologies such as Artificial Intelligence, Machine Learning, Blockchain, Digital Payments, Financial Automation, Open Banking and Data Analytics to create impactful financial applications. From intelligent personal finance management and fraud detection to digital payment systems and financial inclusion, participants are encouraged to transform their ideas into practical technology solutions. Hackathon Focus Areas Digital Payments and Payment Innovation AI-Powered Financial Applications Fraud Detection and Financial Security Blockchain and Decentralized Finance Personal Finance and Wealth Management Financial Inclusion and Digital Banking Smart Investment and Risk Analysis Financial Automation and Data Analytics Who Can Participate? Students, developers, programmers, entrepreneurs, innovators and technology enthusiasts from all academic backgrounds are welcome. Why Participate? Build practical FinTech solutions. Explore emerging financial technologies. Gain hands-on software development experience. Demonstrate creativity and problem-solving skills. Collaborate with fellow innovators. Showcase your project to an evaluation panel. Event Format FinTech Forge 2026 will be conducted entirely online through a multi-round competition. Participants will progress through idea submission, prototype development, final project submission and project presentation. Organised By Proton Solutions Join FinTech Forge 2026 and help shape the next generation of financial innovation. Think Beyond Banking. Innovate Beyond Limits.",
-    "organizer": "Proton Solutions",
-    "venue": "Online",
-    "mode": "Online",
-    "city": null,
-    "state": "online",
-    "country": null,
-    "start_date": "2026-11-26T00:00:00+05:30",
-    "end_date": "2027-01-30T00:01:00+05:30",
-    "registration_deadline": "2026-12-31T00:00:00+05:30",
-    "min_team_size": 1,
-    "max_team_size": 2,
-    "solo_allowed": true,
-    "eligibility": "Open to college students & coders",
-    "prize_pool": "Prizes & Certificates",
-    "tracks": [
-      "All"
-    ],
-    "score": 75,
-    "matched_reasons": [
-      "🌐 **Accessible Online Mode** (+15 pts)",
-      "👤 **Solo Eligible (1 Member)** (+35 pts)",
-      "🤖 **AI & Software Tracks** (+25 pts) [AI, Artificial Intelligence, Machine Learning]"
-    ],
-    "is_nagpur_local": false,
-    "is_maharashtra": false,
-    "is_active": true,
-    "discovered_at": "2026-11-25T11:56:01.693696+00:00"
-  },
-  {
-    "id": "unstop:1817240",
-    "source": "Unstop",
-    "title": "REFRACT 1.0 Hackathon",
-    "url": "https://unstop.com/hackathons/refract-10-hackathon-university-of-engineering-and-management-kolkata-1817240",
-    "description": "About The Event REFRACT 1.0 marks the inaugural edition of a 30-hour national-level hackathon. The event is organised by the SPIE OPTICA Student Chapter, University of Engineering and Management, Kolkata, in collaboration with the UEMK Space Observatory. Event Dates: 30th&ndash;31st January 2027 REFRACT 1.0 aims to bring together creative thinkers, developers, researchers and aspiring innovators from across the country to transform ideas into impactful solutions. The event provides a platform for participants to ideate, collaborate, experiment and develop innovative solutions to real-world challenges. With six diverse innovation tracks, the hackathon encourages interdisciplinary exploration across emerging technologies, engineering, scientific research and creative problem-solving. Join our Official Discord Server for updates &amp; team formation: https://discord.gg/DMhmUEJtK Themes &amp; Innovation Tracks Participants can develop solutions under any one of the following six tracks: Photonics &amp; Optical Innovation: Innovate with light. Build real-world solutions using optical sensors, lasers, fiber-optic communication, smart displays, solar devices, or optical imaging systems. AI &amp; Intelligent Systems:&nbsp; Deploy ultra-low latency neural architectures, autonomous multi-agent workflows, computer vision algorithms, real-time sensor intelligence, and local edge inference models. Robotics &amp; IoT (Hardware Track):&nbsp; Bring hardware to life. Build autonomous robots, smart gadgets, automated control systems, and connected IoT devices using microcontrollers, sensors, and actuators. App &amp; Game Development: Create high-performance mobile applications, immersive web platforms, interactive game mechanics, real-time 3D rendering engines, and next-generation digital experiences. Space Technology:&nbsp; Create solutions inspired by the cosmos. Work on satellite systems, orbital tracking, space data processing, CubeSat hardware, or astronomy-related applications. Open Innovation:&nbsp; Ideas beyond boundaries. Defy traditional tech silos with unconstrained multidisciplinary inventions, wildcard solutions, and unconventional prototypes solving high-impact problems. Event Format &amp; Process REFRACT 1.0 Will Follow A Hybrid Format Consisting Of Two Phases: Phase 1: Online Preliminary Round: Participants Must Register And Submit Their Project Ideas Or Proposals. Submissions Will Be Evaluated By The Organising Team And/Or Designated Evaluators. Shortlisted Teams Will Qualify For The Offline Finale. Phase 2: Offline Grand Finale Selected Teams Will Participate In The 30-Hour Offline Hackathon. Participants Will Work On Developing And Refining Their Proposed Solutions. Teams Will Present Their Projects Before The Judging Panel. Winners Will Be Determined Based On The Evaluation Criteria. Event Details Event Dates: 30th&ndash;31st January 2027 Venue: University Of Engineering And Management, Kolkata (New Town) Mode: Hybrid (Online Idea Submission Preliminary Round + Offline Finale) Eligibility The Hackathon Is Intended For Students And Aspiring Innovators Interested In Technology, Engineering, Research And Problem-Solving. Participants From Diverse Academic Backgrounds And Institutions Are Encouraged To Apply. Teams Must Register Through The Official Registration Portal. Participants Must Provide Accurate Information During Registration. Shortlisted Teams Must Be Available To Attend The Offline Finale At The Designated Venue. Rules &amp; Guidelines Participants Must Register Within The Stipulated Registration Period. All Team Members Must Be Registered Through The Official Registration Process. Each Team Must Select One Of The Six Designated Innovation Tracks. Submitted Projects Must Be Original And Must Not Infringe Upon Any Third-Party Intellectual Property Rights. Plagiarism, Impersonation, Misrepresentation Or Submission Of Previously Completed Projects As Entirely New Work May Lead To Disqualification. Teams Must Adhere To All Submission Deadlines And Instructions Communicated By The Organising Committee. Shortlisted Teams Must Participate In The Offline Finale As Per The Schedule Shared By The Organisers. Participants Are Expected To Maintain Professional Conduct And Follow The Event Guidelines Throughout The Competition. The Organising Committee Reserves The Right To Disqualify Participants Or Teams Found Violating The Rules. Decisions Made By The Judging Panel And Organising Committee Regarding Evaluation And Results Will Be Final. Evaluation Criteria Projects Will Be Evaluated On The Basis Of The Following Broad Parameters: Innovation &amp; Originality: Uniqueness And Creativity Of The Proposed Solution. Technical Implementation: Quality Of Execution And Effective Use Of Technology. Problem Relevance: Understanding Of The Problem And Practical Applicability. Feasibility &amp; Scalability: Potential For Real-World Implementation And Future Development. Presentation &amp; Demonstration: Clarity Of Communication, Demonstration And Overall Project Understanding.",
-    "organizer": "University Of Engineering And Management, Kolkata ",
-    "venue": "hybrid",
-    "mode": "In-Person",
-    "city": null,
-    "state": "hybrid",
-    "country": null,
-    "start_date": "2026-11-20T12:00:00+05:30",
-    "end_date": "2027-01-31T15:00:00+05:30",
-    "registration_deadline": "2027-01-09T23:59:00+05:30",
-    "min_team_size": 1,
-    "max_team_size": 4,
-    "solo_allowed": true,
-    "eligibility": "Undergraduate / Postgraduate & Engineering students",
-    "prize_pool": "Prizes & Certificates",
-    "tracks": [
-      "Engineering Students",
-      "Postgraduate",
-      "Undergraduate",
-      "Arts, Commerce, Sciences & Others"
-    ],
-    "score": 75,
-    "matched_reasons": [
-      "🌐 **Accessible In-Person Mode** (+15 pts)",
-      "👤 **Solo Eligible (1 Member)** (+35 pts)",
-      "🤖 **AI & Software Tracks** (+25 pts) [AI, Computer Vision, Open Innovation]"
-    ],
-    "is_nagpur_local": false,
-    "is_maharashtra": false,
-    "is_active": true,
-    "discovered_at": "2026-11-25T11:56:03.399413+00:00"
+    "discovered_at": "2026-11-25T20:57:52.819846+00:00"
   },
   {
     "id": "hackerearth:contextcon-remember-everything",
@@ -1328,7 +1287,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-25T11:56:09.059126+00:00"
+    "discovered_at": "2026-11-25T20:58:01.341934+00:00"
   },
   {
     "id": "devpost:30740",
@@ -1364,7 +1323,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-25T11:56:08.066018+00:00"
+    "discovered_at": "2026-11-25T20:58:00.359811+00:00"
   },
   {
     "id": "devpost:30764",
@@ -1400,7 +1359,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-25T11:56:08.179912+00:00"
+    "discovered_at": "2026-11-25T20:58:00.568334+00:00"
   },
   {
     "id": "devpost:31787",
@@ -1436,7 +1395,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-25T11:56:08.066037+00:00"
+    "discovered_at": "2026-11-25T20:58:00.359838+00:00"
   },
   {
     "id": "devpost:31642",
@@ -1472,7 +1431,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-25T11:56:07.952471+00:00"
+    "discovered_at": "2026-11-25T20:58:00.208168+00:00"
   },
   {
     "id": "devpost:31083",
@@ -1508,7 +1467,43 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-25T11:56:07.952458+00:00"
+    "discovered_at": "2026-11-25T20:58:00.208149+00:00"
+  },
+  {
+    "id": "devpost:32009",
+    "source": "Devpost",
+    "title": "AI for Medicine: A Global Student Hackathon on the Future of Care",
+    "url": "https://ai-for-medicine.devpost.com/",
+    "description": "Devpost hackathon. 9 days left",
+    "organizer": "Open Health AI Collective",
+    "venue": "Online",
+    "mode": "Online",
+    "city": null,
+    "state": null,
+    "country": null,
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": "Nov 04 - Dec 04, 2026",
+    "min_team_size": 1,
+    "max_team_size": null,
+    "solo_allowed": true,
+    "eligibility": "Global Devpost Participants",
+    "prize_pool": "$ 0",
+    "tracks": [
+      "Beginner Friendly",
+      "Health",
+      "Machine Learning/AI"
+    ],
+    "score": 75,
+    "matched_reasons": [
+      "🌐 **Accessible Online Mode** (+15 pts)",
+      "👤 **Solo Eligible (1 Member)** (+35 pts)",
+      "🤖 **AI & Software Tracks** (+25 pts) [AI, Machine Learning]"
+    ],
+    "is_nagpur_local": false,
+    "is_maharashtra": false,
+    "is_active": true,
+    "discovered_at": "2026-11-25T20:58:00.568366+00:00"
   },
   {
     "id": "devpost:31480",
@@ -1544,7 +1539,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-25T11:56:08.179874+00:00"
+    "discovered_at": "2026-11-25T20:58:00.568306+00:00"
   },
   {
     "id": "devpost:31972",
@@ -1580,7 +1575,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-25T11:56:08.179850+00:00"
+    "discovered_at": "2026-11-25T20:58:00.568279+00:00"
   },
   {
     "id": "devpost:31973",
@@ -1616,7 +1611,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-25T11:56:07.952462+00:00"
+    "discovered_at": "2026-11-25T20:58:00.208155+00:00"
   },
   {
     "id": "devpost:32079",
@@ -1652,7 +1647,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-25T11:56:08.066014+00:00"
+    "discovered_at": "2026-11-25T20:58:00.359803+00:00"
   },
   {
     "id": "devpost:31808",
@@ -1688,14 +1683,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-25T11:56:07.952443+00:00"
+    "discovered_at": "2026-11-25T20:58:00.208125+00:00"
   },
   {
     "id": "devpost:32024",
     "source": "Devpost",
     "title": "Relate by Neo4j Hackathon",
     "url": "https://relate.devpost.com/",
-    "description": "Devpost hackathon. 17 days left",
+    "description": "Devpost hackathon. 16 days left",
     "organizer": "Neo4j",
     "venue": "Online",
     "mode": "Online",
@@ -1724,7 +1719,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-25T11:56:08.066022+00:00"
+    "discovered_at": "2026-11-25T20:58:00.359818+00:00"
   },
   {
     "id": "devpost:32026",
@@ -1760,7 +1755,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-25T11:56:07.952454+00:00"
+    "discovered_at": "2026-11-25T20:58:00.208142+00:00"
   },
   {
     "id": "devpost:31571",
@@ -1796,7 +1791,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-25T11:56:07.952467+00:00"
+    "discovered_at": "2026-11-25T20:58:00.208162+00:00"
   },
   {
     "id": "devpost:31886",
@@ -1832,7 +1827,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-25T11:56:08.066009+00:00"
+    "discovered_at": "2026-11-25T20:58:00.359795+00:00"
   },
   {
     "id": "devpost:31826",
@@ -1866,7 +1861,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-25T11:56:08.179883+00:00"
+    "discovered_at": "2026-11-25T20:58:00.568326+00:00"
   },
   {
     "id": "hackerearth:groww-next-2026",
@@ -1902,43 +1897,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-25T11:56:09.059154+00:00"
-  },
-  {
-    "id": "devpost:31737",
-    "source": "Devpost",
-    "title": "HackWithAditya",
-    "url": "https://hackwithaditya.devpost.com/",
-    "description": "Devpost hackathon. about 6 hours left",
-    "organizer": "Aditya University",
-    "venue": "Online",
-    "mode": "Online",
-    "city": null,
-    "state": null,
-    "country": null,
-    "start_date": null,
-    "end_date": null,
-    "registration_deadline": "Oct 16 - Nov 25, 2026",
-    "min_team_size": 1,
-    "max_team_size": null,
-    "solo_allowed": true,
-    "eligibility": "Global Devpost Participants",
-    "prize_pool": "₹ 500,000",
-    "tracks": [
-      "Education",
-      "Health",
-      "Machine Learning/AI"
-    ],
-    "score": 75,
-    "matched_reasons": [
-      "🌐 **Accessible Online Mode** (+15 pts)",
-      "👤 **Solo Eligible (1 Member)** (+35 pts)",
-      "🤖 **AI & Software Tracks** (+25 pts) [AI, Machine Learning]"
-    ],
-    "is_nagpur_local": false,
-    "is_maharashtra": false,
-    "is_active": true,
-    "discovered_at": "2026-11-25T11:56:08.179921+00:00"
+    "discovered_at": "2026-11-25T20:58:01.341960+00:00"
   },
   {
     "id": "devpost:31796",
@@ -1974,14 +1933,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-25T11:56:08.179879+00:00"
+    "discovered_at": "2026-11-25T20:58:00.568317+00:00"
   },
   {
     "id": "devpost:31789",
     "source": "Devpost",
     "title": "STEM2Connect AI Hackathon",
     "url": "https://stem2connect-online-hackathon.devpost.com/",
-    "description": "Devpost hackathon. 5 days left",
+    "description": "Devpost hackathon. 4 days left",
     "organizer": "STEM2Connect",
     "venue": "Online",
     "mode": "Online",
@@ -2010,14 +1969,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-25T11:56:08.066029+00:00"
+    "discovered_at": "2026-11-25T20:58:00.359831+00:00"
   },
   {
     "id": "devpost:30789",
     "source": "Devpost",
     "title": "Arbiter Hacks V1",
     "url": "https://arbiter-hacks-v1.devpost.com/",
-    "description": "Devpost hackathon. 26 days left",
+    "description": "Devpost hackathon. 25 days left",
     "organizer": "Arbiter ",
     "venue": "Online",
     "mode": "Online",
@@ -2046,7 +2005,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-25T11:56:08.065986+00:00"
+    "discovered_at": "2026-11-25T20:58:00.359776+00:00"
   },
   {
     "id": "devpost:31907",
@@ -2082,7 +2041,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-25T11:56:08.066026+00:00"
+    "discovered_at": "2026-11-25T20:58:00.359825+00:00"
   },
   {
     "id": "devpost:31572",
@@ -2118,7 +2077,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-25T11:56:07.952435+00:00"
+    "discovered_at": "2026-11-25T20:58:00.208114+00:00"
   },
   {
     "id": "devpost:31667",
@@ -2154,7 +2113,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-25T11:56:07.952409+00:00"
+    "discovered_at": "2026-11-25T20:58:00.208088+00:00"
   },
   {
     "id": "unstop:1822209",
@@ -2193,7 +2152,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": true,
     "is_active": true,
-    "discovered_at": "2026-11-25T11:56:01.695174+00:00"
+    "discovered_at": "2026-11-25T20:57:54.970130+00:00"
   },
   {
     "id": "unstop:1818894",
@@ -2232,7 +2191,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-25T11:56:03.396875+00:00"
+    "discovered_at": "2026-11-25T20:57:54.969497+00:00"
   },
   {
     "id": "unstop:1781454",
@@ -2271,7 +2230,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-25T11:56:05.065482+00:00"
+    "discovered_at": "2026-11-25T20:57:57.565940+00:00"
   },
   {
     "id": "unstop:1821984",
@@ -2312,14 +2271,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-25T11:56:01.695280+00:00"
+    "discovered_at": "2026-11-25T20:57:54.970757+00:00"
   },
   {
     "id": "unstop:1822588",
     "source": "Unstop",
     "title": "Mogoj Dholai (CP contest)",
     "url": "https://unstop.com/hackathons/mogoj-dholai-kernel-10-department-of-information-technology-jadavpur-university-1822588",
-    "description": "An elite algorithmic problem-solving CP contest , designed to test analytical limits, data structure mastery, and computational complexity optimization under strict time constraints. Participants tackle multi-tiered problems ranging from dynamic programming to graph theory on standard ICPC scoring. Rules: Participants can be from any recognized university or college. Participants must connect to the contest server; plagiarism and AI-assisted code generation will lead to immediate disqualification. Standard ICPC-style rules apply: ranking is determined by total solved problems and penalty time . Languages permitted: C++, C, Java, and Python 3 . Finalists must carry valid student ID cards for onsite verification. Registration must be done on Unstop and the form (both compulsory before the Prelims) - https://forms.gle/EfffoSn5Nfj4hj2j9 Format: Round 1: Online Preliminary Qualifier A 1 hour algorithmic coding challenge hosted on the live contest platform . Top 75 will advance to the on-campus Grand Finale . Round 2: On-Campus Grand Finale A high-intensity 2 -hour onsite showdown with hidden evaluation test cases. Scoreboard will be frozen during the final 60 minutes to heighten suspense. Participants must bring their own laptops",
+    "description": "An elite algorithmic problem-solving CP contest , designed to test analytical limits, data structure mastery, and computational complexity optimization under strict time constraints. Participants tackle multi-tiered problems ranging from dynamic programming to graph theory on standard ICPC scoring. Rules: Participants can be from any recognized university or college. Participants must connect to the contest server; plagiarism and AI-assisted code generation will lead to immediate disqualification. Standard ICPC-style rules apply: ranking is determined by total solved problems and penalty time . Languages permitted: C++, C, Java, and Python 3 . Finalists must carry valid student ID cards for onsite verification. Format: Round 1: Online Preliminary Qualifier A 1 hour algorithmic coding challenge hosted on the live contest platform . Top 75 will advance to the on-campus Grand Finale . Round 2: On-Campus Grand Finale A high-intensity 2 -hour onsite showdown with hidden evaluation test cases. Scoreboard will be frozen during the final 60 minutes to heighten suspense. Participants must bring their own laptops",
     "organizer": "Department of Information Technology, Jadavpur University",
     "venue": "offline",
     "mode": "In-Person",
@@ -2351,7 +2310,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-25T11:56:03.397487+00:00"
+    "discovered_at": "2026-11-25T20:57:54.970808+00:00"
   },
   {
     "id": "unstop:1800622",
@@ -2390,7 +2349,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": true,
     "is_active": true,
-    "discovered_at": "2026-11-25T11:56:01.694012+00:00"
+    "discovered_at": "2026-11-25T20:57:52.819327+00:00"
   },
   {
     "id": "unstop:1770707",
@@ -2426,7 +2385,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-25T11:56:03.399314+00:00"
+    "discovered_at": "2026-11-25T20:57:57.565360+00:00"
   },
   {
     "id": "unstop:1814036",
@@ -2459,7 +2418,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-25T11:56:01.693920+00:00"
+    "discovered_at": "2026-11-25T20:57:52.819947+00:00"
   },
   {
     "id": "unstop:1821962",
@@ -2492,7 +2451,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-25T11:56:03.397679+00:00"
+    "discovered_at": "2026-11-25T20:57:54.971171+00:00"
   },
   {
     "id": "unstop:1822884",
@@ -2529,7 +2488,40 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-25T11:56:03.397403+00:00"
+    "discovered_at": "2026-11-25T20:57:54.970565+00:00"
+  },
+  {
+    "id": "unstop:1828497",
+    "source": "Unstop",
+    "title": "Snow Code",
+    "url": "https://unstop.com/hackathons/snow-code-stampers-1828497",
+    "description": "Introducing SnowCode Hackathon 2026! Join Our Official WhatsApp Community (Mandatory): https://chat.whatsapp.com/Gpz2tH65uYMJekVIfWVBOj?s=cl&amp;p=a&amp;iam=2 Presented By STAMPERS | Powered By Unstop Get ready for an exciting 24-hour coding experience where creativity meets innovation! SnowCode Hackathon 2026 Date: 12th &ndash; 13th December 2026 Start Time: 12:00 AM Organised By: STAMPERS Powered By: Unstop Code In The Cold. Build The Future. Bring your ideas to life, solve real-world challenges, collaborate with brilliant minds and showcase your innovation. IDEAS &ndash; Ignite Innovation INNOVATION &ndash; Solve. Create. Elevate. IMPACT &ndash; Build a Better Tomorrow. Join Our Official WhatsApp Community: https://chat.whatsapp.com/Gpz2tH65uYMJekVIfWVBOj?s=cl&amp;p=a&amp;iam=2 Join the community to stay updated with registration announcements, event guidelines and important updates. Get ready to innovate. Get ready to compete. Get ready for SNOWCODE!",
+    "organizer": "STAMPERS",
+    "venue": "Online",
+    "mode": "Online",
+    "city": null,
+    "state": "online",
+    "country": null,
+    "start_date": "2026-11-25T00:00:00+05:30",
+    "end_date": "2026-12-11T00:00:00+05:30",
+    "registration_deadline": "2026-12-11T00:00:00+05:30",
+    "min_team_size": 1,
+    "max_team_size": 4,
+    "solo_allowed": true,
+    "eligibility": "Open to college students & coders",
+    "prize_pool": "Prizes & Certificates",
+    "tracks": [
+      "All"
+    ],
+    "score": 50,
+    "matched_reasons": [
+      "🌐 **Accessible Online Mode** (+15 pts)",
+      "👤 **Solo Eligible (1 Member)** (+35 pts)"
+    ],
+    "is_nagpur_local": false,
+    "is_maharashtra": false,
+    "is_active": true,
+    "discovered_at": "2026-11-25T20:57:52.818208+00:00"
   },
   {
     "id": "devpost:31108",
@@ -2564,14 +2556,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-25T11:56:08.179916+00:00"
+    "discovered_at": "2026-11-25T20:58:00.568342+00:00"
   },
   {
     "id": "devpost:31644",
     "source": "Devpost",
     "title": "Reddit’s Game of the Day Hackathon",
     "url": "https://redditgameofday2026.devpost.com/",
-    "description": "Devpost hackathon. 14 days left",
+    "description": "Devpost hackathon. 13 days left",
     "organizer": "reddit",
     "venue": "Online",
     "mode": "Online",
@@ -2598,7 +2590,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-25T11:56:07.952448+00:00"
+    "discovered_at": "2026-11-25T20:58:00.208134+00:00"
   },
   {
     "id": "devpost:31773",
@@ -2632,14 +2624,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-25T11:56:08.066033+00:00"
+    "discovered_at": "2026-11-25T20:58:00.359845+00:00"
   },
   {
     "id": "devpost:31795",
     "source": "Devpost",
     "title": "AccessED Hacks",
     "url": "https://accessed-hacks.devpost.com/",
-    "description": "Devpost hackathon. 26 days left",
+    "description": "Devpost hackathon. 25 days left",
     "organizer": "AccessEDnpo",
     "venue": "Online",
     "mode": "Online",
@@ -2667,7 +2659,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-25T11:56:08.179925+00:00"
+    "discovered_at": "2026-11-25T20:58:00.568350+00:00"
   },
   {
     "id": "devpost:31682",
@@ -2702,7 +2694,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-25T11:56:08.179929+00:00"
+    "discovered_at": "2026-11-25T20:58:00.568358+00:00"
   },
   {
     "id": "unstop:1823841",
@@ -2735,7 +2727,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-25T11:56:01.695078+00:00"
+    "discovered_at": "2026-11-25T20:57:54.969166+00:00"
   },
   {
     "id": "unstop:1806016",
@@ -2774,7 +2766,46 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-25T11:56:03.398418+00:00"
+    "discovered_at": "2026-11-25T20:57:54.972415+00:00"
+  },
+  {
+    "id": "unstop:1828382",
+    "source": "Unstop",
+    "title": "Hack for Good: Open Innovation Hackathon",
+    "url": "https://unstop.com/hackathons/hack-for-good-open-innovation-hackathon-ibs-hyderabad-1828382",
+    "description": "Some problems don't need another food-delivery app. They need someone who cares enough to build the thing that's missing. HACK FOR GOOD is VYUH 11.0's opening-day open innovation hackathon. Pick any real problem in agriculture, commerce, health or education, build a working prototype, and show us the code and the thinking behind it. The best teams present live on 9 December, in person at IBS Hyderabad or online. Bring a team, an idea and the stubbornness to make it work. Domains: 1. Agriculture &middot; 2. Commerce &middot; 3. Health &middot; 4. Education Evaluation criteria (both rounds): problem identification &middot; idea &middot; UI/UX &middot; tests &middot; usage of AI and other tech &middot; social impact &middot; feasibility and scalability. Prize pool: ₹15,000. Winner ₹10,000 &middot; 1st runner-up ₹5,000. Rules and guidelines Teams of 2&ndash;4. Open to UG and PG students from any stream and any college. Cross-college teams are allowed. One team per person. Open innovation: any problem within the four domains. Projects may have been started before registration but must be the team's own work. Declare it if the project has been entered in another competition [PROPOSED]. Round 1 needs all four items: LinkedIn profile links for every member, a public GitHub repository with a README and tests, a working prototype link (deployed app, APK or demo video for hardware), and a pitch deck PDF (max 10 slides + cover, named VYUH11_HACK_TeamName.pdf). Broken links, private repositories or prototypes the judges can't open count as missing. No late submissions. Libraries, APIs, templates and AI coding assistants are allowed. List them in the README. Finalists choose to present in person or online and confirm by 8 Dec, 12:00 PM. Online finalists get a test call on 8 Dec and must keep a backup demo video. A finalist team that misses its slot forfeits it. Plagiarism, using someone else's project, a faked demo or harassment leads to disqualification. Both rounds are judged on: problem identification, idea, UI/UX, tests, usage of AI and other tech, social impact, and feasibility and scalability. Final rankings use the Round 2 score. The judges' decision is final.",
+    "organizer": "ICFAI Business School (IBS), Hyderabad",
+    "venue": "hybrid",
+    "mode": "In-Person",
+    "city": null,
+    "state": "hybrid",
+    "country": null,
+    "start_date": "2026-11-25T21:00:00+05:30",
+    "end_date": "2026-12-09T22:30:00+05:30",
+    "registration_deadline": "2026-12-05T23:59:00+05:30",
+    "min_team_size": 2,
+    "max_team_size": 4,
+    "solo_allowed": false,
+    "eligibility": "Undergraduate / Postgraduate & Engineering students",
+    "prize_pool": "Prizes & Certificates",
+    "tracks": [
+      "Engineering Students",
+      "Postgraduate",
+      "Undergraduate",
+      "Management",
+      "Medical",
+      "Law",
+      "Arts, Commerce, Sciences & Others"
+    ],
+    "score": 40,
+    "matched_reasons": [
+      "🌐 **Accessible In-Person Mode** (+15 pts)",
+      "🤖 **AI & Software Tracks** (+25 pts) [AI, Open Innovation]"
+    ],
+    "is_nagpur_local": false,
+    "is_maharashtra": false,
+    "is_active": true,
+    "discovered_at": "2026-11-25T20:57:52.819055+00:00"
   },
   {
     "id": "unstop:1823379",
@@ -2807,6 +2838,6 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-25T11:56:01.695217+00:00"
+    "discovered_at": "2026-11-25T20:57:54.970210+00:00"
   }
 ]

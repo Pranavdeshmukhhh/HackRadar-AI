@@ -3868,5 +3868,32 @@
     "last_notified": "2026-11-24T18:30:58.757279+00:00",
     "is_nagpur_local": false,
     "solo_allowed": true
+  },
+  "unstop:1812323": {
+    "title": "Nexora AI – National AI & Innovation Hackathon 2026",
+    "url": "https://unstop.com/hackathons/nexora-ai-national-ai-innovation-hackathon-2026-psit-college-of-engineering-psitcoe-kanpur-uttar-pradesh-1812323",
+    "score": 75,
+    "source": "Unstop",
+    "last_notified": "2026-11-25T11:56:12.967998+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:1825938": {
+    "title": "CoMemor Contributor Challenge",
+    "url": "https://unstop.com/hackathons/comemor-contributor-challenge-comemor-1825938",
+    "score": 75,
+    "source": "Unstop",
+    "last_notified": "2026-11-25T11:56:12.967998+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:1827472": {
+    "title": "Finance Next Hackathon 2026",
+    "url": "https://unstop.com/hackathons/finance-next-hackathon-2026-proton-solutions-1827472",
+    "score": 75,
+    "source": "Unstop",
+    "last_notified": "2026-11-25T11:56:12.967998+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
   }
 }

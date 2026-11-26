@@ -4003,5 +4003,32 @@
     "last_notified": "2026-11-26T13:25:35.457228+00:00",
     "is_nagpur_local": false,
     "solo_allowed": false
+  },
+  "unstop:1829639": {
+    "title": "Novatrix 2026",
+    "url": "https://unstop.com/hackathons/novatrix-2026-altairx-tech-1829639",
+    "score": 75,
+    "source": "Unstop",
+    "last_notified": "2026-11-26T22:43:33.460864+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:1829921": {
+    "title": "Dry Run: DSA Challenge",
+    "url": "https://unstop.com/hackathons/dry-run-dsa-challenge-ibs-hyderabad-1829921",
+    "score": 75,
+    "source": "Unstop",
+    "last_notified": "2026-11-26T22:43:33.460864+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:1829674": {
+    "title": "AI Agent Development & Enhancement Hackathon",
+    "url": "https://unstop.com/hackathons/ai-agent-development-enhancement-hackathon-proton-solutions-1829674",
+    "score": 75,
+    "source": "Unstop",
+    "last_notified": "2026-11-26T22:43:33.460864+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
   }
 }

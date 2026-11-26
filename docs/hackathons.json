@@ -33,7 +33,7 @@
     "is_nagpur_local": true,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-25T20:58:03.225183+00:00"
+    "discovered_at": "2026-11-26T03:23:24.939020+00:00"
   },
   {
     "id": "unstop:1820854",
@@ -73,7 +73,7 @@
     "is_nagpur_local": true,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-25T20:57:52.821328+00:00"
+    "discovered_at": "2026-11-26T03:23:16.594766+00:00"
   },
   {
     "id": "unstop:1820851",
@@ -110,7 +110,7 @@
     "is_nagpur_local": true,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-25T20:57:52.820788+00:00"
+    "discovered_at": "2026-11-26T03:23:16.594355+00:00"
   },
   {
     "id": "unstop:1820895",
@@ -149,7 +149,7 @@
     "is_nagpur_local": true,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-25T20:57:52.821027+00:00"
+    "discovered_at": "2026-11-26T03:23:16.594536+00:00"
   },
   {
     "id": "unstop:1820868",
@@ -184,7 +184,7 @@
     "is_nagpur_local": true,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-25T20:57:52.821149+00:00"
+    "discovered_at": "2026-11-26T03:23:16.594630+00:00"
   },
   {
     "id": "college:mindsparkorg",
@@ -220,7 +220,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": true,
     "is_active": true,
-    "discovered_at": "2026-11-25T20:58:02.997523+00:00"
+    "discovered_at": "2026-11-26T03:23:25.041517+00:00"
   },
   {
     "id": "unstop:1817686",
@@ -254,7 +254,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-25T20:57:54.971497+00:00"
+    "discovered_at": "2026-11-26T03:23:18.640333+00:00"
   },
   {
     "id": "unstop:1821954",
@@ -288,7 +288,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-25T20:57:54.970643+00:00"
+    "discovered_at": "2026-11-26T03:23:18.639657+00:00"
   },
   {
     "id": "unstop:1818968",
@@ -328,7 +328,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-25T20:57:54.972465+00:00"
+    "discovered_at": "2026-11-26T03:23:18.641064+00:00"
   },
   {
     "id": "unstop:1812323",
@@ -369,7 +369,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-25T20:57:52.818767+00:00"
+    "discovered_at": "2026-11-26T03:23:16.592966+00:00"
   },
   {
     "id": "unstop:1817737",
@@ -403,7 +403,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-25T20:57:54.972578+00:00"
+    "discovered_at": "2026-11-26T03:23:18.641142+00:00"
   },
   {
     "id": "unstop:1824377",
@@ -443,7 +443,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-25T20:57:52.821440+00:00"
+    "discovered_at": "2026-11-26T03:23:16.594852+00:00"
   },
   {
     "id": "unstop:1820715",
@@ -477,7 +477,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-25T20:57:54.971116+00:00"
+    "discovered_at": "2026-11-26T03:23:18.640040+00:00"
   },
   {
     "id": "unstop:1823739",
@@ -514,7 +514,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-25T20:57:54.969240+00:00"
+    "discovered_at": "2026-11-26T03:23:18.638592+00:00"
   },
   {
     "id": "unstop:1825938",
@@ -552,7 +552,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-25T20:57:52.818956+00:00"
+    "discovered_at": "2026-11-26T03:23:16.593107+00:00"
   },
   {
     "id": "unstop:1826250",
@@ -594,7 +594,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-25T20:57:52.820154+00:00"
+    "discovered_at": "2026-11-26T03:23:16.593876+00:00"
   },
   {
     "id": "unstop:1826157",
@@ -632,7 +632,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-25T20:57:52.820338+00:00"
+    "discovered_at": "2026-11-26T03:23:16.594023+00:00"
   },
   {
     "id": "unstop:1825506",
@@ -666,7 +666,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-25T20:57:52.820466+00:00"
+    "discovered_at": "2026-11-26T03:23:16.594121+00:00"
   },
   {
     "id": "unstop:1818490",
@@ -700,7 +700,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": true,
     "is_active": true,
-    "discovered_at": "2026-11-25T20:57:54.972880+00:00"
+    "discovered_at": "2026-11-26T03:23:18.641380+00:00"
   },
   {
     "id": "unstop:1823604",
@@ -734,7 +734,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-25T20:57:52.820534+00:00"
+    "discovered_at": "2026-11-26T03:23:16.594163+00:00"
   },
   {
     "id": "unstop:1782995",
@@ -774,7 +774,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-25T20:57:57.564580+00:00"
+    "discovered_at": "2026-11-26T03:23:20.654893+00:00"
   },
   {
     "id": "unstop:1820502",
@@ -816,7 +816,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-25T20:57:52.820722+00:00"
+    "discovered_at": "2026-11-26T03:23:16.594305+00:00"
   },
   {
     "id": "unstop:1820028",
@@ -850,7 +850,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-25T20:57:54.971282+00:00"
+    "discovered_at": "2026-11-26T03:23:18.640172+00:00"
   },
   {
     "id": "unstop:1824394",
@@ -884,7 +884,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-25T20:57:52.820855+00:00"
+    "discovered_at": "2026-11-26T03:23:16.594405+00:00"
   },
   {
     "id": "unstop:1814814",
@@ -920,45 +920,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-25T20:57:54.971239+00:00"
-  },
-  {
-    "id": "unstop:1817757",
-    "source": "Unstop",
-    "title": "Nurn 2026 – National Innovation & Technology Challenge",
-    "url": "https://unstop.com/hackathons/nurn-2026-national-innovation-technology-challenge-pranveer-singh-institute-of-technology-psit-kanpur-1817757",
-    "description": "Overview Imagine. Innovate. Build What's Next. About NURN 2026 is an innovation-driven hackathon designed to bring together creative minds, aspiring developers, technology enthusiasts and student innovators from across India. NURN provides a platform for participants to identify real-world problems, develop innovative solutions and transform their ideas into working prototypes. Whether you are interested in Artificial Intelligence, Machine Learning, Web Development, App Development, Automation, Software Engineering or emerging technologies, NURN welcomes innovative ideas and practical solutions. This is your opportunity to think beyond conventional boundaries, experiment with technology, collaborate with talented individuals and showcase your creativity. What to Expect Participants will get the opportunity to: Work on innovative, real-world problem statements. Explore Artificial Intelligence and emerging technologies. Develop practical software solutions and prototypes. Showcase technical and problem-solving abilities. Compete with innovators from different institutions. Receive recognition for outstanding projects. Connect with fellow participants and the NURN community. Hackathon Domains Participants can explore projects in the following domains: Artificial Intelligence &amp; Machine Learning Generative AI &amp; AI Agents Web Development &amp; Full-Stack Development Mobile Application Development Automation &amp; Productivity Solutions Software Engineering &amp; SaaS Data Science &amp; Analytics Cybersecurity &amp; Digital Safety IoT &amp; Smart Technology Open Innovation &ndash; Beyond Boundaries Participants are encouraged to explore original ideas and meaningful applications of technology. Eligibility Criteria Open to college and university students. Students from all academic disciplines are welcome. Beginners and experienced developers can participate. Team size: 1 member. Inter-college teams are permitted, subject to the final registration rules. Each participant can be part of only one team. Process Stage 1 &ndash; Registration Register for NURN through the official Unstop opportunity. Complete your participant and team details accurately. Stage 2 &ndash; Idea Submission Participants submit their proposed project idea, problem statement, proposed solution, innovation and technical approach. Stage 3 &ndash; Shortlisting The evaluation team reviews submissions based on originality, relevance, feasibility and innovation. Shortlisted participants will be informed through official communication channels. Stage 4 &ndash; Prototype Development Shortlisted teams develop their proposed solutions into functional prototypes. Technical documentation, project demonstrations and supporting materials may be required. Stage 5 &ndash; Final Evaluation Selected finalists present and demonstrate their projects before the evaluation panel. Stage 6 &ndash; Results &amp; Recognition Winners and outstanding participants will be recognised according to the announced awards and evaluation results. Exact dates, submission instructions and round-specific requirements will be announced through official NURN communication channels. Judging Criteria Projects will be evaluated on: Innovation &amp; Originality Technical Implementation Problem-Solving Approach Practical Feasibility User Experience Real-World Impact Scalability Presentation &amp; Demonstration Rules All submissions must represent original work. Impersonation and misrepresentation are prohibited. Participants must provide accurate registration information. A participant cannot register with multiple teams. Participants must follow all submission deadlines. AI tools and third-party resources may be used where permitted, but their use must be disclosed when requested. Participants must respect intellectual property rights and applicable software licences. Submitted project links and demonstrations must be accessible for evaluation. Unprofessional behaviour, harassment or attempts to manipulate the evaluation process may result in disqualification. Organisers reserve the right to reject incomplete or rule-violating submissions. The judges' decisions will be final. Join the WhatsApp group here: https://chat.whatsapp.com/FrqQ0vBIbWvEYvOde8vWjC Joining the official NURN WhatsApp group is strongly required for every registered participant. All important hackathon announcements, updates and communication will be shared through the official WhatsApp group. Participants will receive information regarding: Important event announcements. Registration updates and confirmations. Problem statement announcements. Round-wise instructions and guidelines. Submission deadlines and reminders. Changes in the competition schedule. Shortlisting and finalist announcements. Results and certificate-related updates. Important notices and other event-related information. Important: After registering on Unstop, participants should join the WhatsApp group to stay informed throughout the hackathon. Please check the group regularly so that you do not miss important announcements or deadlines. The official Unstop opportunity remains the primary registration and submission platform. The WhatsApp group is the official supplementary communication channel. Awards Outstanding participants will receive recognition based on their performance and the announced award structure. Awards and certificates will be distributed according to the official event announcements. Stay connected. Stay informed. Keep innovating. YOUR IDEAS. YOUR INNOVATION. YOUR FUTURE. Think Big. Build Bold. Make an Impact.",
-    "organizer": "Pranveer Singh Institute of Technology (PSIT), Kanpur",
-    "venue": "Online",
-    "mode": "Online",
-    "city": null,
-    "state": "online",
-    "country": null,
-    "start_date": "2026-11-15T00:00:00+05:30",
-    "end_date": "2027-01-10T15:44:00+05:30",
-    "registration_deadline": "2026-12-16T00:00:00+05:30",
-    "min_team_size": 1,
-    "max_team_size": 1,
-    "solo_allowed": true,
-    "eligibility": "Undergraduate / Postgraduate & Engineering students",
-    "prize_pool": "Prizes & Certificates",
-    "tracks": [
-      "Experienced Professionals",
-      "Engineering Students",
-      "Postgraduate",
-      "Undergraduate",
-      "Fresher"
-    ],
-    "score": 75,
-    "matched_reasons": [
-      "🌐 **Accessible Online Mode** (+15 pts)",
-      "👤 **Solo Eligible (1 Member)** (+35 pts)",
-      "🤖 **AI & Software Tracks** (+25 pts) [AI, Artificial Intelligence, Machine Learning]"
-    ],
-    "is_nagpur_local": false,
-    "is_maharashtra": false,
-    "is_active": true,
-    "discovered_at": "2026-11-25T20:57:54.972760+00:00"
+    "discovered_at": "2026-11-26T03:23:18.640139+00:00"
   },
   {
     "id": "unstop:1820870",
@@ -992,7 +954,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-25T20:57:54.970497+00:00"
+    "discovered_at": "2026-11-26T03:23:18.639553+00:00"
   },
   {
     "id": "unstop:1826567",
@@ -1029,7 +991,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-25T20:57:52.820002+00:00"
+    "discovered_at": "2026-11-26T03:23:16.593759+00:00"
   },
   {
     "id": "unstop:1821473",
@@ -1069,7 +1031,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-25T20:57:52.820397+00:00"
+    "discovered_at": "2026-11-26T03:23:16.594068+00:00"
   },
   {
     "id": "unstop:1827866",
@@ -1107,7 +1069,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-25T20:57:52.819294+00:00"
+    "discovered_at": "2026-11-26T03:23:16.593232+00:00"
   },
   {
     "id": "unstop:1821912",
@@ -1145,7 +1107,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-25T20:57:54.970266+00:00"
+    "discovered_at": "2026-11-26T03:23:18.639376+00:00"
   },
   {
     "id": "unstop:1826867",
@@ -1179,7 +1141,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-25T20:57:52.818130+00:00"
+    "discovered_at": "2026-11-26T03:23:16.592309+00:00"
   },
   {
     "id": "unstop:1827472",
@@ -1213,7 +1175,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-25T20:57:52.819131+00:00"
+    "discovered_at": "2026-11-26T03:23:16.592524+00:00"
   },
   {
     "id": "unstop:1826401",
@@ -1251,7 +1213,45 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-25T20:57:52.819846+00:00"
+    "discovered_at": "2026-11-26T03:23:16.593640+00:00"
+  },
+  {
+    "id": "unstop:1817757",
+    "source": "Unstop",
+    "title": "Nurn 2026 – National Innovation & Technology Challenge",
+    "url": "https://unstop.com/hackathons/nurn-2026-national-innovation-technology-challenge-pranveer-singh-institute-of-technology-psit-kanpur-1817757",
+    "description": "Overview Imagine. Innovate. Build What's Next. About NURN 2026 is an innovation-driven hackathon designed to bring together creative minds, aspiring developers, technology enthusiasts and student innovators from across India. NURN provides a platform for participants to identify real-world problems, develop innovative solutions and transform their ideas into working prototypes. Whether you are interested in Artificial Intelligence, Machine Learning, Web Development, App Development, Automation, Software Engineering or emerging technologies, NURN welcomes innovative ideas and practical solutions. This is your opportunity to think beyond conventional boundaries, experiment with technology, collaborate with talented individuals and showcase your creativity. What to Expect Participants will get the opportunity to: Work on innovative, real-world problem statements. Explore Artificial Intelligence and emerging technologies. Develop practical software solutions and prototypes. Showcase technical and problem-solving abilities. Compete with innovators from different institutions. Receive recognition for outstanding projects. Connect with fellow participants and the NURN community. Hackathon Domains Participants can explore projects in the following domains: Artificial Intelligence &amp; Machine Learning Generative AI &amp; AI Agents Web Development &amp; Full-Stack Development Mobile Application Development Automation &amp; Productivity Solutions Software Engineering &amp; SaaS Data Science &amp; Analytics Cybersecurity &amp; Digital Safety IoT &amp; Smart Technology Open Innovation &ndash; Beyond Boundaries Participants are encouraged to explore original ideas and meaningful applications of technology. Eligibility Criteria Open to college and university students. Students from all academic disciplines are welcome. Beginners and experienced developers can participate. Team size: 1 member. Inter-college teams are permitted, subject to the final registration rules. Each participant can be part of only one team. Process Stage 1 &ndash; Registration Register for NURN through the official Unstop opportunity. Complete your participant and team details accurately. Stage 2 &ndash; Idea Submission Participants submit their proposed project idea, problem statement, proposed solution, innovation and technical approach. Stage 3 &ndash; Shortlisting The evaluation team reviews submissions based on originality, relevance, feasibility and innovation. Shortlisted participants will be informed through official communication channels. Stage 4 &ndash; Prototype Development Shortlisted teams develop their proposed solutions into functional prototypes. Technical documentation, project demonstrations and supporting materials may be required. Stage 5 &ndash; Final Evaluation Selected finalists present and demonstrate their projects before the evaluation panel. Stage 6 &ndash; Results &amp; Recognition Winners and outstanding participants will be recognised according to the announced awards and evaluation results. Exact dates, submission instructions and round-specific requirements will be announced through official NURN communication channels. Judging Criteria Projects will be evaluated on: Innovation &amp; Originality Technical Implementation Problem-Solving Approach Practical Feasibility User Experience Real-World Impact Scalability Presentation &amp; Demonstration Rules All submissions must represent original work. Impersonation and misrepresentation are prohibited. Participants must provide accurate registration information. A participant cannot register with multiple teams. Participants must follow all submission deadlines. AI tools and third-party resources may be used where permitted, but their use must be disclosed when requested. Participants must respect intellectual property rights and applicable software licences. Submitted project links and demonstrations must be accessible for evaluation. Unprofessional behaviour, harassment or attempts to manipulate the evaluation process may result in disqualification. Organisers reserve the right to reject incomplete or rule-violating submissions. The judges' decisions will be final. Join the WhatsApp group here: https://chat.whatsapp.com/FrqQ0vBIbWvEYvOde8vWjC Joining the official NURN WhatsApp group is strongly required for every registered participant. All important hackathon announcements, updates and communication will be shared through the official WhatsApp group. Participants will receive information regarding: Important event announcements. Registration updates and confirmations. Problem statement announcements. Round-wise instructions and guidelines. Submission deadlines and reminders. Changes in the competition schedule. Shortlisting and finalist announcements. Results and certificate-related updates. Important notices and other event-related information. Important: After registering on Unstop, participants should join the WhatsApp group to stay informed throughout the hackathon. Please check the group regularly so that you do not miss important announcements or deadlines. The official Unstop opportunity remains the primary registration and submission platform. The WhatsApp group is the official supplementary communication channel. Awards Outstanding participants will receive recognition based on their performance and the announced award structure. Awards and certificates will be distributed according to the official event announcements. Stay connected. Stay informed. Keep innovating. YOUR IDEAS. YOUR INNOVATION. YOUR FUTURE. Think Big. Build Bold. Make an Impact.",
+    "organizer": "Pranveer Singh Institute of Technology (PSIT), Kanpur",
+    "venue": "Online",
+    "mode": "Online",
+    "city": null,
+    "state": "online",
+    "country": null,
+    "start_date": "2026-11-15T00:00:00+05:30",
+    "end_date": "2027-01-10T15:44:00+05:30",
+    "registration_deadline": "2026-12-31T18:30:00+05:30",
+    "min_team_size": 1,
+    "max_team_size": 1,
+    "solo_allowed": true,
+    "eligibility": "Undergraduate / Postgraduate & Engineering students",
+    "prize_pool": "Prizes & Certificates",
+    "tracks": [
+      "Experienced Professionals",
+      "Engineering Students",
+      "Postgraduate",
+      "Undergraduate",
+      "Fresher"
+    ],
+    "score": 75,
+    "matched_reasons": [
+      "🌐 **Accessible Online Mode** (+15 pts)",
+      "👤 **Solo Eligible (1 Member)** (+35 pts)",
+      "🤖 **AI & Software Tracks** (+25 pts) [AI, Artificial Intelligence, Machine Learning]"
+    ],
+    "is_nagpur_local": false,
+    "is_maharashtra": false,
+    "is_active": true,
+    "discovered_at": "2026-11-26T03:23:18.641282+00:00"
   },
   {
     "id": "hackerearth:contextcon-remember-everything",
@@ -1287,7 +1287,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-25T20:58:01.341934+00:00"
+    "discovered_at": "2026-11-26T03:23:23.507892+00:00"
   },
   {
     "id": "devpost:30740",
@@ -1323,7 +1323,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-25T20:58:00.359811+00:00"
+    "discovered_at": "2026-11-26T03:23:22.628120+00:00"
   },
   {
     "id": "devpost:30764",
@@ -1359,7 +1359,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-25T20:58:00.568334+00:00"
+    "discovered_at": "2026-11-26T03:23:22.744680+00:00"
   },
   {
     "id": "devpost:31787",
@@ -1395,7 +1395,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-25T20:58:00.359838+00:00"
+    "discovered_at": "2026-11-26T03:23:22.628140+00:00"
   },
   {
     "id": "devpost:31642",
@@ -1431,7 +1431,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-25T20:58:00.208168+00:00"
+    "discovered_at": "2026-11-26T03:23:22.519020+00:00"
   },
   {
     "id": "devpost:31083",
@@ -1467,7 +1467,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-25T20:58:00.208149+00:00"
+    "discovered_at": "2026-11-26T03:23:22.519005+00:00"
   },
   {
     "id": "devpost:32009",
@@ -1503,7 +1503,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-25T20:58:00.568366+00:00"
+    "discovered_at": "2026-11-26T03:23:22.744699+00:00"
   },
   {
     "id": "devpost:31480",
@@ -1539,7 +1539,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-25T20:58:00.568306+00:00"
+    "discovered_at": "2026-11-26T03:23:22.744663+00:00"
   },
   {
     "id": "devpost:31972",
@@ -1575,7 +1575,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-25T20:58:00.568279+00:00"
+    "discovered_at": "2026-11-26T03:23:22.744640+00:00"
   },
   {
     "id": "devpost:31973",
@@ -1611,7 +1611,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-25T20:58:00.208155+00:00"
+    "discovered_at": "2026-11-26T03:23:22.519010+00:00"
   },
   {
     "id": "devpost:32079",
@@ -1647,7 +1647,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-25T20:58:00.359803+00:00"
+    "discovered_at": "2026-11-26T03:23:22.628115+00:00"
   },
   {
     "id": "devpost:31808",
@@ -1683,7 +1683,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-25T20:58:00.208125+00:00"
+    "discovered_at": "2026-11-26T03:23:22.518988+00:00"
   },
   {
     "id": "devpost:32024",
@@ -1719,7 +1719,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-25T20:58:00.359818+00:00"
+    "discovered_at": "2026-11-26T03:23:22.628126+00:00"
   },
   {
     "id": "devpost:32026",
@@ -1755,7 +1755,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-25T20:58:00.208142+00:00"
+    "discovered_at": "2026-11-26T03:23:22.519000+00:00"
   },
   {
     "id": "devpost:31571",
@@ -1791,7 +1791,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-25T20:58:00.208162+00:00"
+    "discovered_at": "2026-11-26T03:23:22.519015+00:00"
   },
   {
     "id": "devpost:31886",
@@ -1827,7 +1827,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-25T20:58:00.359795+00:00"
+    "discovered_at": "2026-11-26T03:23:22.628108+00:00"
   },
   {
     "id": "devpost:31826",
@@ -1861,7 +1861,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-25T20:58:00.568326+00:00"
+    "discovered_at": "2026-11-26T03:23:22.744675+00:00"
   },
   {
     "id": "hackerearth:groww-next-2026",
@@ -1897,7 +1897,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-25T20:58:01.341960+00:00"
+    "discovered_at": "2026-11-26T03:23:23.507930+00:00"
   },
   {
     "id": "devpost:31796",
@@ -1933,7 +1933,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-25T20:58:00.568317+00:00"
+    "discovered_at": "2026-11-26T03:23:22.744670+00:00"
   },
   {
     "id": "devpost:31789",
@@ -1969,7 +1969,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-25T20:58:00.359831+00:00"
+    "discovered_at": "2026-11-26T03:23:22.628135+00:00"
   },
   {
     "id": "devpost:30789",
@@ -2005,7 +2005,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-25T20:58:00.359776+00:00"
+    "discovered_at": "2026-11-26T03:23:22.628088+00:00"
   },
   {
     "id": "devpost:31907",
@@ -2041,7 +2041,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-25T20:58:00.359825+00:00"
+    "discovered_at": "2026-11-26T03:23:22.628131+00:00"
   },
   {
     "id": "devpost:31572",
@@ -2077,7 +2077,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-25T20:58:00.208114+00:00"
+    "discovered_at": "2026-11-26T03:23:22.518978+00:00"
   },
   {
     "id": "devpost:31667",
@@ -2113,7 +2113,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-25T20:58:00.208088+00:00"
+    "discovered_at": "2026-11-26T03:23:22.518952+00:00"
   },
   {
     "id": "unstop:1822209",
@@ -2152,7 +2152,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": true,
     "is_active": true,
-    "discovered_at": "2026-11-25T20:57:54.970130+00:00"
+    "discovered_at": "2026-11-26T03:23:18.639269+00:00"
   },
   {
     "id": "unstop:1818894",
@@ -2191,7 +2191,46 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-25T20:57:54.969497+00:00"
+    "discovered_at": "2026-11-26T03:23:18.638785+00:00"
+  },
+  {
+    "id": "unstop:1791574",
+    "source": "Unstop",
+    "title": "Capture The Flag (CTF)",
+    "url": "https://unstop.com/hackathons/capture-the-flag-ctf-ignitron-2k26-gm-university-davanagere-1791574",
+    "description": "December 03rd, 2026 Location: GM University, Davangere Event Participation &amp; Benefits: We are excited to welcome all participants to IGNITRON 2K26. Here are some important details regarding registration and accommodations: Registration Fee: ₹500 Accommodation: For participants arriving from outside Davangere, accommodation will be arranged on a payable basis to ensure a comfortable stay. The accommodation details and payment link will be shared with the selected participants at the appropriate time. Teams are requested to fill out the accommodation form promptly once it is released. Payment Link: Event Registration | GM University Important Note: You must first complete the registration process through the official Unstop platform. Participants must follow the rules and regulations specified by the organizing team. For any queries, feel free to reach out to our team. We look forward to seeing you at IGNITRON 2K26! Event Schedule: Day 1: December 03, 2026: Code Rush &ndash; 24-Hour Hackathon: 02:00 PM &ndash; 02:00 PM (Next Day) ModelQuest: 02:00 PM &ndash; 05:00 PM CTF (Capture The Flag): 02:00 PM &ndash; 05:00 PM Robo Race: 02:00 PM &ndash; 05:00 PM IgniteX Debate: 02:00 PM &ndash; 05:00 PM Market Mavericks: 02:00 PM &ndash; 05:00 PM Law Debate: 02:00 PM &ndash; 05:00 PM PharmaNova: 02:00 PM &ndash; 05:00 PM Wallstreet Warriors: 02:00 PM &ndash; 05:00 PM Prompt to Prototype 2K26: 02:00 PM &ndash; 05:00 PM Day 2: December 04, 2026: Tech Thesis: 10:00 AM &ndash; 05:00 PM PixelCraft: 10:00 AM &ndash; 12:30 PM Ideathon: 10:00 AM &ndash; 12:30 PM Engineer's Eye: 02:00 PM &ndash; 05:00 PM Circuit Debugging: 10:00 AM &ndash; 12:30 PM Robo Sumo: 03:00 PM &ndash; 05:00 PM Food Tech: 02:00 PM &ndash; 05:00 PM Finnovate: 10:00 AM &ndash; 05:00 PM Startathon: 10:00 AM &ndash; 12:30 PM Bio Ventures: 10:00 AM &ndash; 12:30 PM Prompt to Prototype 2K26: 10:00 AM &ndash; 12:30 PM Electriva: 02:00 PM &ndash; 05:00 PM Card Structure: 10:00 AM &ndash; 12:30 PM Nextwave &ndash; Paper Presentation: 02:00 PM &ndash; 05:00 PM Cloud Nex: 10:00 AM &ndash; 05:00 PM Day 3: December 05, 2026: Line Follower: 09:00 AM &ndash; 12:30 PM Coding Collab: 09:00 AM &ndash; 12:30 PM Poster Presentation: 09:00 AM &ndash; 12:30 PM Myth Busters: 09:00 AM &ndash; 12:30 PM About CTF (Capture The Flag): CTF (Capture The Flag) is an exciting and cybersecurity-focused event that provides participants with a platform to test their technical knowledge and problem-solving skills. It challenges participants to solve a series of security-related puzzles and challenges involving areas such as cryptography, web security, digital forensics, and logical reasoning to uncover hidden flags. Through critical thinking, analytical skills, and practical cybersecurity techniques, participants get an opportunity to demonstrate their knowledge and abilities. The event promotes cybersecurity awareness, teamwork, creativity, and the ability to identify and solve digital security challenges.",
+    "organizer": "GM University Davanagere",
+    "venue": "offline",
+    "mode": "In-Person",
+    "city": null,
+    "state": "offline",
+    "country": null,
+    "start_date": "2026-11-11T18:30:00+05:30",
+    "end_date": "2026-12-03T17:00:00+05:30",
+    "registration_deadline": "2026-11-30T23:59:00+05:30",
+    "min_team_size": 1,
+    "max_team_size": 2,
+    "solo_allowed": true,
+    "eligibility": "Undergraduate / Postgraduate & Engineering students",
+    "prize_pool": "Prizes & Certificates",
+    "tracks": [
+      "Engineering Students",
+      "Postgraduate",
+      "Undergraduate",
+      "Management",
+      "Medical",
+      "Law",
+      "Arts, Commerce, Sciences & Others"
+    ],
+    "score": 60,
+    "matched_reasons": [
+      "👤 **Solo Eligible (1 Member)** (+35 pts)",
+      "🤖 **AI & Software Tracks** (+25 pts) [Cloud, Cybersecurity]"
+    ],
+    "is_nagpur_local": false,
+    "is_maharashtra": false,
+    "is_active": true,
+    "discovered_at": "2026-11-26T03:23:20.655936+00:00"
   },
   {
     "id": "unstop:1781454",
@@ -2230,7 +2269,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-25T20:57:57.565940+00:00"
+    "discovered_at": "2026-11-26T03:23:20.656001+00:00"
   },
   {
     "id": "unstop:1821984",
@@ -2271,7 +2310,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-25T20:57:54.970757+00:00"
+    "discovered_at": "2026-11-26T03:23:18.639746+00:00"
   },
   {
     "id": "unstop:1822588",
@@ -2310,7 +2349,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-25T20:57:54.970808+00:00"
+    "discovered_at": "2026-11-26T03:23:18.639786+00:00"
   },
   {
     "id": "unstop:1800622",
@@ -2349,7 +2388,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": true,
     "is_active": true,
-    "discovered_at": "2026-11-25T20:57:52.819327+00:00"
+    "discovered_at": "2026-11-26T03:23:16.593258+00:00"
   },
   {
     "id": "unstop:1770707",
@@ -2385,7 +2424,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-25T20:57:57.565360+00:00"
+    "discovered_at": "2026-11-26T03:23:20.655533+00:00"
   },
   {
     "id": "unstop:1814036",
@@ -2418,7 +2457,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-25T20:57:52.819947+00:00"
+    "discovered_at": "2026-11-26T03:23:16.593716+00:00"
   },
   {
     "id": "unstop:1821962",
@@ -2451,7 +2490,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-25T20:57:54.971171+00:00"
+    "discovered_at": "2026-11-26T03:23:18.640084+00:00"
   },
   {
     "id": "unstop:1822884",
@@ -2488,7 +2527,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-25T20:57:54.970565+00:00"
+    "discovered_at": "2026-11-26T03:23:18.639597+00:00"
   },
   {
     "id": "unstop:1828497",
@@ -2521,7 +2560,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-25T20:57:52.818208+00:00"
+    "discovered_at": "2026-11-26T03:23:16.592375+00:00"
   },
   {
     "id": "devpost:31108",
@@ -2556,7 +2595,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-25T20:58:00.568342+00:00"
+    "discovered_at": "2026-11-26T03:23:22.744684+00:00"
   },
   {
     "id": "devpost:31644",
@@ -2590,7 +2629,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-25T20:58:00.208134+00:00"
+    "discovered_at": "2026-11-26T03:23:22.518994+00:00"
   },
   {
     "id": "devpost:31773",
@@ -2624,7 +2663,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-25T20:58:00.359845+00:00"
+    "discovered_at": "2026-11-26T03:23:22.628145+00:00"
   },
   {
     "id": "devpost:31795",
@@ -2659,14 +2698,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-25T20:58:00.568350+00:00"
+    "discovered_at": "2026-11-26T03:23:22.744689+00:00"
   },
   {
     "id": "devpost:31682",
     "source": "Devpost",
     "title": "CSC Winter Sparkathon",
     "url": "https://csc-winter-sparkathon.devpost.com/",
-    "description": "Devpost hackathon. 5 days left",
+    "description": "Devpost hackathon. 4 days left",
     "organizer": "The Webb Schools CSC",
     "venue": "Online",
     "mode": "Online",
@@ -2694,7 +2733,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-25T20:58:00.568358+00:00"
+    "discovered_at": "2026-11-26T03:23:22.744694+00:00"
   },
   {
     "id": "unstop:1823841",
@@ -2727,7 +2766,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-25T20:57:54.969166+00:00"
+    "discovered_at": "2026-11-26T03:23:18.638529+00:00"
   },
   {
     "id": "unstop:1806016",
@@ -2766,7 +2805,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-25T20:57:54.972415+00:00"
+    "discovered_at": "2026-11-26T03:23:18.641023+00:00"
   },
   {
     "id": "unstop:1828382",
@@ -2805,7 +2844,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-25T20:57:52.819055+00:00"
+    "discovered_at": "2026-11-26T03:23:16.592464+00:00"
   },
   {
     "id": "unstop:1823379",
@@ -2838,6 +2877,6 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-25T20:57:54.970210+00:00"
+    "discovered_at": "2026-11-26T03:23:18.639331+00:00"
   }
 ]

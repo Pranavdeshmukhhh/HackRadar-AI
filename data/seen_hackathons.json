@@ -3940,5 +3940,14 @@
     "last_notified": "2026-11-25T20:58:07.694979+00:00",
     "is_nagpur_local": false,
     "solo_allowed": false
+  },
+  "unstop:1791574": {
+    "title": "Capture The Flag (CTF)",
+    "url": "https://unstop.com/hackathons/capture-the-flag-ctf-ignitron-2k26-gm-university-davanagere-1791574",
+    "score": 60,
+    "source": "Unstop",
+    "last_notified": "2026-11-26T03:23:25.747940+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
   }
 }

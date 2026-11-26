@@ -3949,5 +3949,59 @@
     "last_notified": "2026-11-26T03:23:25.747940+00:00",
     "is_nagpur_local": false,
     "solo_allowed": true
+  },
+  "unstop:1826953": {
+    "title": "Imagine the Impossible: The Game Design Challenge ",
+    "url": "https://unstop.com/hackathons/imagine-the-impossible-the-game-design-challenge-kalindi-college-kc-university-of-delhi-du-delhi-1826953",
+    "score": 75,
+    "source": "Unstop",
+    "last_notified": "2026-11-26T13:25:35.457228+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:1828749": {
+    "title": "Online Coding Challenge",
+    "url": "https://unstop.com/hackathons/online-coding-challenge-rastrakavi-ramdhari-singh-dinkar-college-of-engineeringrrsdce-begusarai-1828749",
+    "score": 75,
+    "source": "Unstop",
+    "last_notified": "2026-11-26T13:25:35.457228+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:1817824": {
+    "title": "PromptWars x NEXORA ",
+    "url": "https://unstop.com/hackathons/promptwars-x-nexora-promptwars-x-nexora-nexora-navyug-1817824",
+    "score": 75,
+    "source": "Unstop",
+    "last_notified": "2026-11-26T13:25:35.457228+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:1828890": {
+    "title": "Agentic AI Hackathon 2026",
+    "url": "https://unstop.com/hackathons/agentic-ai-hackathon-2026-proton-solutions-1828890",
+    "score": 75,
+    "source": "Unstop",
+    "last_notified": "2026-11-26T13:25:35.457228+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:1828678": {
+    "title": "Hackday Dec",
+    "url": "https://unstop.com/hackathons/hackday-dec-trishulx-1828678",
+    "score": 75,
+    "source": "Unstop",
+    "last_notified": "2026-11-26T13:25:35.457228+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:1798676": {
+    "title": "Protocol Zero: Boot | Hack | CTF",
+    "url": "https://unstop.com/hackathons/protocol-zero-boot-hack-ctf-centre-for-cybersecurity-trust-and-reliability-iit-madras-cystar-1798676",
+    "score": 40,
+    "source": "Unstop",
+    "last_notified": "2026-11-26T13:25:35.457228+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": false
   }
 }

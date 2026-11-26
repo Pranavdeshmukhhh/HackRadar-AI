@@ -33,7 +33,7 @@
     "is_nagpur_local": true,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-26T03:23:24.939020+00:00"
+    "discovered_at": "2026-11-26T13:25:31.243157+00:00"
   },
   {
     "id": "unstop:1820854",
@@ -73,7 +73,7 @@
     "is_nagpur_local": true,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-26T03:23:16.594766+00:00"
+    "discovered_at": "2026-11-26T13:25:26.261460+00:00"
   },
   {
     "id": "unstop:1820851",
@@ -110,7 +110,7 @@
     "is_nagpur_local": true,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-26T03:23:16.594355+00:00"
+    "discovered_at": "2026-11-26T13:25:26.261060+00:00"
   },
   {
     "id": "unstop:1820895",
@@ -149,7 +149,7 @@
     "is_nagpur_local": true,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-26T03:23:16.594536+00:00"
+    "discovered_at": "2026-11-26T13:25:26.261240+00:00"
   },
   {
     "id": "unstop:1820868",
@@ -184,77 +184,47 @@
     "is_nagpur_local": true,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-26T03:23:16.594630+00:00"
+    "discovered_at": "2026-11-26T13:25:26.261332+00:00"
   },
   {
-    "id": "college:mindsparkorg",
-    "source": "CollegePortal",
-    "title": "MindSpark '26 | 20th Edition Annual National Technical Festival | COEP Tech",
-    "url": "https://mind-spark.org",
-    "description": "College hackathon detected at mind-spark.org. Check official portal for rules and registration.",
-    "organizer": "mind-spark.org",
-    "venue": "mind-spark.org",
-    "mode": "In-Person",
-    "city": null,
-    "state": null,
-    "country": null,
-    "start_date": null,
-    "end_date": null,
-    "registration_deadline": null,
-    "min_team_size": 1,
-    "max_team_size": 4,
-    "solo_allowed": true,
-    "eligibility": "College and Engineering Students",
-    "prize_pool": "Prizes & Cash Awards",
-    "tracks": [
-      "Software",
-      "Web Development",
-      "AI/ML"
-    ],
-    "score": 85,
-    "matched_reasons": [
-      "🏢 **Maharashtra Proximity** (+25 pts) [Coep]",
-      "👤 **Solo Eligible (1 Member)** (+35 pts)",
-      "🤖 **AI & Software Tracks** (+25 pts) [AI, ML, Web Development]"
-    ],
-    "is_nagpur_local": false,
-    "is_maharashtra": true,
-    "is_active": true,
-    "discovered_at": "2026-11-26T03:23:25.041517+00:00"
-  },
-  {
-    "id": "unstop:1817686",
+    "id": "unstop:1826953",
     "source": "Unstop",
-    "title": "MyOnne National Bug Bounty Challenge 2026",
-    "url": "https://unstop.com/hackathons/myonne-national-bug-bounty-challenge-2026-myonne-amora-private-limited-1817686",
-    "description": "MyOnne National Bug Bounty Challenge 2026 48 Hours. One Mission. Find What We Missed. MyOnne is opening its application to India's security research community. We invite independent security researchers, ethical hackers, penetration testers, application security professionals and cybersecurity students from across India to participate in the MyOnne National Bug Bounty Challenge 2026 . A 48-hour, nationwide online security research competition where participants will test the MyOnne application in an authorised testing environment, identify security vulnerabilities and responsibly report their findings. Some vulnerabilities are worth discovering. Some discoveries deserve a bounty. Event at A Glance Event: MyOnne National Bug Bounty Challenge 2026 Total Bounty Pool: ₹3,00,000* Duration: 48 Hours Challenge Begins: thursday, 26 November 2026, 5:30 Pm Ist Submissions Close: saturday, 28 November 2026, 5:30 Pm Ist Format: fully Online &ndash; India-Wide Participation: individual or Teams of 1&ndash;4 Members Organiser: My Onne Amora Private Limited Competition Platform &amp; Execution The My Onne National Bug Bounty Challenge 2026 Will Be Conducted Entirely Online Through My Onne's Security Research Platform , Which Is Developed and operated by My Onne Amora Private Limited. The Competition Will Use My Onne's Dedicated Security Research Infrastructure for Authorised Application Testing and Vulnerability Reporting. The Platform Consists Of: Testing Environment: My Onne Security Research Platform, Providing Registered and Eligible Participants Access to the designated testing application, researcher credentials, and Android Ap Ks. Vulnerability Reporting: Participants must submit all vulnerability reports, supporting evidence, and research findings through the Designated My Onne Security Research Platform. Researcher Access: Testing Access and Application Packages Will Be Distributed Exclusively to Registered and Eligible Participants. The Competition Will Be Conducted Within the Officially Authorised Testing Environment and Scope. Who Can Participate? The Challenge Is Open to Individuals and Teams from Across India, Including: Independent Security Researchers and Bug Bounty Hunters. Ethical Hackers and Penetration Testers. Application Security Professionals. Cybersecurity Students and Enthusiasts. University Cybersecurity Clubs and Research Groups. Participants Can Compete Individually or Form Teams of Up to Four Members . Whether You Are an Independent Researcher or Part of A Cybersecurity Team, This Is an Opportunity to Demonstrate Your Skills Against a Real-World Application. Testing Access &amp; Application Handover Registered and Eligible Participants Will Receive the Following Approximately 10&ndash;20 Minutes Before the Official Challenge Begins : My Onne's Designated Testing Application. Researcher Access Credentials. Android Ap Ks Required for The Authorised Testing Environment. Official Testing Scope and Rules of Engagement. Testing Guidelines and Vulnerability Reporting Instructions. This Advance Handover Allows Participants to Prepare Their Testing Environments Before the Official Competition Begins. Important: Security testing must begin only within the Authorised Scope and according to the Official Challenge Instructions. How the Challenge Works The Competition Follows a Structured Research and Reporting Process: Step 1 &ndash; Register Register for The My Onne National Bug Bounty Challenge 2026. Step 2 &ndash; Receive Testing Access Eligible Participants Receive the Designated Application, Researcher Credentials and Android Ap Ks Before the Challenge Begins. Step 3 &ndash; Review the Scope Understand the Authorised Testing Scope, Rules of Engagement and Reporting Guidelines. Step 4 &ndash; Discover Vulnerabilities Conduct Security Research and Identify Potential Vulnerabilities Within the Authorised Testing Environment. Step 5 &ndash; Submit Your Findings Report Discovered Vulnerabilities with Supporting Evidence Through the Designated My Onne Security Research Platform. Step 6 &ndash; Validation &amp; Recognition Submitted Reports Undergo Validation and Triage. Eligible Findings Are Considered for Bounty Rewards and Recognition in Accordance with The Official Programme Rules. Responsible Disclosure &amp; Important Rules All Participants Must Follow Responsible Security Research Practices. Testing Is Permitted only Within the Officially Authorised Scope. All Discovered Vulnerabilities Must Be Reported Responsibly Through the Designated Reporting Channel. Accessing, Modifying, Extracting or Disclosing Other Users' Data Is Strictly Prohibited. Destructive Testing, Denial-Of-Service Attacks and Activities Outside the Authorised Scope Are Prohibited. Duplicate, Invalid and Out-Of-Scope Reports May Not Qualify for Rewards. Participants Must Follow All Official Testing Guidelines and Rules of Engagement. Final Severity Classification, Report Validity and Bounty Eligibility Will Be Determined Through the Official Validation Process. The Complete Authorised Scope, Reporting Instructions and Programme Rules Will Be Communicated to Eligible Participants Before Testing Begins.",
-    "organizer": "MyOnne Amora Private Limited",
+    "title": "Imagine the Impossible: The Game Design Challenge ",
+    "url": "https://unstop.com/hackathons/imagine-the-impossible-the-game-design-challenge-kalindi-college-kc-university-of-delhi-du-delhi-1826953",
+    "description": "What if you could turn your imagination into a game? Imagine the Impossible is a creative challenge where you take an idea from your imagination and bring it to life as a visual game concept. From designing your game's universe, characters and missions to creating its poster and pitching your idea, use Google Gemini AI tool to turn your imagination into something people can actually see and experience. Individual participation only. Challenge Flow Imagine: Come up with an original game idea with one goal, one enemy and one deadline. Create: Define your game's name, tagline, mission, characters and gameplay mode. Visualise: Use Google Gemini AI to bring your game world and characters to life through visuals. Design: Create an eye-catching game poster showcasing your imagined universe. Present: Pitch your game concept in 60 seconds. Get Voted: Let the audience decide: Would Play or Wouldn't Play? Submission Requirements Each participant must submit: Game Name &amp; Tagline Game Mission &amp; Enemy Characters &amp; Game Mode AI-generated Game Poster Google Document containing the complete game concept Shareable Google Gemini chat link used during creation Google Document sharing must be set to \"Anyone with the link can access\". Rules: Individual participation only. No teams allowed. Google Gemini AI must be the only AI tool used throughout the challenge. Use of ChatGPT, Midjourney, Claude, Copilot or any other AI platform is strictly prohibited. All concepts and submissions must be original. Participants must provide their Google Gemini chat link. Only one final submission per participant is allowed. Inappropriate, offensive, plagiarised or misleading content will lead to disqualification. Organisers reserve the right to verify submissions. The decision of the organisers and judges shall be final. Voting &amp; Evaluation: Participants will present their concepts through a 60-second pitch. Audience voting will follow the Would Play / Wouldn't Play format. Entries will be evaluated on: Originality of the game concept Creativity and storytelling Visual presentation and poster design Overall idea and pitch Rewards &amp; Recognition: Winner: A chance to win a smartphone along with a Winner Certificate. Participation Certificates: Awarded to all eligible participants who submit all required deliverables and complete the submission requirements. Don't forget to join the WhatsApp Group for more details and further communication. https://chat.whatsapp.com/LdWsnv6Lg032Ei1HpFlV9G?s=sw&amp;p=i&amp;iam=2 Please Note: Certificates will be issued after successful verification of submissions.",
+    "organizer": "Kalindi College (KC), University of Delhi (DU), Delhi",
     "venue": "Online",
     "mode": "Online",
     "city": null,
     "state": "online",
     "country": null,
-    "start_date": "2026-11-19T00:00:00+05:30",
-    "end_date": "2026-11-28T17:30:00+05:30",
-    "registration_deadline": "2026-11-26T10:00:00+05:30",
+    "start_date": "2026-11-24T00:00:00+05:30",
+    "end_date": "2026-11-28T21:00:00+05:30",
+    "registration_deadline": "2026-11-28T19:00:00+05:30",
     "min_team_size": 1,
-    "max_team_size": 4,
+    "max_team_size": 1,
     "solo_allowed": true,
-    "eligibility": "Open to college students & coders",
+    "eligibility": "Undergraduate / Postgraduate & Engineering students",
     "prize_pool": "Prizes & Certificates",
     "tracks": [
-      "All"
+      "Engineering Students",
+      "Postgraduate",
+      "Undergraduate",
+      "Management",
+      "Medical",
+      "Law",
+      "Arts, Commerce, Sciences & Others"
     ],
     "score": 75,
     "matched_reasons": [
       "🌐 **Accessible Online Mode** (+15 pts)",
       "👤 **Solo Eligible (1 Member)** (+35 pts)",
-      "🤖 **AI & Software Tracks** (+25 pts) [Cybersecurity]"
+      "🤖 **AI & Software Tracks** (+25 pts) [AI]"
     ],
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-26T03:23:18.640333+00:00"
+    "discovered_at": "2026-11-26T13:25:24.325309+00:00"
   },
   {
     "id": "unstop:1821954",
@@ -288,47 +258,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-26T03:23:18.639657+00:00"
-  },
-  {
-    "id": "unstop:1818968",
-    "source": "Unstop",
-    "title": "Campus to Cloud Hackathon",
-    "url": "https://unstop.com/hackathons/campus-to-cloud-hackathon-iit-bombay-1818968",
-    "description": "Overview Techfest, IIT Bombay, in association with Amazon Web Services (AWS), invites students to participate in the Campus to Cloud Hackathon. Develop and deploy a working solution to a real-world problem using AWS technologies. Competition Highlights: Prize Pool of ₹1,50,000 for the top 3 teams 1-year AWS Skill Builder Premium subscription Up to $30 in AWS credits AWS Certification Exam Voucher worth $100 Top 35 teams qualify for the final round at IIT Bombay during Techfest 2026&ndash;27. Eligibility: Students aged 18+ enrolled in Indian educational institutions Team Size: Individual or teams of up to 4 members Submission Deadline: 30 November 2026, 11:59 PM The finalists will present their solutions before AWS and Techfest judges at IIT Bombay on 17 December 2026.",
-    "organizer": "Indian Institute of Technology (IIT), Bombay",
-    "venue": "Online",
-    "mode": "Online",
-    "city": null,
-    "state": "online",
-    "country": null,
-    "start_date": "2026-11-19T00:00:00+05:30",
-    "end_date": "2026-11-30T00:00:00+05:30",
-    "registration_deadline": "2026-11-30T00:00:00+05:30",
-    "min_team_size": 1,
-    "max_team_size": 4,
-    "solo_allowed": true,
-    "eligibility": "Undergraduate / Postgraduate & Engineering students",
-    "prize_pool": "Prizes & Certificates",
-    "tracks": [
-      "Engineering Students",
-      "Postgraduate",
-      "Undergraduate",
-      "Management",
-      "Medical",
-      "Law",
-      "Arts, Commerce, Sciences & Others"
-    ],
-    "score": 75,
-    "matched_reasons": [
-      "🌐 **Accessible Online Mode** (+15 pts)",
-      "👤 **Solo Eligible (1 Member)** (+35 pts)",
-      "🤖 **AI & Software Tracks** (+25 pts) [Cloud]"
-    ],
-    "is_nagpur_local": false,
-    "is_maharashtra": false,
-    "is_active": true,
-    "discovered_at": "2026-11-26T03:23:18.641064+00:00"
+    "discovered_at": "2026-11-26T13:25:26.262229+00:00"
   },
   {
     "id": "unstop:1812323",
@@ -369,41 +299,48 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-26T03:23:16.592966+00:00"
+    "discovered_at": "2026-11-26T13:25:24.326594+00:00"
   },
   {
-    "id": "unstop:1817737",
+    "id": "unstop:1828749",
     "source": "Unstop",
-    "title": "CodeWarriors India 2026 - National Hackathon",
-    "url": "https://unstop.com/hackathons/codewarriors-india-2026-national-hackathon-buildx-1817737",
-    "description": "Join the official group for information and updates: https://chat.whatsapp.com/LQQ76cEkFN2DppeGkXWHb3 About: Top three teams: Paid internship opportunities Top three teams Prize Pool: 30,000 Rs Every participant: One complimentary .xyz domain Every participant: $100 in Inkloom AI credits, 500$ Adaption AI credits, 100$ ASI Credits Every eligible participant: Verifiable digital certificate Rewards: 100+ recipients across the hackathon No. of Rounds: 3 Hackathon Dates: 4 December &ndash; 14 December 2026 Mode: Completely online Team size: 1&ndash;6 members Registration Fee: Free Tracks: Agentic AI, Full-Stack Product Engineering Join the official WhatsApp group for participation details, announcements and important hackathon updates. A participant must complete the hackathon and make a valid final submission to receive a verifiable digital certificate. Registration alone will not qualify a participant for a certificate. PPOs and partner benefits are subject to eligibility requirements, availability and the respective partner&rsquo;s selection process. Rules Participants must submit original work within the deadline and follow all event guidelines. Plagiarism, false information or multiple submissions may result in disqualification. Eligibility Open to students, developers, designers and technology enthusiasts across India. Participants may join individually or form a team according to the event&rsquo;s permitted team size. Process Register for the event, join the official communication group and complete every announced round. Qualified participants will receive the instructions and submission details for the next stage. &nbsp; Note: Teams selected for Round 3 pay a participation fee of ₹399 per team &mdash; one payment for the whole team, not one each. The fee covers the cost of running the event: infrastructure, the time and effort of organising it, and paying the people who do that work. Registering and Rounds 1 and 2 are free, and this is the only payment anywhere in this event. It falls due only once your team is selected for Round 3, so a team that is not selected pays nothing at all.",
-    "organizer": "BuildX",
+    "title": "Online Coding Challenge",
+    "url": "https://unstop.com/hackathons/online-coding-challenge-rastrakavi-ramdhari-singh-dinkar-college-of-engineeringrrsdce-begusarai-1828749",
+    "description": "This is a statewide competitive programming contest designed to bring together talented students from colleges and universities across Bihar. The competition aims to promote problem-solving, algorithmic thinking, competitive programming, and collaboration within Bihar's growing technology community. Whether you are a beginner or an experienced competitive programmer, this contest provides an opportunity to challenge yourself and compete with students from across the state. Eligibility Open to students enrolled in colleges and universities across Bihar. Students from all branches and academic years are eligible. Participation is individual. Registration is free. Both beginners and experienced programmers are welcome. Contest Format Mode: Online Duration: 120 minutes Number of problems: 6 Difficulty: Easy to Hard Topics: Data Structures, Algorithms, and Problem Solving Evaluation: Automated test-case-based evaluation Rules and Guidelines Participants must solve all problems independently. The use of AI tools, external solutions, or assistance from other individuals is strictly prohibited. Sharing solutions during the contest is not allowed. Participants must register using accurate personal and academic information. Multiple accounts and impersonation are prohibited. Participants must follow all applicable contest security and proctoring instructions. Plagiarism or verified unfair practices may result in disqualification. Final rankings will be published after submission verification. Evaluation Criteria Participants will be evaluated based on solution correctness, test cases passed, and the applicable contest scoring and tiebreaking rules. Our Vision To build a stronger competitive programming culture across Bihar by connecting students, encouraging technical excellence, and providing a common platform to showcase their problem-solving abilities. Think. Code. Compete. Grow.",
+    "organizer": "Rastrakavi Ramdhari Singh Dinkar College of Engineering(RRSDCE), Begusarai",
     "venue": "Online",
     "mode": "Online",
     "city": null,
     "state": "online",
     "country": null,
-    "start_date": "2026-11-19T00:00:00+05:30",
-    "end_date": "2026-12-13T09:50:44+05:30",
-    "registration_deadline": "2026-12-03T23:59:00+05:30",
+    "start_date": "2026-11-26T00:00:00+05:30",
+    "end_date": "2026-12-03T11:41:44+05:30",
+    "registration_deadline": "2026-12-03T11:41:44+05:30",
     "min_team_size": 1,
-    "max_team_size": 6,
+    "max_team_size": 1,
     "solo_allowed": true,
-    "eligibility": "Open to college students & coders",
+    "eligibility": "Undergraduate / Postgraduate & Engineering students",
     "prize_pool": "Prizes & Certificates",
     "tracks": [
-      "All"
+      "Engineering Students",
+      "Postgraduate",
+      "Undergraduate",
+      "Fresher",
+      "Management",
+      "Medical",
+      "Law",
+      "Arts, Commerce, Sciences & Others"
     ],
     "score": 75,
     "matched_reasons": [
       "🌐 **Accessible Online Mode** (+15 pts)",
       "👤 **Solo Eligible (1 Member)** (+35 pts)",
-      "🤖 **AI & Software Tracks** (+25 pts) [AI, Agentic Ai]"
+      "🤖 **AI & Software Tracks** (+25 pts) [AI]"
     ],
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-26T03:23:18.641142+00:00"
+    "discovered_at": "2026-11-26T13:25:24.325396+00:00"
   },
   {
     "id": "unstop:1824377",
@@ -443,7 +380,48 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-26T03:23:16.594852+00:00"
+    "discovered_at": "2026-11-26T13:25:26.261546+00:00"
+  },
+  {
+    "id": "unstop:1817824",
+    "source": "Unstop",
+    "title": "PromptWars x NEXORA ",
+    "url": "https://unstop.com/hackathons/promptwars-x-nexora-promptwars-x-nexora-nexora-navyug-1817824",
+    "description": "About the Organization NEXORA is a student-led community focused on empowering aspiring professionals and innovators through opportunities in Artificial Intelligence, career development, hackathons, and technology-driven events. It aims to promote practical learning, collaboration, and innovation among students. About the Event PromptWars X NEXORA is an online, one-day AI-powered hackathon that brings together students from universities across India. Participants will receive a surprise problem and have a few hours to build a working AI solution using prompts, Generative AI, and prompt engineering. Organized by NEXORA in association with Hack2Skill, as part of the Build with AI initiative and the Google for Developers ecosystem, the event encourages creativity, experimentation, and practical AI innovation. What You Will Do Receive a problem statement and challenge details on the event day. Build an AI-powered solution using prompt engineering and AI-assisted development tools. Experiment with Generative AI to solve real-world problems. Submit your completed project through the Hack2Skill platform within the given time. Showcase your creativity, problem-solving skills, and innovation. Who can join Any student aged 18+, from any college or course. Beginners are welcome, and no prior AI experience is needed. This is a solo challenge, so you build, submit and are evaluated individually. There are no team requirements. What you get Prize pool of up to ₹50,000, based on the number of valid submissions (see the Prize section for details) Official co-branded certificates for participants, finalists and winners Hands-on experience building with AI under real time pressure A chance to stand out in the community Founded by: Kaushtuv Parashar Community: NEXORA Ready to Build? Bring your curiosity, creativity, and ideas. Explore the power of AI, challenge yourself, and turn your imagination into something real. Don't just learn about AI. Build with AI. Join PromptWars X NEXORA 2026 and take your first step towards becoming a builder of tomorrow.",
+    "organizer": "NEXORA Navyug",
+    "venue": "Online",
+    "mode": "Online",
+    "city": null,
+    "state": "online",
+    "country": null,
+    "start_date": "2026-11-18T17:39:00+05:30",
+    "end_date": "2026-12-05T23:59:00+05:30",
+    "registration_deadline": "2026-12-05T23:59:00+05:30",
+    "min_team_size": 1,
+    "max_team_size": 1,
+    "solo_allowed": true,
+    "eligibility": "Undergraduate / Postgraduate & Engineering students",
+    "prize_pool": "Prizes & Certificates",
+    "tracks": [
+      "Engineering Students",
+      "Postgraduate",
+      "Undergraduate",
+      "Fresher",
+      "Management",
+      "Medical",
+      "Law",
+      "Arts, Commerce, Sciences & Others"
+    ],
+    "score": 75,
+    "matched_reasons": [
+      "🌐 **Accessible Online Mode** (+15 pts)",
+      "👤 **Solo Eligible (1 Member)** (+35 pts)",
+      "🤖 **AI & Software Tracks** (+25 pts) [AI, Artificial Intelligence, Generative Ai]"
+    ],
+    "is_nagpur_local": false,
+    "is_maharashtra": false,
+    "is_active": true,
+    "discovered_at": "2026-11-26T13:25:24.325002+00:00"
   },
   {
     "id": "unstop:1820715",
@@ -477,7 +455,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-26T03:23:18.640040+00:00"
+    "discovered_at": "2026-11-26T13:25:26.262575+00:00"
   },
   {
     "id": "unstop:1823739",
@@ -514,45 +492,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-26T03:23:18.638592+00:00"
-  },
-  {
-    "id": "unstop:1825938",
-    "source": "Unstop",
-    "title": "CoMemor Contributor Challenge",
-    "url": "https://unstop.com/hackathons/comemor-contributor-challenge-comemor-1825938",
-    "description": "AI coding agents are powerful until they hit the same build, dependency, or runtime error for the third session in a row and burn tokens re-debugging it from scratch. CoMemor is a fast-growing, local-first Model Context Protocol (MCP) server ( npx comemor , freshly launched v1.1.0) that equips AI coding agents including Cursor, Claude Desktop &amp; Code, VS Code + Copilot, Windsurf, and Google Antigravity with deterministic, repository-scoped engineering memory powered by SHA-256 error fingerprinting, SQLite FTS5 lexical search, automated secret redaction, and prompt-injection quarantine. The CoMemor Contributor Challenge invites developers, AI builders, and open-source enthusiasts to ship real production code, sharpen our security and retrieval engine, hunt edge-case bugs, and showcase their engineering work in public. Top contributors earn official certificates and a direct shot at an internship opportunity with the CoMemor team. Contribution Tracks (Pick Any or Multiple) Core MCP Engine &amp; Retrieval: Improve TypeScript modules, SQLite FTS5 ranking, error normalization and find_fix / record_failure / verify_fix edge cases. Security, Hardening &amp; Testing: Strengthen secret-redaction patterns, prompt-injection heuristics, Vitest unit/integration tests, and retrieval benchmarks. Memory Console &amp; Developer Experience: Enhance the local Memory Console UI, IDE setup workflows, cross-platform Windows/macOS/Linux compatibility, and documentation. High-Signal Bug Hunting &amp; RFCs: Identify reproducible bugs, security edge cases, or well-scoped architectural feature proposals via GitHub Issues. How to Participate (Step-by-Step) Register on Unstop: Complete your individual registration before the deadline. Connect with the Project: Star and Watch the CoMemor GitHub repository to track open issues and releases. Pick or Propose Work: Browse issues labeled good first issue , help wanted , or contributor-challenge or open a clear, reproducible new issue before coding. Ship Quality Contributions: Fork the repo, follow Contributing.md , ensure tests pass locally, and open a well-documented Pull Request. Showcase Your Work on LinkedIn (Required for Leaderboard Scoring): After submitting your PR or verified issue, publish a short video demo (30&ndash;90 seconds) or a concise technical article/post on LinkedIn explaining the problem you solved and what you added or fixed in CoMemor. Tag the CoMemor LinkedIn page and include the hashtags #comemor , #comemorcontributor , #opensource , and #mcp . Submit Proof on Unstop: Submit your GitHub username, PR/Issue links, and LinkedIn post link during the submission window. Format &amp; Rounds Round 1: Registration &amp; Repo Onboarding: Register on Unstop, star &amp; watch the repository, follow CoMemor on LinkedIn, set up the project locally and claim or open your first issue. Round 2: Contribution &amp; Build-in-Public Sprint: Submit Pull Requests and/or high-impact issues, respond to maintainer reviews, and publish your LinkedIn demo video or walkthrough post. Round 3: Maintainer Review &amp; Results: Final scoring of merged/accepted contributions, leaderboard announcement, certificate distribution, and internship interview invites for top contributors. Guidelines &amp; Eligibility Eligibility: Open to college students, freshers, and working professionals from all branches and specializations. Participation Format: Individual participation only (inter-college / open to all institutions). Number of Contributions: Unlimited, you may submit multiple PRs or issues, and every merged/accepted contribution counts toward your final rank. Rules &amp; Quality Standards All code and write-ups must be your original work and comply with CoMemor's GPL-3.0 license and CONTRIBUTING.md . Use of AI is allowed and it is recommended to mention the specific AI Model or tool used for development. Pull Requests must pass repository build and automated test checks (CI) and address a real bug, test gap, feature, or substantive docs improvement. Zero Spam Policy: Low-effort PRs (trivial typo/whitespace edits, duplicate issues, or unverified AI-generated code dumps) will be closed and disqualified from certification. You must comment on an issue to claim it before opening a PR if someone else is not already assigned. Maintainer review and merge decisions are final. Evaluation Criteria Technical Depth &amp; Code/Issue Quality (45%): Clean architecture, correctness, and real impact on CoMemor users. Testing &amp; Engineering Hygiene (25%): Test coverage, clear PR descriptions, adherence to repo conventions, and zero regressions. LinkedIn Demo / Walkthrough Clarity (20%): Clear explanation of why the fix/feature matters and how it works in practice. Collaboration &amp; Review Responsiveness (10%): Constructive communication and timely iteration on maintainer feedback. Rewards &amp; Perks Top Contributors: Chance to land an Internship Opportunity with the CoMemor team (shortlisted top performers invited for a direct technical conversation with the founder), Certificate of excellence, and a featured contributor spotlight on CoMemor's LinkedIn page and release notes. Verified Contributors (All Merged PRs / Accepted High-Impact Issues + LinkedIn Demo): Official Verified Open-Source Contributor Certificate and permanent credit in CoMemor's GitHub release history.",
-    "organizer": "CoMemor",
-    "venue": "Online",
-    "mode": "Online",
-    "city": null,
-    "state": "online",
-    "country": null,
-    "start_date": "2026-11-24T00:00:00+05:30",
-    "end_date": "2026-12-15T23:59:00+05:30",
-    "registration_deadline": "2026-12-08T00:00:00+05:30",
-    "min_team_size": 1,
-    "max_team_size": 1,
-    "solo_allowed": true,
-    "eligibility": "Undergraduate / Postgraduate & Engineering students",
-    "prize_pool": "Prizes & Certificates",
-    "tracks": [
-      "Experienced Professionals",
-      "Engineering Students",
-      "Postgraduate",
-      "Undergraduate",
-      "Fresher"
-    ],
-    "score": 75,
-    "matched_reasons": [
-      "🌐 **Accessible Online Mode** (+15 pts)",
-      "👤 **Solo Eligible (1 Member)** (+35 pts)",
-      "🤖 **AI & Software Tracks** (+25 pts) [AI]"
-    ],
-    "is_nagpur_local": false,
-    "is_maharashtra": false,
-    "is_active": true,
-    "discovered_at": "2026-11-26T03:23:16.593107+00:00"
+    "discovered_at": "2026-11-26T13:25:26.261778+00:00"
   },
   {
     "id": "unstop:1826250",
@@ -594,7 +534,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-26T03:23:16.593876+00:00"
+    "discovered_at": "2026-11-26T13:25:24.327079+00:00"
   },
   {
     "id": "unstop:1826157",
@@ -632,7 +572,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-26T03:23:16.594023+00:00"
+    "discovered_at": "2026-11-26T13:25:24.327213+00:00"
   },
   {
     "id": "unstop:1825506",
@@ -666,41 +606,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-26T03:23:16.594121+00:00"
-  },
-  {
-    "id": "unstop:1818490",
-    "source": "Unstop",
-    "title": "Prompt War & Syntax Squad ",
-    "url": "https://unstop.com/hackathons/prompt-war-syntax-squad-padmabhooshan-vasantdada-patil-institute-of-technology-pvpit-pune-1818490",
-    "description": "Welcome to Prompt War X Syntax Squad by Padmabhooshan Vasantdada Patil Institute of Technology (PVPIT), Pune! A hackathon built around the Prompt War X Syntax Squad online coding challenge. About the Opportunity: Take part in Prompt War &amp; Syntax Squad, an online coding challenge organized by Padmabhooshan Vasantdada Patil Institute of Technology (PVPIT), Pune. This hackathon is for teams ready to engage with a coding challenge together. Team participation makes collaboration part of the experience. Bring your team and put your coding skills into action in this online challenge. Get your team together and take the next step with Prompt War and Syntax Squad. Join the WhatsApp group - https://chat.whatsapp.com/FpnAZ18pi8c86Lyy49i4Ol?s=cl&amp;p=i&amp;iam=2",
-    "organizer": "Padmabhooshan Vasantdada Patil Institute of Technology (PVPIT), Pune",
-    "venue": "Online",
-    "mode": "Online",
-    "city": null,
-    "state": "online",
-    "country": null,
-    "start_date": "2026-11-19T00:00:00+05:30",
-    "end_date": "2026-12-09T13:30:00+05:30",
-    "registration_deadline": "2026-12-08T12:00:00+05:30",
-    "min_team_size": 1,
-    "max_team_size": 1,
-    "solo_allowed": true,
-    "eligibility": "Open to college students & coders",
-    "prize_pool": "Prizes & Certificates",
-    "tracks": [
-      "All"
-    ],
-    "score": 75,
-    "matched_reasons": [
-      "🏢 **Maharashtra Proximity** (+25 pts) [Pune]",
-      "🌐 **Accessible Online Mode** (+15 pts)",
-      "👤 **Solo Eligible (1 Member)** (+35 pts)"
-    ],
-    "is_nagpur_local": false,
-    "is_maharashtra": true,
-    "is_active": true,
-    "discovered_at": "2026-11-26T03:23:18.641380+00:00"
+    "discovered_at": "2026-11-26T13:25:24.327310+00:00"
   },
   {
     "id": "unstop:1823604",
@@ -734,47 +640,41 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-26T03:23:16.594163+00:00"
+    "discovered_at": "2026-11-26T13:25:24.327353+00:00"
   },
   {
-    "id": "unstop:1782995",
+    "id": "unstop:1828890",
     "source": "Unstop",
-    "title": "CPP - Competitive Programming Potpourri",
-    "url": "https://unstop.com/hackathons/cpp-competitive-programming-potpourri-shaastra-2027-iit-madras-1782995",
-    "description": "There will be three rounds: Prelims 1: Online round on HackerEarth open to all. Prelims 2: Online round on HackerEarth open to all. Finals: Selected students from prelims will compete in an offline round at IITM! Note: Both prelims are independent, and we will select the best participants from both prelims. Those who qualify from Prelim 1 need not participate in Prelim 2. The event comprises coding challenges across 3 categories: Competitive Programming Code Golfing Debugging Guidelines for Prelims: Participants must submit solutions within the time limit - This will be announced. Use of external code, AI tools, or collaboration with others is strictly prohibited .",
-    "organizer": "Indian Institute of Technology (IIT), Madras",
-    "venue": "hybrid",
-    "mode": "In-Person",
+    "title": "Agentic AI Hackathon 2026",
+    "url": "https://unstop.com/hackathons/agentic-ai-hackathon-2026-proton-solutions-1828890",
+    "description": "Welcome to Agentic AI Hackathon 2026, an online innovation challenge organized by Proton Solutions. Artificial Intelligence is evolving beyond traditional chatbots and automation tools. Agentic AI introduces a new generation of intelligent systems capable of understanding goals, planning actions, making decisions, using tools, and executing complex tasks with minimal human intervention. This hackathon invites students, developers, researchers, and technology enthusiasts to explore the possibilities of autonomous AI agents and multi-agent systems. Participants are challenged to identify real-world problems and develop innovative Agentic AI solutions that demonstrate intelligence, autonomy, collaboration, and practical impact. Whether you are an individual innovator or part of a team, this is your opportunity to experiment with emerging AI technologies, showcase your technical skills, and transform your ideas into working solutions. Build intelligent agents. Automate possibilities. Shape the future. Organized by : Proton Solutions Event Format : Online Participation : Individual and Team Registration Fee : Free",
+    "organizer": "Proton Solutions",
+    "venue": "Online",
+    "mode": "Online",
     "city": null,
-    "state": "hybrid",
+    "state": "online",
     "country": null,
-    "start_date": "2026-10-31T00:00:00+05:30",
-    "end_date": "2027-01-05T23:59:00+05:30",
+    "start_date": "2026-11-26T00:00:00+05:30",
+    "end_date": "2026-12-10T00:00:00+05:30",
     "registration_deadline": "2026-12-10T00:00:00+05:30",
     "min_team_size": 1,
-    "max_team_size": 1,
+    "max_team_size": 2,
     "solo_allowed": true,
-    "eligibility": "Undergraduate / Postgraduate & Engineering students",
+    "eligibility": "Open to college students & coders",
     "prize_pool": "Prizes & Certificates",
     "tracks": [
-      "Engineering Students",
-      "Postgraduate",
-      "Undergraduate",
-      "Management",
-      "Medical",
-      "Law",
-      "Arts, Commerce, Sciences & Others"
+      "All"
     ],
     "score": 75,
     "matched_reasons": [
-      "🌐 **Accessible In-Person Mode** (+15 pts)",
+      "🌐 **Accessible Online Mode** (+15 pts)",
       "👤 **Solo Eligible (1 Member)** (+35 pts)",
-      "🤖 **AI & Software Tracks** (+25 pts) [AI]"
+      "🤖 **AI & Software Tracks** (+25 pts) [AI, Artificial Intelligence, Agentic Ai]"
     ],
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-26T03:23:20.654893+00:00"
+    "discovered_at": "2026-11-26T13:25:24.325892+00:00"
   },
   {
     "id": "unstop:1820502",
@@ -816,7 +716,44 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-26T03:23:16.594305+00:00"
+    "discovered_at": "2026-11-26T13:25:24.327500+00:00"
+  },
+  {
+    "id": "unstop:1828678",
+    "source": "Unstop",
+    "title": "Hackday Dec",
+    "url": "https://unstop.com/hackathons/hackday-dec-trishulx-1828678",
+    "description": "Hackday Dec is a 12-hour online AI hackathon by Team TrishulX. Build and ship a working project in one day. Format: 12-hour online hackathon on Saturday, 12 December 2026, 9:00 AM to 9:00 PM IST. Open to students and developers. Solo participants or teams of up to 4. Any tech stack, any theme - build anything. Process: Register on this Unstop page before 11 December 2026, 11:59 PM IST. Registration is free. Build and ship your working project during the 12-hour event on 12 December 2026, 9:00 AM to 9:00 PM IST. Judging by the Team TrishulX panel Rules: All code must be written fresh during the hackathon - pre-built projects are not allowed. Your submission must be your team's own work; plagiarism leads to disqualification. One team submits one project. The organisers' decision on winners is final. Top teams win Kero keyboards &mdash; Hive 75 for the winners, Hive 65 RGB for the runners-up.",
+    "organizer": "TrishulX",
+    "venue": "Online",
+    "mode": "Online",
+    "city": null,
+    "state": "online",
+    "country": null,
+    "start_date": "2026-11-26T06:40:27+05:30",
+    "end_date": "2026-12-12T21:00:47+05:30",
+    "registration_deadline": "2026-12-11T23:59:27+05:30",
+    "min_team_size": 1,
+    "max_team_size": 4,
+    "solo_allowed": true,
+    "eligibility": "Undergraduate / Postgraduate & Engineering students",
+    "prize_pool": "Prizes & Certificates",
+    "tracks": [
+      "Engineering Students",
+      "Postgraduate",
+      "Undergraduate",
+      "Fresher"
+    ],
+    "score": 75,
+    "matched_reasons": [
+      "🌐 **Accessible Online Mode** (+15 pts)",
+      "👤 **Solo Eligible (1 Member)** (+35 pts)",
+      "🤖 **AI & Software Tracks** (+25 pts) [AI]"
+    ],
+    "is_nagpur_local": false,
+    "is_maharashtra": false,
+    "is_active": true,
+    "discovered_at": "2026-11-26T13:25:24.325343+00:00"
   },
   {
     "id": "unstop:1820028",
@@ -850,7 +787,45 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-26T03:23:18.640172+00:00"
+    "discovered_at": "2026-11-26T13:25:26.262720+00:00"
+  },
+  {
+    "id": "unstop:1825938",
+    "source": "Unstop",
+    "title": "CoMemor Contributor Challenge",
+    "url": "https://unstop.com/hackathons/comemor-contributor-challenge-comemor-1825938",
+    "description": "AI coding agents are powerful until they hit the same build, dependency, or runtime error for the third session in a row and burn tokens re-debugging it from scratch. CoMemor is a fast-growing, local-first Model Context Protocol (MCP) server ( npx comemor , freshly launched v1.1.0) that equips AI coding agents including Cursor, Claude Desktop &amp; Code, VS Code + Copilot, Windsurf, and Google Antigravity with deterministic, repository-scoped engineering memory powered by SHA-256 error fingerprinting, SQLite FTS5 lexical search, automated secret redaction, and prompt-injection quarantine. The CoMemor Contributor Challenge invites developers, AI builders, and open-source enthusiasts to ship real production code, sharpen our security and retrieval engine, hunt edge-case bugs, and showcase their engineering work in public. Top contributors earn official certificates and a direct shot at an internship opportunity with the CoMemor team. Contribution Tracks (Pick Any or Multiple) Core MCP Engine &amp; Retrieval: Improve TypeScript modules, SQLite FTS5 ranking, error normalization and find_fix / record_failure / verify_fix edge cases. Security, Hardening &amp; Testing: Strengthen secret-redaction patterns, prompt-injection heuristics, Vitest unit/integration tests, and retrieval benchmarks. Memory Console &amp; Developer Experience: Enhance the local Memory Console UI, IDE setup workflows, cross-platform Windows/macOS/Linux compatibility, and documentation. High-Signal Bug Hunting &amp; RFCs: Identify reproducible bugs, security edge cases, or well-scoped architectural feature proposals via GitHub Issues. How to Participate (Step-by-Step) Register on Unstop: Complete your individual registration before the deadline. Join the WhatsApp Community:&nbsp; https://chat.whatsapp.com/LSGNBQDsAvwBDiBJVkcUgQ Connect with the Project: Star and Watch the CoMemor GitHub repository to track open issues and releases. Pick or Propose Work: Browse issues labeled good first issue , help wanted , or contributor-challenge or open a clear, reproducible new issue before coding. Ship Quality Contributions: Fork the repo, follow Contributing.md , ensure tests pass locally, and open a well-documented Pull Request. Showcase Your Work on LinkedIn (Required for Leaderboard Scoring): After submitting your PR or verified issue, publish a short video demo (30&ndash;90 seconds) or a concise technical article/post on LinkedIn explaining the problem you solved and what you added or fixed in CoMemor. Tag the CoMemor LinkedIn page and include the hashtags #comemor , #comemorcontributor , #opensource , and #mcp . Submit Proof on Unstop: Submit your GitHub username, PR/Issue links, and LinkedIn post link during the submission window. Format &amp; Rounds Round 1: Registration &amp; Repo Onboarding: Register on Unstop, star &amp; watch the repository, follow CoMemor on LinkedIn, set up the project locally and claim or open your first issue. Round 2: Contribution &amp; Build-in-Public Sprint: Submit Pull Requests and/or high-impact issues, respond to maintainer reviews, and publish your LinkedIn demo video or walkthrough post. Round 3: Maintainer Review &amp; Results: Final scoring of merged/accepted contributions, leaderboard announcement, certificate distribution, and internship interview invites for top contributors. Guidelines &amp; Eligibility Eligibility: Open to college students, freshers, and working professionals from all branches and specializations. Participation Format: Individual participation only (inter-college / open to all institutions). Number of Contributions: Unlimited, you may submit multiple PRs or issues, and every merged/accepted contribution counts toward your final rank. Rules &amp; Quality Standards All code and write-ups must be your original work and comply with CoMemor's GPL-3.0 license and CONTRIBUTING.md . Use of AI is allowed and it is recommended to mention the specific AI Model or tool used for development. Pull Requests must pass repository build and automated test checks (CI) and address a real bug, test gap, feature, or substantive docs improvement. Zero Spam Policy: Low-effort PRs (trivial typo/whitespace edits, duplicate issues, or unverified AI-generated code dumps) will be closed and disqualified from certification. You must comment on an issue to claim it before opening a PR if someone else is not already assigned. Maintainer review and merge decisions are final. Evaluation Criteria Technical Depth &amp; Code/Issue Quality (45%): Clean architecture, correctness, and real impact on CoMemor users. Testing &amp; Engineering Hygiene (25%): Test coverage, clear PR descriptions, adherence to repo conventions, and zero regressions. LinkedIn Demo / Walkthrough Clarity (20%): Clear explanation of why the fix/feature matters and how it works in practice. Collaboration &amp; Review Responsiveness (10%): Constructive communication and timely iteration on maintainer feedback. Rewards &amp; Perks Top Contributors: Chance to land an Internship Opportunity with the CoMemor team (shortlisted top performers invited for a direct technical conversation with the founder), Certificate of excellence, and a featured contributor spotlight on CoMemor's LinkedIn page and release notes. Verified Contributors (All Merged PRs / Accepted High-Impact Issues + LinkedIn Demo): Official Verified Open-Source Contributor Certificate and permanent credit in CoMemor's GitHub release history.",
+    "organizer": "CoMemor",
+    "venue": "Online",
+    "mode": "Online",
+    "city": null,
+    "state": "online",
+    "country": null,
+    "start_date": "2026-11-24T00:00:00+05:30",
+    "end_date": "2026-12-15T23:59:00+05:30",
+    "registration_deadline": "2026-12-14T18:30:00+05:30",
+    "min_team_size": 1,
+    "max_team_size": 1,
+    "solo_allowed": true,
+    "eligibility": "Undergraduate / Postgraduate & Engineering students",
+    "prize_pool": "Prizes & Certificates",
+    "tracks": [
+      "Experienced Professionals",
+      "Engineering Students",
+      "Postgraduate",
+      "Undergraduate",
+      "Fresher"
+    ],
+    "score": 75,
+    "matched_reasons": [
+      "🌐 **Accessible Online Mode** (+15 pts)",
+      "👤 **Solo Eligible (1 Member)** (+35 pts)",
+      "🤖 **AI & Software Tracks** (+25 pts) [AI]"
+    ],
+    "is_nagpur_local": false,
+    "is_maharashtra": false,
+    "is_active": true,
+    "discovered_at": "2026-11-26T13:25:24.326380+00:00"
   },
   {
     "id": "unstop:1824394",
@@ -884,7 +859,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-26T03:23:16.594405+00:00"
+    "discovered_at": "2026-11-26T13:25:26.261112+00:00"
   },
   {
     "id": "unstop:1814814",
@@ -920,7 +895,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-26T03:23:18.640139+00:00"
+    "discovered_at": "2026-11-26T13:25:26.262687+00:00"
   },
   {
     "id": "unstop:1820870",
@@ -954,7 +929,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-26T03:23:18.639553+00:00"
+    "discovered_at": "2026-11-26T13:25:26.262132+00:00"
   },
   {
     "id": "unstop:1826567",
@@ -991,7 +966,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-26T03:23:16.593759+00:00"
+    "discovered_at": "2026-11-26T13:25:24.326965+00:00"
   },
   {
     "id": "unstop:1821473",
@@ -1031,7 +1006,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-26T03:23:16.594068+00:00"
+    "discovered_at": "2026-11-26T13:25:24.327258+00:00"
   },
   {
     "id": "unstop:1827866",
@@ -1069,7 +1044,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-26T03:23:16.593232+00:00"
+    "discovered_at": "2026-11-26T13:25:24.326006+00:00"
   },
   {
     "id": "unstop:1821912",
@@ -1107,7 +1082,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-26T03:23:18.639376+00:00"
+    "discovered_at": "2026-11-26T13:25:26.261963+00:00"
   },
   {
     "id": "unstop:1826867",
@@ -1141,7 +1116,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-26T03:23:16.592309+00:00"
+    "discovered_at": "2026-11-26T13:25:24.325969+00:00"
   },
   {
     "id": "unstop:1827472",
@@ -1175,7 +1150,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-26T03:23:16.592524+00:00"
+    "discovered_at": "2026-11-26T13:25:24.326061+00:00"
   },
   {
     "id": "unstop:1826401",
@@ -1213,45 +1188,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-26T03:23:16.593640+00:00"
-  },
-  {
-    "id": "unstop:1817757",
-    "source": "Unstop",
-    "title": "Nurn 2026 – National Innovation & Technology Challenge",
-    "url": "https://unstop.com/hackathons/nurn-2026-national-innovation-technology-challenge-pranveer-singh-institute-of-technology-psit-kanpur-1817757",
-    "description": "Overview Imagine. Innovate. Build What's Next. About NURN 2026 is an innovation-driven hackathon designed to bring together creative minds, aspiring developers, technology enthusiasts and student innovators from across India. NURN provides a platform for participants to identify real-world problems, develop innovative solutions and transform their ideas into working prototypes. Whether you are interested in Artificial Intelligence, Machine Learning, Web Development, App Development, Automation, Software Engineering or emerging technologies, NURN welcomes innovative ideas and practical solutions. This is your opportunity to think beyond conventional boundaries, experiment with technology, collaborate with talented individuals and showcase your creativity. What to Expect Participants will get the opportunity to: Work on innovative, real-world problem statements. Explore Artificial Intelligence and emerging technologies. Develop practical software solutions and prototypes. Showcase technical and problem-solving abilities. Compete with innovators from different institutions. Receive recognition for outstanding projects. Connect with fellow participants and the NURN community. Hackathon Domains Participants can explore projects in the following domains: Artificial Intelligence &amp; Machine Learning Generative AI &amp; AI Agents Web Development &amp; Full-Stack Development Mobile Application Development Automation &amp; Productivity Solutions Software Engineering &amp; SaaS Data Science &amp; Analytics Cybersecurity &amp; Digital Safety IoT &amp; Smart Technology Open Innovation &ndash; Beyond Boundaries Participants are encouraged to explore original ideas and meaningful applications of technology. Eligibility Criteria Open to college and university students. Students from all academic disciplines are welcome. Beginners and experienced developers can participate. Team size: 1 member. Inter-college teams are permitted, subject to the final registration rules. Each participant can be part of only one team. Process Stage 1 &ndash; Registration Register for NURN through the official Unstop opportunity. Complete your participant and team details accurately. Stage 2 &ndash; Idea Submission Participants submit their proposed project idea, problem statement, proposed solution, innovation and technical approach. Stage 3 &ndash; Shortlisting The evaluation team reviews submissions based on originality, relevance, feasibility and innovation. Shortlisted participants will be informed through official communication channels. Stage 4 &ndash; Prototype Development Shortlisted teams develop their proposed solutions into functional prototypes. Technical documentation, project demonstrations and supporting materials may be required. Stage 5 &ndash; Final Evaluation Selected finalists present and demonstrate their projects before the evaluation panel. Stage 6 &ndash; Results &amp; Recognition Winners and outstanding participants will be recognised according to the announced awards and evaluation results. Exact dates, submission instructions and round-specific requirements will be announced through official NURN communication channels. Judging Criteria Projects will be evaluated on: Innovation &amp; Originality Technical Implementation Problem-Solving Approach Practical Feasibility User Experience Real-World Impact Scalability Presentation &amp; Demonstration Rules All submissions must represent original work. Impersonation and misrepresentation are prohibited. Participants must provide accurate registration information. A participant cannot register with multiple teams. Participants must follow all submission deadlines. AI tools and third-party resources may be used where permitted, but their use must be disclosed when requested. Participants must respect intellectual property rights and applicable software licences. Submitted project links and demonstrations must be accessible for evaluation. Unprofessional behaviour, harassment or attempts to manipulate the evaluation process may result in disqualification. Organisers reserve the right to reject incomplete or rule-violating submissions. The judges' decisions will be final. Join the WhatsApp group here: https://chat.whatsapp.com/FrqQ0vBIbWvEYvOde8vWjC Joining the official NURN WhatsApp group is strongly required for every registered participant. All important hackathon announcements, updates and communication will be shared through the official WhatsApp group. Participants will receive information regarding: Important event announcements. Registration updates and confirmations. Problem statement announcements. Round-wise instructions and guidelines. Submission deadlines and reminders. Changes in the competition schedule. Shortlisting and finalist announcements. Results and certificate-related updates. Important notices and other event-related information. Important: After registering on Unstop, participants should join the WhatsApp group to stay informed throughout the hackathon. Please check the group regularly so that you do not miss important announcements or deadlines. The official Unstop opportunity remains the primary registration and submission platform. The WhatsApp group is the official supplementary communication channel. Awards Outstanding participants will receive recognition based on their performance and the announced award structure. Awards and certificates will be distributed according to the official event announcements. Stay connected. Stay informed. Keep innovating. YOUR IDEAS. YOUR INNOVATION. YOUR FUTURE. Think Big. Build Bold. Make an Impact.",
-    "organizer": "Pranveer Singh Institute of Technology (PSIT), Kanpur",
-    "venue": "Online",
-    "mode": "Online",
-    "city": null,
-    "state": "online",
-    "country": null,
-    "start_date": "2026-11-15T00:00:00+05:30",
-    "end_date": "2027-01-10T15:44:00+05:30",
-    "registration_deadline": "2026-12-31T18:30:00+05:30",
-    "min_team_size": 1,
-    "max_team_size": 1,
-    "solo_allowed": true,
-    "eligibility": "Undergraduate / Postgraduate & Engineering students",
-    "prize_pool": "Prizes & Certificates",
-    "tracks": [
-      "Experienced Professionals",
-      "Engineering Students",
-      "Postgraduate",
-      "Undergraduate",
-      "Fresher"
-    ],
-    "score": 75,
-    "matched_reasons": [
-      "🌐 **Accessible Online Mode** (+15 pts)",
-      "👤 **Solo Eligible (1 Member)** (+35 pts)",
-      "🤖 **AI & Software Tracks** (+25 pts) [AI, Artificial Intelligence, Machine Learning]"
-    ],
-    "is_nagpur_local": false,
-    "is_maharashtra": false,
-    "is_active": true,
-    "discovered_at": "2026-11-26T03:23:18.641282+00:00"
+    "discovered_at": "2026-11-26T13:25:24.326844+00:00"
   },
   {
     "id": "hackerearth:contextcon-remember-everything",
@@ -1287,7 +1224,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-26T03:23:23.507892+00:00"
+    "discovered_at": "2026-11-26T13:25:29.988492+00:00"
   },
   {
     "id": "devpost:30740",
@@ -1323,7 +1260,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-26T03:23:22.628120+00:00"
+    "discovered_at": "2026-11-26T13:25:29.154633+00:00"
   },
   {
     "id": "devpost:30764",
@@ -1359,7 +1296,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-26T03:23:22.744680+00:00"
+    "discovered_at": "2026-11-26T13:25:29.238127+00:00"
   },
   {
     "id": "devpost:31787",
@@ -1395,14 +1332,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-26T03:23:22.628140+00:00"
+    "discovered_at": "2026-11-26T13:25:29.154649+00:00"
   },
   {
     "id": "devpost:31642",
     "source": "Devpost",
     "title": "AWS MSP AI Hackathon",
     "url": "https://aws-agentic-msp.devpost.com/",
-    "description": "Devpost hackathon. 16 days left",
+    "description": "Devpost hackathon. 15 days left",
     "organizer": "AWS",
     "venue": "Online",
     "mode": "Online",
@@ -1431,14 +1368,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-26T03:23:22.519020+00:00"
+    "discovered_at": "2026-11-26T13:25:29.022368+00:00"
   },
   {
     "id": "devpost:31083",
     "source": "Devpost",
     "title": "QNX Global Hackathon",
     "url": "https://qnx.devpost.com/",
-    "description": "Devpost hackathon. 20 days left",
+    "description": "Devpost hackathon. 19 days left",
     "organizer": "QNX",
     "venue": "Online",
     "mode": "Online",
@@ -1467,7 +1404,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-26T03:23:22.519005+00:00"
+    "discovered_at": "2026-11-26T13:25:29.022354+00:00"
   },
   {
     "id": "devpost:32009",
@@ -1503,7 +1440,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-26T03:23:22.744699+00:00"
+    "discovered_at": "2026-11-26T13:25:29.238142+00:00"
   },
   {
     "id": "devpost:31480",
@@ -1539,14 +1476,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-26T03:23:22.744663+00:00"
+    "discovered_at": "2026-11-26T13:25:29.238112+00:00"
   },
   {
     "id": "devpost:31972",
     "source": "Devpost",
     "title": "SLAY HACKS",
     "url": "https://slayy-hacks.devpost.com/",
-    "description": "Devpost hackathon. 12 days left",
+    "description": "Devpost hackathon. 11 days left",
     "organizer": "cite & slayy",
     "venue": "Online",
     "mode": "Online",
@@ -1575,14 +1512,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-26T03:23:22.744640+00:00"
+    "discovered_at": "2026-11-26T13:25:29.238089+00:00"
   },
   {
     "id": "devpost:31973",
     "source": "Devpost",
     "title": "Deck the Pixels",
     "url": "https://deckthepixels.devpost.com/",
-    "description": "Devpost hackathon. 12 days left",
+    "description": "Devpost hackathon. 11 days left",
     "organizer": "Google",
     "venue": "Online",
     "mode": "Online",
@@ -1611,14 +1548,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-26T03:23:22.519010+00:00"
+    "discovered_at": "2026-11-26T13:25:29.022359+00:00"
   },
   {
     "id": "devpost:32079",
     "source": "Devpost",
     "title": "Learn AR with SPECS",
     "url": "https://learn-specs.devpost.com/",
-    "description": "Devpost hackathon. 12 days left",
+    "description": "Devpost hackathon. 11 days left",
     "organizer": "Devpost",
     "venue": "Online",
     "mode": "Online",
@@ -1647,14 +1584,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-26T03:23:22.628115+00:00"
+    "discovered_at": "2026-11-26T13:25:29.154628+00:00"
   },
   {
     "id": "devpost:31808",
     "source": "Devpost",
     "title": "#BuildHybridAI 2026",
     "url": "https://firebasehybridaihackathon.devpost.com/",
-    "description": "Devpost hackathon. 5 days left",
+    "description": "Devpost hackathon. 4 days left",
     "organizer": "Google",
     "venue": "Online",
     "mode": "Online",
@@ -1683,7 +1620,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-26T03:23:22.518988+00:00"
+    "discovered_at": "2026-11-26T13:25:29.022340+00:00"
   },
   {
     "id": "devpost:32024",
@@ -1719,7 +1656,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-26T03:23:22.628126+00:00"
+    "discovered_at": "2026-11-26T13:25:29.154637+00:00"
   },
   {
     "id": "devpost:32026",
@@ -1755,7 +1692,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-26T03:23:22.519000+00:00"
+    "discovered_at": "2026-11-26T13:25:29.022350+00:00"
   },
   {
     "id": "devpost:31571",
@@ -1791,7 +1728,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-26T03:23:22.519015+00:00"
+    "discovered_at": "2026-11-26T13:25:29.022364+00:00"
   },
   {
     "id": "devpost:31886",
@@ -1827,14 +1764,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-26T03:23:22.628108+00:00"
+    "discovered_at": "2026-11-26T13:25:29.154624+00:00"
   },
   {
     "id": "devpost:31826",
     "source": "Devpost",
     "title": "Global AI Builder’s Challenge",
     "url": "https://global-ai-builders-challenge.devpost.com/",
-    "description": "Devpost hackathon. 3 days left",
+    "description": "Devpost hackathon. 2 days left",
     "organizer": "Refactor The World",
     "venue": "Online",
     "mode": "Online",
@@ -1861,7 +1798,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-26T03:23:22.744675+00:00"
+    "discovered_at": "2026-11-26T13:25:29.238118+00:00"
   },
   {
     "id": "hackerearth:groww-next-2026",
@@ -1897,7 +1834,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-26T03:23:23.507930+00:00"
+    "discovered_at": "2026-11-26T13:25:29.988516+00:00"
   },
   {
     "id": "devpost:31796",
@@ -1933,7 +1870,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-26T03:23:22.744670+00:00"
+    "discovered_at": "2026-11-26T13:25:29.238123+00:00"
   },
   {
     "id": "devpost:31789",
@@ -1969,7 +1906,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-26T03:23:22.628135+00:00"
+    "discovered_at": "2026-11-26T13:25:29.154645+00:00"
   },
   {
     "id": "devpost:30789",
@@ -2005,14 +1942,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-26T03:23:22.628088+00:00"
+    "discovered_at": "2026-11-26T13:25:29.154603+00:00"
   },
   {
     "id": "devpost:31907",
     "source": "Devpost",
     "title": "Build Your First AI App",
     "url": "https://build-your-first-ai-app.devpost.com/",
-    "description": "Devpost hackathon. 14 days left",
+    "description": "Devpost hackathon. 13 days left",
     "organizer": "Yasir Insights",
     "venue": "Online",
     "mode": "Online",
@@ -2041,14 +1978,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-26T03:23:22.628131+00:00"
+    "discovered_at": "2026-11-26T13:25:29.154640+00:00"
   },
   {
     "id": "devpost:31572",
     "source": "Devpost",
     "title": "Codegeist 2026: Build with context. Ship with confidence.",
     "url": "https://codegeist2026.devpost.com/",
-    "description": "Devpost hackathon. 27 days left",
+    "description": "Devpost hackathon. 26 days left",
     "organizer": "Atlassian",
     "venue": "Online",
     "mode": "Online",
@@ -2077,14 +2014,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-26T03:23:22.518978+00:00"
+    "discovered_at": "2026-11-26T13:25:29.022332+00:00"
   },
   {
     "id": "devpost:31667",
     "source": "Devpost",
     "title": "Kiroween 2026",
     "url": "https://kiroween.devpost.com/",
-    "description": "Devpost hackathon. 9 days left",
+    "description": "Devpost hackathon. 8 days left",
     "organizer": "Kiro",
     "venue": "Online",
     "mode": "Online",
@@ -2113,7 +2050,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-26T03:23:22.518952+00:00"
+    "discovered_at": "2026-11-26T13:25:29.022304+00:00"
   },
   {
     "id": "unstop:1822209",
@@ -2152,7 +2089,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": true,
     "is_active": true,
-    "discovered_at": "2026-11-26T03:23:18.639269+00:00"
+    "discovered_at": "2026-11-26T13:25:26.261863+00:00"
   },
   {
     "id": "unstop:1818894",
@@ -2191,46 +2128,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-26T03:23:18.638785+00:00"
-  },
-  {
-    "id": "unstop:1791574",
-    "source": "Unstop",
-    "title": "Capture The Flag (CTF)",
-    "url": "https://unstop.com/hackathons/capture-the-flag-ctf-ignitron-2k26-gm-university-davanagere-1791574",
-    "description": "December 03rd, 2026 Location: GM University, Davangere Event Participation &amp; Benefits: We are excited to welcome all participants to IGNITRON 2K26. Here are some important details regarding registration and accommodations: Registration Fee: ₹500 Accommodation: For participants arriving from outside Davangere, accommodation will be arranged on a payable basis to ensure a comfortable stay. The accommodation details and payment link will be shared with the selected participants at the appropriate time. Teams are requested to fill out the accommodation form promptly once it is released. Payment Link: Event Registration | GM University Important Note: You must first complete the registration process through the official Unstop platform. Participants must follow the rules and regulations specified by the organizing team. For any queries, feel free to reach out to our team. We look forward to seeing you at IGNITRON 2K26! Event Schedule: Day 1: December 03, 2026: Code Rush &ndash; 24-Hour Hackathon: 02:00 PM &ndash; 02:00 PM (Next Day) ModelQuest: 02:00 PM &ndash; 05:00 PM CTF (Capture The Flag): 02:00 PM &ndash; 05:00 PM Robo Race: 02:00 PM &ndash; 05:00 PM IgniteX Debate: 02:00 PM &ndash; 05:00 PM Market Mavericks: 02:00 PM &ndash; 05:00 PM Law Debate: 02:00 PM &ndash; 05:00 PM PharmaNova: 02:00 PM &ndash; 05:00 PM Wallstreet Warriors: 02:00 PM &ndash; 05:00 PM Prompt to Prototype 2K26: 02:00 PM &ndash; 05:00 PM Day 2: December 04, 2026: Tech Thesis: 10:00 AM &ndash; 05:00 PM PixelCraft: 10:00 AM &ndash; 12:30 PM Ideathon: 10:00 AM &ndash; 12:30 PM Engineer's Eye: 02:00 PM &ndash; 05:00 PM Circuit Debugging: 10:00 AM &ndash; 12:30 PM Robo Sumo: 03:00 PM &ndash; 05:00 PM Food Tech: 02:00 PM &ndash; 05:00 PM Finnovate: 10:00 AM &ndash; 05:00 PM Startathon: 10:00 AM &ndash; 12:30 PM Bio Ventures: 10:00 AM &ndash; 12:30 PM Prompt to Prototype 2K26: 10:00 AM &ndash; 12:30 PM Electriva: 02:00 PM &ndash; 05:00 PM Card Structure: 10:00 AM &ndash; 12:30 PM Nextwave &ndash; Paper Presentation: 02:00 PM &ndash; 05:00 PM Cloud Nex: 10:00 AM &ndash; 05:00 PM Day 3: December 05, 2026: Line Follower: 09:00 AM &ndash; 12:30 PM Coding Collab: 09:00 AM &ndash; 12:30 PM Poster Presentation: 09:00 AM &ndash; 12:30 PM Myth Busters: 09:00 AM &ndash; 12:30 PM About CTF (Capture The Flag): CTF (Capture The Flag) is an exciting and cybersecurity-focused event that provides participants with a platform to test their technical knowledge and problem-solving skills. It challenges participants to solve a series of security-related puzzles and challenges involving areas such as cryptography, web security, digital forensics, and logical reasoning to uncover hidden flags. Through critical thinking, analytical skills, and practical cybersecurity techniques, participants get an opportunity to demonstrate their knowledge and abilities. The event promotes cybersecurity awareness, teamwork, creativity, and the ability to identify and solve digital security challenges.",
-    "organizer": "GM University Davanagere",
-    "venue": "offline",
-    "mode": "In-Person",
-    "city": null,
-    "state": "offline",
-    "country": null,
-    "start_date": "2026-11-11T18:30:00+05:30",
-    "end_date": "2026-12-03T17:00:00+05:30",
-    "registration_deadline": "2026-11-30T23:59:00+05:30",
-    "min_team_size": 1,
-    "max_team_size": 2,
-    "solo_allowed": true,
-    "eligibility": "Undergraduate / Postgraduate & Engineering students",
-    "prize_pool": "Prizes & Certificates",
-    "tracks": [
-      "Engineering Students",
-      "Postgraduate",
-      "Undergraduate",
-      "Management",
-      "Medical",
-      "Law",
-      "Arts, Commerce, Sciences & Others"
-    ],
-    "score": 60,
-    "matched_reasons": [
-      "👤 **Solo Eligible (1 Member)** (+35 pts)",
-      "🤖 **AI & Software Tracks** (+25 pts) [Cloud, Cybersecurity]"
-    ],
-    "is_nagpur_local": false,
-    "is_maharashtra": false,
-    "is_active": true,
-    "discovered_at": "2026-11-26T03:23:20.655936+00:00"
+    "discovered_at": "2026-11-26T13:25:26.262939+00:00"
   },
   {
     "id": "unstop:1781454",
@@ -2269,7 +2167,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-26T03:23:20.656001+00:00"
+    "discovered_at": "2026-11-26T13:25:27.568694+00:00"
   },
   {
     "id": "unstop:1821984",
@@ -2310,7 +2208,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-26T03:23:18.639746+00:00"
+    "discovered_at": "2026-11-26T13:25:26.262311+00:00"
   },
   {
     "id": "unstop:1822588",
@@ -2349,7 +2247,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-26T03:23:18.639786+00:00"
+    "discovered_at": "2026-11-26T13:25:26.262348+00:00"
   },
   {
     "id": "unstop:1800622",
@@ -2388,43 +2286,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": true,
     "is_active": true,
-    "discovered_at": "2026-11-26T03:23:16.593258+00:00"
-  },
-  {
-    "id": "unstop:1770707",
-    "source": "Unstop",
-    "title": "Skill Hackathon 2027",
-    "url": "https://unstop.com/hackathons/skill-hackathon-2027-symbiosis-skill-hackathon-20-ssh-2027-symbiosis-university-of-applied-sciences-suas-indo-1770707",
-    "description": "Overview Event Details Event Name: Symbiosis Skill Hackathon (SSH-2027) Organized By: Symbiosis University of Applied Sciences (SUAS), Indore, Madhya Pradesh, India Mode: Offline (On-Campus) Event Dates: 22&ndash;23 February 2027 Duration: 36 Hours Team Size: 1&ndash;4 Members Registration Deadline: To be confirmed before publishing Eligibility: Undergraduate and Postgraduate Students, including Engineering Students and Inter College Students About Symbiosis Skill Hackathon (SSH-2027) Innovate. Build. Compete. Make an Impact! Get ready for Symbiosis Skill Hackathon 2.0 (SSH-2027), a national-level, 36-hour hackathon organized by Symbiosis University of Applied Sciences (SUAS), Indore, on 22&ndash;23 February 2027. Bringing together talented innovators, developers, and aspiring entrepreneurs from across India, SSH-2027 challenges participants to transform bold ideas into impactful, technology-driven solutions for real-world problems. Explore cutting-edge domains, including Generative AI and Agentic AI, Cybersecurity and AI Security, Cloud-Native Development and DevSecOps, IoT and Robotics, Physical AI, Blockchain and Web3, Data Science, EdTech, AR/VR and Extended Reality (XR), and Quantum Computing. Collaborate with like-minded innovators, learn from expert mentors, develop working prototypes, and showcase your solutions before a panel of judges. Push boundaries, embrace emerging technologies, and turn your ideas into innovations that matter. Your journey from idea to impact starts at SSH-2027! Eligibility Guidelines Eligible Participants: The hackathon is open to students currently studying in Class 12, undergraduate, or postgraduate programmes at recognized schools and institutions across India. Academic Disciplines: Students from all academic streams and disciplines are welcome to participate, subject to the event's registration requirements. Team Composition: Teams must comply with the prescribed team size and registration guidelines. Inter-school, inter-college, and interdisciplinary teams are permitted subject to the rules announced by the organizing committee. Student Verification: Participants must provide a valid school/college ID card or proof of current enrollment when requested by the organizing committee. Registration Accuracy: All registration details must be accurate and verifiable. Providing false information or misrepresenting eligibility may result in disqualification. Rules and Conduct: All participants must maintain academic integrity and comply with the official hackathon rules, submission requirements, and code of conduct. Final Eligibility Decision: The organizing committee reserves the right to verify eligibility and make decisions regarding participation in accordance with the published event guidelines. Team Formation and Guidelines Team Size: Each team must consist of 1&ndash;4 members , including individual participants. Single-Team Registration: Each participant may register with only one team and cannot participate in multiple teams. Team Formation: Teams may be formed before the event or finalized during the Ideation and Networking Mixer, subject to approval by the organizing committee. Mixed and Inter-Institutional Teams: Teams may include students from Class 12, undergraduate, and postgraduate programmes , including participants from different schools, colleges, institutions, and academic disciplines, provided all members meet the eligibility criteria. Team Formation Assistance: The organizing committee may assist individual participants in finding teammates, subject to availability. Problem Statement Selection: Each team may select and work on only one problem statement throughout the hackathon. Team Composition Changes: Team composition must remain unchanged once the hackathon begins. Any exceptional change requires prior approval from the organizing committee. Registration and Eligibility: All team members must provide accurate registration details and satisfy the eligibility requirements. Duplicate participation or misrepresentation may result in disqualification. Collective Responsibility: Each team is collectively responsible for its submission, originality, compliance with the hackathon rules, and timely completion of all required deliverables. Hackathon Domains Participants will develop solutions in one of the following technology domains: Artificial Intelligence, Generative AI &amp; Agentic AI Cybersecurity, AI Security &amp; Digital Trust Web Development, Cloud-Native Applications &amp; DevSecOps Mobile Application Development &amp; AI-Powered Applications Internet of Things (IoT), Robotics &amp; Physical AI Blockchain, Web3 &amp; Decentralized Applications EdTech, AI-Powered Learning &amp; Educational Innovation Data Science, Big Data &amp; Intelligent Analytics AR/VR, Extended Reality (XR) &amp; Immersive Technologies Quantum Computing &amp; Post-Quantum Cryptography The problem statements will be announced during the offline round and will focus on industry requirements and societal challenges. Teams will finalize their problem statements during the Final Briefing Session. Stages and Timelines Stage 1: Online Registration and PPT Submission (Submission through Unstop) Eligible teams must complete online registration and submit a project proposal for preliminary evaluation. Teams may select a problem statement from the list provided by the organizers or propose their own innovative solution to a real-world problem, subject to the event guidelines. Hackathon Project Proposal Problem Statement: Define the problem and its significance. Proposed Solution: Describe the solution and its key features. Target Users or Use Case: Identify intended users and applications. Role of AI/ML: Explain the role of AI/ML techniques in the solution. Proposed Technical Approach: Specify the architecture, technologies, tools, and implementation methodology. Proposed TinyFish Integration: Explain how TinyFish can support web interaction, data extraction, or workflow automation, wherever applicable. Expected Impact: Highlight anticipated benefits and measurable outcomes. Feasibility: Assess technical requirements, resources, and development within the hackathon timeframe. Future Scope: Outline potential enhancements, scalability, and future applications. Submission Requirements PowerPoint Presentation: Teams must prepare a presentation containing 5&ndash;9 slides using the official PPT template provided by the organizing committee . The presentation should cover the problem statement, proposed solution, innovation, technology stack, implementation approach, and expected impact. GitHub Repository: Teams must provide a GitHub repository link containing the project code, prototype, or relevant initial implementation. A fully developed working prototype is not mandatory at this stage. The repository must be accessible to the evaluation panel. Project Originality: The proposed solution must be original. Any pre-existing code, third-party resources, open-source components, or AI-assisted contributions must be appropriately acknowledged wherever applicable. Submission Process: Teams must submit their completed PPT and GitHub repository link through the designated registration or submission platform before the prescribed deadline. Evaluation and Shortlisting Submissions will be evaluated based on problem relevance, innovation, technical feasibility, implementation approach, potential impact, and clarity of presentation. The organizing committee will shortlist teams based on the preliminary evaluation and available offline participation capacity. Shortlisted teams will be invited to participate in the offline hackathon at Symbiosis University of Applied Sciences (SUAS), Indore . Shortlisting results and further instructions will be communicated through the official event channels. Important Instructions Each team may submit only one project proposal for one problem statement. All submitted information must be accurate, and teams must comply with the official eligibility criteria and code of conduct. The PPT submission deadline, registration closing date, submission platform, and shortlisting announcement date must be confirmed by the organizing committee before publication. The organizing committee reserves the right to reject incomplete, inaccessible, late, or non-compliant submissions. Present all nine sections in the project proposal PPT. Use clear explanations, diagrams, or workflow illustrations wherever appropriate. Demonstrate the practical relevance and feasibility of the proposed solution. Clearly explain the role of AI/ML and TinyFish, where applicable. Focus on innovation, technical implementation, real-world impact, and future scalability. Teams will be evaluated on the basis of their PPT submissions and their profiles. Stage 2: Offline Building Round + Mentorship Round ( 22 Feb 27, 09:00 AM) Dates: 22&ndash;23 February 2027 Venue: Symbiosis University of Applied Sciences, Indore, Madhya Pradesh Mode: On-campus Duration: 36 Hours Grand Finale Round Teams will continue building and refining their projects before the final evaluation. The hackathon will conclude with the Grand Finale, where teams will present their completed solution before the judging panel. Teams will also participate in a Q&amp;A session with the judges. The offline round will include registration and check-in, inauguration, problem statement briefing, team coding, mentor interactions, project evaluation, and the closing ceremony. Hackathon Format and Process The event will follow the stages outlined below: Participant Registration and Team Check-in Inauguration Ceremony and Rule Briefing Keynote Address Ideation and Networking Mixer Problem Statement Announcement and Finalization Continuous Coding and Prototype Development Mentor Interaction and Review Rounds Final Submission and Code Freeze Project Expo and Final Judging Closing Ceremony and Prize Distribution The detailed schedule will be communicated to shortlisted participants by the organizing team. Registration Fees and Mentorship Registration Fee: ₹100 (non-refundable). Offline Team Participation Fee: ₹1,500 for shortlisted teams invited to participate in the offline round (non-refundable). Optional Mentorship: ₹399 for teams opting for additional mentorship support. Please ensure that the applicable fee, payment process, and terms are communicated clearly during registration. Rules and Code of Conduct Compliance with Event Guidelines: All participants must follow the official event schedule, instructions, and guidelines issued by the organizing committee. Team Composition and Registration: Teams must comply with the prescribed team size and registration requirements. Any changes to team members after registration require prior approval from the organizing committee. Attendance and Participation: All registered team members must participate actively throughout the hackathon and comply with attendance, check-in, and reporting requirements. Submission Deadlines and Code Freeze: All teams must adhere to the prescribed submission deadlines, code-freeze requirements, and other milestones announced by the organizing committee. Late submissions may not be accepted. Development During the Hackathon: The submitted solution must be developed during the hackathon in accordance with the rules announced by the organizers. Pre-existing code, templates, and components may be used only to the extent permitted by the event rules and must be appropriately disclosed where required. Use of Open-Source Tools and AI: Participants may use open-source tools, APIs, libraries, frameworks, generative AI tools, and AI coding assistants, subject to applicable licences and event rules. Teams are responsible for verifying the accuracy, security, functionality, and originality of AI-generated code and content. Originality and Plagiarism: Teams must ensure that their submissions represent genuine work and must acknowledge third-party resources, datasets, libraries, code, and AI-generated contributions wherever required. Plagiarism, unauthorized reuse, misrepresentation, and submission of another team's work are prohibited. Intellectual Property Rights: Teams must respect all applicable intellectual property rights and ensure that their solutions do not infringe third-party rights. Ownership, licensing, publication, and permitted use of submitted projects shall be governed by the intellectual property policy communicated by the organizing committee. Submission Requirements: Teams must submit all required deliverables, including source code, project documentation, presentation slides, demonstration links, and other specified materials, through the prescribed platform before the deadline. Project Demonstration and Evaluation: Teams must present and demonstrate their solutions to the jury at the allotted time. Evaluation will be based on the announced judging criteria. Failure to demonstrate the project without an approved reason may affect the team's evaluation. Fair Competition: Teams must not engage in collusion, impersonation, unauthorized collaboration, manipulation of registrations or submissions, interference with other teams, or any attempt to influence the judging process improperly. Cybersecurity and Data Privacy: Participants must not access, attack, disrupt, or modify systems, networks, accounts, or data without explicit authorization. Teams must handle personal, confidential, and sensitive data responsibly and comply with applicable data protection requirements. Respectful Behaviour: All participants must treat fellow participants, mentors, judges, volunteers, and organizing staff with respect. Harassment, discrimination, intimidation, threats, abusive behaviour, and other forms of misconduct will not be tolerated. Venue Facilities and Safety: Participants must comply with venue rules, safety guidelines, and security instructions. Any damage to institutional property, misuse of equipment, or violation of safety procedures may result in disciplinary action. Overnight Coding and Accommodation: Participants using designated overnight coding zones or accommodation facilities must follow the prescribed access timings, security procedures, and venue instructions. Only authorized participants may access restricted areas. Disqualification and Disciplinary Action: Violation of event rules, plagiarism, misconduct, unauthorized access, or other serious breaches may result in warnings, penalties, removal from the venue, or disqualification, as determined by the organizing committee. Appeals and Grievances: Any grievance or appeal concerning event procedures, eligibility, or disciplinary action must be submitted to the organizing committee through the prescribed process and within the specified timeframe. Amendments to Rules: The organizing committee reserves the right to clarify, modify, or introduce rules when necessary. Any changes will be communicated through official event channels. Final Authority: The decisions of the jury regarding technical evaluation, scoring, and rankings shall be final and binding. The organizing committee shall have final authority over event administration, eligibility, and the interpretation and enforcement of these rules. Mentorship and Evaluation Criteria Participants will receive opportunities to interact with industry experts, startup founders, and SUAS faculty members. Projects will be evaluated on the following criteria: Innovation and Originality Relevance to the Problem Statement Technical Feasibility Quality of Implementation Practical Applicability and Potential Impact Presentation and Clarity Awards and Recognition Total Prize Pool: Up to ₹3,00,000 in cash prizes , subject to final approval and the official prize distribution announced by the organizing committee. Winner and Runner-Up Awards: Cash prizes and recognition will be awarded to the top-performing teams based on jury evaluation and the announced judging criteria. Consolation Prizes: Consolation prizes may be awarded to selected teams demonstrating exceptional creativity, innovation, technical excellence, or promising solutions, as determined by the jury. Certificates of Participation: Certificates will be provided to eligible participants who fulfil the event's participation requirements. Special Recognition: Outstanding projects demonstrating innovation, feasibility, scalability, and real-world impact may receive special recognition. Incubation and Mentorship Opportunities: Selected teams may receive post-event incubation, mentorship, or further development opportunities, subject to institutional policies, eligibility, and availability. Prize Distribution: Prize categories, amounts, consolation prizes, and distribution procedures will be announced officially by the organizing committee and will be subject to applicable institutional policies and legal requirements. Facilities and On-Campus Support The following facilities will be provided to eligible participants during the offline event of Symbiosis Skill Hackathon 2.0 (SSH-2027) , subject to availability and the conditions outlined below. 22 February 2027 &ndash; Lunch and Dinner: Lunch and dinner will be provided to all teams registered for the offline event. 23 February 2027 &ndash; Breakfast and Lunch: Breakfast and lunch will be provided to shortlisted teams participating in the offline round. Overnight Accommodation: Basic on-campus accommodation in designated rest areas will be provided for outstation participants for the night of 22 February 2027 only , subject to availability, capacity, and applicable accommodation guidelines. Accommodation for any other night will not be provided unless explicitly announced by the organizing committee. Overnight Coding Zones: Designated coding spaces will be available for participants during the hackathon, subject to venue rules and access guidelines. Medical Assistance: Medical assistance will be available during the event for participants requiring support. Security Support: On-campus security arrangements will be maintained during the event. Participants must follow all security instructions and access restrictions. Food Stalls: Food stalls will be available on campus on a pay-per-order basis. Any purchases beyond the meals explicitly provided by the organizers will be at the participants' own expense. Electrical Extension Boards: Participants must bring their own electrical extension boards or power strips suitable for their laptops and other essential devices. The organizers will not provide individual extension boards, multi-plug adapters, or personal charging accessories. Participants must use electrical equipment safely and comply with the instructions issued by the organizing committee. Personal Devices and Equipment: Participants must bring their own laptops, chargers, development equipment, and other essential accessories. Specialized hardware, software, paid subscriptions, cloud services, and other project-specific resources will not be provided unless explicitly announced. Internet and Power Supply: Internet connectivity and electricity will be available in designated areas, subject to infrastructure capacity and technical limitations. Uninterrupted internet access and power supply are not guaranteed. Travel and Personal Expenses: Participants are responsible for their own travel, local transportation, and personal expenses unless otherwise specified by the organizing committee. Off-Campus Accommodation: Participants requiring accommodation beyond the on-campus facility may refer to the list of suggested hotels and accommodation options shared by the organizing committee. Such accommodation will be arranged and paid for directly by the participants on an actual usage basis. All booking charges, transportation, and other related expenses will be borne by the participants. The organizing committee will not be responsible for hotel bookings or accommodation charges. Safety and Personal Belongings: Participants are responsible for the security of their personal belongings and must use campus facilities responsibly. Any damage to institutional property or misuse of electrical equipment may result in disciplinary action. Mandatory Identity Verification: All participants must carry one valid government-issued photo identity proof (Aadhaar Card, PAN Card, Driving Licence, or Passport) along with their valid School/Institution ID Card . Both identity documents are mandatory for entry, registration, and verification during the offline round. Participants failing to produce both documents may be denied entry to the event. Participants are advised to review the accommodation guidelines and follow all instructions issued by the organizing committee. The availability of facilities is subject to venue capacity, safety requirements, and the official event guidelines. &nbsp; Join the Innovation Challenge! Bring your ideas to life, collaborate with talented innovators, and build solutions that make a difference. Register for the Symbiosis Skill Hackathon (SSH-2027) and take your innovation to the next level! Organized by Symbiosis University of Applied Sciences (SUAS), Indore, Madhya Pradesh, India.",
-    "organizer": "Symbiosis University of Applied Sciences (SUAS), Indore, Madhya Pradesh",
-    "venue": "offline",
-    "mode": "In-Person",
-    "city": null,
-    "state": "offline",
-    "country": null,
-    "start_date": "2026-11-16T00:00:00+05:30",
-    "end_date": "2027-02-23T20:30:00+05:30",
-    "registration_deadline": "2027-01-15T23:59:00+05:30",
-    "min_team_size": 1,
-    "max_team_size": 4,
-    "solo_allowed": true,
-    "eligibility": "Undergraduate / Postgraduate & Engineering students",
-    "prize_pool": "Prizes & Certificates",
-    "tracks": [
-      "Engineering Students",
-      "Postgraduate",
-      "Undergraduate",
-      "School Students"
-    ],
-    "score": 60,
-    "matched_reasons": [
-      "👤 **Solo Eligible (1 Member)** (+35 pts)",
-      "🤖 **AI & Software Tracks** (+25 pts) [AI, Artificial Intelligence, ML]"
-    ],
-    "is_nagpur_local": false,
-    "is_maharashtra": false,
-    "is_active": true,
-    "discovered_at": "2026-11-26T03:23:20.655533+00:00"
+    "discovered_at": "2026-11-26T13:25:24.327527+00:00"
   },
   {
     "id": "unstop:1814036",
@@ -2457,7 +2319,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-26T03:23:16.593716+00:00"
+    "discovered_at": "2026-11-26T13:25:24.326921+00:00"
   },
   {
     "id": "unstop:1821962",
@@ -2490,7 +2352,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-26T03:23:18.640084+00:00"
+    "discovered_at": "2026-11-26T13:25:26.262623+00:00"
   },
   {
     "id": "unstop:1822884",
@@ -2527,7 +2389,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-26T03:23:18.639597+00:00"
+    "discovered_at": "2026-11-26T13:25:26.262172+00:00"
   },
   {
     "id": "unstop:1828497",
@@ -2560,7 +2422,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-26T03:23:16.592375+00:00"
+    "discovered_at": "2026-11-26T13:25:24.325434+00:00"
   },
   {
     "id": "devpost:31108",
@@ -2595,7 +2457,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-26T03:23:22.744684+00:00"
+    "discovered_at": "2026-11-26T13:25:29.238130+00:00"
   },
   {
     "id": "devpost:31644",
@@ -2629,14 +2491,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-26T03:23:22.518994+00:00"
+    "discovered_at": "2026-11-26T13:25:29.022345+00:00"
   },
   {
     "id": "devpost:31773",
     "source": "Devpost",
     "title": "LaunchPad Hacks (580k In Prizes!)",
     "url": "https://launchpad-hacks.devpost.com/",
-    "description": "Devpost hackathon. 9 days left",
+    "description": "Devpost hackathon. 8 days left",
     "organizer": "Hack4TodayOrg",
     "venue": "Online",
     "mode": "Online",
@@ -2663,7 +2525,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-26T03:23:22.628145+00:00"
+    "discovered_at": "2026-11-26T13:25:29.154654+00:00"
   },
   {
     "id": "devpost:31795",
@@ -2698,7 +2560,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-26T03:23:22.744689+00:00"
+    "discovered_at": "2026-11-26T13:25:29.238138+00:00"
   },
   {
     "id": "devpost:31682",
@@ -2733,7 +2595,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-26T03:23:22.744694+00:00"
+    "discovered_at": "2026-11-26T13:25:29.238134+00:00"
   },
   {
     "id": "unstop:1823841",
@@ -2766,25 +2628,25 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-26T03:23:18.638529+00:00"
+    "discovered_at": "2026-11-26T13:25:26.261736+00:00"
   },
   {
-    "id": "unstop:1806016",
+    "id": "unstop:1798676",
     "source": "Unstop",
-    "title": "Incursion 2027 24-Hour National Level Hackathon",
-    "url": "https://unstop.com/hackathons/incursion-2027-24-hour-national-level-hackathon-dr-dy-patil-institute-of-technology-1806016",
-    "description": "INCURSION 2027 | 24-Hour National Level Hackathon in India INCURSION 2027 is a FREE-TO-REGISTER National Level Hackathon organized by Dr. D. Y. Patil Institute of Technology, Pimpri, Pune. Bring your ideas to life, collaborate with innovators from across India and build technology-driven solutions to real-world challenges. INCURSION 2027 is a 24-hour national-level student hackathon featuring multiple online selection rounds and an offline Grand Finale on 30&ndash;31 January 2027 at Dr. D. Y. Patil Institute of Technology, Pimpri, Pune. Open to students from all academic domains, engineering branches and technical specializations, the hackathon encourages interdisciplinary collaboration across Artificial Intelligence, Machine Learning, Software Development, Cybersecurity, Cloud Computing, Electronics, Robotics, IoT and other emerging technologies. With a prize pool worth ₹2,00,000, INCURSION 2027 provides a platform to demonstrate technical expertise, creativity, innovation and practical problem-solving skills. EVENT HIGHLIGHTS Event: INCURSION 2027 Type: National Level 24-Hour Hackathon Organizer: Dr. D. Y. Patil Institute of Technology, Pune Registration: FREE for preliminary rounds Team Size: 2&ndash;4 Members Eligibility: Undergraduate and postgraduate students across academic domains Cross-Domain Participation: Allowed Competition Mode: Online Selection Rounds + Offline Grand Finale Finalists: Top 50 Teams Finalist Confirmation Fee: ₹899 per team Prize Pool: ₹2,00,000 Grand Finale: 30&ndash;31 January 2027 Venue: DIT Pimpri, Pune, Maharashtra, India IMPORTANT: FREE REGISTRATION &amp; PARTICIPATION Registration and participation in all preliminary online rounds are completely FREE! There is absolutely no registration or participation fee for Round 0, Round 1, Round 2, Round 3 or Round 4. Competition Stage Participation Fee Round 0: Registration &amp; Team Formation FREE Round 1: PPT Submission FREE Round 2: Online PPT Evaluation FREE Round 3: Working Prototype Submission FREE Round 4: Online Prototype Evaluation FREE Round 5: Offline Grand Finale ₹899 per shortlisted team ONLY THE TOP 50 SHORTLISTED TEAMS WILL BE REQUIRED TO PAY ₹899 PER TEAM to confirm their participation in the offline Grand Finale. No payment is required during initial registration. No payment is required for preliminary online rounds. The ₹899 fee is charged per team, not per participant. Payment instructions will be shared directly with shortlisted team leaders. Final participation is subject to successful confirmation and verification. Register for FREE. Compete through the online rounds. Earn your place among the Top 50 finalists! ABOUT INCURSION 2027 INCURSION 2027 is a national-level 24-hour hackathon designed to bring together students, developers, programmers, engineers, designers, researchers and innovators from diverse academic backgrounds. The competition focuses on identifying real-world problems and developing practical, scalable and innovative solutions using technology. Through a structured multi-round competition, participating teams will progress from idea presentations to technical evaluations and working prototype demonstrations. The hackathon encourages domain-specific and interdisciplinary approaches, allowing participants to combine different areas of knowledge and develop impactful solutions. The Top 50 shortlisted teams will qualify for the offline Grand Finale at DIT Pimpri, Pune. ELIGIBILITY &amp; CROSS-DOMAIN PARTICIPATION INCURSION 2027 welcomes students from ALL academic disciplines, educational backgrounds and technical specializations. The hackathon is not restricted to Computer Science or Information Technology students. Eligible academic domains include: 1. Computer Science &amp; Computing Computer Science and Engineering (CSE) Information Technology (IT) Computer Engineering Software Engineering Artificial Intelligence and Machine Learning Artificial Intelligence and Data Science Data Science and Big Data Analytics Cybersecurity and Information Security Cloud Computing Computer Networks 2. Core Engineering &amp; Technology Electronics and Communication Engineering (ECE) Electrical Engineering Electrical and Electronics Engineering (EEE) Mechanical Engineering Civil Engineering Instrumentation Engineering Robotics and Automation Mechatronics Engineering Internet of Things (IoT) Other engineering and technology specializations 3. Management &amp; Business Business Administration Management Studies Finance Marketing Entrepreneurship Business Analytics 4. Other Academic Domains Science and Mathematics Physics and Chemistry Life Sciences Commerce and Economics Arts and Humanities Design and User Experience Law Medical and Allied Disciplines Other undergraduate and postgraduate disciplines CROSS-DOMAIN AND INTERDISCIPLINARY TEAMS ARE ALLOWED! Students from different academic branches, departments, colleges, universities and specializations can collaborate in one team, subject to the team-size requirements. Examples of interdisciplinary teams: Computer Science + Electronics AI &amp; Data Science + Mechanical Engineering Cybersecurity + Management Civil Engineering + IoT Design + Software Development Medical or Life Sciences + Artificial Intelligence Your academic branch does not limit your opportunity to participate. Your ideas, innovation, implementation and problem-solving approach matter. TEAM FORMATION GUIDELINES Minimum Team Size: 2 Members Maximum Team Size: 4 Members Cross-domain teams are allowed. Inter-college and interdisciplinary collaboration is welcome. Each team must designate one Team Leader. Every participant must complete the required Unstop registration. Each participant can belong to only one registered team. Teams must provide accurate participant and institutional information. HACKATHON TRACKS &amp; TECHNOLOGY AREAS INCURSION 2027 features five dedicated tracks covering emerging technologies, real-world challenges and open innovation. 1. ROGUE PROTOCOL: AI &amp; AGENTIC AI Explore the possibilities of Artificial Intelligence and autonomous systems. Suggested areas: Artificial Intelligence and Machine Learning Generative AI Agentic AI and AI Agents Natural Language Processing Computer Vision Intelligent Automation AI-powered applications 2. FIREWALL ZERO: CYBERSECURITY &amp; FINTECH Develop secure, intelligent and innovative solutions for digital security and financial technology. Suggested areas: Cybersecurity Information Security Threat Detection Fraud Detection Financial Technology Secure Digital Transactions Privacy and Data Protection 3. FINAL HOUR: OPEN INNOVATION Build innovative solutions addressing real-world problems across any suitable technology domain. Suggested areas: Software Development Web and Mobile Applications Cloud Computing Data Science Automation Emerging Technologies Interdisciplinary Innovation 4. GLASS WALL: GOVTECH Use technology to improve governance, public services and civic infrastructure. Suggested areas: Digital Governance Public Service Technology Civic Innovation E-Governance Government Process Automation Digital Infrastructure Public Welfare Solutions 5. SURVIVAL CITY: SMART CITIES Develop intelligent solutions for sustainable, connected and efficient urban environments. Suggested areas: Internet of Things Smart Infrastructure Robotics and Automation Sustainable Technology Urban Mobility Environmental Monitoring Connected Systems Participants should select the track that best matches their proposed solution. COMPETITION STRUCTURE &amp; SELECTION PROCESS INCURSION 2027 follows a six-stage competition structure. All preliminary selection rounds are conducted online. ROUND 0: REGISTRATION &amp; TEAM FORMATION PARTICIPATION FEE: FREE Register through the official Unstop opportunity page, form a team of 2&ndash;4 members and complete the required participant details. Registration Period: 11 November &ndash; 5 December 2026. Registration Guidelines: Register through Unstop. Add all team members to the same team. Designate one Team Leader. Complete all mandatory profile details. Finalize team formation before the deadline. ROUND 1: PPT SUBMISSION PARTICIPATION FEE: FREE Registered teams must submit a PowerPoint presentation outlining their proposed solution to a real-world problem. Expected PPT contents: Problem statement and understanding Proposed solution and key features Proposed system architecture Technology stack Implementation approach Potential impact and feasibility Submission Guidelines: Submit your presentation in PPT or PDF format. Ensure the presentation is clear and well-structured. Only one submission per team is required. Submit before the deadline. Submission Period: 6&ndash;12 December 2026. ONLINE PPT EVALUATION &amp; EXPERT REVIEW PARTICIPATION FEE: FREE All submitted presentations will be evaluated online by a panel of industry professionals and faculty members. Evaluation Criteria: Problem understanding and clarity Innovation and originality Technical approach and architecture Feasibility and execution plan Real-world impact and scalability Promising teams will be shortlisted for the Working Prototype Submission Round. Evaluation Period: 13&ndash;19 December 2026. ROUND 2: WORKING PROTOTYPE SUBMISSION PARTICIPATION FEE: FREE Shortlisted teams must demonstrate their proposed solutions through a working prototype. Required Submissions: Demo Video: A 3&ndash;5 minute video showcasing the working prototype and key functionalities. GitHub Repository: An accessible repository containing the source code and README documentation with setup instructions. Project Details: Project description, technologies used and implemented features. Live Demo: Deployment link, if available. Guidelines: Ensure all submission links are accessible. Demonstrate the actual working implementation. Provide complete and accurate information. Submit all materials before the deadline. Submission Deadline: 25 December 2026, 10:00 PM IST. ONLINE PROTOTYPE EVALUATION &amp; TECHNICAL ASSESSMENT PARTICIPATION FEE: FREE Submitted prototypes and GitHub repositories will undergo an in-depth technical assessment by the evaluation panel. Evaluation Criteria: Working prototype and functionality Technical implementation and code quality Innovation and originality System architecture and scalability Feasibility and problem relevance Based on the evaluation, the Top 50 performing teams will be shortlisted for the INCURSION 2027 Grand Finale. Evaluation Period: 25 December 2026 &ndash; 5 January 2027. Top 50 Finalist Announcement: 6 January 2027. ROUND 3: GRAND FINALE &ndash; 24-HOUR NATIONAL HACKATHON FINALIST CONFIRMATION FEE: ₹899 PER TEAM The Top 50 shortlisted teams will compete in the offline 24-hour Grand Finale at Dr. D. Y. Patil Institute of Technology, Pimpri, Pune. Mode: Offline Duration: 24 Hours Dates: 30&ndash;31 January 2027 Venue: Dr. D. Y. Patil Institute of Technology, Pimpri, Pune Selected teams will collaborate, develop their solutions and demonstrate their technical capabilities through an intensive hackathon experience. Participation is restricted to officially selected finalist teams that complete the confirmation process. FINALIST CONFIRMATION FEE The ₹899 finalist confirmation fee applies exclusively to the Top 50 shortlisted teams. ₹899 per team, not per participant. No payment during initial registration. No payment for Rounds 0&ndash;4. Payment instructions will be shared with shortlisted Team Leaders. Final participation is subject to payment and verification within the communicated deadline. IMPORTANT DATES &amp; TIMELINE All dates and times are in Indian Standard Time (IST). Competition Milestone Start Date &amp; Time (IST) End Date &amp; Time (IST) Round 0: Registration &amp; Team Formation 11 November 2026, 10:00 PM 5 December 2026, 10:00 PM Round 1: PPT Submission 6 December 2026, 10:00 PM 12 December 2026, 10:00 PM Round 2: Online PPT Evaluation 13 December 2026, 10:00 PM 19 December 2026, 10:00 PM Round 3: Working Prototype Submission 20 December 2026, 10:00 PM 25 December 2026, 10:00 PM Round 4: Online Prototype Evaluation 25 December 2026, 10:00 PM 5 January 2027, 10:00 PM Top 50 Finalist Announcement 6 January 2027 6 January 2027 Round 5: Grand Finale 30 January 2027, 9:00 AM 31 January 2027, 9:00 AM All preliminary rounds are free. Only the Top 50 shortlisted teams pay ₹899 per team to confirm their offline Grand Finale participation. PRIZES &amp; REWARDS TOTAL PRIZE POOL: ₹2,00,000 INCURSION 2027 recognizes outstanding innovation, technical implementation, creativity and real-world impact. OVERALL WINNER: ₹1,00,000 Awarded to the team demonstrating the best overall solution, execution, impact and demonstration. 1ST RUNNER-UP: ₹50,000 Awarded to the second-best overall project. 2ND RUNNER-UP: ₹25,000 Awarded to the third-best overall project. TRACK-WISE AWARDS Best Rogue Protocol: ₹5,000 &ndash; AI &amp; Agentic Systems track excellence. Best Firewall Zero: ₹5,000 &ndash; Cybersecurity &amp; FinTech track excellence. Best Glass Wall: ₹5,000 &ndash; GovTech track excellence. Best Survival City: ₹5,000 &ndash; Smart Cities track excellence. Best Final Hour: ₹5,000 &ndash; Open Innovation, with additional emphasis on solving important real-world problems. ADDITIONAL RECOGNITION Participation Certificate Recognition for outstanding projects Opportunity to showcase solutions at a national-level hackathon All prizes and certificates will be released within 30 days after the event is over. GRAND FINALE VENUE Dr. D. Y. Patil Institute of Technology, Pimpri, Pune. Address: Sant Tukaram Nagar, Pimpri, Pune &ndash; 411018, Maharashtra, India. Dates: 30&ndash;31 January 2027 Duration: 24 Hours Mode: Offline Finalists: Top 50 Teams RULES &amp; GUIDELINES Each team must consist of 2&ndash;4 registered members. Students from different academic domains, branches and institutions may form a team, subject to official registration requirements. Every participant must complete the required registration process. Teams must follow official submission instructions and deadlines. PPT submissions must explain the problem, proposed solution and technical approach. Prototype submissions must include a demonstration video and accessible GitHub repository. Teams must provide accurate participant and institutional information. Only officially shortlisted teams qualify for the Grand Finale. The ₹899 finalist confirmation fee applies only to the Top 50 shortlisted teams. Finalists must attend the offline Grand Finale at DIT Pimpri, Pune. All participants must follow the organizing committee's official instructions and code of conduct. OFFICIAL WEBSITE &amp; COMMUNITY Official Website: https://incursion.tech Discord Community: https://discord.com/invite/QYQZBEmgQ WhatsApp Community: https://chat.whatsapp.com/Ft9BS6SI4ar5cyiev5muGh Join the official communities to receive: Hackathon announcements Round-wise submission reminders Important deadlines and updates Clarifications and participant support Finalist and Grand Finale information FREQUENTLY ASKED QUESTIONS 1. Is INCURSION 2027 free to register? Yes. Registration and participation in all preliminary online rounds are completely free. 2. Can students from non-Computer Science branches participate? Yes. Students from all eligible academic domains and engineering branches are welcome. 3. Are cross-domain teams allowed? Yes. Students from different branches, departments and academic specializations can form a team. 4. Can students from different colleges participate together? Teams may include students from different institutions, subject to the official registration and eligibility requirements. 5. What is the team size? Each team must have a minimum of 2 and a maximum of 4 members. 6. Is ₹899 required during registration? No. Under the stated fee policy, only the Top 50 shortlisted teams pay ₹899 per team to confirm their offline Grand Finale participation. 7. Is the hackathon online or offline? The preliminary selection rounds are online. The Grand Finale is offline at DIT Pimpri, Pune. 8. How many teams will qualify for the Grand Finale? The Top 50 performing teams will be shortlisted. 9. When will the finalists be announced? 6 January 2027. 10. When and where is the Grand Finale? 30&ndash;31 January 2027 at Dr. D. Y. Patil Institute of Technology, Pimpri, Pune. 11. What is the total prize pool? The total advertised prize pool is ₹2,00,000. 12. Will participants receive certificates? Participation certificates are included as part of the event recognition. REGISTER FOR INCURSION 2027 Whether you are a Computer Science student, an AI enthusiast, a core engineering student, a designer, a researcher, a management student or an innovator from another academic domain, INCURSION 2027 welcomes your ideas. Build across domains. Collaborate across disciplines. Solve real-world problems. Compete at the national level. Register for FREE and earn your place among the Top 50 finalist teams! Official Unstop Registration: https://unstop.com/hackathons/incursion-2027-24-hour-national-level-hackathon-dr-dy-patil-institute-of-technology-1806016 Official Website: https://incursion.tech INCURSION 2027 &ndash; TIME RUNS OUT.",
-    "organizer": "Dr. DY Patil Institute of Technology",
+    "title": "Protocol Zero: Boot | Hack | CTF",
+    "url": "https://unstop.com/hackathons/protocol-zero-boot-hack-ctf-centre-for-cybersecurity-trust-and-reliability-iit-madras-cystar-1798676",
+    "description": "Break Vulnerabilities. Engineer Trust. Secure Communication Protocol Zero is a multi-stage cybersecurity competition focused on the security of modern communication systems and Secure Communication Protocol. Participate in an online Mini-CTF, expert-led Bootcamp, six-week Hackathon and onsite Attack-Defence CTF. Learn applied cryptography, build secure communication systems, identify vulnerabilities and compete for cash prizes worth Rs 10,00,000, along with paid internship opportunities at IIT Madras, IIITDM Kancheepuram, VIT-AP University and Shiv Nadar University, Chennai. Billions of messages are protected every day by end-to-end encryption. But what happens when the cryptography is sound and the code around it is not? Could you spot a weakened random-number generator or a quietly leaked key hidden in thousands of lines of code? Could you build a messaging system that holds up even when someone is actively trying to break it? Protocol Zero: Boot | Hack | CTF is an opportunity to explore these challenges through a hands-on cybersecurity competition built around the Secure Communication Protocol and Signal Protocol. Organised by IIT Madras in collaboration with IIITDM Kancheepuram, VIT-AP University, Shiv Nadar University, Chennai and DSCI, the program takes participants through multiple stages: Mini-CTF: An online 24-hour cybersecurity challenge. Bootcamp: Five days of expert-led training in applied cryptography and secure communication. Hackathon: A six-week challenge focused on secure implementation, backdoor design and backdoor detection. Final CTF: An onsite two-day Attack-Defence competition. Top-performing teams will compete for cash prizes worth ₹10,00,000 and paid internship opportunities at IIT Madras and partner institutions. If you are passionate about breaking systems, understanding vulnerabilities and engineering secure solutions, Protocol Zero is for you. Eligibility Criteria Open to currently enrolled undergraduate and postgraduate students from recognised institutions across India. Each team must consist of a minimum of 2 and a maximum of 3 members. Individual participation is not permitted. Team members can belong to the same or different institutions. Each participant can be part of only one team. All participants must be at least 18 years old at the time of registration. Participants must be willing to participate in all stages of the programme. Competition Structure / Event Rounds Round 1: Mini-CTF (Online - 24 Hours) An online jeopardy-style Capture the Flag competition open to all eligible registered teams. Challenges will cover: Web Application Security Cryptography and Cryptanalysis Network Security and Traffic Analysis Digital Forensics and Incident Investigation Binary Exploitation and Reverse Engineering Authentication and Access Control The top 25 teams on the Mini-CTF scoreboard will qualify for the Bootcamp and Hackathon. Round 2: Bootcamp (Online - 5 Days) Shortlisted teams will participate in an intensive five-day Online Bootcamp featuring expert lectures and hands-on training in applied cryptography, secure communication protocols, and Secure Communication Protocol design and implementation. The Bootcamp will prepare teams for the Hackathon. Round 3: Hackathon (Online - 6 Weeks) Teams will work on a secure communication messaging environment across three technical tracks: Track 1 - Secure Implementation Build and harden a secure communication system ensuring confidentiality, integrity, authentication, forward secrecy and post-compromise security. Track 2 - Backdoor Design (Red Team) Demonstrate how subtle backdoors can be introduced into a secure implementation within a sandboxed test environment, with complete documentation. Track 3 - Backdoor Detection (Blue Team) Develop tools and techniques to identify backdoors and vulnerabilities using code auditing, static and dynamic analysis, fuzzing, differential testing and protocol conformance checks. Every team must participate in all three tracks. Submission Requirements: Source Code Technical Design Document Demonstration Video The top-performing teams will qualify for the Final CTF. Round 4: Final CTF (Onsite - 2 Days) The finalist teams will compete in an onsite CTF at Shiv Nadar University, Chennai. Teams will analyse Secure Communicationl-based implementations, including organiser-prepared and peer-submitted implementations, to identify planted backdoors and vulnerabilities while defending their own implementations. The event will conclude with final presentations before the jury, followed by the Grand Finale and Prize Distribution. Round 5: Internship Opportunities Top-performing participants will be offered internship opportunities at IIT Madras and partner institutions during Summer 2027. Eligibility Criteria Open to currently enrolled undergraduate and postgraduate students from recognised institutions across India. Each team must consist of a minimum of 2 and a maximum of 3 members. Individual participation is not permitted. Team members can belong to the same or different institutions. Each participant can be part of only one team. All participants must be at least 18 years old at the time of registration. Participants must be willing to participate in all stages of the programme. Team Requirements Minimum Team Size 2 members Maximum Team Size 3 members Participation Type Team-based Individual Participation Not allowed Cross-institutional Teams Allowed Eligible Participants Undergraduate and postgraduate students Geographic Eligibility Recognised institutions across India Mandatory Registration Details Every team member must provide the following information during registration. These details are required for all participants, not just the team leader: Full Name Valid Email Address Contact Number Resume / CV (PDF format) GitHub Profile ID / URL Important registration instructions: Each team member must submit their individual details. Ensure that all information provided is accurate and up to date. Resume upload is mandatory for every participant. Provide working link to the GitHub Incomplete registrations may not be considered for shortlisting. Selection Process Mini-CTF Selection The top 25 teams on the live Mini-CTF scoreboard will qualify for the Bootcamp and Hackathon. In case of a tie, the team with the earliest time of the last correct submission will be given preference. Hackathon Selection The top 25 teams based on the Hackathon evaluation will qualify for the onsite Final CTF. Final selection will be based on the evaluation criteria and scores assigned by the jury. Code of Conduct All participants must agree to and comply with the competition's Code of Conduct. All offensive activities must be restricted strictly to the environment provided by the organisers. Attacking competition infrastructure, other teams outside designated exercises, or any live/third-party systems is strictly prohibited. Violations will result in immediate disqualification. Originality and Submission Compliance All submissions must be original work produced by the participating team. Plagiarism and unauthorised use of third-party content are strictly prohibited. All submissions must be completed within the specified deadlines. Late submissions will not be accepted. Judgement and Rule Modifications The decisions of the judging panel shall be final and binding. The organising institutions reserve the right to amend, modify or cancel any aspect of the event, including rules, dates, format and structure, without prior notice. Detailed rules for each round will be published in due course. Physical Presence for Final CTF Teams qualifying for the Final CTF must be physically present at Shiv Nadar University, Chennai, on 12&ndash;13 March 2027. Further logistical details will be communicated to shortlisted teams. Intellectual Property Rights Intellectual Property generated as part of the competition shall be owned by the organising institutions. Participants will be duly recognised as inventors in any resulting patent applications, in accordance with IIT Madras IP policies. By participating in Protocol Zero, all individuals and teams acknowledge and agree to these guidelines. Failure to comply may result in disqualification and forfeiture of associated benefits.",
+    "organizer": "Centre for Cybersecurity, Trust and Reliability, IIT Madras (CyStar)",
     "venue": "hybrid",
     "mode": "In-Person",
     "city": null,
     "state": "hybrid",
     "country": null,
-    "start_date": "2026-11-11T22:00:00+05:30",
-    "end_date": "2027-01-31T09:00:04+05:30",
-    "registration_deadline": "2026-12-05T22:00:36+05:30",
+    "start_date": "2026-11-06T00:00:00+05:30",
+    "end_date": "2027-03-13T00:00:00+05:30",
+    "registration_deadline": "2026-12-02T23:59:00+05:30",
     "min_team_size": 2,
-    "max_team_size": 4,
+    "max_team_size": 3,
     "solo_allowed": false,
     "eligibility": "Undergraduate / Postgraduate & Engineering students",
     "prize_pool": "Prizes & Certificates",
@@ -2800,12 +2662,12 @@
     "score": 40,
     "matched_reasons": [
       "🌐 **Accessible In-Person Mode** (+15 pts)",
-      "🤖 **AI & Software Tracks** (+25 pts) [AI, Artificial Intelligence, Machine Learning]"
+      "🤖 **AI & Software Tracks** (+25 pts) [Cybersecurity]"
     ],
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-26T03:23:18.641023+00:00"
+    "discovered_at": "2026-11-26T13:25:24.325858+00:00"
   },
   {
     "id": "unstop:1828382",
@@ -2844,7 +2706,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-26T03:23:16.592464+00:00"
+    "discovered_at": "2026-11-26T13:25:24.325505+00:00"
   },
   {
     "id": "unstop:1823379",
@@ -2877,6 +2739,6 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-26T03:23:18.639331+00:00"
+    "discovered_at": "2026-11-26T13:25:26.261921+00:00"
   }
 ]

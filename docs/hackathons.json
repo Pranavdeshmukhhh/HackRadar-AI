@@ -33,7 +33,7 @@
     "is_nagpur_local": true,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-27T04:40:56.133775+00:00"
+    "discovered_at": "2026-11-27T14:33:20.271364+00:00"
   },
   {
     "id": "unstop:1820854",
@@ -73,7 +73,7 @@
     "is_nagpur_local": true,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-27T04:40:48.532819+00:00"
+    "discovered_at": "2026-11-27T14:33:12.508903+00:00"
   },
   {
     "id": "unstop:1820851",
@@ -110,7 +110,7 @@
     "is_nagpur_local": true,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-27T04:40:48.532404+00:00"
+    "discovered_at": "2026-11-27T14:33:12.508507+00:00"
   },
   {
     "id": "unstop:1820895",
@@ -149,7 +149,7 @@
     "is_nagpur_local": true,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-27T04:40:48.532587+00:00"
+    "discovered_at": "2026-11-27T14:33:12.508684+00:00"
   },
   {
     "id": "unstop:1820868",
@@ -184,43 +184,7 @@
     "is_nagpur_local": true,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-27T04:40:48.532681+00:00"
-  },
-  {
-    "id": "college:mindsparkorg",
-    "source": "CollegePortal",
-    "title": "MindSpark '26 | 20th Edition Annual National Technical Festival | COEP Tech",
-    "url": "https://mind-spark.org",
-    "description": "College hackathon detected at mind-spark.org. Check official portal for rules and registration.",
-    "organizer": "mind-spark.org",
-    "venue": "mind-spark.org",
-    "mode": "In-Person",
-    "city": null,
-    "state": null,
-    "country": null,
-    "start_date": null,
-    "end_date": null,
-    "registration_deadline": null,
-    "min_team_size": 1,
-    "max_team_size": 4,
-    "solo_allowed": true,
-    "eligibility": "College and Engineering Students",
-    "prize_pool": "Prizes & Cash Awards",
-    "tracks": [
-      "Software",
-      "Web Development",
-      "AI/ML"
-    ],
-    "score": 85,
-    "matched_reasons": [
-      "🏢 **Maharashtra Proximity** (+25 pts) [Coep]",
-      "👤 **Solo Eligible (1 Member)** (+35 pts)",
-      "🤖 **AI & Software Tracks** (+25 pts) [AI, ML, Web Development]"
-    ],
-    "is_nagpur_local": false,
-    "is_maharashtra": true,
-    "is_active": true,
-    "discovered_at": "2026-11-27T04:40:55.870945+00:00"
+    "discovered_at": "2026-11-27T14:33:12.508775+00:00"
   },
   {
     "id": "unstop:1826953",
@@ -260,7 +224,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-27T04:40:46.513508+00:00"
+    "discovered_at": "2026-11-27T14:33:10.744250+00:00"
   },
   {
     "id": "unstop:1821954",
@@ -294,7 +258,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-27T04:40:48.533463+00:00"
+    "discovered_at": "2026-11-27T14:33:12.509586+00:00"
   },
   {
     "id": "unstop:1829639",
@@ -330,14 +294,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-27T04:40:46.513219+00:00"
+    "discovered_at": "2026-11-27T14:33:10.743946+00:00"
   },
   {
     "id": "unstop:1812323",
     "source": "Unstop",
     "title": "Nexora AI – National AI & Innovation Hackathon 2026",
     "url": "https://unstop.com/hackathons/nexora-ai-national-ai-innovation-hackathon-2026-psit-college-of-engineering-psitcoe-kanpur-uttar-pradesh-1812323",
-    "description": "Innovate. Develop. Transform the Future. Where Ideas Become Innovation. Where Innovation Becomes Reality. NEXORA AI 2026 is an online national-level technology and innovation hackathon designed to bring together creative thinkers, aspiring developers, technology enthusiasts, and student innovators from across India. The hackathon challenges participants to identify real-world problems and transform their ideas into meaningful digital solutions using Artificial Intelligence, modern software technologies, and emerging innovations. Whether you are an aspiring AI developer, programmer, designer, entrepreneur, or first-time innovator, this is your opportunity to showcase your creativity, technical knowledge, and problem-solving abilities. Innovation Domains Participants can explore and develop solutions across the following technology domains: Artificial Intelligence &amp; Machine Learning: Intelligent systems, predictive solutions, and AI-powered applications. AI Agents &amp; Automation: Autonomous agents, smart assistants, and workflow automation. Web Applications &amp; Websites: Modern, scalable, and interactive digital platforms. Mobile Application Development: Innovative Android and iOS applications. Smartwatch &amp; Wearable Technology: Smart wearable applications and connected solutions. Software &amp; SaaS Products: Productivity tools, platforms, and software-based innovations. Smart Technology Solutions: IoT, connected devices, and emerging technologies. Participants are encouraged to think beyond conventional solutions and explore innovative approaches. Eligibility &amp; Participation Open to school students, college students, and university students across India. Both individual and team participation are allowed. Team Size: 1 member. Participants from different academic backgrounds are welcome. Both beginners and experienced developers can participate. Competition Structure Round 1 &ndash; Idea &amp; Innovation Submission Participants must submit an original project concept explaining: Problem statement and its relevance. Proposed solution and key features. Technologies and AI tools involved. Innovation and practical applications. Expected impact and future possibilities. Shortlisted ideas will qualify for the next round. Round 2 &ndash; Project Development &amp; Prototyping Shortlisted participants must develop their proposed solutions into working prototypes or demonstrable products. Participants may submit: Project presentation (PPT/PDF). Prototype or demonstration link. Screenshots or supporting documentation. Explanation of technical implementation. Final Evaluation Finalist projects will be reviewed by the evaluation team based on their innovation, technical implementation, practical usefulness, feasibility, and presentation. Evaluation Criteria Projects will be evaluated using the following weighted criteria: Evaluation Parameter Weight Innovation &amp; Originality 25% Technical Implementation 20% Practical Usefulness 20% Feasibility 15% Presentation &amp; Clarity 10% Future Potential 10% Total 100% Awards &amp; Recognition Outstanding projects and participants will receive recognition through certificates. 1st Position: Winner Certificate. 2nd Position: First Runner-up Certificate. 3rd Position: Second Runner-up Certificate. Eligible Participants: Certificate of Participation. Note: This is a certificate-based competition. No cash prizes are offered. Official WhatsApp Group &ndash; Stay Connected! Join the official NEXORA AI 2026 WhatsApp Group to stay informed throughout the competition. WhatsApp Group Link: https://chat.whatsapp.com/JW3y0DnzGd64XZZGvIyuets=cl&amp;p=a&amp;mlu=4&amp;ilr=4&amp;iam=2 WhatsApp Group membership is for communication and announcements. Official registration and submissions must be completed through Unstop. What Will You Receive in the Group? Official announcements and important updates. Registration and submission reminders. Round-wise guidelines and instructions. Competition deadlines and schedule updates. Shortlisting announcements. Final results and certificate-related updates. Important communication from the organising team. Participants are strongly encouraged to join the group and enable notifications to stay updated. Rules &amp; Guidelines All project ideas and submissions must be original. Plagiarism and unauthorised copying of projects are prohibited. Participants must disclose the use of AI tools and externally developed components. Projects must be relevant to the selected innovation domain. Participants must follow the submission guidelines and specified deadlines. Incomplete or late submissions may not be considered. Participants must provide accurate registration information. Evaluation decisions made by the organising and judging team will be final. Why Participate? Challenge yourself with real-world technology problems. Explore Artificial Intelligence and emerging technologies. Turn creative ideas into demonstrable solutions. Showcase your technical and problem-solving abilities. Gain recognition for your innovation. Connect with fellow student innovators. YOUR IDEAS. YOUR INNOVATION. YOUR FUTURE. NEXORA AI 2026 &ndash; Innovate. Develop. Transform the Future. Don't just imagine the future. Build something that contributes to it.",
+    "description": "Innovate. Develop. Transform the Future. Where Ideas Become Innovation. Where Innovation Becomes Reality. NEXORA AI 2026 is an online national-level technology and innovation hackathon designed to bring together creative thinkers, aspiring developers, technology enthusiasts, and student innovators from across India. The hackathon challenges participants to identify real-world problems and transform their ideas into meaningful digital solutions using Artificial Intelligence, modern software technologies, and emerging innovations. Whether you are an aspiring AI developer, programmer, designer, entrepreneur, or first-time innovator, this is your opportunity to showcase your creativity, technical knowledge, and problem-solving abilities. Innovation Domains Participants can explore and develop solutions across the following technology domains: Artificial Intelligence &amp; Machine Learning: Intelligent systems, predictive solutions, and AI-powered applications. AI Agents &amp; Automation: Autonomous agents, smart assistants, and workflow automation. Web Applications &amp; Websites: Modern, scalable, and interactive digital platforms. Mobile Application Development: Innovative Android and iOS applications. Smartwatch &amp; Wearable Technology: Smart wearable applications and connected solutions. Software &amp; SaaS Products: Productivity tools, platforms, and software-based innovations. Smart Technology Solutions: IoT, connected devices, and emerging technologies. Participants are encouraged to think beyond conventional solutions and explore innovative approaches. Eligibility &amp; Participation Open to school students, college students, and university students across India. Both individual and team participation are allowed. Team Size: 1 member. Participants from different academic backgrounds are welcome. Both beginners and experienced developers can participate. Competition Structure Round 1 &ndash; Idea &amp; Innovation Submission Participants must submit an original project concept explaining: Problem statement and its relevance. Proposed solution and key features. Technologies and AI tools involved. Innovation and practical applications. Expected impact and future possibilities. Shortlisted ideas will qualify for the next round. Round 2 &ndash; Project Development &amp; Prototyping Shortlisted participants must develop their proposed solutions into working prototypes or demonstrable products. Participants may submit: Project presentation (PPT/PDF). Prototype or demonstration link. Screenshots or supporting documentation. Explanation of technical implementation. Final Evaluation Finalist projects will be reviewed by the evaluation team based on their innovation, technical implementation, practical usefulness, feasibility, and presentation. Evaluation Criteria Projects will be evaluated using the following weighted criteria: Evaluation Parameter Weight Innovation &amp; Originality 25% Technical Implementation 20% Practical Usefulness 20% Feasibility 15% Presentation &amp; Clarity 10% Future Potential 10% Total 100% Awards &amp; Recognition Outstanding projects and participants will receive recognition through certificates. 1st Position: Winner Certificate. 2nd Position: First Runner-up Certificate. 3rd Position: Second Runner-up Certificate. Eligible Participants: Certificate of Participation. Note: This is a certificate-based competition. No cash prizes are offered. Official WhatsApp Group &ndash; Stay Connected! Join the official NEXORA AI 2026 WhatsApp Group to stay informed throughout the competition. WhatsApp Group Link: https://chat.whatsapp.com/JW3y0DnzGd64XZZGvIyuets=cl&amp;p=a&amp;mlu=4&amp;ilr=4&amp;iam= 2 WhatsApp Group membership is for communication and announcements. Official registration and submissions must be completed through Unstop. What Will You Receive in the Group? Official announcements and important updates. Registration and submission reminders. Round-wise guidelines and instructions. Competition deadlines and schedule updates. Shortlisting announcements. Final results and certificate-related updates. Important communication from the organising team. Participants are strongly encouraged to join the group and enable notifications to stay updated. Rules &amp; Guidelines All project ideas and submissions must be original. Plagiarism and unauthorised copying of projects are prohibited. Participants must disclose the use of AI tools and externally developed components. Projects must be relevant to the selected innovation domain. Participants must follow the submission guidelines and specified deadlines. Incomplete or late submissions may not be considered. Participants must provide accurate registration information. Evaluation decisions made by the organising and judging team will be final. Why Participate? Challenge yourself with real-world technology problems. Explore Artificial Intelligence and emerging technologies. Turn creative ideas into demonstrable solutions. Showcase your technical and problem-solving abilities. Gain recognition for your innovation. Connect with fellow student innovators. YOUR IDEAS. YOUR INNOVATION. YOUR FUTURE. NEXORA AI 2026 &ndash; Innovate. Develop. Transform the Future. Don't just imagine the future. Build something that contributes to it.",
     "organizer": "PSIT College of Engineering (PSITcoe), Kanpur, Uttar Pradesh",
     "venue": "Online",
     "mode": "Online",
@@ -371,7 +335,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-27T04:40:46.514908+00:00"
+    "discovered_at": "2026-11-27T14:33:10.745776+00:00"
   },
   {
     "id": "unstop:1824377",
@@ -411,7 +375,43 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-27T04:40:48.532899+00:00"
+    "discovered_at": "2026-11-27T14:33:12.508986+00:00"
+  },
+  {
+    "id": "unstop:1830923",
+    "source": "Unstop",
+    "title": "ActTrident AI Hackathon 2026",
+    "url": "https://unstop.com/hackathons/acttrident-ai-hackathon-2026-trident-shield-2026-acttrident-1830923",
+    "description": "Innovate. Build. Secure the Future. ActTrident invites passionate developers, students, AI enthusiasts and technology innovators to participate in the ActTrident AI Hackathon 2026 &mdash; an online innovation challenge designed to encourage the development of intelligent, secure and impactful technology solutions. Under the theme Building a Safer and Smarter Digital Future with AI , participants will explore emerging technologies and solve real-world challenges through artificial intelligence, cybersecurity, intelligent automation and digital trust. Innovation Tracks: AI-Powered Cybersecurity Secure Software Development Lifecycle (SDLC) Software Supply Chain Security &amp; Policy Enforcement Governance, Risk &amp; Compliance (GRC) Open Innovation Eligibility: Undergraduate and postgraduate students. Fresh graduates and aspiring technology professionals. Developers and AI enthusiasts. Individual participants or teams of up to four members. Participants from different institutions may form teams. Competition Structure: Round 1 &mdash; Idea Innovation &amp; System Architecture (2&ndash;6 December 2026) Participants will submit a project proposal outlining their problem statement, proposed solution, system architecture, technology stack, innovation and expected impact. Round 2 &mdash; Build, Engineer &amp; Innovate (9&ndash;16 December 2026) Shortlisted teams will develop a functional prototype and submit their source code, technical documentation and demonstration video. Round 3 &mdash; Grand Finale &amp; Technical Defence (19 December 2026) Finalists will present their working solutions before an expert judging panel and participate in a live technical discussion. Important Dates: Registration deadline: 5 December 2026 Round 1 begins: 6 December 2026 Round 1 shortlist: 10 December 2026 Round 2 begins: 12 December 2026 Finalist announcement: 18 December 2026 Grand finale: 19 December 2026 Winner announcement: 20 December 2026 Participation Guidelines: Participation is free. The hackathon will be conducted entirely online. All submissions must demonstrate original work and meaningful participant contributions. Participants may use AI tools, open-source technologies and publicly available datasets, subject to applicable licences. Participants must be able to explain their technical implementation during evaluation. Projects must follow responsible AI, cybersecurity and data privacy principles. Join ActTrident in building intelligent solutions that contribute to a safer, smarter and more trustworthy digital future.",
+    "organizer": "ActTrident",
+    "venue": "Online",
+    "mode": "Online",
+    "city": null,
+    "state": "online",
+    "country": null,
+    "start_date": "2026-11-27T00:00:00+05:30",
+    "end_date": "2026-12-20T23:59:00+05:30",
+    "registration_deadline": "2026-12-05T23:59:00+05:30",
+    "min_team_size": 1,
+    "max_team_size": 3,
+    "solo_allowed": true,
+    "eligibility": "Undergraduate / Postgraduate & Engineering students",
+    "prize_pool": "Prizes & Certificates",
+    "tracks": [
+      "Engineering Students",
+      "Postgraduate",
+      "Undergraduate"
+    ],
+    "score": 75,
+    "matched_reasons": [
+      "🌐 **Accessible Online Mode** (+15 pts)",
+      "👤 **Solo Eligible (1 Member)** (+35 pts)",
+      "🤖 **AI & Software Tracks** (+25 pts) [AI, Artificial Intelligence, Software Development]"
+    ],
+    "is_nagpur_local": false,
+    "is_maharashtra": false,
+    "is_active": true,
+    "discovered_at": "2026-11-27T14:33:10.743503+00:00"
   },
   {
     "id": "unstop:1820715",
@@ -445,7 +445,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-27T04:40:48.533808+00:00"
+    "discovered_at": "2026-11-27T14:33:14.547501+00:00"
   },
   {
     "id": "unstop:1823739",
@@ -482,7 +482,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-27T04:40:48.533100+00:00"
+    "discovered_at": "2026-11-27T14:33:12.509200+00:00"
   },
   {
     "id": "unstop:1826250",
@@ -524,7 +524,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-27T04:40:46.515385+00:00"
+    "discovered_at": "2026-11-27T14:33:12.508034+00:00"
   },
   {
     "id": "unstop:1826157",
@@ -562,7 +562,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-27T04:40:46.515519+00:00"
+    "discovered_at": "2026-11-27T14:33:12.508170+00:00"
   },
   {
     "id": "unstop:1825506",
@@ -596,7 +596,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-27T04:40:48.532151+00:00"
+    "discovered_at": "2026-11-27T14:33:12.508265+00:00"
   },
   {
     "id": "unstop:1823604",
@@ -630,7 +630,41 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-27T04:40:48.532195+00:00"
+    "discovered_at": "2026-11-27T14:33:12.508322+00:00"
+  },
+  {
+    "id": "unstop:1829467",
+    "source": "Unstop",
+    "title": "Infriqa Design. Build. Operate. Challenge",
+    "url": "https://unstop.com/hackathons/infriqa-design-build-operate-challenge-infriqa-1829467",
+    "description": "Infriqa: Design. Build. Operate. Challenge Build the Next Generation of AI Applications from Architecture to Production. Most hackathons stop at a prototype. At Infriqa &mdash; The Agentic Cloud for AI Applications , we challenge you to experience the complete engineering lifecycle: designing scalable architecture, building functional software, deploying it to the cloud, and operating it in production. Dates: November 30 &ndash; December 13, 2026 (2 Weeks) Mode: Online (Virtual Via Unstop) Team Size: Individual or up to 5 members Eligibility: Students, developers, AI/cloud engineers, and tech enthusiasts Event Format &amp; Execution Platforms: This hackathon is conducted 100% online across the following dedicated platforms: Registrations, Team Formation &amp; Submissions: Hosted directly on Unstop (all final deliverables&mdash;GitHub links, architecture diagrams, and demo videos&mdash;must be submitted via the Unstop submission portal). Cloud Development, Deployment &amp; Operations: Hosted on Infriqa ( [https://infriqa.ai](https://infriqa.ai) ), where participants will build, deploy, and monitor their AI applications alongside standard cloud/AI tooling of their choice. Official Announcements &amp; Support: Managed through Unstop announcements and email updates sent to registered participants. Judging Criteria: The Three Pillars Design (25%): Translate an idea into a scalable application and cloud architecture&mdash;defining agents, APIs, data pipelines, and infrastructure dependencies. Build (30%): Turn your architecture into working software using modern AI engineering, backend development, and repeatable CI/CD deployments. Operate (30%): Make it production-ready by demonstrating monitoring, diagnostics, cost/security optimization, and continuous alignment between your app and cloud infrastructure. Innovation, Practical Value &amp; Demo (15%): 10% for real-world usefulness and originality; 5% for clarity of presentation and walkthrough video. What You Can Build: Solve any real-world problem using AI. Popular tracks include: Agentic AI &amp; Multi-Agent Systems AI-Powered SaaS &amp; Developer Tools AI Workflow &amp; Process Automation AI Infrastructure, Cloud &amp; Data Engineering Timeline &amp; Deliverables: Week 1 (Nov 30 &ndash; Dec 6): Problem definition, system architecture design, and core application development on Infriqa. Week 2 (Dec 7 &ndash; Dec 13): Production cloud deployment, operational monitoring/optimization, and final project submission on Unstop . Required Deliverables (Submitted on Unstop): Clear problem statement and solution overview System architecture diagrams Working deployed application URL Evidence of operational diagnostics and performance/cost improvements Public source code repository ( GitHub ) Walkthrough video demonstrating your Design &rarr; Build &rarr; Operate journey (highlighting how Infriqa and other tools were used) Prizes &amp; Perks: 1st Prize: ₹5,000 cash + 3 months of free access to all OpenAI models + 1 year of Infriqa access. 2nd Prize: 3 months of free access to all OpenAI models + 1 year of Infriqa access. Internship Track: Top 10 eligible candidates will be fast-tracked for interviews for a paid 6-month internship (with potential full-time conversion). All Participants: 6 months of free Infriqa access and exclusive stickers. Builder Bonus: Top 5 participants logging 15+ hours building and operating receive Infriqa diaries. Ready to go beyond prototypes? Register now on Unstop, fire up Infriqa, and ship a production-ready AI product!",
+    "organizer": "Infriqa",
+    "venue": "Online",
+    "mode": "Online",
+    "city": null,
+    "state": "online",
+    "country": null,
+    "start_date": "2026-11-26T00:00:00+05:30",
+    "end_date": "2026-12-11T21:28:00+05:30",
+    "registration_deadline": "2026-12-10T00:00:00+05:30",
+    "min_team_size": 1,
+    "max_team_size": 5,
+    "solo_allowed": true,
+    "eligibility": "Open to college students & coders",
+    "prize_pool": "Prizes & Certificates",
+    "tracks": [
+      "All"
+    ],
+    "score": 75,
+    "matched_reasons": [
+      "🌐 **Accessible Online Mode** (+15 pts)",
+      "👤 **Solo Eligible (1 Member)** (+35 pts)",
+      "🤖 **AI & Software Tracks** (+25 pts) [AI, Agentic Ai, Backend]"
+    ],
+    "is_nagpur_local": false,
+    "is_maharashtra": false,
+    "is_active": true,
+    "discovered_at": "2026-11-27T14:33:10.743654+00:00"
   },
   {
     "id": "unstop:1828890",
@@ -664,7 +698,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-27T04:40:46.513934+00:00"
+    "discovered_at": "2026-11-27T14:33:10.745291+00:00"
   },
   {
     "id": "unstop:1820502",
@@ -706,7 +740,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-27T04:40:48.532353+00:00"
+    "discovered_at": "2026-11-27T14:33:12.508457+00:00"
   },
   {
     "id": "unstop:1828678",
@@ -743,41 +777,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-27T04:40:46.513901+00:00"
-  },
-  {
-    "id": "unstop:1820028",
-    "source": "Unstop",
-    "title": "Merry Shipmas Bengaluru: Christmas AI Hackathon ",
-    "url": "https://unstop.com/hackathons/merry-shipmas-bengaluru-christmas-ai-hackathon-nerdconf-1820028",
-    "description": "Merry Shipmas: The nerdiest Christmas AI hackathon, by NERDCONF. This is the Bengaluru edition : Saturday 12 December 2026, 10:00 to 18:00 IST, in person in Bengaluru (venue to be confirmed). The hackathon opens online on Friday 11 December, and you keep shipping online until Sunday 20 December. The challenge: build something with AI and get real people using it before Christmas. Find your first users in 7 days. Format Fri 11 Dec: kickoff online, from anywhere. Sat 12 Dec: in-person build day in Bengaluru. Meet other builders, mentors and partners. 11 to 20 Dec: 7 days online to ship and find your first users. Judges and prizes are announced soon. Eligibility: open to everyone 18+, students and professionals. Solo or teams of up to 4. Last season: Stranger Builds, our Halloween hackathon, had 1,282 builders sign up and 109 projects shipped. This time, it is Christmas. Hosted by Alex Marin, Co-founder, NERDCONF.",
-    "organizer": "NERDCONF",
-    "venue": "hybrid",
-    "mode": "In-Person",
-    "city": null,
-    "state": "hybrid",
-    "country": null,
-    "start_date": "2026-11-20T00:00:00+05:30",
-    "end_date": "2026-12-12T00:00:00+05:30",
-    "registration_deadline": "2026-12-12T00:00:00+05:30",
-    "min_team_size": 1,
-    "max_team_size": 4,
-    "solo_allowed": true,
-    "eligibility": "Open to college students & coders",
-    "prize_pool": "Prizes & Certificates",
-    "tracks": [
-      "All"
-    ],
-    "score": 75,
-    "matched_reasons": [
-      "🌐 **Accessible In-Person Mode** (+15 pts)",
-      "👤 **Solo Eligible (1 Member)** (+35 pts)",
-      "🤖 **AI & Software Tracks** (+25 pts) [AI]"
-    ],
-    "is_nagpur_local": false,
-    "is_maharashtra": false,
-    "is_active": true,
-    "discovered_at": "2026-11-27T04:40:48.533927+00:00"
+    "discovered_at": "2026-11-27T14:33:10.745247+00:00"
   },
   {
     "id": "unstop:1829921",
@@ -811,14 +811,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-27T04:40:46.513110+00:00"
+    "discovered_at": "2026-11-27T14:33:10.744136+00:00"
   },
   {
     "id": "unstop:1817824",
     "source": "Unstop",
     "title": "PromptWars x NEXORA ",
     "url": "https://unstop.com/hackathons/promptwars-x-nexora-promptwars-x-nexora-nexora-navyug-1817824",
-    "description": "About the Organization NEXORA is a student-led community focused on empowering aspiring professionals and innovators through opportunities in Artificial Intelligence, career development, hackathons, and technology-driven events. It aims to promote practical learning, collaboration, and innovation among students. About the Event PromptWars X NEXORA is an online, one-day AI-powered hackathon that brings together students from universities across India. Participants will receive a surprise problem and have a few hours to build a working AI solution using prompts, Generative AI, and prompt engineering. Organized by NEXORA in association with Hack2Skill, as part of the Build with AI initiative and the Google for Developers ecosystem, the event encourages creativity, experimentation, and practical AI innovation. What You Will Do Receive a problem statement and challenge details on the event day. Build an AI-powered solution using prompt engineering and AI-assisted development tools. Experiment with Generative AI to solve real-world problems. Submit your completed project through the Hack2Skill platform within the given time. Showcase your creativity, problem-solving skills, and innovation. Who can join Any student aged 18+, from any college or course and professionals. Beginners are welcome, and no prior AI experience is needed. This is a solo challenge, so you build, submit and are evaluated individually. There are no team requirements. What you get Prize pool of up to ₹50,000, based on the number of valid submissions (see the Prize section for details) Official co-branded certificates for participants, finalists and winners Hands-on experience building with AI under real time pressure A chance to stand out in the community Registration Step: PromptWars x NEXORA: [https://hack2skill.com/event/promptwars-x-nexora/registration?utm_source=hack2skill&amp;utm_medium=homepage] You all have to first register on the link given above and then register on Unstop otherwise the registration will not be counted. Join the NEXORA Navyug Community Be a part of NEXORA Navyug, our growing WhatsApp community built for students, aspiring developers, AI enthusiasts, and future innovators. NEXORA Navyug aims to create a collaborative environment where students can connect, learn, share opportunities, and grow together. What you explore in our community: - Latest updates about AI, technology, and innovation. - Hackathons, workshops, and upcoming tech events. - Internship opportunities, career guidance, and learning resources. - Networking with like-minded students and aspiring developers. - Opportunities to collaborate, share ideas, and develop new skills. Whether you're a beginner exploring technology or an aspiring innovator looking to build something impactful, NEXORA Navyug is a place to learn, connect, and grow. Join the Community. Connect. Learn. Build. Grow. WhatsApp Community: [https://chat.whatsapp.com/BAs5Ffgk2Ro57NZma7eNZN] &nbsp; Founded by: Kaushtuv Parashar Community: NEXORA Ready to Build? Bring your curiosity, creativity, and ideas. Explore the power of AI, challenge yourself, and turn your imagination into something real. Don't just learn about AI. Build with AI. Join PromptWars X NEXORA 2026 and take your first step towards becoming a builder of tomorrow.",
+    "description": "Registration Step: PromptWars x NEXORA: [https://hack2skill.com/event/promptwars-x-nexora/registration?utm_source=hack2skill&amp;utm_medium=homepage] You all have to first register on the link given above and then register on Unstop otherwise the registration will not be counted. About the Organization NEXORA is a student-led community focused on empowering aspiring professionals and innovators through opportunities in Artificial Intelligence, career development, hackathons, and technology-driven events. It aims to promote practical learning, collaboration, and innovation among students. About the Event PromptWars X NEXORA is an online, one-day AI-powered hackathon that brings together students from universities across India. Participants will receive a surprise problem and have a few hours to build a working AI solution using prompts, Generative AI, and prompt engineering. Organized by NEXORA in association with Hack2Skill, as part of the Build with AI initiative and the Google for Developers ecosystem, the event encourages creativity, experimentation, and practical AI innovation. What You Will Do Receive a problem statement and challenge details on the event day. Build an AI-powered solution using prompt engineering and AI-assisted development tools. Experiment with Generative AI to solve real-world problems. Submit your completed project through the Hack2Skill platform within the given time. Showcase your creativity, problem-solving skills, and innovation. Who can join Any student aged 18+, from any college or course and professionals. Beginners are welcome, and no prior AI experience is needed. This is a solo challenge, so you build, submit and are evaluated individually. There are no team requirements. What you get Prize pool of up to ₹50,000, based on the number of valid submissions (see the Prize section for details) Official co-branded certificates for participants, finalists and winners Hands-on experience building with AI under real time pressure A chance to stand out in the community Join the NEXORA Navyug Community Be a part of NEXORA Navyug, our growing WhatsApp community built for students, aspiring developers, AI enthusiasts, and future innovators. NEXORA Navyug aims to create a collaborative environment where students can connect, learn, share opportunities, and grow together. What you explore in our community: - Latest updates about AI, technology, and innovation. - Hackathons, workshops, and upcoming tech events. - Internship opportunities, career guidance, and learning resources. - Networking with like-minded students and aspiring developers. - Opportunities to collaborate, share ideas, and develop new skills. Whether you're a beginner exploring technology or an aspiring innovator looking to build something impactful, NEXORA Navyug is a place to learn, connect, and grow. Join the Community. Connect. Learn. Build. Grow. WhatsApp Community: [https://chat.whatsapp.com/BAs5Ffgk2Ro57NZma7eNZN] &nbsp; Founded by: Kaushtuv Parashar Community: NEXORA Ready to Build? Bring your curiosity, creativity, and ideas. Explore the power of AI, challenge yourself, and turn your imagination into something real. Don't just learn about AI. Build with AI. Join PromptWars X NEXORA 2026 and take your first step towards becoming a builder of tomorrow.",
     "organizer": "NEXORA Navyug",
     "venue": "Online",
     "mode": "Online",
@@ -852,7 +852,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-27T04:40:46.513614+00:00"
+    "discovered_at": "2026-11-27T14:33:10.744810+00:00"
   },
   {
     "id": "unstop:1829674",
@@ -886,7 +886,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-27T04:40:46.513263+00:00"
+    "discovered_at": "2026-11-27T14:33:10.744179+00:00"
   },
   {
     "id": "unstop:1825938",
@@ -924,7 +924,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-27T04:40:46.514347+00:00"
+    "discovered_at": "2026-11-27T14:33:10.744637+00:00"
   },
   {
     "id": "unstop:1824394",
@@ -958,43 +958,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-27T04:40:48.532455+00:00"
-  },
-  {
-    "id": "unstop:1814814",
-    "source": "Unstop",
-    "title": "BUILDFEST 2026 – National Student Hackathon",
-    "url": "https://unstop.com/hackathons/buildfest-2026-learnix-labs-1814814",
-    "description": "BUILDFEST 2026 is a National-Level Student Hackathon by Learnix Labs, giving students across India a platform to showcase their technology projects, gain recognition, and connect with fellow innovators. Both completed and ongoing projects are welcome! Project Domains Artificial Intelligence &amp; Machine Learning Web &amp; App Development Cybersecurity Data Science &amp; Analytics Blockchain &amp; Emerging Technologies Open Source &amp; Social Impact Other innovative technology projects Problem Statements BUILDFEST 2026 does not provide predefined problem statements. Participants can choose any problem or idea and develop an original technology-based project within the listed domains. Innovative solutions addressing real-world challenges are encouraged. Participation Process Register: Sign up through Unstop. Publish: Publish your project at https://learnixlabs.in/project . Prepare: Write a brief abstract covering the problem, solution, technologies, and key features. Submit: Upload your project URL and abstract on Unstop. Share: Promote your project and receive valid community upvotes. Competition Format Project submission, verification, community voting, independent judging, and final results. Community Choice Award Awarded to the eligible project receiving the highest number of valid community upvotes. Rules &amp; Guidelines Only projects published during the official submission period are eligible. Completed and ongoing projects are accepted. Both project URL and abstract must be submitted on Unstop. Projects must remain publicly accessible. Plagiarism, copied work, and misleading information are prohibited. Artificial engagement and vote manipulation are strictly prohibited. Incomplete or late submissions will not be considered. Judges' and organizers' decisions are final. Certificates and recognition will be provided as announced by the organizers.",
-    "organizer": "Learnix Labs",
-    "venue": "Online",
-    "mode": "Online",
-    "city": null,
-    "state": "online",
-    "country": null,
-    "start_date": "2026-11-20T00:00:00+05:30",
-    "end_date": "2026-12-28T21:00:00+05:30",
-    "registration_deadline": "2026-12-15T00:00:00+05:30",
-    "min_team_size": 1,
-    "max_team_size": 1,
-    "solo_allowed": true,
-    "eligibility": "Undergraduate / Postgraduate & Engineering students",
-    "prize_pool": "Prizes & Certificates",
-    "tracks": [
-      "Engineering Students",
-      "Postgraduate",
-      "Undergraduate"
-    ],
-    "score": 75,
-    "matched_reasons": [
-      "🌐 **Accessible Online Mode** (+15 pts)",
-      "👤 **Solo Eligible (1 Member)** (+35 pts)",
-      "🤖 **AI & Software Tracks** (+25 pts) [Artificial Intelligence, Machine Learning, Cybersecurity]"
-    ],
-    "is_nagpur_local": false,
-    "is_maharashtra": false,
-    "is_active": true,
-    "discovered_at": "2026-11-27T04:40:48.533897+00:00"
+    "discovered_at": "2026-11-27T14:33:12.508557+00:00"
   },
   {
     "id": "unstop:1820870",
@@ -1028,7 +992,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-27T04:40:48.533368+00:00"
+    "discovered_at": "2026-11-27T14:33:12.509485+00:00"
   },
   {
     "id": "unstop:1826567",
@@ -1065,7 +1029,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-27T04:40:46.515269+00:00"
+    "discovered_at": "2026-11-27T14:33:12.507907+00:00"
   },
   {
     "id": "unstop:1821473",
@@ -1105,7 +1069,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-27T04:40:46.515564+00:00"
+    "discovered_at": "2026-11-27T14:33:12.508214+00:00"
   },
   {
     "id": "unstop:1827866",
@@ -1131,7 +1095,6 @@
       "Engineering Students",
       "Postgraduate",
       "Undergraduate",
-      "Management",
       "Arts, Commerce, Sciences & Others"
     ],
     "score": 75,
@@ -1143,7 +1106,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-27T04:40:46.514589+00:00"
+    "discovered_at": "2026-11-27T14:33:10.745455+00:00"
   },
   {
     "id": "unstop:1821912",
@@ -1181,7 +1144,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-27T04:40:48.533204+00:00"
+    "discovered_at": "2026-11-27T14:33:12.509311+00:00"
   },
   {
     "id": "unstop:1826867",
@@ -1215,14 +1178,51 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-27T04:40:46.514516+00:00"
+    "discovered_at": "2026-11-27T14:33:10.745381+00:00"
+  },
+  {
+    "id": "unstop:1830705",
+    "source": "Unstop",
+    "title": "CodeAtScale - National Hackathon",
+    "url": "https://unstop.com/hackathons/codeatscale-national-hackathon-hackwithpune-1830705",
+    "description": "Join the official WhatsApp group for info :&nbsp; https://chat.whatsapp.com/FKi5ipqm40IHjyWdddgpq7 Benefits and Opportunities Top 3 teams: Paid internship opportunities Top 3 teams: ₹30,000 prize pool Top 3 teams : Incubation opportunities Every eligible participant: One complimentary .xyz domain and .cv domain Every eligible participant: Verifiable digital certificate Every eligible participant: $100 in Inkloom AI credits Every eligible participant: $500 in Adaption platform credits Rewards and benefits: 100+ recipients across the hackathon Format: Hackathon Date: 28th December 2026 &mdash; 7 January 2027 No.of Rounds: 3 Mode: Completely online Team size: 1-4 members Registration fee: &nbsp;free Rules Participants must submit original work within the deadline and follow all event guidelines. Plagiarism, false information or multiple submissions may result in disqualification. Eligibility Open to students, developers, designers and technology enthusiasts across India. Participants may join individually or form a team according to the event&rsquo;s permitted team size. Process Register for the event, join the official communication group and complete every announced round. Qualified participants will receive the instructions and submission details for the next stage. &nbsp; &nbsp;",
+    "organizer": "HackWithPune",
+    "venue": "Online",
+    "mode": "Online",
+    "city": null,
+    "state": "online",
+    "country": null,
+    "start_date": "2026-11-26T19:00:00+05:30",
+    "end_date": "2027-01-07T10:00:00+05:30",
+    "registration_deadline": "2026-12-27T13:00:00+05:30",
+    "min_team_size": 1,
+    "max_team_size": 4,
+    "solo_allowed": true,
+    "eligibility": "Undergraduate / Postgraduate & Engineering students",
+    "prize_pool": "Prizes & Certificates",
+    "tracks": [
+      "Engineering Students",
+      "Postgraduate",
+      "Undergraduate",
+      "Arts, Commerce, Sciences & Others"
+    ],
+    "score": 75,
+    "matched_reasons": [
+      "🌐 **Accessible Online Mode** (+15 pts)",
+      "👤 **Solo Eligible (1 Member)** (+35 pts)",
+      "🤖 **AI & Software Tracks** (+25 pts) [AI]"
+    ],
+    "is_nagpur_local": false,
+    "is_maharashtra": false,
+    "is_active": true,
+    "discovered_at": "2026-11-27T14:33:10.743718+00:00"
   },
   {
     "id": "unstop:1828645",
     "source": "Unstop",
     "title": "InteractUp Nexus National Hackathon",
     "url": "https://unstop.com/hackathons/interactup-nexus-national-hackathon-interactup-1828645",
-    "description": "What if you could redesign the digital identity of a national-level youth organization? Welcome to the InteractUp National Hackathon, a multi-round competition where creativity meets technology and ideas transform into real digital experiences. This is your opportunity to build, experiment, innovate and showcase what you can create using technology. The Challenge: Your mission is to redesign, develop and deploy your own version of the InteractUp website, creating an exceptional UI/UX experience that is visually impressive, intuitive, interactive and genuinely useful. Think beyond conventional websites. Experiment with immersive experiences, 3D elements, animations, interactive storytelling, creative navigation, innovative features, unique layouts or anything else your imagination can bring to life. Your website should be designed keeping multiple audiences in mind, including: Students and young professionals Colleges and educational institutions Companies, brands and potential partners Communities, event participants and aspiring entrepreneurs Build something that students want to explore, colleges find valuable, companies find interesting and visitors find memorable. You are free to use any programming language, framework, development platform, technology, AI tool or workflow. Your creativity and execution are in your hands. The existing website is your starting point, not your design limitation. You are free to introduce new sections, experiences, features, layouts and interactions that you believe would make the platform more attractive and effective. Three Rounds. Multiple Challenges. One Winning Team. This hackathon consists of three project-based rounds. Round 1 begins with the InteractUp website innovation challenge. Participants progressing through the competition will encounter additional project challenges in subsequent rounds. Each round is an opportunity to push your creativity further, solve new challenges and demonstrate your ability to build meaningful digital experiences. Rewards ₹50,000 Total Cash Prize Pool Top 5 Winners: ₹10,000 each Internship Opportunity: Winners will also receive an internship opportunity with InteractUp. Exceptional Work Bonus: If a submission demonstrates exceptional creativity, quality and real-world potential, and the website is deemed suitable for actual deployment by InteractUp, the participant may receive an additional ₹50,000 bonus . This is for a website that goes beyond the competition, has the potential to strengthen InteractUp's digital presence, attract brands and partners, and create meaningful opportunities for collaboration. What You Must Submit: For Round 1, participants are required to submit: Live Website: Link to your deployed, functional website. Source Code: Link to your GitHub repository or equivalent or put all relevant folders and files in the drive. Walkthrough Video: A video demonstrating your website, its features and overall experience. Project Documentation: An explanation of your concept, design decisions, features and development approach. Tools &amp; AI Disclosure: Details of the technologies, development tools and AI tools used in a word file. All submissions must be compiled into one Word document (.docx) containing the required links and information. Participants must also provide a Google Drive folder containing their walkthrough video and supporting materials. Refer to the Round 1 Rules &amp; Guidelines for complete submission instructions. Why Participate? Build real projects instead of just presenting ideas. Showcase your creativity, technical skills and problem-solving ability. Experiment with AI, modern technologies and innovative development approaches. Challenge yourself through multiple project-based rounds. Gain recognition for your work and compete with talented innovators. Earn a cash prize and an internship opportunity. This is your chance to turn your ideas into something real, demonstrate what you can build and stand out through your work. Don't just make a website. Make us rethink what InteractUp's website could be. Reimagine. Build. Compete. About Interactup InteractUp is a registered national-level NGO dedicated to empowering young people through opportunities, leadership, innovation and collaboration. With a growing network of students and young professionals across India, it brings together ambitious individuals, institutions and organizations to create meaningful impact. Through national competitions, entrepreneurship initiatives, leadership programs, networking opportunities and international youth summits, InteractUp provides platforms for young people to learn, lead, innovate and grow. With its reach extending across India and engagement with international communities, InteractUp is building bridges between talent, ideas, institutions and opportunities, empowering the next generation of leaders, entrepreneurs and changemakers.",
+    "description": "What if you could redesign the digital identity of a national-level youth organization? Welcome to the InteractUp National Hackathon, a multi-round competition where creativity meets technology and ideas transform into real digital experiences. This is your opportunity to build, experiment, innovate and showcase what you can create using technology. The Challenge: Explore www.interactup.in and reimagine it. Your mission is to redesign, develop and deploy your own version of the InteractUp website, creating an exceptional UI/UX experience that is visually impressive, intuitive, interactive and genuinely useful. Think beyond conventional websites. Experiment with immersive experiences, 3D elements, animations, interactive storytelling, creative navigation, innovative features, unique layouts or anything else your imagination can bring to life. Your website should be designed keeping multiple audiences in mind, including: Students and young professionals Colleges and educational institutions Companies, brands and potential partners Communities, event participants and aspiring entrepreneurs Build something that students want to explore, colleges find valuable, companies find interesting and visitors find memorable. You are free to use any programming language, framework, development platform, technology, AI tool or workflow. Your creativity and execution are in your hands. The existing website is your starting point, not your design limitation. You are free to introduce new sections, experiences, features, layouts and interactions that you believe would make the platform more attractive and effective. Make sure to join the following WhatsApp group: https://chat.whatsapp.com/LVXuFXetdjK0S8jAUXOZgh Three Rounds. Multiple Challenges. One Winning Team. This hackathon consists of three project-based rounds. Round 1 begins with the InteractUp website innovation challenge. Participants progressing through the competition will encounter additional project challenges in subsequent rounds. Each round is an opportunity to push your creativity further, solve new challenges and demonstrate your ability to build meaningful digital experiences. Rewards ₹50,000 Total Cash Prize Pool Top 5 Winners: ₹10,000 each Internship Opportunity: Winners will also receive an internship opportunity with InteractUp. Exceptional Work Bonus: If a submission demonstrates exceptional creativity, quality and real-world potential, and the website is deemed suitable for actual deployment by InteractUp, the participant may receive an additional ₹50,000 bonus . This is for a website that goes beyond the competition, has the potential to strengthen InteractUp's digital presence, attract brands and partners, and create meaningful opportunities for collaboration. What You Must Submit: For Round 1, participants are required to submit: Live Website: Link to your deployed, functional website. Source Code: Link to your GitHub repository or equivalent or put all relevant folders and files in the drive. Walkthrough Video: A video demonstrating your website, its features and overall experience. Project Documentation: An explanation of your concept, design decisions, features and development approach. Tools &amp; AI Disclosure: Details of the technologies, development tools and AI tools used in a word file. All submissions must be compiled into one Word document (.docx) containing the required links and information. Participants must also provide a Google Drive folder containing their walkthrough video and supporting materials. Refer to the Round 1 Rules &amp; Guidelines for complete submission instructions. Why Participate? Build real projects instead of just presenting ideas. Showcase your creativity, technical skills and problem-solving ability. Experiment with AI, modern technologies and innovative development approaches. Challenge yourself through multiple project-based rounds. Gain recognition for your work and compete with talented innovators. Earn a cash prize and an internship opportunity. This is your chance to turn your ideas into something real, demonstrate what you can build and stand out through your work. Don't just make a website. Make us rethink what InteractUp's website could be. Reimagine. Build. Compete. About Interactup InteractUp is a registered national-level NGO dedicated to empowering young people through opportunities, leadership, innovation and collaboration. With a growing network of students and young professionals across India, it brings together ambitious individuals, institutions and organizations to create meaningful impact. Through national competitions, entrepreneurship initiatives, leadership programs, networking opportunities and international youth summits, InteractUp provides platforms for young people to learn, lead, innovate and grow. With its reach extending across India and engagement with international communities, InteractUp is building bridges between talent, ideas, institutions and opportunities, empowering the next generation of leaders, entrepreneurs and changemakers.",
     "organizer": "InteractUp",
     "venue": "Online",
     "mode": "Online",
@@ -1249,7 +1249,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-27T04:40:46.512961+00:00"
+    "discovered_at": "2026-11-27T14:33:10.744097+00:00"
   },
   {
     "id": "unstop:1827472",
@@ -1283,7 +1283,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-27T04:40:46.514117+00:00"
+    "discovered_at": "2026-11-27T14:33:10.744436+00:00"
   },
   {
     "id": "unstop:1826401",
@@ -1321,7 +1321,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-27T04:40:46.515143+00:00"
+    "discovered_at": "2026-11-27T14:33:10.746021+00:00"
   },
   {
     "id": "hackerearth:contextcon-remember-everything",
@@ -1357,7 +1357,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-27T04:40:54.242286+00:00"
+    "discovered_at": "2026-11-27T14:33:19.041597+00:00"
   },
   {
     "id": "devpost:30740",
@@ -1393,7 +1393,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-27T04:40:53.301915+00:00"
+    "discovered_at": "2026-11-27T14:33:17.248653+00:00"
   },
   {
     "id": "devpost:30764",
@@ -1429,14 +1429,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-27T04:40:53.438233+00:00"
+    "discovered_at": "2026-11-27T14:33:17.441962+00:00"
   },
   {
     "id": "devpost:31787",
     "source": "Devpost",
     "title": "GenHacks",
     "url": "https://genhacks-open.devpost.com/",
-    "description": "Devpost hackathon. 30 days left",
+    "description": "Devpost hackathon. 29 days left",
     "organizer": "Shail & Sharaf",
     "venue": "Online",
     "mode": "Online",
@@ -1465,14 +1465,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-27T04:40:53.301930+00:00"
+    "discovered_at": "2026-11-27T14:33:17.248662+00:00"
   },
   {
     "id": "devpost:31642",
     "source": "Devpost",
     "title": "AWS MSP AI Hackathon",
     "url": "https://aws-agentic-msp.devpost.com/",
-    "description": "Devpost hackathon. 15 days left",
+    "description": "Devpost hackathon. 14 days left",
     "organizer": "AWS",
     "venue": "Online",
     "mode": "Online",
@@ -1501,14 +1501,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-27T04:40:53.154157+00:00"
+    "discovered_at": "2026-11-27T14:33:17.152411+00:00"
   },
   {
     "id": "devpost:31083",
     "source": "Devpost",
     "title": "QNX Global Hackathon",
     "url": "https://qnx.devpost.com/",
-    "description": "Devpost hackathon. 19 days left",
+    "description": "Devpost hackathon. 18 days left",
     "organizer": "QNX",
     "venue": "Online",
     "mode": "Online",
@@ -1537,7 +1537,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-27T04:40:53.154141+00:00"
+    "discovered_at": "2026-11-27T14:33:17.152397+00:00"
   },
   {
     "id": "devpost:32009",
@@ -1573,14 +1573,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-27T04:40:53.438244+00:00"
+    "discovered_at": "2026-11-27T14:33:17.441970+00:00"
   },
   {
     "id": "devpost:31480",
     "source": "Devpost",
     "title": "AI Agents for Founders Challenge — HETIC 2026",
     "url": "https://ai-agents-founders-hetic-26.devpost.com/",
-    "description": "Devpost hackathon. 22 days left",
+    "description": "Devpost hackathon. 21 days left",
     "organizer": "HETIC",
     "venue": "Online",
     "mode": "Online",
@@ -1609,14 +1609,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-27T04:40:53.438194+00:00"
+    "discovered_at": "2026-11-27T14:33:17.441948+00:00"
   },
   {
     "id": "devpost:31972",
     "source": "Devpost",
     "title": "SLAY HACKS",
     "url": "https://slayy-hacks.devpost.com/",
-    "description": "Devpost hackathon. 11 days left",
+    "description": "Devpost hackathon. 10 days left",
     "organizer": "cite & slayy",
     "venue": "Online",
     "mode": "Online",
@@ -1645,14 +1645,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-27T04:40:53.301935+00:00"
+    "discovered_at": "2026-11-27T14:33:17.248670+00:00"
   },
   {
     "id": "devpost:31973",
     "source": "Devpost",
     "title": "Deck the Pixels",
     "url": "https://deckthepixels.devpost.com/",
-    "description": "Devpost hackathon. 11 days left",
+    "description": "Devpost hackathon. 10 days left",
     "organizer": "Google",
     "venue": "Online",
     "mode": "Online",
@@ -1681,14 +1681,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-27T04:40:53.154147+00:00"
+    "discovered_at": "2026-11-27T14:33:17.152402+00:00"
   },
   {
     "id": "devpost:32079",
     "source": "Devpost",
     "title": "Learn AR with SPECS",
     "url": "https://learn-specs.devpost.com/",
-    "description": "Devpost hackathon. 11 days left",
+    "description": "Devpost hackathon. 10 days left",
     "organizer": "Devpost",
     "venue": "Online",
     "mode": "Online",
@@ -1717,14 +1717,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-27T04:40:53.301904+00:00"
+    "discovered_at": "2026-11-27T14:33:17.248644+00:00"
   },
   {
     "id": "devpost:31808",
     "source": "Devpost",
     "title": "#BuildHybridAI 2026",
     "url": "https://firebasehybridaihackathon.devpost.com/",
-    "description": "Devpost hackathon. 4 days left",
+    "description": "Devpost hackathon. 3 days left",
     "organizer": "Google",
     "venue": "Online",
     "mode": "Online",
@@ -1753,14 +1753,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-27T04:40:53.154123+00:00"
+    "discovered_at": "2026-11-27T14:33:17.152383+00:00"
   },
   {
     "id": "devpost:32024",
     "source": "Devpost",
     "title": "Relate by Neo4j Hackathon",
     "url": "https://relate.devpost.com/",
-    "description": "Devpost hackathon. 15 days left",
+    "description": "Devpost hackathon. 14 days left",
     "organizer": "Neo4j",
     "venue": "Online",
     "mode": "Online",
@@ -1789,7 +1789,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-27T04:40:53.301909+00:00"
+    "discovered_at": "2026-11-27T14:33:17.248649+00:00"
   },
   {
     "id": "devpost:32026",
@@ -1825,7 +1825,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-27T04:40:53.154136+00:00"
+    "discovered_at": "2026-11-27T14:33:17.152393+00:00"
   },
   {
     "id": "devpost:31571",
@@ -1861,7 +1861,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-27T04:40:53.154152+00:00"
+    "discovered_at": "2026-11-27T14:33:17.152406+00:00"
   },
   {
     "id": "devpost:31886",
@@ -1897,14 +1897,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-27T04:40:53.301898+00:00"
+    "discovered_at": "2026-11-27T14:33:17.248639+00:00"
   },
   {
     "id": "devpost:31826",
     "source": "Devpost",
     "title": "Global AI Builder’s Challenge",
     "url": "https://global-ai-builders-challenge.devpost.com/",
-    "description": "Devpost hackathon. 2 days left",
+    "description": "Devpost hackathon. 1 day left",
     "organizer": "Refactor The World",
     "venue": "Online",
     "mode": "Online",
@@ -1931,50 +1931,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-27T04:40:53.438223+00:00"
-  },
-  {
-    "id": "hackerearth:groww-next-2026",
-    "source": "HackerEarth",
-    "title": "Groww Next ‘26",
-    "url": "https://www.hackerearth.com/challenges/hackathon/groww-next-2026/",
-    "description": "Hacking is building things that you always wanted to have but no one has built it yet. It's to come ..",
-    "organizer": "HackerEarth Community",
-    "venue": "Online",
-    "mode": "Online",
-    "city": null,
-    "state": null,
-    "country": null,
-    "start_date": "Friday, Nov 13, 2026",
-    "end_date": "Nov 27, 2026",
-    "registration_deadline": "Nov 27, 2026",
-    "min_team_size": 1,
-    "max_team_size": null,
-    "solo_allowed": true,
-    "eligibility": "Open to all coders",
-    "prize_pool": "Prizes, Hiring & Certificates",
-    "tracks": [
-      "Software",
-      "AI/ML",
-      "Hiring Challenge"
-    ],
-    "score": 75,
-    "matched_reasons": [
-      "🌐 **Accessible Online Mode** (+15 pts)",
-      "👤 **Solo Eligible (1 Member)** (+35 pts)",
-      "🤖 **AI & Software Tracks** (+25 pts) [AI, ML]"
-    ],
-    "is_nagpur_local": false,
-    "is_maharashtra": false,
-    "is_active": true,
-    "discovered_at": "2026-11-27T04:40:54.242310+00:00"
+    "discovered_at": "2026-11-27T14:33:17.441953+00:00"
   },
   {
     "id": "devpost:31796",
     "source": "Devpost",
     "title": "SafeSpace Hacks - Judges Needed",
     "url": "https://safespace-hacks.devpost.com/",
-    "description": "Devpost hackathon. 13 days left",
+    "description": "Devpost hackathon. 12 days left",
     "organizer": "SafeSpace",
     "venue": "Online",
     "mode": "Online",
@@ -2003,7 +1967,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-27T04:40:53.438228+00:00"
+    "discovered_at": "2026-11-27T14:33:17.441958+00:00"
   },
   {
     "id": "devpost:31789",
@@ -2039,7 +2003,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-27T04:40:53.301925+00:00"
+    "discovered_at": "2026-11-27T14:33:17.248666+00:00"
   },
   {
     "id": "devpost:30789",
@@ -2075,14 +2039,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-27T04:40:53.301878+00:00"
+    "discovered_at": "2026-11-27T14:33:17.248621+00:00"
   },
   {
     "id": "devpost:31907",
     "source": "Devpost",
     "title": "Build Your First AI App",
     "url": "https://build-your-first-ai-app.devpost.com/",
-    "description": "Devpost hackathon. 13 days left",
+    "description": "Devpost hackathon. 12 days left",
     "organizer": "Yasir Insights",
     "venue": "Online",
     "mode": "Online",
@@ -2111,14 +2075,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-27T04:40:53.301920+00:00"
+    "discovered_at": "2026-11-27T14:33:17.248657+00:00"
   },
   {
     "id": "devpost:31572",
     "source": "Devpost",
     "title": "Codegeist 2026: Build with context. Ship with confidence.",
     "url": "https://codegeist2026.devpost.com/",
-    "description": "Devpost hackathon. 26 days left",
+    "description": "Devpost hackathon. 25 days left",
     "organizer": "Atlassian",
     "venue": "Online",
     "mode": "Online",
@@ -2147,14 +2111,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-27T04:40:53.154114+00:00"
+    "discovered_at": "2026-11-27T14:33:17.152376+00:00"
   },
   {
     "id": "devpost:31667",
     "source": "Devpost",
     "title": "Kiroween 2026",
     "url": "https://kiroween.devpost.com/",
-    "description": "Devpost hackathon. 8 days left",
+    "description": "Devpost hackathon. 7 days left",
     "organizer": "Kiro",
     "venue": "Online",
     "mode": "Online",
@@ -2183,7 +2147,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-27T04:40:53.154090+00:00"
+    "discovered_at": "2026-11-27T14:33:17.152353+00:00"
   },
   {
     "id": "unstop:1818894",
@@ -2222,7 +2186,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-27T04:40:50.487784+00:00"
+    "discovered_at": "2026-11-27T14:33:14.547689+00:00"
   },
   {
     "id": "unstop:1781454",
@@ -2261,7 +2225,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-27T04:40:50.488153+00:00"
+    "discovered_at": "2026-11-27T14:33:14.548025+00:00"
   },
   {
     "id": "unstop:1821984",
@@ -2302,7 +2266,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-27T04:40:48.533547+00:00"
+    "discovered_at": "2026-11-27T14:33:12.509672+00:00"
   },
   {
     "id": "unstop:1822588",
@@ -2341,7 +2305,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-27T04:40:48.533583+00:00"
+    "discovered_at": "2026-11-27T14:33:12.509711+00:00"
   },
   {
     "id": "unstop:1800622",
@@ -2380,7 +2344,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": true,
     "is_active": true,
-    "discovered_at": "2026-11-27T04:40:48.531636+00:00"
+    "discovered_at": "2026-11-27T14:33:10.746046+00:00"
   },
   {
     "id": "unstop:1814036",
@@ -2413,7 +2377,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-27T04:40:46.515228+00:00"
+    "discovered_at": "2026-11-27T14:33:12.507865+00:00"
   },
   {
     "id": "unstop:1821962",
@@ -2446,7 +2410,46 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-27T04:40:48.533847+00:00"
+    "discovered_at": "2026-11-27T14:33:14.547563+00:00"
+  },
+  {
+    "id": "unstop:1830429",
+    "source": "Unstop",
+    "title": "CodeHive Coding Night",
+    "url": "https://unstop.com/hackathons/codehive-rivalry-night-code-hive-1830429",
+    "description": "CodeHive Rivalry Night #2 &ndash; Real-Time DSA Coding Battles Think you can solve DSA problems under pressure? Put your problem-solving skills to the test! CodeHive Rivalry Night is a community-driven coding event where developers compete in real-time 1v1 coding battles. Forget solving problems alone. Challenge other developers, test your approach, and experience competitive coding in a more interactive way. What to Expect Real-time 1v1 DSA coding duels. Multiple rounds featuring coding challenges. Compete against fellow developers. Test your problem-solving speed and accuracy. Meet and connect with other coding enthusiasts. Event Details Date: Saturday, 28 November 2026 Start Time: 8:00 PM IST Check-in: 7:45 PM IST Mode: Online Platform: CodeHive Participation: Individual Registration Fee: Free How to Participate Register for the event on Unstop. Visit https://www.thecodehive.tech/ and create your CodeHive account. Sign in before the event. Check in by 7:45 PM IST. Join the competition and take on your opponents! Important: Unstop registration alone does not complete your participation. Make sure you have a CodeHive account before the event. Who Can Participate? Anyone interested in DSA, competitive programming, coding challenges, or improving their problem-solving skills. Whether you're a beginner or an experienced programmer, you're welcome! Don't Just Practise. Compete. Bring your skills, challenge your limits, and find out how you perform against other developers. See you on CodeHive!",
+    "organizer": "Code Hive",
+    "venue": "Online",
+    "mode": "Online",
+    "city": null,
+    "state": "online",
+    "country": null,
+    "start_date": "2026-11-27T00:00:00+05:30",
+    "end_date": "2026-11-28T17:01:00+05:30",
+    "registration_deadline": "2026-11-28T17:01:00+05:30",
+    "min_team_size": 1,
+    "max_team_size": 1,
+    "solo_allowed": true,
+    "eligibility": "Undergraduate / Postgraduate & Engineering students",
+    "prize_pool": "Prizes & Certificates",
+    "tracks": [
+      "Engineering Students",
+      "Postgraduate",
+      "Undergraduate",
+      "Management",
+      "Medical",
+      "Law",
+      "Arts, Commerce, Sciences & Others"
+    ],
+    "score": 50,
+    "matched_reasons": [
+      "🌐 **Accessible Online Mode** (+15 pts)",
+      "👤 **Solo Eligible (1 Member)** (+35 pts)"
+    ],
+    "is_nagpur_local": false,
+    "is_maharashtra": false,
+    "is_active": true,
+    "discovered_at": "2026-11-27T14:33:10.743775+00:00"
   },
   {
     "id": "unstop:1822884",
@@ -2483,7 +2486,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-27T04:40:48.533408+00:00"
+    "discovered_at": "2026-11-27T14:33:12.509527+00:00"
   },
   {
     "id": "unstop:1828497",
@@ -2516,7 +2519,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-27T04:40:46.514554+00:00"
+    "discovered_at": "2026-11-27T14:33:10.745419+00:00"
   },
   {
     "id": "devpost:31108",
@@ -2551,14 +2554,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-27T04:40:53.438239+00:00"
+    "discovered_at": "2026-11-27T14:33:17.441966+00:00"
   },
   {
     "id": "devpost:31644",
     "source": "Devpost",
     "title": "Reddit’s Game of the Day Hackathon",
     "url": "https://redditgameofday2026.devpost.com/",
-    "description": "Devpost hackathon. 12 days left",
+    "description": "Devpost hackathon. 11 days left",
     "organizer": "reddit",
     "venue": "Online",
     "mode": "Online",
@@ -2585,14 +2588,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-27T04:40:53.154129+00:00"
+    "discovered_at": "2026-11-27T14:33:17.152388+00:00"
   },
   {
     "id": "devpost:31773",
     "source": "Devpost",
     "title": "LaunchPad Hacks (580k In Prizes!)",
     "url": "https://launchpad-hacks.devpost.com/",
-    "description": "Devpost hackathon. 8 days left",
+    "description": "Devpost hackathon. 7 days left",
     "organizer": "Hack4TodayOrg",
     "venue": "Online",
     "mode": "Online",
@@ -2619,14 +2622,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-27T04:40:53.438172+00:00"
+    "discovered_at": "2026-11-27T14:33:17.441926+00:00"
   },
   {
     "id": "devpost:31795",
     "source": "Devpost",
     "title": "AccessED Hacks",
     "url": "https://accessed-hacks.devpost.com/",
-    "description": "Devpost hackathon. 24 days left",
+    "description": "Devpost hackathon. 23 days left",
     "organizer": "AccessEDnpo",
     "venue": "Online",
     "mode": "Online",
@@ -2654,7 +2657,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-27T04:40:53.438254+00:00"
+    "discovered_at": "2026-11-27T14:33:17.441979+00:00"
   },
   {
     "id": "devpost:31682",
@@ -2689,7 +2692,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-27T04:40:53.438249+00:00"
+    "discovered_at": "2026-11-27T14:33:17.441975+00:00"
   },
   {
     "id": "unstop:1823841",
@@ -2722,7 +2725,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-27T04:40:48.533059+00:00"
+    "discovered_at": "2026-11-27T14:33:12.509159+00:00"
   },
   {
     "id": "unstop:1798676",
@@ -2761,7 +2764,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-27T04:40:46.513867+00:00"
+    "discovered_at": "2026-11-27T14:33:10.745213+00:00"
   },
   {
     "id": "unstop:1828382",
@@ -2800,7 +2803,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-27T04:40:46.514061+00:00"
+    "discovered_at": "2026-11-27T14:33:10.744386+00:00"
   },
   {
     "id": "unstop:1823379",
@@ -2833,6 +2836,6 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-27T04:40:48.533156+00:00"
+    "discovered_at": "2026-11-27T14:33:12.509257+00:00"
   }
 ]

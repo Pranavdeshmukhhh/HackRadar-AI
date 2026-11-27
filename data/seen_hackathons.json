@@ -4039,5 +4039,41 @@
     "last_notified": "2026-11-27T04:40:57.021559+00:00",
     "is_nagpur_local": false,
     "solo_allowed": true
+  },
+  "unstop:1830923": {
+    "title": "ActTrident AI Hackathon 2026",
+    "url": "https://unstop.com/hackathons/acttrident-ai-hackathon-2026-trident-shield-2026-acttrident-1830923",
+    "score": 75,
+    "source": "Unstop",
+    "last_notified": "2026-11-27T14:33:23.424507+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:1829467": {
+    "title": "Infriqa Design. Build. Operate. Challenge",
+    "url": "https://unstop.com/hackathons/infriqa-design-build-operate-challenge-infriqa-1829467",
+    "score": 75,
+    "source": "Unstop",
+    "last_notified": "2026-11-27T14:33:23.424507+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:1830705": {
+    "title": "CodeAtScale - National Hackathon",
+    "url": "https://unstop.com/hackathons/codeatscale-national-hackathon-hackwithpune-1830705",
+    "score": 75,
+    "source": "Unstop",
+    "last_notified": "2026-11-27T14:33:23.424507+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
+  },
+  "unstop:1830429": {
+    "title": "CodeHive Coding Night",
+    "url": "https://unstop.com/hackathons/codehive-rivalry-night-code-hive-1830429",
+    "score": 50,
+    "source": "Unstop",
+    "last_notified": "2026-11-27T14:33:23.424507+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
   }
 }

@@ -4075,5 +4075,86 @@
     "last_notified": "2026-11-27T14:33:23.424507+00:00",
     "is_nagpur_local": false,
     "solo_allowed": true
+  },
+  "unstop:1746232": {
+    "title": "Craft N Code (Telangana)",
+    "url": "https://unstop.com/hackathons/craft-n-code-telangana-d3-2026-tech-fest-iiit-bhubaneswar-international-institute-of-information-technology-i-1746232",
+    "score": 40,
+    "source": "Unstop",
+    "last_notified": "2026-11-27T23:06:49.274074+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": false
+  },
+  "unstop:1746142": {
+    "title": "Craft N Code (Haryana)",
+    "url": "https://unstop.com/hackathons/craft-n-code-haryana-d3-2026-tech-fest-iiit-bhubaneswar-international-institute-of-information-technology-iii-1746142",
+    "score": 40,
+    "source": "Unstop",
+    "last_notified": "2026-11-27T23:06:49.274074+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": false
+  },
+  "unstop:1746233": {
+    "title": "Craft N Code (Delhi)",
+    "url": "https://unstop.com/hackathons/craft-n-code-delhi-d3-2026-tech-fest-iiit-bhubaneswar-international-institute-of-information-technology-iiit--1746233",
+    "score": 40,
+    "source": "Unstop",
+    "last_notified": "2026-11-27T23:06:49.274074+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": false
+  },
+  "unstop:1746234": {
+    "title": "Craft N Code (Tamil Nadu)",
+    "url": "https://unstop.com/hackathons/craft-n-code-tamil-nadu-d3-2026-tech-fest-iiit-bhubaneswar-international-institute-of-information-technology--1746234",
+    "score": 40,
+    "source": "Unstop",
+    "last_notified": "2026-11-27T23:06:49.274074+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": false
+  },
+  "unstop:1831394": {
+    "title": "Craft N Code (Punjab)",
+    "url": "https://unstop.com/hackathons/craft-n-code-punjab-d3-2026-tech-fest-iiit-bhubaneswar-international-institute-of-information-technology-iiit-1831394",
+    "score": 40,
+    "source": "Unstop",
+    "last_notified": "2026-11-27T23:06:49.274074+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": false
+  },
+  "unstop:1831393": {
+    "title": "Craft N Code (Bihar)",
+    "url": "https://unstop.com/hackathons/craft-n-code-bihar-d3-2026-tech-fest-iiit-bhubaneswar-international-institute-of-information-technology-iiit--1831393",
+    "score": 40,
+    "source": "Unstop",
+    "last_notified": "2026-11-27T23:06:49.274074+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": false
+  },
+  "unstop:1831381": {
+    "title": "Craft N Code (Andhra Pradesh)",
+    "url": "https://unstop.com/hackathons/craft-n-code-andhra-pradesh-d3-2026-tech-fest-iiit-bhubaneswar-international-institute-of-information-technol-1831381",
+    "score": 40,
+    "source": "Unstop",
+    "last_notified": "2026-11-27T23:06:49.274074+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": false
+  },
+  "unstop:1831390": {
+    "title": "Craft N Code (Jharkhand)",
+    "url": "https://unstop.com/hackathons/craft-n-code-jharkhand-d3-2026-tech-fest-iiit-bhubaneswar-international-institute-of-information-technology-i-1831390",
+    "score": 40,
+    "source": "Unstop",
+    "last_notified": "2026-11-27T23:06:49.274074+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": false
+  },
+  "unstop:1831389": {
+    "title": "Craft N Code (Madhya Pradesh)",
+    "url": "https://unstop.com/hackathons/craft-n-code-madhya-pradesh-d3-2026-tech-fest-iiit-bhubaneswar-international-institute-of-information-technol-1831389",
+    "score": 40,
+    "source": "Unstop",
+    "last_notified": "2026-11-27T23:06:49.274074+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": false
   }
 }

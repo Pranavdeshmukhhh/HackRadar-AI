@@ -33,7 +33,7 @@
     "is_nagpur_local": true,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-27T14:33:20.271364+00:00"
+    "discovered_at": "2026-11-27T23:06:42.233551+00:00"
   },
   {
     "id": "unstop:1820854",
@@ -73,7 +73,7 @@
     "is_nagpur_local": true,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-27T14:33:12.508903+00:00"
+    "discovered_at": "2026-11-27T23:06:35.999172+00:00"
   },
   {
     "id": "unstop:1820851",
@@ -110,7 +110,7 @@
     "is_nagpur_local": true,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-27T14:33:12.508507+00:00"
+    "discovered_at": "2026-11-27T23:06:35.998661+00:00"
   },
   {
     "id": "unstop:1820895",
@@ -149,7 +149,7 @@
     "is_nagpur_local": true,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-27T14:33:12.508684+00:00"
+    "discovered_at": "2026-11-27T23:06:35.998890+00:00"
   },
   {
     "id": "unstop:1820868",
@@ -184,7 +184,43 @@
     "is_nagpur_local": true,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-27T14:33:12.508775+00:00"
+    "discovered_at": "2026-11-27T23:06:35.999005+00:00"
+  },
+  {
+    "id": "college:mindsparkorg",
+    "source": "CollegePortal",
+    "title": "MindSpark '26 | 20th Edition Annual National Technical Festival | COEP Tech",
+    "url": "https://mind-spark.org",
+    "description": "College hackathon detected at mind-spark.org. Check official portal for rules and registration.",
+    "organizer": "mind-spark.org",
+    "venue": "mind-spark.org",
+    "mode": "In-Person",
+    "city": null,
+    "state": null,
+    "country": null,
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "min_team_size": 1,
+    "max_team_size": 4,
+    "solo_allowed": true,
+    "eligibility": "College and Engineering Students",
+    "prize_pool": "Prizes & Cash Awards",
+    "tracks": [
+      "Software",
+      "Web Development",
+      "AI/ML"
+    ],
+    "score": 85,
+    "matched_reasons": [
+      "🏢 **Maharashtra Proximity** (+25 pts) [Coep]",
+      "👤 **Solo Eligible (1 Member)** (+35 pts)",
+      "🤖 **AI & Software Tracks** (+25 pts) [AI, ML, Web Development]"
+    ],
+    "is_nagpur_local": false,
+    "is_maharashtra": true,
+    "is_active": true,
+    "discovered_at": "2026-11-27T23:06:41.801851+00:00"
   },
   {
     "id": "unstop:1826953",
@@ -224,7 +260,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-27T14:33:10.744250+00:00"
+    "discovered_at": "2026-11-27T23:06:33.660726+00:00"
   },
   {
     "id": "unstop:1821954",
@@ -258,7 +294,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-27T14:33:12.509586+00:00"
+    "discovered_at": "2026-11-27T23:06:36.000153+00:00"
   },
   {
     "id": "unstop:1829639",
@@ -294,7 +330,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-27T14:33:10.743946+00:00"
+    "discovered_at": "2026-11-27T23:06:33.660634+00:00"
   },
   {
     "id": "unstop:1812323",
@@ -335,7 +371,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-27T14:33:10.745776+00:00"
+    "discovered_at": "2026-11-27T23:06:35.996899+00:00"
   },
   {
     "id": "unstop:1824377",
@@ -375,7 +411,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-27T14:33:12.508986+00:00"
+    "discovered_at": "2026-11-27T23:06:35.999275+00:00"
   },
   {
     "id": "unstop:1830923",
@@ -411,7 +447,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-27T14:33:10.743503+00:00"
+    "discovered_at": "2026-11-27T23:06:33.660001+00:00"
   },
   {
     "id": "unstop:1820715",
@@ -445,7 +481,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-27T14:33:14.547501+00:00"
+    "discovered_at": "2026-11-27T23:06:37.155006+00:00"
   },
   {
     "id": "unstop:1823739",
@@ -482,7 +518,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-27T14:33:12.509200+00:00"
+    "discovered_at": "2026-11-27T23:06:35.999553+00:00"
   },
   {
     "id": "unstop:1826250",
@@ -524,7 +560,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-27T14:33:12.508034+00:00"
+    "discovered_at": "2026-11-27T23:06:35.998062+00:00"
   },
   {
     "id": "unstop:1826157",
@@ -562,7 +598,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-27T14:33:12.508170+00:00"
+    "discovered_at": "2026-11-27T23:06:35.998237+00:00"
   },
   {
     "id": "unstop:1825506",
@@ -596,41 +632,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-27T14:33:12.508265+00:00"
-  },
-  {
-    "id": "unstop:1823604",
-    "source": "Unstop",
-    "title": "Adaptics - Open Innovation Hackathon",
-    "url": "https://unstop.com/hackathons/adaptics-open-innovation-hackathon-makers-need-more-mnm-1823604",
-    "description": "Adaptics is an open innovation hackathon organized by MnM (Technology Partner- Adaption Labs, .cv, .xyz) , bringing together individuals who are passionate about technology, the hackathon encourages participants to explore challenges across diverse domains, including healthcare for the elderly, agricultural supply chain management, global carbon emission reduction, and the application of Artificial Intelligence in rural development and economic empowerment . Participants are also free to identify problems beyond these suggested domains and propose their own innovative solutions. For all updates join Whatsapp Group: https://chat.whatsapp.com/FcImRJZMxITKreWgKMjxNn&nbsp; Adaptics is structured into three competitive rounds: Round 1 &ndash; Idea Presentation: Participants submit a PowerPoint presentation outlining the problem they aim to solve, their proposed solution, its innovation and potential impact. Round 2 &ndash; Prototype Development &amp; Showcase: Shortlisted participants develop a working prototype of their proposed solution and showcase their progress through a LinkedIn post. Finale &ndash; Jury Evaluation: The top shortlisted participants present their solutions before a jury panel for final evaluation. Event Duration: 9 December 2026, 12:00 AM &ndash; 11 December 2026, 11:59 PM. Adaptics is more than a competition. It is an opportunity to turn ideas into working solutions, challenge conventional thinking and demonstrate how individual innovation can address problems that matter. Think independently. Build relentlessly. Create impact. &nbsp;ADAPTICS",
-    "organizer": "Makers Need More (MnM)",
-    "venue": "Online",
-    "mode": "Online",
-    "city": null,
-    "state": "online",
-    "country": null,
-    "start_date": "2026-11-23T19:20:00+05:30",
-    "end_date": "2026-12-11T23:59:00+05:30",
-    "registration_deadline": "2026-12-09T17:00:00+05:30",
-    "min_team_size": 1,
-    "max_team_size": 1,
-    "solo_allowed": true,
-    "eligibility": "Open to college students & coders",
-    "prize_pool": "Prizes & Certificates",
-    "tracks": [
-      "All"
-    ],
-    "score": 75,
-    "matched_reasons": [
-      "🌐 **Accessible Online Mode** (+15 pts)",
-      "👤 **Solo Eligible (1 Member)** (+35 pts)",
-      "🤖 **AI & Software Tracks** (+25 pts) [Artificial Intelligence, Open Innovation]"
-    ],
-    "is_nagpur_local": false,
-    "is_maharashtra": false,
-    "is_active": true,
-    "discovered_at": "2026-11-27T14:33:12.508322+00:00"
+    "discovered_at": "2026-11-27T23:06:35.998358+00:00"
   },
   {
     "id": "unstop:1829467",
@@ -664,7 +666,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-27T14:33:10.743654+00:00"
+    "discovered_at": "2026-11-27T23:06:33.660163+00:00"
   },
   {
     "id": "unstop:1828890",
@@ -698,7 +700,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-27T14:33:10.745291+00:00"
+    "discovered_at": "2026-11-27T23:06:33.662036+00:00"
   },
   {
     "id": "unstop:1820502",
@@ -740,7 +742,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-27T14:33:12.508457+00:00"
+    "discovered_at": "2026-11-27T23:06:35.998598+00:00"
   },
   {
     "id": "unstop:1828678",
@@ -777,7 +779,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-27T14:33:10.745247+00:00"
+    "discovered_at": "2026-11-27T23:06:33.661995+00:00"
   },
   {
     "id": "unstop:1829921",
@@ -811,7 +813,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-27T14:33:10.744136+00:00"
+    "discovered_at": "2026-11-27T23:06:33.661205+00:00"
   },
   {
     "id": "unstop:1817824",
@@ -852,7 +854,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-27T14:33:10.744810+00:00"
+    "discovered_at": "2026-11-27T23:06:33.661386+00:00"
   },
   {
     "id": "unstop:1829674",
@@ -886,7 +888,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-27T14:33:10.744179+00:00"
+    "discovered_at": "2026-11-27T23:06:33.661259+00:00"
   },
   {
     "id": "unstop:1825938",
@@ -924,7 +926,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-27T14:33:10.744637+00:00"
+    "discovered_at": "2026-11-27T23:06:35.997099+00:00"
   },
   {
     "id": "unstop:1824394",
@@ -958,7 +960,41 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-27T14:33:12.508557+00:00"
+    "discovered_at": "2026-11-27T23:06:35.998724+00:00"
+  },
+  {
+    "id": "unstop:1823604",
+    "source": "Unstop",
+    "title": "Adaptics - Open Innovation Hackathon",
+    "url": "https://unstop.com/hackathons/adaptics-open-innovation-hackathon-makers-need-more-mnm-1823604",
+    "description": "Adaptics is an open innovation hackathon organized by MnM (Technology Partner- Adaption Labs, .cv, .xyz) , bringing together individuals who are passionate about technology, the hackathon encourages participants to explore challenges across diverse domains, including healthcare for the elderly, agricultural supply chain management, global carbon emission reduction, and the application of Artificial Intelligence in rural development and economic empowerment . Participants are also free to identify problems beyond these suggested domains and propose their own innovative solutions. For all updates join Whatsapp Group: https://chat.whatsapp.com/FcImRJZMxITKreWgKMjxNn&nbsp; Adaptics is structured into three competitive rounds: Round 1 &ndash; Idea Presentation: Participants submit a PowerPoint presentation outlining the problem they aim to solve, their proposed solution, its innovation and potential impact. Round 2 &ndash; Prototype Development &amp; Showcase: Shortlisted participants develop a working prototype of their proposed solution and showcase their progress through a LinkedIn post. Finale &ndash; Jury Evaluation: The top shortlisted participants present their solutions before a jury panel for final evaluation. Event Duration: 20 December 2026, 12:00 AM &ndash; 22 December 2026, 11:59 PM. Adaptics is more than a competition. It is an opportunity to turn ideas into working solutions, challenge conventional thinking and demonstrate how individual innovation can address problems that matter. Think independently. Build relentlessly. Create impact. &nbsp;ADAPTICS",
+    "organizer": "Makers Need More (MnM)",
+    "venue": "Online",
+    "mode": "Online",
+    "city": null,
+    "state": "online",
+    "country": null,
+    "start_date": "2026-11-23T19:20:00+05:30",
+    "end_date": "2026-12-22T23:59:00+05:30",
+    "registration_deadline": "2026-12-20T17:00:00+05:30",
+    "min_team_size": 1,
+    "max_team_size": 1,
+    "solo_allowed": true,
+    "eligibility": "Open to college students & coders",
+    "prize_pool": "Prizes & Certificates",
+    "tracks": [
+      "All"
+    ],
+    "score": 75,
+    "matched_reasons": [
+      "🌐 **Accessible Online Mode** (+15 pts)",
+      "👤 **Solo Eligible (1 Member)** (+35 pts)",
+      "🤖 **AI & Software Tracks** (+25 pts) [Artificial Intelligence, Open Innovation]"
+    ],
+    "is_nagpur_local": false,
+    "is_maharashtra": false,
+    "is_active": true,
+    "discovered_at": "2026-11-27T23:06:35.998420+00:00"
   },
   {
     "id": "unstop:1820870",
@@ -992,7 +1028,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-27T14:33:12.509485+00:00"
+    "discovered_at": "2026-11-27T23:06:36.000027+00:00"
   },
   {
     "id": "unstop:1826567",
@@ -1029,7 +1065,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-27T14:33:12.507907+00:00"
+    "discovered_at": "2026-11-27T23:06:35.997917+00:00"
   },
   {
     "id": "unstop:1821473",
@@ -1069,7 +1105,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-27T14:33:12.508214+00:00"
+    "discovered_at": "2026-11-27T23:06:35.998292+00:00"
   },
   {
     "id": "unstop:1827866",
@@ -1106,7 +1142,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-27T14:33:10.745455+00:00"
+    "discovered_at": "2026-11-27T23:06:33.662223+00:00"
   },
   {
     "id": "unstop:1821912",
@@ -1144,14 +1180,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-27T14:33:12.509311+00:00"
+    "discovered_at": "2026-11-27T23:06:35.999804+00:00"
   },
   {
     "id": "unstop:1826867",
     "source": "Unstop",
     "title": "UNIVION: CHRONOS DE NOVO",
     "url": "https://unstop.com/hackathons/univion-chronos-de-novo-sieeds-1826867",
-    "description": "UNIVION: CHRONOS DE NOVO National-Level 36-Hour Hackathon | SIEEDS Foundation About the Event UNIVION: CHRONOS DE NOVO is the flagship national-level hackathon organised by the SIEEDS Foundation (SIEEDS4SAGE), scheduled for 15-16 January 2027 at IIT Delhi . The event brings together student developers, researchers, engineers, designers and innovators from across India to build technology-driven solutions to real-world challenges. The hackathon promotes interdisciplinary collaboration, innovation and practical problem-solving across six frontier technology domains. Tracks Artificial Intelligence: Machine learning, generative AI and intelligent automation. Quantum Computing: Quantum algorithms, simulation and quantum information processing. Quant Finance: Algorithmic trading, financial modelling and risk analytics. Web3: Blockchain, decentralised applications and digital identity. Robo-Autonomics: Robotics, embedded systems and autonomous technologies. Cybersecurity: Cryptography, network security and threat intelligence. Eligibility &amp; Team Formation Open to undergraduate and postgraduate students from recognised institutions across India. Inter-college and interdisciplinary teams are permitted. Participants must provide valid institutional identification when required. Each participant may register with only one team. Final team-size requirements will be specified in the official registration guidelines. Competition Format &amp; Timeline The competition will consist of two rounds: Round 1: Online Submission Round 26 November 2026: Registrations and submissions open. 26 December 2026: Submission deadline. 4 January 2027: Finalist announcement. Round 2: Offline Grand Finale 8 January 2027: Finalist onboarding. 15-16 January 2027: 36-hour Grand Finale at IIT Delhi. Approximately 100 finalist teams will be shortlisted from the online round to compete in the offline finale. Evaluation Criteria Projects will be assessed on: Innovation and originality. Technical implementation and complexity. Practical applicability and feasibility. Scalability and potential impact. Prototype quality and demonstration. Presentation and clarity. Rules &amp; Guidelines All participants must register through the official platform and provide accurate information. Projects must align with the selected technology track. Plagiarism, misrepresentation and unfair practices are strictly prohibited. Third-party APIs, datasets, libraries and open-source components must be disclosed. Teams must adhere to submission deadlines and evaluation guidelines. Participants attending the offline finale must comply with IIT Delhi campus protocols. Organisers reserve the right to modify operational arrangements when necessary.",
+    "description": "UNIVION: CHRONOS DE NOVO National-Level 36-Hour Hackathon | SIEEDS Foundation About the Event UNIVION: CHRONOS DE NOVO is the flagship national-level hackathon organised by the SIEEDS Foundation (SIEEDS4SAGE), scheduled for 15-16 January 2027 at IIT Delhi . The event brings together student developers, researchers, engineers, designers and innovators from across India to build technology-driven solutions to real-world challenges. The hackathon promotes interdisciplinary collaboration, innovation and practical problem-solving across six frontier technology domains. Join the Community: https://chat.whatsapp.com/DGsE276ouD0G8n2WZkkjvX Tracks Artificial Intelligence: Machine learning, generative AI and intelligent automation. Quantum Computing: Quantum algorithms, simulation and quantum information processing. Quant Finance: Algorithmic trading, financial modelling and risk analytics. Web3: Blockchain, decentralised applications and digital identity. Robo-Autonomics: Robotics, embedded systems and autonomous technologies. Cybersecurity: Cryptography, network security and threat intelligence. Eligibility &amp; Team Formation Open to undergraduate and postgraduate students from recognised institutions across India. Inter-college and interdisciplinary teams are permitted. Participants must provide valid institutional identification when required. Each participant may register with only one team. Final team-size requirements will be specified in the official registration guidelines. Competition Format &amp; Timeline The competition will consist of two rounds: Round 1: Online Submission Round 26 November 2026: Registrations and submissions open. 26 December 2026: Submission deadline. 4 January 2027: Finalist announcement. Round 2: Offline Grand Finale 8 January 2027: Finalist onboarding. 15-16 January 2027: 36-hour Grand Finale at IIT Delhi. Approximately 100 finalist teams will be shortlisted from the online round to compete in the offline finale. Evaluation Criteria Projects will be assessed on: Innovation and originality. Technical implementation and complexity. Practical applicability and feasibility. Scalability and potential impact. Prototype quality and demonstration. Presentation and clarity. Rules &amp; Guidelines All participants must register through the official platform and provide accurate information. Projects must align with the selected technology track. Plagiarism, misrepresentation and unfair practices are strictly prohibited. Third-party APIs, datasets, libraries and open-source components must be disclosed. Teams must adhere to submission deadlines and evaluation guidelines. Participants attending the offline finale must comply with IIT Delhi campus protocols. Organisers reserve the right to modify operational arrangements when necessary. &nbsp;",
     "organizer": "SIEEDS",
     "venue": "hybrid",
     "mode": "In-Person",
@@ -1178,7 +1214,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-27T14:33:10.745381+00:00"
+    "discovered_at": "2026-11-27T23:06:33.662134+00:00"
   },
   {
     "id": "unstop:1830705",
@@ -1215,7 +1251,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-27T14:33:10.743718+00:00"
+    "discovered_at": "2026-11-27T23:06:33.660231+00:00"
   },
   {
     "id": "unstop:1828645",
@@ -1249,7 +1285,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-27T14:33:10.744097+00:00"
+    "discovered_at": "2026-11-27T23:06:33.660428+00:00"
   },
   {
     "id": "unstop:1827472",
@@ -1283,7 +1319,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-27T14:33:10.744436+00:00"
+    "discovered_at": "2026-11-27T23:06:33.660950+00:00"
   },
   {
     "id": "unstop:1826401",
@@ -1321,7 +1357,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-27T14:33:10.746021+00:00"
+    "discovered_at": "2026-11-27T23:06:35.997864+00:00"
   },
   {
     "id": "hackerearth:contextcon-remember-everything",
@@ -1357,7 +1393,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-27T14:33:19.041597+00:00"
+    "discovered_at": "2026-11-27T23:06:40.066137+00:00"
   },
   {
     "id": "devpost:30740",
@@ -1393,7 +1429,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-27T14:33:17.248653+00:00"
+    "discovered_at": "2026-11-27T23:06:39.116694+00:00"
   },
   {
     "id": "devpost:30764",
@@ -1429,7 +1465,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-27T14:33:17.441962+00:00"
+    "discovered_at": "2026-11-27T23:06:39.250945+00:00"
   },
   {
     "id": "devpost:31787",
@@ -1465,7 +1501,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-27T14:33:17.248662+00:00"
+    "discovered_at": "2026-11-27T23:06:39.116704+00:00"
   },
   {
     "id": "devpost:31642",
@@ -1501,7 +1537,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-27T14:33:17.152411+00:00"
+    "discovered_at": "2026-11-27T23:06:38.944146+00:00"
   },
   {
     "id": "devpost:31083",
@@ -1537,14 +1573,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-27T14:33:17.152397+00:00"
+    "discovered_at": "2026-11-27T23:06:38.944130+00:00"
   },
   {
     "id": "devpost:32009",
     "source": "Devpost",
     "title": "AI for Medicine: A Global Student Hackathon on the Future of Care",
     "url": "https://ai-for-medicine.devpost.com/",
-    "description": "Devpost hackathon. 8 days left",
+    "description": "Devpost hackathon. 7 days left",
     "organizer": "Open Health AI Collective",
     "venue": "Online",
     "mode": "Online",
@@ -1573,7 +1609,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-27T14:33:17.441970+00:00"
+    "discovered_at": "2026-11-27T23:06:39.250955+00:00"
   },
   {
     "id": "devpost:31480",
@@ -1609,7 +1645,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-27T14:33:17.441948+00:00"
+    "discovered_at": "2026-11-27T23:06:39.250928+00:00"
   },
   {
     "id": "devpost:31972",
@@ -1645,7 +1681,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-27T14:33:17.248670+00:00"
+    "discovered_at": "2026-11-27T23:06:39.116709+00:00"
   },
   {
     "id": "devpost:31973",
@@ -1681,7 +1717,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-27T14:33:17.152402+00:00"
+    "discovered_at": "2026-11-27T23:06:38.944136+00:00"
   },
   {
     "id": "devpost:32079",
@@ -1717,7 +1753,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-27T14:33:17.248644+00:00"
+    "discovered_at": "2026-11-27T23:06:39.116681+00:00"
   },
   {
     "id": "devpost:31808",
@@ -1753,7 +1789,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-27T14:33:17.152383+00:00"
+    "discovered_at": "2026-11-27T23:06:38.944112+00:00"
   },
   {
     "id": "devpost:32024",
@@ -1789,14 +1825,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-27T14:33:17.248649+00:00"
+    "discovered_at": "2026-11-27T23:06:39.116687+00:00"
   },
   {
     "id": "devpost:32026",
     "source": "Devpost",
     "title": "Open Agentic Web Challenge",
     "url": "https://cognizant-agenticweb.devpost.com/",
-    "description": "Devpost hackathon. about 2 months left",
+    "description": "Devpost hackathon. about 1 month left",
     "organizer": "Cognizant",
     "venue": "Online",
     "mode": "Online",
@@ -1825,7 +1861,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-27T14:33:17.152393+00:00"
+    "discovered_at": "2026-11-27T23:06:38.944125+00:00"
   },
   {
     "id": "devpost:31571",
@@ -1861,7 +1897,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-27T14:33:17.152406+00:00"
+    "discovered_at": "2026-11-27T23:06:38.944141+00:00"
   },
   {
     "id": "devpost:31886",
@@ -1897,7 +1933,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-27T14:33:17.248639+00:00"
+    "discovered_at": "2026-11-27T23:06:39.116674+00:00"
   },
   {
     "id": "devpost:31826",
@@ -1931,7 +1967,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-27T14:33:17.441953+00:00"
+    "discovered_at": "2026-11-27T23:06:39.250934+00:00"
   },
   {
     "id": "devpost:31796",
@@ -1967,14 +2003,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-27T14:33:17.441958+00:00"
+    "discovered_at": "2026-11-27T23:06:39.250940+00:00"
   },
   {
     "id": "devpost:31789",
     "source": "Devpost",
     "title": "STEM2Connect AI Hackathon",
     "url": "https://stem2connect-online-hackathon.devpost.com/",
-    "description": "Devpost hackathon. 3 days left",
+    "description": "Devpost hackathon. 2 days left",
     "organizer": "STEM2Connect",
     "venue": "Online",
     "mode": "Online",
@@ -2003,14 +2039,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-27T14:33:17.248666+00:00"
+    "discovered_at": "2026-11-27T23:06:39.116714+00:00"
   },
   {
     "id": "devpost:30789",
     "source": "Devpost",
     "title": "Arbiter Hacks V1",
     "url": "https://arbiter-hacks-v1.devpost.com/",
-    "description": "Devpost hackathon. 24 days left",
+    "description": "Devpost hackathon. 23 days left",
     "organizer": "Arbiter ",
     "venue": "Online",
     "mode": "Online",
@@ -2039,7 +2075,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-27T14:33:17.248621+00:00"
+    "discovered_at": "2026-11-27T23:06:39.116652+00:00"
   },
   {
     "id": "devpost:31907",
@@ -2075,7 +2111,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-27T14:33:17.248657+00:00"
+    "discovered_at": "2026-11-27T23:06:39.116699+00:00"
   },
   {
     "id": "devpost:31572",
@@ -2111,7 +2147,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-27T14:33:17.152376+00:00"
+    "discovered_at": "2026-11-27T23:06:38.944102+00:00"
   },
   {
     "id": "devpost:31667",
@@ -2147,46 +2183,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-27T14:33:17.152353+00:00"
-  },
-  {
-    "id": "unstop:1818894",
-    "source": "Unstop",
-    "title": "Anveshak: Open-World Object Detection for Remote Sensing",
-    "url": "https://unstop.com/hackathons/anveshak-open-world-object-detection-for-remote-sensing-iit-bombay-1818894",
-    "description": "About Anveshak: Open-World Object Detection for Remote Sensing is a national computer vision competition by Techfest, IIT Bombay. Earth-observation systems support disaster response, maritime and defence surveillance, urban planning, agriculture, and climate monitoring, yet three problems limit them in practice: imagery always contains unknown objects the taxonomy does not cover, new classes arrive gradually with only a few examples, and learning new categories can quietly degrade performance on old ones. Teams build one remote sensing detector that handles all three while keeping the same model throughout, trained entirely from random initialisation with no pretrained weights of any kind. Take on the challenge at Techfest, IIT Bombay, Asia's largest science and technology festival. Structure The competition has an online Round 1, an on-site Round 2, and an on-site Finale at Techfest, IIT Bombay. Eligibility: Open to all students with a valid ID from their educational institution. Cross-institutional teams are encouraged. Team size: Maximum 4 members per team. The Challenge: Design and train one remote sensing detector that learns in two rounds and keeps the same model throughout. It must detect 40 known classes in Round 1, flag unknown objects as unknown rather than forcing them into known classes, learn 10 new classes from a small number of images each without forgetting the base classes, and then learn 10 fresh classes in Round 2 while still flagging unknowns. Key constraints: Every model is trained from random initialisation, with no ImageNet, COCO, self-supervised (e.g. DINOv2), remote sensing, or other pretrained weights. Open-source detection frameworks are allowed with pretrained-weight loading switched off; open-vocabulary models are not permitted as the detector. The model must remain one lineage: train on Set A, continue on Set B, then continue into Round 2, with the same architecture and no retraining from scratch or replacement. Round 1 - Online Teams receive Dataset A, Dataset B, unlabelled Round 1 test images, the class list, and a validator script. They train on Dataset A first, then continue on Dataset B with the same model; training images may contain unlabelled objects of unknown classes. Teams submit one Google Drive folder containing a predictions CSV for the Round 1 test images, the Round 1 checkpoint (weights after Set A then Set B), training and inference code with a README, and a 5-7 slide methodology PPT (problem understanding, methodology, first implementation, Round 2 plan, and team roles). Screening is on the OE-Score, computed on the full Round 1 test set, plus checkpoint reproduction: organisers re-run the checkpoint on the Round 1 test images and its predictions must match the submitted CSV within tolerance. The PPT is also checked for completeness. Round 2 - On-site, 16th December 2026 Held at Techfest, IIT Bombay. The Round 2 dataset and unlabelled test images are released at the start of the Round 2 window. Teams learn 10 fresh classes from a small number of images, starting from their verified Round 1 checkpoint (no other starting weights are permitted), without forgetting earlier classes and while still flagging unknowns. Round 2 training images may contain unlabelled objects of base, few-shot, and unknown classes. Teams train on the Round 2 dataset plus data released in earlier rounds only. The window closes at a fixed time to be announced on the day; teams may submit at any point within the window. The deliverable is a predictions CSV for the Round 2 test images. Outcome: shortlisting for the Finale. Finale - On-site, 17th December 2026 Organisers re-run inference for each shortlisted team on the Round 2 test images. Shortlisted teams submit code, weights, and a two-page technical note, present their approach to the panel, and answer questions. Outcome: final ranking. Scoring Primary score is the OE-Score = 100 x 2 x mAP_K x U-F1 / (mAP_K + U-F1), built from known-class detection (mAP_K) and unknown-object handling (U-F1, the harmonic mean of unknown recall and precision). All matching uses IoU 0.5. Ranking is by OE-Score on the full test set; tie-breaks in both rounds are higher mAP_K, then higher U-F1, then earlier submission time. Timeline Registration closes - 30th November 2026, 11:59 PM Round 1 submission deadline - 30th November 2026, 11:59 PM Round 1 results announcement - 3rd December 2026 Round 2 (On-site) - 16th December 2026 Finale (On-site) - 17th December 2026 Rewards and Prizes INR 1,50,000 for the top 3 winners. Certificates for all participants who qualify for Round 2",
-    "organizer": "Indian Institute of Technology (IIT), Bombay",
-    "venue": "offline",
-    "mode": "In-Person",
-    "city": null,
-    "state": "offline",
-    "country": null,
-    "start_date": "2026-11-19T00:00:00+05:30",
-    "end_date": "2026-11-30T00:01:00+05:30",
-    "registration_deadline": "2026-11-30T00:01:00+05:30",
-    "min_team_size": 1,
-    "max_team_size": 4,
-    "solo_allowed": true,
-    "eligibility": "Undergraduate / Postgraduate & Engineering students",
-    "prize_pool": "Prizes & Certificates",
-    "tracks": [
-      "Engineering Students",
-      "Postgraduate",
-      "Undergraduate",
-      "Management",
-      "Medical",
-      "Law",
-      "Arts, Commerce, Sciences & Others"
-    ],
-    "score": 60,
-    "matched_reasons": [
-      "👤 **Solo Eligible (1 Member)** (+35 pts)",
-      "🤖 **AI & Software Tracks** (+25 pts) [Computer Vision]"
-    ],
-    "is_nagpur_local": false,
-    "is_maharashtra": false,
-    "is_active": true,
-    "discovered_at": "2026-11-27T14:33:14.547689+00:00"
+    "discovered_at": "2026-11-27T23:06:38.944074+00:00"
   },
   {
     "id": "unstop:1781454",
@@ -2225,7 +2222,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-27T14:33:14.548025+00:00"
+    "discovered_at": "2026-11-27T23:06:37.155422+00:00"
   },
   {
     "id": "unstop:1821984",
@@ -2266,7 +2263,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-27T14:33:12.509672+00:00"
+    "discovered_at": "2026-11-27T23:06:36.000259+00:00"
   },
   {
     "id": "unstop:1822588",
@@ -2305,7 +2302,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-27T14:33:12.509711+00:00"
+    "discovered_at": "2026-11-27T23:06:37.154678+00:00"
   },
   {
     "id": "unstop:1800622",
@@ -2344,73 +2341,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": true,
     "is_active": true,
-    "discovered_at": "2026-11-27T14:33:10.746046+00:00"
-  },
-  {
-    "id": "unstop:1814036",
-    "source": "Unstop",
-    "title": "Divergent Merch Design Challenge",
-    "url": "https://unstop.com/hackathons/divergent-merch-design-challenge-divergent-classes-1814036",
-    "description": "Divergent Merch Design Challenge 2026: Design Beyond the Ordinary. Create What Represents You. What if merchandise could be more than just a logo printed on a T-shirt? What if it could represent a community, a mindset, a creative journey, and a way of thinking? Divergent Classes invites creative minds, design aspirants, and college students to participate in the Divergent Merch Design Challenge 2026 . Your challenge is to conceptualise and design the next generation of Divergent student merchandise. We want you to go beyond conventional graphics and explore how design, typography, illustration, colours, and storytelling can come together to represent the identity and spirit of Divergent. About Divergent Classes Divergent Classes is a design education organisation focused on nurturing creativity, visual thinking, and design aptitude. We believe that design is not simply about drawing or creating visually appealing graphics; it is about observing, interpreting, experimenting, and communicating ideas. The Challenge Imagine yourself as a part of Divergent's creative team. Your responsibility is to conceptualise a merchandise collection that students would genuinely love to own and wear. Your designs should reflect the philosophy, identity, and community of Divergent while introducing a fresh creative direction. You are encouraged to experiment with: Illustrations and visual storytelling. Typography and graphic compositions. Symbolism and unconventional design approaches. Colours, patterns, and visual identities. Merchandise concepts that create a sense of belonging. What You Need to Create Concept &amp; Ideation: Explain your central idea, inspiration, and its connection with Divergent. Design Exploration: Explore at least two different creative directions. Include sketches, illustrations, references, or typography experiments. Final Merchandise Design: Develop your strongest concept and apply it to at least one merchandise item, such as a T-shirt, hoodie, or tote bag. Presentation: Present your creative process, design decisions, and final mockups in a structured PDF. Who Can Participate? Students, design aspirants, college students, and creative individuals interested in graphic design, illustration, branding, and visual communication. What Are We Looking For? We value original thinking, creative experimentation, conceptual clarity, brand understanding, visual communication, execution, and presentation. This is not just a competition to create the most attractive merchandise. It is an opportunity to demonstrate how you think, how you interpret a brand, and how you transform an idea into a visual experience. Don't just put a logo on a T-shirt. Give Divergent a new visual identity. Let your creativity speak. Let your design be different. Join the group for further updates: Resources WhatsApp Group Team Divergent Classes",
-    "organizer": "Divergent Classes",
-    "venue": "Online",
-    "mode": "Online",
-    "city": null,
-    "state": "online",
-    "country": null,
-    "start_date": "2026-11-17T20:00:00+05:30",
-    "end_date": "2026-11-28T00:00:00+05:30",
-    "registration_deadline": "2026-11-28T00:00:00+05:30",
-    "min_team_size": 1,
-    "max_team_size": 1,
-    "solo_allowed": true,
-    "eligibility": "Open to college students & coders",
-    "prize_pool": "Prizes & Certificates",
-    "tracks": [
-      "All"
-    ],
-    "score": 50,
-    "matched_reasons": [
-      "🌐 **Accessible Online Mode** (+15 pts)",
-      "👤 **Solo Eligible (1 Member)** (+35 pts)"
-    ],
-    "is_nagpur_local": false,
-    "is_maharashtra": false,
-    "is_active": true,
-    "discovered_at": "2026-11-27T14:33:12.507865+00:00"
-  },
-  {
-    "id": "unstop:1821962",
-    "source": "Unstop",
-    "title": "ThinCovation 2026",
-    "url": "https://unstop.com/hackathons/thincovation-2026-thincovation-2026-mdi-1821962",
-    "description": "1. Competition Launch &amp; Registrations (21st&ndash;27th November) The competition will officially be launched on 21st November. Registrations will remain open until 27th November, 11:50 PM. 2. Round 1 &ndash; Online Quiz (28th November&ndash;1st December) All registered teams will participate in an online quiz round. The quiz round will remain open for four days, from 28th November to 1st December. The quiz submissions will then be evaluated, and shortlisted teams will qualify for the next round. 3. Round 2 &ndash; Case Study Submission (3rd&ndash;10th December) Shortlisted teams will receive a case study on 3rd December. Teams will have until 10th December, 11:59 PM, to analyse the case and submit their solutions. The submission will be in the form of an executive summary presented through a PowerPoint deck. The submissions will undergo a two-day evaluation process to shortlist the finalists. 4. Round 3 &ndash; Final Jury Presentation (14th&ndash;15th December) The shortlisted finalists will present their case solutions before the jury on 14th and 15th December. The jury will evaluate the presentations, assess the proposed solutions, and determine the winners. Jury &amp; Evaluation: We are planning to have two jury members from Product Folks, who will evaluate the finalist teams during the final presentation round. This is the overall proposed structure and timeline for the competition.",
-    "organizer": "Management Development Institute (MDI), Gurgaon",
-    "venue": "Online",
-    "mode": "Online",
-    "city": null,
-    "state": "online",
-    "country": null,
-    "start_date": "2026-11-21T00:00:00+05:30",
-    "end_date": "2026-12-15T23:59:00+05:30",
-    "registration_deadline": "2026-11-28T00:00:00+05:30",
-    "min_team_size": 1,
-    "max_team_size": 3,
-    "solo_allowed": true,
-    "eligibility": "Open to college students & coders",
-    "prize_pool": "Prizes & Certificates",
-    "tracks": [
-      "All"
-    ],
-    "score": 50,
-    "matched_reasons": [
-      "🌐 **Accessible Online Mode** (+15 pts)",
-      "👤 **Solo Eligible (1 Member)** (+35 pts)"
-    ],
-    "is_nagpur_local": false,
-    "is_maharashtra": false,
-    "is_active": true,
-    "discovered_at": "2026-11-27T14:33:14.547563+00:00"
+    "discovered_at": "2026-11-27T23:06:35.997135+00:00"
   },
   {
     "id": "unstop:1830429",
@@ -2449,7 +2380,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-27T14:33:10.743775+00:00"
+    "discovered_at": "2026-11-27T23:06:33.659914+00:00"
   },
   {
     "id": "unstop:1822884",
@@ -2486,7 +2417,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-27T14:33:12.509527+00:00"
+    "discovered_at": "2026-11-27T23:06:36.000079+00:00"
   },
   {
     "id": "unstop:1828497",
@@ -2519,7 +2450,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-27T14:33:10.745419+00:00"
+    "discovered_at": "2026-11-27T23:06:33.662179+00:00"
   },
   {
     "id": "devpost:31108",
@@ -2554,7 +2485,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-27T14:33:17.441966+00:00"
+    "discovered_at": "2026-11-27T23:06:39.250950+00:00"
   },
   {
     "id": "devpost:31644",
@@ -2588,7 +2519,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-27T14:33:17.152388+00:00"
+    "discovered_at": "2026-11-27T23:06:38.944119+00:00"
   },
   {
     "id": "devpost:31773",
@@ -2622,7 +2553,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-27T14:33:17.441926+00:00"
+    "discovered_at": "2026-11-27T23:06:39.250902+00:00"
   },
   {
     "id": "devpost:31795",
@@ -2657,7 +2588,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-27T14:33:17.441979+00:00"
+    "discovered_at": "2026-11-27T23:06:39.250968+00:00"
   },
   {
     "id": "devpost:31682",
@@ -2692,7 +2623,163 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-27T14:33:17.441975+00:00"
+    "discovered_at": "2026-11-27T23:06:39.250962+00:00"
+  },
+  {
+    "id": "unstop:1746232",
+    "source": "Unstop",
+    "title": "Craft N Code (Telangana)",
+    "url": "https://unstop.com/hackathons/craft-n-code-telangana-d3-2026-tech-fest-iiit-bhubaneswar-international-institute-of-information-technology-i-1746232",
+    "description": "Craft N Code &ndash; Telangana State Qualifier This State Round is exclusively for students studying in colleges across Telangana. Please register only if your institution is located in Telangana. Get ready to showcase your innovation, creativity, and coding skills at the Craft N Code Telangana State Qualifier . This qualifier provides an opportunity for Telangana's talented student innovators to showcase their skills and compete for a chance to advance to the Craft N Code National Hackathon , hosted by IIIT Bhubaneswar. The Telangana State Qualifier will follow a structured evaluation process where teams will get the opportunity to understand the challenge, brainstorm innovative ideas, develop technology-driven solutions, and present their projects. Participants will be evaluated on their problem-solving approach, innovation, technical implementation, creativity, presentation, and overall impact of their solutions. The National Finals of Craft N Code will be held at IIIT Bhubaneswar from 5th to 7th February 2027 , bringing together the top qualifying teams from across India. Craft N Code is more than just a coding competition; it is a platform for solving real-world problems through technology, collaboration, creativity, and innovation. Participants will get the opportunity to transform their ideas into practical solutions while working alongside talented students and developers from across Telangana. The following are the tracks for the prelims: HealthTech: Build solutions that improve access, quality, or efficiency of healthcare. Think about diagnostics, telemedicine platforms, mental health tools, patient record management, wearable-driven health monitoring, etc. EdTech: Create tools that make learning more personalized, accessible, or effective. This spans adaptive learning platforms, skill-gap assessment tools, accessibility aids for differently-abled learners, solutions for low-resource/rural education, etc. Cybersecurity &amp; Privacy: Tackle problems around securing systems, data, and identities. Ideas can include threat/anomaly detection, secure authentication mechanisms, privacy-preserving data sharing, tools that help everyday users protect themselves online, etc. Mobility &amp; Transportation: Solve for movement of people or goods; traffic optimization, EV charging infrastructure, public transit efficiency, logistics/fleet management, road safety, etc. AgriTech &amp; Food Security: Address challenges across the farm-to-table chain: crop health monitoring, yield prediction, supply chain traceability, market access for farmers, food waste reduction, etc. Open Innovation: No fixed domain &ndash; bring any technically sound idea that solves a genuine problem, even outside the five tracks above. This is the track for interdisciplinary or unconventional ideas. If you're ready to challenge yourself, build innovative solutions, and showcase your technical skills, this is your opportunity to step forward. Let's innovate. Let's build. Let's Craft N Code.",
+    "organizer": "International Institute of Information Technology (IIIT), Bhubaneswar",
+    "venue": "Online",
+    "mode": "Online",
+    "city": null,
+    "state": "online",
+    "country": null,
+    "start_date": "2026-08-30T00:01:00+05:30",
+    "end_date": "2027-02-06T16:00:00+05:30",
+    "registration_deadline": "2026-11-30T00:00:00+05:30",
+    "min_team_size": 2,
+    "max_team_size": 4,
+    "solo_allowed": false,
+    "eligibility": "Undergraduate / Postgraduate & Engineering students",
+    "prize_pool": "Prizes & Certificates",
+    "tracks": [
+      "Engineering Students",
+      "Postgraduate",
+      "Undergraduate",
+      "Management",
+      "Medical",
+      "Law",
+      "Arts, Commerce, Sciences & Others"
+    ],
+    "score": 40,
+    "matched_reasons": [
+      "🌐 **Accessible Online Mode** (+15 pts)",
+      "🤖 **AI & Software Tracks** (+25 pts) [Open Innovation, Cybersecurity]"
+    ],
+    "is_nagpur_local": false,
+    "is_maharashtra": false,
+    "is_active": true,
+    "discovered_at": "2026-11-27T23:06:37.155621+00:00"
+  },
+  {
+    "id": "unstop:1746142",
+    "source": "Unstop",
+    "title": "Craft N Code (Haryana)",
+    "url": "https://unstop.com/hackathons/craft-n-code-haryana-d3-2026-tech-fest-iiit-bhubaneswar-international-institute-of-information-technology-iii-1746142",
+    "description": "Craft N Code &ndash; Haryana State Qualifier This State Round is exclusively for students studying in colleges across Haryana. Please register only if your institution is located in Haryana. Get ready to showcase your innovation, creativity, and coding skills at the Craft N Code Haryana State Qualifier . This qualifier provides an opportunity for Haryana's talented student innovators to showcase their skills and compete for a chance to advance to the Craft N Code National Hackathon , hosted by IIIT Bhubaneswar. The Haryana State Qualifier will follow a structured evaluation process where teams will get the opportunity to understand the challenge, brainstorm innovative ideas, develop technology-driven solutions, and present their projects. Participants will be evaluated on their problem-solving approach, innovation, technical implementation, creativity, presentation, and overall impact of their solutions. The National Finals of Craft N Code will be held at IIIT Bhubaneswar from 5th to 7th February 2027 , bringing together the top qualifying teams from across India. Craft N Code is more than just a coding competition; it is a platform for solving real-world problems through technology, collaboration, creativity, and innovation. Participants will get the opportunity to transform their ideas into practical solutions while working alongside talented students and developers from across Haryana. The following are the tracks for the prelims: HealthTech: Build solutions that improve access, quality, or efficiency of healthcare. Think about diagnostics, telemedicine platforms, mental health tools, patient record management, wearable-driven health monitoring, etc. EdTech: Create tools that make learning more personalized, accessible, or effective. This spans adaptive learning platforms, skill-gap assessment tools, accessibility aids for differently-abled learners, solutions for low-resource/rural education, etc. Cybersecurity &amp; Privacy: Tackle problems around securing systems, data, and identities. Ideas can include threat/anomaly detection, secure authentication mechanisms, privacy-preserving data sharing, tools that help everyday users protect themselves online, etc. Mobility &amp; Transportation: Solve for movement of people or goods; traffic optimization, EV charging infrastructure, public transit efficiency, logistics/fleet management, road safety, etc. AgriTech &amp; Food Security: Address challenges across the farm-to-table chain: crop health monitoring, yield prediction, supply chain traceability, market access for farmers, food waste reduction, etc. Open Innovation: No fixed domain &ndash; bring any technically sound idea that solves a genuine problem, even outside the five tracks above. This is the track for interdisciplinary or unconventional ideas. If you're ready to challenge yourself, build innovative solutions, and showcase your technical skills, this is your opportunity to step forward. Let's innovate. Let's build. Let's Craft N Code.",
+    "organizer": "International Institute of Information Technology (IIIT), Bhubaneswar",
+    "venue": "Online",
+    "mode": "Online",
+    "city": null,
+    "state": "online",
+    "country": null,
+    "start_date": "2026-08-28T18:30:00+05:30",
+    "end_date": "2027-02-06T16:00:00+05:30",
+    "registration_deadline": "2026-11-30T00:00:00+05:30",
+    "min_team_size": 2,
+    "max_team_size": 4,
+    "solo_allowed": false,
+    "eligibility": "Undergraduate / Postgraduate & Engineering students",
+    "prize_pool": "Prizes & Certificates",
+    "tracks": [
+      "Engineering Students",
+      "Postgraduate",
+      "Undergraduate",
+      "Management",
+      "Medical",
+      "Law",
+      "Arts, Commerce, Sciences & Others"
+    ],
+    "score": 40,
+    "matched_reasons": [
+      "🌐 **Accessible Online Mode** (+15 pts)",
+      "🤖 **AI & Software Tracks** (+25 pts) [Open Innovation, Cybersecurity]"
+    ],
+    "is_nagpur_local": false,
+    "is_maharashtra": false,
+    "is_active": true,
+    "discovered_at": "2026-11-27T23:06:37.155712+00:00"
+  },
+  {
+    "id": "unstop:1746233",
+    "source": "Unstop",
+    "title": "Craft N Code (Delhi)",
+    "url": "https://unstop.com/hackathons/craft-n-code-delhi-d3-2026-tech-fest-iiit-bhubaneswar-international-institute-of-information-technology-iiit--1746233",
+    "description": "Craft N Code &ndash; Delhi State Qualifier This State Round is exclusively for students studying in colleges across Delhi. Please register only if your institution is located in Delhi. Get ready to showcase your innovation, creativity, and coding skills at the Craft N Code Delhi State Qualifier . This qualifier provides an opportunity for Delhi's talented student innovators to showcase their skills and compete for a chance to advance to the Craft N Code National Hackathon , hosted by IIIT Bhubaneswar. The Delhi State Qualifier will follow a structured evaluation process where teams will get the opportunity to understand the challenge, brainstorm innovative ideas, develop technology-driven solutions, and present their projects. Participants will be evaluated on their problem-solving approach, innovation, technical implementation, creativity, presentation, and overall impact of their solutions. The National Finals of Craft N Code will be held at IIIT Bhubaneswar from 5th to 7th February 2027 , bringing together the top qualifying teams from across India. Craft N Code is more than just a coding competition; it is a platform for solving real-world problems through technology, collaboration, creativity, and innovation. Participants will get the opportunity to transform their ideas into practical solutions while working alongside talented students and developers from across Delhi. The following are the tracks for the prelims: HealthTech: Build solutions that improve access, quality, or efficiency of healthcare. Think about diagnostics, telemedicine platforms, mental health tools, patient record management, wearable-driven health monitoring, etc. EdTech: Create tools that make learning more personalized, accessible, or effective. This spans adaptive learning platforms, skill-gap assessment tools, accessibility aids for differently-abled learners, solutions for low-resource/rural education, etc. Cybersecurity &amp; Privacy: Tackle problems around securing systems, data, and identities. Ideas can include threat/anomaly detection, secure authentication mechanisms, privacy-preserving data sharing, tools that help everyday users protect themselves online, etc. Mobility &amp; Transportation: Solve for movement of people or goods; traffic optimization, EV charging infrastructure, public transit efficiency, logistics/fleet management, road safety, etc. AgriTech &amp; Food Security: Address challenges across the farm-to-table chain: crop health monitoring, yield prediction, supply chain traceability, market access for farmers, food waste reduction, etc. Open Innovation: No fixed domain &ndash; bring any technically sound idea that solves a genuine problem, even outside the five tracks above. This is the track for interdisciplinary or unconventional ideas. If you're ready to challenge yourself, build innovative solutions, and showcase your technical skills, this is your opportunity to step forward. Let's innovate. Let's build. Let's Craft N Code.",
+    "organizer": "International Institute of Information Technology (IIIT), Bhubaneswar",
+    "venue": "Online",
+    "mode": "Online",
+    "city": null,
+    "state": "online",
+    "country": null,
+    "start_date": "2026-08-30T00:01:00+05:30",
+    "end_date": "2027-02-06T16:00:00+05:30",
+    "registration_deadline": "2026-11-30T00:00:00+05:30",
+    "min_team_size": 2,
+    "max_team_size": 4,
+    "solo_allowed": false,
+    "eligibility": "Undergraduate / Postgraduate & Engineering students",
+    "prize_pool": "Prizes & Certificates",
+    "tracks": [
+      "Engineering Students",
+      "Postgraduate",
+      "Undergraduate",
+      "Management",
+      "Medical",
+      "Law",
+      "Arts, Commerce, Sciences & Others"
+    ],
+    "score": 40,
+    "matched_reasons": [
+      "🌐 **Accessible Online Mode** (+15 pts)",
+      "🤖 **AI & Software Tracks** (+25 pts) [Open Innovation, Cybersecurity]"
+    ],
+    "is_nagpur_local": false,
+    "is_maharashtra": false,
+    "is_active": true,
+    "discovered_at": "2026-11-27T23:06:37.155800+00:00"
+  },
+  {
+    "id": "unstop:1746234",
+    "source": "Unstop",
+    "title": "Craft N Code (Tamil Nadu)",
+    "url": "https://unstop.com/hackathons/craft-n-code-tamil-nadu-d3-2026-tech-fest-iiit-bhubaneswar-international-institute-of-information-technology--1746234",
+    "description": "Craft N Code &ndash; Tamil Nadu State Qualifier This State Round is exclusively for students studying in colleges across Tamil Nadu. Please register only if your institution is located in Tamil Nadu. Get ready to showcase your innovation, creativity, and coding skills at the Craft N Code Tamil Nadu State Qualifier . This qualifier provides an opportunity for Tamil Nadu's talented student innovators to showcase their skills and compete for a chance to advance to the Craft N Code National Hackathon , hosted by IIIT Bhubaneswar. The Tamil Nadu State Qualifier will follow a structured evaluation process where teams will get the opportunity to understand the challenge, brainstorm innovative ideas, develop technology-driven solutions, and present their projects. Participants will be evaluated on their problem-solving approach, innovation, technical implementation, creativity, presentation, and overall impact of their solutions. The National Finals of Craft N Code will be held at IIIT Bhubaneswar from 5th to 7th February 2027 , bringing together the top qualifying teams from across India. Craft N Code is more than just a coding competition; it is a platform for solving real-world problems through technology, collaboration, creativity, and innovation. Participants will get the opportunity to transform their ideas into practical solutions while working alongside talented students and developers from across Tamil Nadu. The following are the tracks for the prelims: HealthTech: Build solutions that improve access, quality, or efficiency of healthcare. Think about diagnostics, telemedicine platforms, mental health tools, patient record management, wearable-driven health monitoring, etc. EdTech: Create tools that make learning more personalized, accessible, or effective. This spans adaptive learning platforms, skill-gap assessment tools, accessibility aids for differently-abled learners, solutions for low-resource/rural education, etc. Cybersecurity &amp; Privacy: Tackle problems around securing systems, data, and identities. Ideas can include threat/anomaly detection, secure authentication mechanisms, privacy-preserving data sharing, tools that help everyday users protect themselves online, etc. Mobility &amp; Transportation: Solve for movement of people or goods; traffic optimization, EV charging infrastructure, public transit efficiency, logistics/fleet management, road safety, etc. AgriTech &amp; Food Security: Address challenges across the farm-to-table chain: crop health monitoring, yield prediction, supply chain traceability, market access for farmers, food waste reduction, etc. Open Innovation: No fixed domain &ndash; bring any technically sound idea that solves a genuine problem, even outside the five tracks above. This is the track for interdisciplinary or unconventional ideas. If you're ready to challenge yourself, build innovative solutions, and showcase your technical skills, this is your opportunity to step forward. Let's innovate. Let's build. Let's Craft N Code.",
+    "organizer": "International Institute of Information Technology (IIIT), Bhubaneswar",
+    "venue": "Online",
+    "mode": "Online",
+    "city": null,
+    "state": "online",
+    "country": null,
+    "start_date": "2026-08-30T00:01:00+05:30",
+    "end_date": "2027-02-06T16:00:00+05:30",
+    "registration_deadline": "2026-11-30T00:00:00+05:30",
+    "min_team_size": 2,
+    "max_team_size": 4,
+    "solo_allowed": false,
+    "eligibility": "Undergraduate / Postgraduate & Engineering students",
+    "prize_pool": "Prizes & Certificates",
+    "tracks": [
+      "Engineering Students",
+      "Postgraduate",
+      "Undergraduate",
+      "Management",
+      "Medical",
+      "Law",
+      "Arts, Commerce, Sciences & Others"
+    ],
+    "score": 40,
+    "matched_reasons": [
+      "🌐 **Accessible Online Mode** (+15 pts)",
+      "🤖 **AI & Software Tracks** (+25 pts) [Open Innovation, Cybersecurity]"
+    ],
+    "is_nagpur_local": false,
+    "is_maharashtra": false,
+    "is_active": true,
+    "discovered_at": "2026-11-27T23:06:37.155892+00:00"
   },
   {
     "id": "unstop:1823841",
@@ -2725,7 +2812,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-27T14:33:12.509159+00:00"
+    "discovered_at": "2026-11-27T23:06:35.999499+00:00"
   },
   {
     "id": "unstop:1798676",
@@ -2764,7 +2851,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-27T14:33:10.745213+00:00"
+    "discovered_at": "2026-11-27T23:06:33.661954+00:00"
   },
   {
     "id": "unstop:1828382",
@@ -2803,7 +2890,202 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-27T14:33:10.744386+00:00"
+    "discovered_at": "2026-11-27T23:06:33.660881+00:00"
+  },
+  {
+    "id": "unstop:1831394",
+    "source": "Unstop",
+    "title": "Craft N Code (Punjab)",
+    "url": "https://unstop.com/hackathons/craft-n-code-punjab-d3-2026-tech-fest-iiit-bhubaneswar-international-institute-of-information-technology-iiit-1831394",
+    "description": "Craft N Code &ndash; Punjab State Qualifier This State Round is exclusively for students studying in colleges across Punjab. Please register only if your institution is located in Punjab. Get ready to showcase your innovation, creativity, and coding skills at the Craft N Code Punjab State Qualifier, organized by IIIT Bhubaneswar. This qualifier provides an opportunity for Punjab's talented student innovators to showcase their skills and compete for a chance to advance to the Craft N Code National Hackathon, hosted by IIIT Bhubaneswar. The Punjab State Qualifier will follow a structured evaluation process where teams will get the opportunity to understand the challenge, brainstorm innovative ideas, develop technology-driven solutions, and present their projects. Participants will be evaluated on their problem-solving approach, innovation, technical implementation, creativity, presentation, and overall impact of their solutions. Important Dates: Registration Deadline: 30th December 2026 Submission Window: 27 November &ndash; 31st December 2026 Craft N Code is more than just a coding competition; it is a platform for solving real-world problems through technology, collaboration, creativity, and innovation. Participants will get the opportunity to transform their ideas into practical solutions while working alongside talented students and developers from across Punjab. The following are the tracks for the prelims: HealthTech: Build solutions that improve access, quality, or efficiency of healthcare. Think about diagnostics, telemedicine platforms, mental health tools, patient record management, wearable-driven health monitoring, etc. EdTech: Create tools that make learning more personalized, accessible, or effective. This spans adaptive learning platforms, skill-gap assessment tools, accessibility aids for differently-abled learners, solutions for low-resource/rural education, etc. Cybersecurity &amp; Privacy: Tackle problems around securing systems, data, and identities. Ideas can include threat/anomaly detection, secure authentication mechanisms, privacy-preserving data sharing, tools that help everyday users protect themselves online, etc. Mobility &amp; Transportation: Solve for movement of people or goods; traffic optimization, EV charging infrastructure, public transit efficiency, logistics/fleet management, road safety, etc. AgriTech &amp; Food Security: Address challenges across the farm-to-table chain: crop health monitoring, yield prediction, supply chain traceability, market access for farmers, food waste reduction, etc. Open Innovation: No fixed domain &ndash; bring any technically sound idea that solves a genuine problem, even outside the five tracks above. This is the track for interdisciplinary or unconventional ideas. If you're ready to challenge yourself, build innovative solutions, and showcase your technical skills, this is your opportunity to step forward. Let's innovate. Let's build. Let's Craft N Code.",
+    "organizer": "International Institute of Information Technology (IIIT), Bhubaneswar",
+    "venue": "Online",
+    "mode": "Online",
+    "city": null,
+    "state": "online",
+    "country": null,
+    "start_date": "2026-11-27T00:00:00+05:30",
+    "end_date": "2027-02-06T16:00:13+05:30",
+    "registration_deadline": "2026-12-31T23:59:17+05:30",
+    "min_team_size": 2,
+    "max_team_size": 4,
+    "solo_allowed": false,
+    "eligibility": "Undergraduate / Postgraduate & Engineering students",
+    "prize_pool": "Prizes & Certificates",
+    "tracks": [
+      "Engineering Students",
+      "Postgraduate",
+      "Undergraduate",
+      "Management",
+      "Medical",
+      "Law",
+      "Arts, Commerce, Sciences & Others"
+    ],
+    "score": 40,
+    "matched_reasons": [
+      "🌐 **Accessible Online Mode** (+15 pts)",
+      "🤖 **AI & Software Tracks** (+25 pts) [Open Innovation, Cybersecurity]"
+    ],
+    "is_nagpur_local": false,
+    "is_maharashtra": false,
+    "is_active": true,
+    "discovered_at": "2026-11-27T23:06:33.659394+00:00"
+  },
+  {
+    "id": "unstop:1831393",
+    "source": "Unstop",
+    "title": "Craft N Code (Bihar)",
+    "url": "https://unstop.com/hackathons/craft-n-code-bihar-d3-2026-tech-fest-iiit-bhubaneswar-international-institute-of-information-technology-iiit--1831393",
+    "description": "Craft N Code &ndash; Bihar State Qualifier This State Round is exclusively for students studying in colleges across Bihar. Please register only if your institution is located in Bihar. Get ready to showcase your innovation, creativity, and coding skills at the Craft N Code Bihar State Qualifier, organized by IIIT Bhubaneswar. This qualifier provides an opportunity for Bihar's talented student innovators to showcase their skills and compete for a chance to advance to the Craft N Code National Hackathon, hosted by IIIT Bhubaneswar. The Bihar State Qualifier will follow a structured evaluation process where teams will get the opportunity to understand the challenge, brainstorm innovative ideas, develop technology-driven solutions, and present their projects. Participants will be evaluated on their problem-solving approach, innovation, technical implementation, creativity, presentation, and overall impact of their solutions. Important Dates: Registration Deadline: 30th December 2026 Submission Window: 27 November &ndash; 31st December 2026 Craft N Code is more than just a coding competition; it is a platform for solving real-world problems through technology, collaboration, creativity, and innovation. Participants will get the opportunity to transform their ideas into practical solutions while working alongside talented students and developers from across Bihar. The following are the tracks for the prelims: HealthTech: Build solutions that improve access, quality, or efficiency of healthcare. Think about diagnostics, telemedicine platforms, mental health tools, patient record management, wearable-driven health monitoring, etc. EdTech: Create tools that make learning more personalized, accessible, or effective. This spans adaptive learning platforms, skill-gap assessment tools, accessibility aids for differently-abled learners, solutions for low-resource/rural education, etc. Cybersecurity &amp; Privacy: Tackle problems around securing systems, data, and identities. Ideas can include threat/anomaly detection, secure authentication mechanisms, privacy-preserving data sharing, tools that help everyday users protect themselves online, etc. Mobility &amp; Transportation: Solve for movement of people or goods; traffic optimization, EV charging infrastructure, public transit efficiency, logistics/fleet management, road safety, etc. AgriTech &amp; Food Security: Address challenges across the farm-to-table chain: crop health monitoring, yield prediction, supply chain traceability, market access for farmers, food waste reduction, etc. Open Innovation: No fixed domain &ndash; bring any technically sound idea that solves a genuine problem, even outside the five tracks above. This is the track for interdisciplinary or unconventional ideas. If you're ready to challenge yourself, build innovative solutions, and showcase your technical skills, this is your opportunity to step forward. Let's innovate. Let's build. Let's Craft N Code.",
+    "organizer": "International Institute of Information Technology (IIIT), Bhubaneswar",
+    "venue": "Online",
+    "mode": "Online",
+    "city": null,
+    "state": "online",
+    "country": null,
+    "start_date": "2026-11-27T00:00:00+05:30",
+    "end_date": "2027-02-06T16:00:17+05:30",
+    "registration_deadline": "2026-12-31T23:59:17+05:30",
+    "min_team_size": 2,
+    "max_team_size": 4,
+    "solo_allowed": false,
+    "eligibility": "Undergraduate / Postgraduate & Engineering students",
+    "prize_pool": "Prizes & Certificates",
+    "tracks": [
+      "Engineering Students",
+      "Postgraduate",
+      "Undergraduate",
+      "Management",
+      "Medical",
+      "Law",
+      "Arts, Commerce, Sciences & Others"
+    ],
+    "score": 40,
+    "matched_reasons": [
+      "🌐 **Accessible Online Mode** (+15 pts)",
+      "🤖 **AI & Software Tracks** (+25 pts) [Open Innovation, Cybersecurity]"
+    ],
+    "is_nagpur_local": false,
+    "is_maharashtra": false,
+    "is_active": true,
+    "discovered_at": "2026-11-27T23:06:33.659535+00:00"
+  },
+  {
+    "id": "unstop:1831381",
+    "source": "Unstop",
+    "title": "Craft N Code (Andhra Pradesh)",
+    "url": "https://unstop.com/hackathons/craft-n-code-andhra-pradesh-d3-2026-tech-fest-iiit-bhubaneswar-international-institute-of-information-technol-1831381",
+    "description": "Craft N Code &ndash; Andhra Pradesh State Qualifier This State Round is exclusively for students studying in colleges across Andhra Pradesh. Please register only if your institution is located in Andhra Pradesh. Get ready to showcase your innovation, creativity, and coding skills at the Craft N Code Andhra Pradesh State Qualifier, organized by IIIT Bhubaneswar. This qualifier provides an opportunity for Andhra Pradesh's talented student innovators to showcase their skills and compete for a chance to advance to the Craft N Code National Hackathon, hosted by IIIT Bhubaneswar. The Andhra Pradesh State Qualifier will follow a structured evaluation process where teams will get the opportunity to understand the challenge, brainstorm innovative ideas, develop technology-driven solutions, and present their projects. Participants will be evaluated on their problem-solving approach, innovation, technical implementation, creativity, presentation, and overall impact of their solutions. Important Dates: Registration Deadline: 30th December 2026 Submission Window: 27 November &ndash; 31st December 2026 Craft N Code is more than just a coding competition; it is a platform for solving real-world problems through technology, collaboration, creativity, and innovation. Participants will get the opportunity to transform their ideas into practical solutions while working alongside talented students and developers from across Andhra Pradesh. The following are the tracks for the prelims: HealthTech: Build solutions that improve access, quality, or efficiency of healthcare. Think about diagnostics, telemedicine platforms, mental health tools, patient record management, wearable-driven health monitoring, etc. EdTech: Create tools that make learning more personalized, accessible, or effective. This spans adaptive learning platforms, skill-gap assessment tools, accessibility aids for differently-abled learners, solutions for low-resource/rural education, etc. Cybersecurity &amp; Privacy: Tackle problems around securing systems, data, and identities. Ideas can include threat/anomaly detection, secure authentication mechanisms, privacy-preserving data sharing, tools that help everyday users protect themselves online, etc. Mobility &amp; Transportation: Solve for movement of people or goods; traffic optimization, EV charging infrastructure, public transit efficiency, logistics/fleet management, road safety, etc. AgriTech &amp; Food Security: Address challenges across the farm-to-table chain: crop health monitoring, yield prediction, supply chain traceability, market access for farmers, food waste reduction, etc. Open Innovation: No fixed domain &ndash; bring any technically sound idea that solves a genuine problem, even outside the five tracks above. This is the track for interdisciplinary or unconventional ideas. If you're ready to challenge yourself, build innovative solutions, and showcase your technical skills, this is your opportunity to step forward. Let's innovate. Let's build. Let's Craft N Code.",
+    "organizer": "International Institute of Information Technology (IIIT), Bhubaneswar",
+    "venue": "Online",
+    "mode": "Online",
+    "city": null,
+    "state": "online",
+    "country": null,
+    "start_date": "2026-11-27T00:00:00+05:30",
+    "end_date": "2027-02-06T16:00:53+05:30",
+    "registration_deadline": "2026-12-31T23:59:17+05:30",
+    "min_team_size": 2,
+    "max_team_size": 4,
+    "solo_allowed": false,
+    "eligibility": "Undergraduate / Postgraduate & Engineering students",
+    "prize_pool": "Prizes & Certificates",
+    "tracks": [
+      "Engineering Students",
+      "Postgraduate",
+      "Undergraduate",
+      "Management",
+      "Medical",
+      "Law",
+      "Arts, Commerce, Sciences & Others"
+    ],
+    "score": 40,
+    "matched_reasons": [
+      "🌐 **Accessible Online Mode** (+15 pts)",
+      "🤖 **AI & Software Tracks** (+25 pts) [Open Innovation, Cybersecurity]"
+    ],
+    "is_nagpur_local": false,
+    "is_maharashtra": false,
+    "is_active": true,
+    "discovered_at": "2026-11-27T23:06:33.659634+00:00"
+  },
+  {
+    "id": "unstop:1831390",
+    "source": "Unstop",
+    "title": "Craft N Code (Jharkhand)",
+    "url": "https://unstop.com/hackathons/craft-n-code-jharkhand-d3-2026-tech-fest-iiit-bhubaneswar-international-institute-of-information-technology-i-1831390",
+    "description": "Craft N Code &ndash; Jharkhand State Qualifier This State Round is exclusively for students studying in colleges across Jharkhand. Please register only if your institution is located in Jharkhand. Get ready to showcase your innovation, creativity, and coding skills at the Craft N Code Jharkhand State Qualifier, organized by IIIT Bhubaneswar. This qualifier provides an opportunity for Jharkhand's talented student innovators to showcase their skills and compete for a chance to advance to the Craft N Code National Hackathon, hosted by IIIT Bhubaneswar. The Jharkhand State Qualifier will follow a structured evaluation process where teams will get the opportunity to understand the challenge, brainstorm innovative ideas, develop technology-driven solutions, and present their projects. Participants will be evaluated on their problem-solving approach, innovation, technical implementation, creativity, presentation, and overall impact of their solutions. Important Dates: Registration Deadline: 30th December 2026 Submission Window: 27 November &ndash; 31st December 2026 Craft N Code is more than just a coding competition; it is a platform for solving real-world problems through technology, collaboration, creativity, and innovation. Participants will get the opportunity to transform their ideas into practical solutions while working alongside talented students and developers from across Jharkhand. The following are the tracks for the prelims: HealthTech: Build solutions that improve access, quality, or efficiency of healthcare. Think about diagnostics, telemedicine platforms, mental health tools, patient record management, wearable-driven health monitoring, etc. EdTech: Create tools that make learning more personalized, accessible, or effective. This spans adaptive learning platforms, skill-gap assessment tools, accessibility aids for differently-abled learners, solutions for low-resource/rural education, etc. Cybersecurity &amp; Privacy: Tackle problems around securing systems, data, and identities. Ideas can include threat/anomaly detection, secure authentication mechanisms, privacy-preserving data sharing, tools that help everyday users protect themselves online, etc. Mobility &amp; Transportation: Solve for movement of people or goods; traffic optimization, EV charging infrastructure, public transit efficiency, logistics/fleet management, road safety, etc. AgriTech &amp; Food Security: Address challenges across the farm-to-table chain: crop health monitoring, yield prediction, supply chain traceability, market access for farmers, food waste reduction, etc. Open Innovation: No fixed domain &ndash; bring any technically sound idea that solves a genuine problem, even outside the five tracks above. This is the track for interdisciplinary or unconventional ideas. If you're ready to challenge yourself, build innovative solutions, and showcase your technical skills, this is your opportunity to step forward. Let's innovate. Let's build. Let's Craft N Code.",
+    "organizer": "International Institute of Information Technology (IIIT), Bhubaneswar",
+    "venue": "Online",
+    "mode": "Online",
+    "city": null,
+    "state": "online",
+    "country": null,
+    "start_date": "2026-11-27T00:00:00+05:30",
+    "end_date": "2027-02-06T16:00:24+05:30",
+    "registration_deadline": "2026-12-31T23:59:17+05:30",
+    "min_team_size": 2,
+    "max_team_size": 4,
+    "solo_allowed": false,
+    "eligibility": "Undergraduate / Postgraduate & Engineering students",
+    "prize_pool": "Prizes & Certificates",
+    "tracks": [
+      "Engineering Students",
+      "Postgraduate",
+      "Undergraduate",
+      "Management",
+      "Medical",
+      "Law",
+      "Arts, Commerce, Sciences & Others"
+    ],
+    "score": 40,
+    "matched_reasons": [
+      "🌐 **Accessible Online Mode** (+15 pts)",
+      "🤖 **AI & Software Tracks** (+25 pts) [Open Innovation, Cybersecurity]"
+    ],
+    "is_nagpur_local": false,
+    "is_maharashtra": false,
+    "is_active": true,
+    "discovered_at": "2026-11-27T23:06:33.659731+00:00"
+  },
+  {
+    "id": "unstop:1831389",
+    "source": "Unstop",
+    "title": "Craft N Code (Madhya Pradesh)",
+    "url": "https://unstop.com/hackathons/craft-n-code-madhya-pradesh-d3-2026-tech-fest-iiit-bhubaneswar-international-institute-of-information-technol-1831389",
+    "description": "Craft N Code &ndash; Madhya Pradesh State Qualifier: &nbsp; Eligibility: This State Round is exclusively for students studying in colleges across Madhya Pradesh. Please register only if your institution is located in Madhya Pradesh. About The Event: Get ready to showcase your innovation, creativity, and coding skills at the Craft N Code Madhya Pradesh State Qualifier, organized by IIIT Bhubaneswar. This qualifier provides an opportunity for Madhya Pradesh's talented student innovators to showcase their skills and compete for a chance to advance to the Craft N Code National Hackathon, hosted by IIIT Bhubaneswar. The Madhya Pradesh State Qualifier will follow a structured evaluation process where teams will get the opportunity to: Understand the challenge Brainstorm innovative ideas Develop technology-driven solutions Present their projects Participants will be evaluated on: Problem-solving approach Innovation Technical implementation Creativity Presentation Overall impact of their solutions Important Dates: Registration Deadline: 30th December 2026 Submission Window: 27 November &ndash; 31st December 2026 About Craft N Code: Craft N Code is more than just a coding competition; it is a platform for solving real-world problems through technology, collaboration, creativity, and innovation. Participants will get the opportunity to transform their ideas into practical solutions while working alongside talented students and developers from across Madhya Pradesh. Tracks For The Prelims: - HealthTech: Build solutions that improve access, quality, or efficiency of healthcare. Think about diagnostics, telemedicine platforms, mental health tools, patient record management, wearable-driven health monitoring, etc. - EdTech: Create tools that make learning more personalized, accessible, or effective. This spans adaptive learning platforms, skill-gap assessment tools, accessibility aids for differently-abled learners, solutions for low-resource/rural education, etc. - Cybersecurity &amp; Privacy: Tackle problems around securing systems, data, and identities. Ideas can include threat/anomaly detection, secure authentication mechanisms, privacy-preserving data sharing, tools that help everyday users protect themselves online, etc. - Mobility &amp; Transportation: Solve for movement of people or goods; traffic optimization, EV charging infrastructure, public transit efficiency, logistics/fleet management, road safety, etc. - AgriTech &amp; Food Security: Address challenges across the farm-to-table chain: crop health monitoring, yield prediction, supply chain traceability, market access for farmers, food waste reduction, etc. - Open Innovation: No fixed domain &ndash; bring any technically sound idea that solves a genuine problem, even outside the five tracks above. This is the track for interdisciplinary or unconventional ideas. If you're ready to challenge yourself, build innovative solutions, and showcase your technical skills, this is your opportunity to step forward. Let's innovate. Let's build. Let's Craft N Code.",
+    "organizer": "International Institute of Information Technology (IIIT), Bhubaneswar",
+    "venue": "Online",
+    "mode": "Online",
+    "city": null,
+    "state": "online",
+    "country": null,
+    "start_date": "2026-11-27T00:00:00+05:30",
+    "end_date": "2027-02-06T16:00:45+05:30",
+    "registration_deadline": "2026-12-31T23:59:17+05:30",
+    "min_team_size": 2,
+    "max_team_size": 4,
+    "solo_allowed": false,
+    "eligibility": "Undergraduate / Postgraduate & Engineering students",
+    "prize_pool": "Prizes & Certificates",
+    "tracks": [
+      "Engineering Students",
+      "Postgraduate",
+      "Undergraduate",
+      "Management",
+      "Medical",
+      "Law",
+      "Arts, Commerce, Sciences & Others"
+    ],
+    "score": 40,
+    "matched_reasons": [
+      "🌐 **Accessible Online Mode** (+15 pts)",
+      "🤖 **AI & Software Tracks** (+25 pts) [Open Innovation, Cybersecurity]"
+    ],
+    "is_nagpur_local": false,
+    "is_maharashtra": false,
+    "is_active": true,
+    "discovered_at": "2026-11-27T23:06:33.659847+00:00"
   },
   {
     "id": "unstop:1823379",
@@ -2836,6 +3118,6 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-27T14:33:12.509257+00:00"
+    "discovered_at": "2026-11-27T23:06:35.999743+00:00"
   }
 ]

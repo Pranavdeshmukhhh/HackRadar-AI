@@ -33,7 +33,7 @@
     "is_nagpur_local": true,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-26T22:43:31.332466+00:00"
+    "discovered_at": "2026-11-27T04:40:56.133775+00:00"
   },
   {
     "id": "unstop:1820854",
@@ -73,7 +73,7 @@
     "is_nagpur_local": true,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-26T22:43:23.986676+00:00"
+    "discovered_at": "2026-11-27T04:40:48.532819+00:00"
   },
   {
     "id": "unstop:1820851",
@@ -110,7 +110,7 @@
     "is_nagpur_local": true,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-26T22:43:23.986390+00:00"
+    "discovered_at": "2026-11-27T04:40:48.532404+00:00"
   },
   {
     "id": "unstop:1820895",
@@ -149,7 +149,7 @@
     "is_nagpur_local": true,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-26T22:43:23.986517+00:00"
+    "discovered_at": "2026-11-27T04:40:48.532587+00:00"
   },
   {
     "id": "unstop:1820868",
@@ -184,7 +184,7 @@
     "is_nagpur_local": true,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-26T22:43:23.986581+00:00"
+    "discovered_at": "2026-11-27T04:40:48.532681+00:00"
   },
   {
     "id": "college:mindsparkorg",
@@ -220,7 +220,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": true,
     "is_active": true,
-    "discovered_at": "2026-11-26T22:43:31.087242+00:00"
+    "discovered_at": "2026-11-27T04:40:55.870945+00:00"
   },
   {
     "id": "unstop:1826953",
@@ -260,7 +260,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-26T22:43:21.703294+00:00"
+    "discovered_at": "2026-11-27T04:40:46.513508+00:00"
   },
   {
     "id": "unstop:1821954",
@@ -294,7 +294,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-26T22:43:23.987154+00:00"
+    "discovered_at": "2026-11-27T04:40:48.533463+00:00"
   },
   {
     "id": "unstop:1829639",
@@ -330,7 +330,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-26T22:43:21.703011+00:00"
+    "discovered_at": "2026-11-27T04:40:46.513219+00:00"
   },
   {
     "id": "unstop:1812323",
@@ -371,7 +371,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-26T22:43:21.704284+00:00"
+    "discovered_at": "2026-11-27T04:40:46.514908+00:00"
   },
   {
     "id": "unstop:1824377",
@@ -411,7 +411,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-26T22:43:23.986734+00:00"
+    "discovered_at": "2026-11-27T04:40:48.532899+00:00"
   },
   {
     "id": "unstop:1820715",
@@ -445,7 +445,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-26T22:43:23.987419+00:00"
+    "discovered_at": "2026-11-27T04:40:48.533808+00:00"
   },
   {
     "id": "unstop:1823739",
@@ -482,7 +482,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-26T22:43:23.986885+00:00"
+    "discovered_at": "2026-11-27T04:40:48.533100+00:00"
   },
   {
     "id": "unstop:1826250",
@@ -524,7 +524,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-26T22:43:21.704630+00:00"
+    "discovered_at": "2026-11-27T04:40:46.515385+00:00"
   },
   {
     "id": "unstop:1826157",
@@ -562,7 +562,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-26T22:43:21.704727+00:00"
+    "discovered_at": "2026-11-27T04:40:46.515519+00:00"
   },
   {
     "id": "unstop:1825506",
@@ -596,7 +596,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-26T22:43:21.704797+00:00"
+    "discovered_at": "2026-11-27T04:40:48.532151+00:00"
   },
   {
     "id": "unstop:1823604",
@@ -630,7 +630,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-26T22:43:23.986254+00:00"
+    "discovered_at": "2026-11-27T04:40:48.532195+00:00"
   },
   {
     "id": "unstop:1828890",
@@ -664,7 +664,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-26T22:43:21.703609+00:00"
+    "discovered_at": "2026-11-27T04:40:46.513934+00:00"
   },
   {
     "id": "unstop:1820502",
@@ -706,7 +706,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-26T22:43:23.986354+00:00"
+    "discovered_at": "2026-11-27T04:40:48.532353+00:00"
   },
   {
     "id": "unstop:1828678",
@@ -743,7 +743,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-26T22:43:21.703585+00:00"
+    "discovered_at": "2026-11-27T04:40:46.513901+00:00"
   },
   {
     "id": "unstop:1820028",
@@ -777,7 +777,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-26T22:43:23.987508+00:00"
+    "discovered_at": "2026-11-27T04:40:48.533927+00:00"
   },
   {
     "id": "unstop:1829921",
@@ -811,14 +811,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-26T22:43:21.702943+00:00"
+    "discovered_at": "2026-11-27T04:40:46.513110+00:00"
   },
   {
     "id": "unstop:1817824",
     "source": "Unstop",
     "title": "PromptWars x NEXORA ",
     "url": "https://unstop.com/hackathons/promptwars-x-nexora-promptwars-x-nexora-nexora-navyug-1817824",
-    "description": "About the Organization NEXORA is a student-led community focused on empowering aspiring professionals and innovators through opportunities in Artificial Intelligence, career development, hackathons, and technology-driven events. It aims to promote practical learning, collaboration, and innovation among students. About the Event PromptWars X NEXORA is an online, one-day AI-powered hackathon that brings together students from universities across India. Participants will receive a surprise problem and have a few hours to build a working AI solution using prompts, Generative AI, and prompt engineering. Organized by NEXORA in association with Hack2Skill, as part of the Build with AI initiative and the Google for Developers ecosystem, the event encourages creativity, experimentation, and practical AI innovation. What You Will Do Receive a problem statement and challenge details on the event day. Build an AI-powered solution using prompt engineering and AI-assisted development tools. Experiment with Generative AI to solve real-world problems. Submit your completed project through the Hack2Skill platform within the given time. Showcase your creativity, problem-solving skills, and innovation. Who can join Any student aged 18+, from any college or course and professionals. Beginners are welcome, and no prior AI experience is needed. This is a solo challenge, so you build, submit and are evaluated individually. There are no team requirements. What you get Prize pool of up to ₹50,000, based on the number of valid submissions (see the Prize section for details) Official co-branded certificates for participants, finalists and winners Hands-on experience building with AI under real time pressure A chance to stand out in the community Registration Step: PromptWars x NEXORA: https://hack2skill.com/event/promptwars-x-nexora/registration?utm_source=hack2skill&amp;utm_medium=homepage You all have to first register on the link given above and then register on Unstop otherwise the registration will not be counted. Join the NEXORA Navyug Community Be a part of NEXORA Navyug, our growing WhatsApp community built for students, aspiring developers, AI enthusiasts, and future innovators. NEXORA Navyug aims to create a collaborative environment where students can connect, learn, share opportunities, and grow together. What you explore in our community: - Latest updates about AI, technology, and innovation. - Hackathons, workshops, and upcoming tech events. - Internship opportunities, career guidance, and learning resources. - Networking with like-minded students and aspiring developers. - Opportunities to collaborate, share ideas, and develop new skills. Whether you're a beginner exploring technology or an aspiring innovator looking to build something impactful, NEXORA Navyug is a place to learn, connect, and grow. Join the Community. Connect. Learn. Build. Grow. WhatsApp Community: [https://chat.whatsapp.com/BAs5Ffgk2Ro57NZma7eNZN] &nbsp; Founded by: Kaushtuv Parashar Community: NEXORA Ready to Build? Bring your curiosity, creativity, and ideas. Explore the power of AI, challenge yourself, and turn your imagination into something real. Don't just learn about AI. Build with AI. Join PromptWars X NEXORA 2026 and take your first step towards becoming a builder of tomorrow.",
+    "description": "About the Organization NEXORA is a student-led community focused on empowering aspiring professionals and innovators through opportunities in Artificial Intelligence, career development, hackathons, and technology-driven events. It aims to promote practical learning, collaboration, and innovation among students. About the Event PromptWars X NEXORA is an online, one-day AI-powered hackathon that brings together students from universities across India. Participants will receive a surprise problem and have a few hours to build a working AI solution using prompts, Generative AI, and prompt engineering. Organized by NEXORA in association with Hack2Skill, as part of the Build with AI initiative and the Google for Developers ecosystem, the event encourages creativity, experimentation, and practical AI innovation. What You Will Do Receive a problem statement and challenge details on the event day. Build an AI-powered solution using prompt engineering and AI-assisted development tools. Experiment with Generative AI to solve real-world problems. Submit your completed project through the Hack2Skill platform within the given time. Showcase your creativity, problem-solving skills, and innovation. Who can join Any student aged 18+, from any college or course and professionals. Beginners are welcome, and no prior AI experience is needed. This is a solo challenge, so you build, submit and are evaluated individually. There are no team requirements. What you get Prize pool of up to ₹50,000, based on the number of valid submissions (see the Prize section for details) Official co-branded certificates for participants, finalists and winners Hands-on experience building with AI under real time pressure A chance to stand out in the community Registration Step: PromptWars x NEXORA: [https://hack2skill.com/event/promptwars-x-nexora/registration?utm_source=hack2skill&amp;utm_medium=homepage] You all have to first register on the link given above and then register on Unstop otherwise the registration will not be counted. Join the NEXORA Navyug Community Be a part of NEXORA Navyug, our growing WhatsApp community built for students, aspiring developers, AI enthusiasts, and future innovators. NEXORA Navyug aims to create a collaborative environment where students can connect, learn, share opportunities, and grow together. What you explore in our community: - Latest updates about AI, technology, and innovation. - Hackathons, workshops, and upcoming tech events. - Internship opportunities, career guidance, and learning resources. - Networking with like-minded students and aspiring developers. - Opportunities to collaborate, share ideas, and develop new skills. Whether you're a beginner exploring technology or an aspiring innovator looking to build something impactful, NEXORA Navyug is a place to learn, connect, and grow. Join the Community. Connect. Learn. Build. Grow. WhatsApp Community: [https://chat.whatsapp.com/BAs5Ffgk2Ro57NZma7eNZN] &nbsp; Founded by: Kaushtuv Parashar Community: NEXORA Ready to Build? Bring your curiosity, creativity, and ideas. Explore the power of AI, challenge yourself, and turn your imagination into something real. Don't just learn about AI. Build with AI. Join PromptWars X NEXORA 2026 and take your first step towards becoming a builder of tomorrow.",
     "organizer": "NEXORA Navyug",
     "venue": "Online",
     "mode": "Online",
@@ -852,7 +852,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-26T22:43:21.703097+00:00"
+    "discovered_at": "2026-11-27T04:40:46.513614+00:00"
   },
   {
     "id": "unstop:1829674",
@@ -886,7 +886,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-26T22:43:21.703366+00:00"
+    "discovered_at": "2026-11-27T04:40:46.513263+00:00"
   },
   {
     "id": "unstop:1825938",
@@ -924,7 +924,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-26T22:43:21.703859+00:00"
+    "discovered_at": "2026-11-27T04:40:46.514347+00:00"
   },
   {
     "id": "unstop:1824394",
@@ -958,7 +958,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-26T22:43:23.986426+00:00"
+    "discovered_at": "2026-11-27T04:40:48.532455+00:00"
   },
   {
     "id": "unstop:1814814",
@@ -994,7 +994,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-26T22:43:23.987486+00:00"
+    "discovered_at": "2026-11-27T04:40:48.533897+00:00"
   },
   {
     "id": "unstop:1820870",
@@ -1028,7 +1028,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-26T22:43:23.987083+00:00"
+    "discovered_at": "2026-11-27T04:40:48.533368+00:00"
   },
   {
     "id": "unstop:1826567",
@@ -1065,7 +1065,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-26T22:43:21.704547+00:00"
+    "discovered_at": "2026-11-27T04:40:46.515269+00:00"
   },
   {
     "id": "unstop:1821473",
@@ -1105,7 +1105,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-26T22:43:21.704759+00:00"
+    "discovered_at": "2026-11-27T04:40:46.515564+00:00"
   },
   {
     "id": "unstop:1827866",
@@ -1143,7 +1143,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-26T22:43:21.704025+00:00"
+    "discovered_at": "2026-11-27T04:40:46.514589+00:00"
   },
   {
     "id": "unstop:1821912",
@@ -1181,7 +1181,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-26T22:43:23.986956+00:00"
+    "discovered_at": "2026-11-27T04:40:48.533204+00:00"
   },
   {
     "id": "unstop:1826867",
@@ -1215,7 +1215,41 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-26T22:43:21.703975+00:00"
+    "discovered_at": "2026-11-27T04:40:46.514516+00:00"
+  },
+  {
+    "id": "unstop:1828645",
+    "source": "Unstop",
+    "title": "InteractUp Nexus National Hackathon",
+    "url": "https://unstop.com/hackathons/interactup-nexus-national-hackathon-interactup-1828645",
+    "description": "What if you could redesign the digital identity of a national-level youth organization? Welcome to the InteractUp National Hackathon, a multi-round competition where creativity meets technology and ideas transform into real digital experiences. This is your opportunity to build, experiment, innovate and showcase what you can create using technology. The Challenge: Your mission is to redesign, develop and deploy your own version of the InteractUp website, creating an exceptional UI/UX experience that is visually impressive, intuitive, interactive and genuinely useful. Think beyond conventional websites. Experiment with immersive experiences, 3D elements, animations, interactive storytelling, creative navigation, innovative features, unique layouts or anything else your imagination can bring to life. Your website should be designed keeping multiple audiences in mind, including: Students and young professionals Colleges and educational institutions Companies, brands and potential partners Communities, event participants and aspiring entrepreneurs Build something that students want to explore, colleges find valuable, companies find interesting and visitors find memorable. You are free to use any programming language, framework, development platform, technology, AI tool or workflow. Your creativity and execution are in your hands. The existing website is your starting point, not your design limitation. You are free to introduce new sections, experiences, features, layouts and interactions that you believe would make the platform more attractive and effective. Three Rounds. Multiple Challenges. One Winning Team. This hackathon consists of three project-based rounds. Round 1 begins with the InteractUp website innovation challenge. Participants progressing through the competition will encounter additional project challenges in subsequent rounds. Each round is an opportunity to push your creativity further, solve new challenges and demonstrate your ability to build meaningful digital experiences. Rewards ₹50,000 Total Cash Prize Pool Top 5 Winners: ₹10,000 each Internship Opportunity: Winners will also receive an internship opportunity with InteractUp. Exceptional Work Bonus: If a submission demonstrates exceptional creativity, quality and real-world potential, and the website is deemed suitable for actual deployment by InteractUp, the participant may receive an additional ₹50,000 bonus . This is for a website that goes beyond the competition, has the potential to strengthen InteractUp's digital presence, attract brands and partners, and create meaningful opportunities for collaboration. What You Must Submit: For Round 1, participants are required to submit: Live Website: Link to your deployed, functional website. Source Code: Link to your GitHub repository or equivalent or put all relevant folders and files in the drive. Walkthrough Video: A video demonstrating your website, its features and overall experience. Project Documentation: An explanation of your concept, design decisions, features and development approach. Tools &amp; AI Disclosure: Details of the technologies, development tools and AI tools used in a word file. All submissions must be compiled into one Word document (.docx) containing the required links and information. Participants must also provide a Google Drive folder containing their walkthrough video and supporting materials. Refer to the Round 1 Rules &amp; Guidelines for complete submission instructions. Why Participate? Build real projects instead of just presenting ideas. Showcase your creativity, technical skills and problem-solving ability. Experiment with AI, modern technologies and innovative development approaches. Challenge yourself through multiple project-based rounds. Gain recognition for your work and compete with talented innovators. Earn a cash prize and an internship opportunity. This is your chance to turn your ideas into something real, demonstrate what you can build and stand out through your work. Don't just make a website. Make us rethink what InteractUp's website could be. Reimagine. Build. Compete. About Interactup InteractUp is a registered national-level NGO dedicated to empowering young people through opportunities, leadership, innovation and collaboration. With a growing network of students and young professionals across India, it brings together ambitious individuals, institutions and organizations to create meaningful impact. Through national competitions, entrepreneurship initiatives, leadership programs, networking opportunities and international youth summits, InteractUp provides platforms for young people to learn, lead, innovate and grow. With its reach extending across India and engagement with international communities, InteractUp is building bridges between talent, ideas, institutions and opportunities, empowering the next generation of leaders, entrepreneurs and changemakers.",
+    "organizer": "InteractUp",
+    "venue": "Online",
+    "mode": "Online",
+    "city": null,
+    "state": "online",
+    "country": null,
+    "start_date": "2026-11-26T00:00:00+05:30",
+    "end_date": "2026-12-31T00:00:00+05:30",
+    "registration_deadline": "2026-12-31T00:00:00+05:30",
+    "min_team_size": 1,
+    "max_team_size": 3,
+    "solo_allowed": true,
+    "eligibility": "Open to college students & coders",
+    "prize_pool": "Prizes & Certificates",
+    "tracks": [
+      "All"
+    ],
+    "score": 75,
+    "matched_reasons": [
+      "🌐 **Accessible Online Mode** (+15 pts)",
+      "👤 **Solo Eligible (1 Member)** (+35 pts)",
+      "🤖 **AI & Software Tracks** (+25 pts) [AI]"
+    ],
+    "is_nagpur_local": false,
+    "is_maharashtra": false,
+    "is_active": true,
+    "discovered_at": "2026-11-27T04:40:46.512961+00:00"
   },
   {
     "id": "unstop:1827472",
@@ -1249,7 +1283,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-26T22:43:21.703701+00:00"
+    "discovered_at": "2026-11-27T04:40:46.514117+00:00"
   },
   {
     "id": "unstop:1826401",
@@ -1287,7 +1321,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-26T22:43:21.704462+00:00"
+    "discovered_at": "2026-11-27T04:40:46.515143+00:00"
   },
   {
     "id": "hackerearth:contextcon-remember-everything",
@@ -1323,7 +1357,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-26T22:43:29.775699+00:00"
+    "discovered_at": "2026-11-27T04:40:54.242286+00:00"
   },
   {
     "id": "devpost:30740",
@@ -1359,7 +1393,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-26T22:43:28.777476+00:00"
+    "discovered_at": "2026-11-27T04:40:53.301915+00:00"
   },
   {
     "id": "devpost:30764",
@@ -1395,14 +1429,14 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-26T22:43:28.931530+00:00"
+    "discovered_at": "2026-11-27T04:40:53.438233+00:00"
   },
   {
     "id": "devpost:31787",
     "source": "Devpost",
     "title": "GenHacks",
     "url": "https://genhacks-open.devpost.com/",
-    "description": "Devpost hackathon. about 1 month left",
+    "description": "Devpost hackathon. 30 days left",
     "organizer": "Shail & Sharaf",
     "venue": "Online",
     "mode": "Online",
@@ -1431,7 +1465,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-26T22:43:28.777491+00:00"
+    "discovered_at": "2026-11-27T04:40:53.301930+00:00"
   },
   {
     "id": "devpost:31642",
@@ -1467,7 +1501,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-26T22:43:28.627292+00:00"
+    "discovered_at": "2026-11-27T04:40:53.154157+00:00"
   },
   {
     "id": "devpost:31083",
@@ -1503,7 +1537,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-26T22:43:28.627279+00:00"
+    "discovered_at": "2026-11-27T04:40:53.154141+00:00"
   },
   {
     "id": "devpost:32009",
@@ -1539,7 +1573,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-26T22:43:28.931537+00:00"
+    "discovered_at": "2026-11-27T04:40:53.438244+00:00"
   },
   {
     "id": "devpost:31480",
@@ -1575,7 +1609,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-26T22:43:28.931519+00:00"
+    "discovered_at": "2026-11-27T04:40:53.438194+00:00"
   },
   {
     "id": "devpost:31972",
@@ -1611,7 +1645,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-26T22:43:28.777495+00:00"
+    "discovered_at": "2026-11-27T04:40:53.301935+00:00"
   },
   {
     "id": "devpost:31973",
@@ -1647,7 +1681,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-26T22:43:28.627284+00:00"
+    "discovered_at": "2026-11-27T04:40:53.154147+00:00"
   },
   {
     "id": "devpost:32079",
@@ -1683,7 +1717,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-26T22:43:28.777472+00:00"
+    "discovered_at": "2026-11-27T04:40:53.301904+00:00"
   },
   {
     "id": "devpost:31808",
@@ -1719,7 +1753,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-26T22:43:28.627264+00:00"
+    "discovered_at": "2026-11-27T04:40:53.154123+00:00"
   },
   {
     "id": "devpost:32024",
@@ -1755,7 +1789,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-26T22:43:28.777480+00:00"
+    "discovered_at": "2026-11-27T04:40:53.301909+00:00"
   },
   {
     "id": "devpost:32026",
@@ -1791,7 +1825,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-26T22:43:28.627274+00:00"
+    "discovered_at": "2026-11-27T04:40:53.154136+00:00"
   },
   {
     "id": "devpost:31571",
@@ -1827,7 +1861,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-26T22:43:28.627288+00:00"
+    "discovered_at": "2026-11-27T04:40:53.154152+00:00"
   },
   {
     "id": "devpost:31886",
@@ -1863,7 +1897,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-26T22:43:28.777468+00:00"
+    "discovered_at": "2026-11-27T04:40:53.301898+00:00"
   },
   {
     "id": "devpost:31826",
@@ -1897,7 +1931,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-26T22:43:28.931523+00:00"
+    "discovered_at": "2026-11-27T04:40:53.438223+00:00"
   },
   {
     "id": "hackerearth:groww-next-2026",
@@ -1933,7 +1967,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-26T22:43:29.775723+00:00"
+    "discovered_at": "2026-11-27T04:40:54.242310+00:00"
   },
   {
     "id": "devpost:31796",
@@ -1969,7 +2003,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-26T22:43:28.931527+00:00"
+    "discovered_at": "2026-11-27T04:40:53.438228+00:00"
   },
   {
     "id": "devpost:31789",
@@ -2005,7 +2039,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-26T22:43:28.777487+00:00"
+    "discovered_at": "2026-11-27T04:40:53.301925+00:00"
   },
   {
     "id": "devpost:30789",
@@ -2041,7 +2075,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-26T22:43:28.777447+00:00"
+    "discovered_at": "2026-11-27T04:40:53.301878+00:00"
   },
   {
     "id": "devpost:31907",
@@ -2077,7 +2111,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-26T22:43:28.777483+00:00"
+    "discovered_at": "2026-11-27T04:40:53.301920+00:00"
   },
   {
     "id": "devpost:31572",
@@ -2113,7 +2147,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-26T22:43:28.627257+00:00"
+    "discovered_at": "2026-11-27T04:40:53.154114+00:00"
   },
   {
     "id": "devpost:31667",
@@ -2149,7 +2183,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-26T22:43:28.627232+00:00"
+    "discovered_at": "2026-11-27T04:40:53.154090+00:00"
   },
   {
     "id": "unstop:1818894",
@@ -2188,7 +2222,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-26T22:43:23.987597+00:00"
+    "discovered_at": "2026-11-27T04:40:50.487784+00:00"
   },
   {
     "id": "unstop:1781454",
@@ -2227,7 +2261,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-26T22:43:25.940320+00:00"
+    "discovered_at": "2026-11-27T04:40:50.488153+00:00"
   },
   {
     "id": "unstop:1821984",
@@ -2268,7 +2302,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-26T22:43:23.987225+00:00"
+    "discovered_at": "2026-11-27T04:40:48.533547+00:00"
   },
   {
     "id": "unstop:1822588",
@@ -2307,7 +2341,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-26T22:43:23.987253+00:00"
+    "discovered_at": "2026-11-27T04:40:48.533583+00:00"
   },
   {
     "id": "unstop:1800622",
@@ -2346,7 +2380,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": true,
     "is_active": true,
-    "discovered_at": "2026-11-26T22:43:23.985885+00:00"
+    "discovered_at": "2026-11-27T04:40:48.531636+00:00"
   },
   {
     "id": "unstop:1814036",
@@ -2379,7 +2413,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-26T22:43:21.704517+00:00"
+    "discovered_at": "2026-11-27T04:40:46.515228+00:00"
   },
   {
     "id": "unstop:1821962",
@@ -2412,7 +2446,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-26T22:43:23.987448+00:00"
+    "discovered_at": "2026-11-27T04:40:48.533847+00:00"
   },
   {
     "id": "unstop:1822884",
@@ -2449,7 +2483,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-26T22:43:23.987113+00:00"
+    "discovered_at": "2026-11-27T04:40:48.533408+00:00"
   },
   {
     "id": "unstop:1828497",
@@ -2482,7 +2516,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-26T22:43:21.704001+00:00"
+    "discovered_at": "2026-11-27T04:40:46.514554+00:00"
   },
   {
     "id": "devpost:31108",
@@ -2517,7 +2551,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-26T22:43:28.931534+00:00"
+    "discovered_at": "2026-11-27T04:40:53.438239+00:00"
   },
   {
     "id": "devpost:31644",
@@ -2551,7 +2585,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-26T22:43:28.627269+00:00"
+    "discovered_at": "2026-11-27T04:40:53.154129+00:00"
   },
   {
     "id": "devpost:31773",
@@ -2585,7 +2619,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-26T22:43:28.931497+00:00"
+    "discovered_at": "2026-11-27T04:40:53.438172+00:00"
   },
   {
     "id": "devpost:31795",
@@ -2620,7 +2654,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-26T22:43:28.931544+00:00"
+    "discovered_at": "2026-11-27T04:40:53.438254+00:00"
   },
   {
     "id": "devpost:31682",
@@ -2655,7 +2689,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-26T22:43:28.931541+00:00"
+    "discovered_at": "2026-11-27T04:40:53.438249+00:00"
   },
   {
     "id": "unstop:1823841",
@@ -2688,7 +2722,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-26T22:43:23.986855+00:00"
+    "discovered_at": "2026-11-27T04:40:48.533059+00:00"
   },
   {
     "id": "unstop:1798676",
@@ -2727,7 +2761,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-26T22:43:21.703560+00:00"
+    "discovered_at": "2026-11-27T04:40:46.513867+00:00"
   },
   {
     "id": "unstop:1828382",
@@ -2766,7 +2800,7 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-26T22:43:21.703661+00:00"
+    "discovered_at": "2026-11-27T04:40:46.514061+00:00"
   },
   {
     "id": "unstop:1823379",
@@ -2799,6 +2833,6 @@
     "is_nagpur_local": false,
     "is_maharashtra": false,
     "is_active": true,
-    "discovered_at": "2026-11-26T22:43:23.986926+00:00"
+    "discovered_at": "2026-11-27T04:40:48.533156+00:00"
   }
 ]

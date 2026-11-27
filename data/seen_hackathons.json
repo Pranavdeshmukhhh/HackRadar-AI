@@ -4030,5 +4030,14 @@
     "last_notified": "2026-11-26T22:43:33.460864+00:00",
     "is_nagpur_local": false,
     "solo_allowed": true
+  },
+  "unstop:1828645": {
+    "title": "InteractUp Nexus National Hackathon",
+    "url": "https://unstop.com/hackathons/interactup-nexus-national-hackathon-interactup-1828645",
+    "score": 75,
+    "source": "Unstop",
+    "last_notified": "2026-11-27T04:40:57.021559+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
   }
 }

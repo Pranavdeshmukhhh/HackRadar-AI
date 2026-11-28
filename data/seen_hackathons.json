@@ -4156,5 +4156,14 @@
     "last_notified": "2026-11-27T23:06:49.274074+00:00",
     "is_nagpur_local": false,
     "solo_allowed": false
+  },
+  "unstop:1831784": {
+    "title": "DSA WAR",
+    "url": "https://unstop.com/hackathons/dsa-war-gla-university-glau-uttar-pradesh-1831784",
+    "score": 50,
+    "source": "Unstop",
+    "last_notified": "2026-11-28T05:44:29.734922+00:00",
+    "is_nagpur_local": false,
+    "solo_allowed": true
   }
 }

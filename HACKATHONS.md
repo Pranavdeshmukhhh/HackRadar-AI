@@ -9,7 +9,7 @@
 |:---:|:---:|:---:|:---:|:---:|
 | **85** | **5** | **69** | **72** | **64** |
 
-*Last Updated:* **2026-11-28 04:36 AM IST** (`2026-11-27 23:06 UTC`)
+*Last Updated:* **2026-11-28 11:14 AM IST** (`2026-11-28 05:44 UTC`)
 
 ---
 
@@ -84,10 +84,10 @@
 | **`50`** | [CodeHive Coding Night](https://unstop.com/hackathons/codehive-rivalry-night-code-hive-1830429) | 🌐 Online | ✅ Solo | `2026-11-28T17:01:00+05:30` | Engineering Students, Pos... | Unstop | [Register](https://unstop.com/hackathons/codehive-rivalry-night-code-hive-1830429) |
 | **`50`** | [ELUCode - 9](https://unstop.com/hackathons/elucode-9-edulinkup-1822884) | 🌐 Online | ✅ Solo | `2026-12-06T21:00:31+05:30` | Engineering Students, Pos... | Unstop | [Register](https://unstop.com/hackathons/elucode-9-edulinkup-1822884) |
 | **`50`** | [Snow Code](https://unstop.com/hackathons/snow-code-stampers-1828497) | 🌐 Online | ✅ Solo | `2026-12-11T00:00:00+05:30` | All | Unstop | [Register](https://unstop.com/hackathons/snow-code-stampers-1828497) |
+| **`50`** | [DSA WAR](https://unstop.com/hackathons/dsa-war-gla-university-glau-uttar-pradesh-1831784) | 🌐 Online | ✅ Solo | `2027-01-10T00:00:00+05:30` | All | Unstop | [Register](https://unstop.com/hackathons/dsa-war-gla-university-glau-uttar-pradesh-1831784) |
 | **`50`** | [InnovArt 2027: Art and Technology Hack Day](https://innovart2027.devpost.com/) | 🌐 Online | ✅ Solo | `Aug 23, 2026 - Jan 02, 2027` | Music/Art, Beginner Friendly | Devpost | [Register](https://innovart2027.devpost.com/) |
 | **`50`** | [Reddit’s Game of the Day Hackathon](https://redditgameofday2026.devpost.com/) | 🌐 Online | ✅ Solo | `Nov 11 - Dec 08, 2026` | Beginner Friendly, Gaming | Devpost | [Register](https://redditgameofday2026.devpost.com/) |
 | **`50`** | [LaunchPad Hacks (580k In Prizes!)](https://launchpad-hacks.devpost.com/) | 🌐 Online | ✅ Solo | `Oct 16 - Dec 04, 2026` | Beginner Friendly, Open E... | Devpost | [Register](https://launchpad-hacks.devpost.com/) |
-| **`50`** | [AccessED Hacks](https://accessed-hacks.devpost.com/) | 🌐 Online | ✅ Solo | `Oct 17 - Dec 20, 2026` | Beginner Friendly, Education | Devpost | [Register](https://accessed-hacks.devpost.com/) |
 | **`50`** | [CSC Winter Sparkathon](https://csc-winter-sparkathon.devpost.com/) | 🌐 Online | ✅ Solo | `Oct 29 - Nov 30, 2026` | Beginner Friendly, Open E... | Devpost | [Register](https://csc-winter-sparkathon.devpost.com/) |
 | **`40`** | [Craft N Code (Telangana)](https://unstop.com/hackathons/craft-n-code-telangana-d3-2026-tech-fest-iiit-bhubaneswar-international-institute-of-information-technology-i-1746232) | 🌐 Online | 👥 Team | `2026-11-30T00:00:00+05:30` | Engineering Students, Pos... | Unstop | [Register](https://unstop.com/hackathons/craft-n-code-telangana-d3-2026-tech-fest-iiit-bhubaneswar-international-institute-of-information-technology-i-1746232) |
 | **`40`** | [Craft N Code (Haryana)](https://unstop.com/hackathons/craft-n-code-haryana-d3-2026-tech-fest-iiit-bhubaneswar-international-institute-of-information-technology-iii-1746142) | 🌐 Online | 👥 Team | `2026-11-30T00:00:00+05:30` | Engineering Students, Pos... | Unstop | [Register](https://unstop.com/hackathons/craft-n-code-haryana-d3-2026-tech-fest-iiit-bhubaneswar-international-institute-of-information-technology-iii-1746142) |
@@ -978,7 +978,20 @@
 👉 **[Direct Link to Apply](https://unstop.com/hackathons/snow-code-stampers-1828497)**
 
 ---
-### 68. [InnovArt 2027: Art and Technology Hack Day](https://innovart2027.devpost.com/)
+### 68. [DSA WAR](https://unstop.com/hackathons/dsa-war-gla-university-glau-uttar-pradesh-1831784)
+- **Platform:** `Unstop` | **Priority Score:** `50/100` | **Mode:** `Online`
+- **Venue / Location:** 🌐 Online / Virtual
+- **Participation:** 🟢 Solo Eligible (1 Member)
+- **Registration Deadline:** `2027-01-10T00:00:00+05:30`
+- **Prize Pool:** `Prizes & Certificates`
+- **Tracks:** All
+- **Organizer:** GLA University (GLAU), Uttar Pradesh
+- **Match Factors:** 🌐 **Accessible Online Mode** (+15 pts) • 👤 **Solo Eligible (1 Member)** (+35 pts)
+
+👉 **[Direct Link to Apply](https://unstop.com/hackathons/dsa-war-gla-university-glau-uttar-pradesh-1831784)**
+
+---
+### 69. [InnovArt 2027: Art and Technology Hack Day](https://innovart2027.devpost.com/)
 - **Platform:** `Devpost` | **Priority Score:** `50/100` | **Mode:** `Online`
 - **Venue / Location:** 🌐 Online / Virtual
 - **Participation:** 🟢 Solo Eligible (1 Member)
@@ -991,7 +1004,7 @@
 👉 **[Direct Link to Apply](https://innovart2027.devpost.com/)**
 
 ---
-### 69. [Reddit’s Game of the Day Hackathon](https://redditgameofday2026.devpost.com/)
+### 70. [Reddit’s Game of the Day Hackathon](https://redditgameofday2026.devpost.com/)
 - **Platform:** `Devpost` | **Priority Score:** `50/100` | **Mode:** `Online`
 - **Venue / Location:** 🌐 Online / Virtual
 - **Participation:** 🟢 Solo Eligible (1 Member)
@@ -1004,7 +1017,7 @@
 👉 **[Direct Link to Apply](https://redditgameofday2026.devpost.com/)**
 
 ---
-### 70. [LaunchPad Hacks (580k In Prizes!)](https://launchpad-hacks.devpost.com/)
+### 71. [LaunchPad Hacks (580k In Prizes!)](https://launchpad-hacks.devpost.com/)
 - **Platform:** `Devpost` | **Priority Score:** `50/100` | **Mode:** `Online`
 - **Venue / Location:** 🌐 Online / Virtual
 - **Participation:** 🟢 Solo Eligible (1 Member)
@@ -1015,19 +1028,6 @@
 - **Match Factors:** 🌐 **Accessible Online Mode** (+15 pts) • 👤 **Solo Eligible (1 Member)** (+35 pts)
 
 👉 **[Direct Link to Apply](https://launchpad-hacks.devpost.com/)**
-
----
-### 71. [AccessED Hacks](https://accessed-hacks.devpost.com/)
-- **Platform:** `Devpost` | **Priority Score:** `50/100` | **Mode:** `Online`
-- **Venue / Location:** 🌐 Online / Virtual
-- **Participation:** 🟢 Solo Eligible (1 Member)
-- **Registration Deadline:** `Oct 17 - Dec 20, 2026`
-- **Prize Pool:** `$ 225`
-- **Tracks:** Beginner Friendly, Education, Social Good
-- **Organizer:** AccessEDnpo
-- **Match Factors:** 🌐 **Accessible Online Mode** (+15 pts) • 👤 **Solo Eligible (1 Member)** (+35 pts)
-
-👉 **[Direct Link to Apply](https://accessed-hacks.devpost.com/)**
 
 ---
 ### 72. [CSC Winter Sparkathon](https://csc-winter-sparkathon.devpost.com/)
